@@ -1,4 +1,4 @@
-import os, re
+import os, re, operator
 
 wordList = {}
 allWordsTotal = 0
@@ -19,4 +19,6 @@ for sentence in sentences:
 
 print ("Parsed " + str(allWordsTotal) + " words. With " + str(len(wordList)) + " different words encountered")
 
-print wordList
+sortedWordList = sorted(wordList.items(), key=operator.itemgetter(1))
+
+print sortedWordList
