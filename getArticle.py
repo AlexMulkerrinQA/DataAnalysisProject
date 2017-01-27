@@ -4,6 +4,7 @@ print ("finding article count...")
 startTime = time.clock()
 numArticles = 0
 maxLines = 400
+outFile = open('articleText.txt', 'w')
 with open("../wikiDataset/enwiki-20090810-pages-articles.xml") as inFile:
 	isArticle = False
 	isTextContent = False
@@ -17,7 +18,8 @@ with open("../wikiDataset/enwiki-20090810-pages-articles.xml") as inFile:
 			if line.find("<text") > 0: # note text element has attributes attached
 				isTextContent = True
 			if isTextContent:
-				print line,
+				print ".",
+				outFile.write(line)
 
 		if line.find("</text>") > 0:
 			isTextContent = False
