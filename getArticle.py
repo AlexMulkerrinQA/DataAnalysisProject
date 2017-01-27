@@ -3,16 +3,24 @@ import os, time
 print ("finding article count...")
 startTime = time.clock()
 numArticles = 0
-maxLines = 100
+maxLines = 400
 with open("../wikiDataset/enwiki-20090810-pages-articles.xml") as inFile:
 	isArticle = False
-	for line in inFile:
-#		line = inFile.readline()
+	isTextContent = False
+	for i in range(maxLines):
+		line = inFile.readline()
 		if line.find("</page>") > 0:
 			isArticle = False
+			isTextContent = False
 
-	#	if isArticle:
-	#		print line,
+		if isArticle:
+			if line.find("<text") > 0: # note text element has attributes attached
+				isTextContent = True
+			if isTextContent:
+				print line,
+
+		if line.find("</text>") > 0:
+			isTextContent = False
 
 		if line.find("<page>") > 0:
 			isArticle = True
