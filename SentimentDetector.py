@@ -1,7 +1,5 @@
 #! /usr/bin/env python
-
 # Old code from Natural Language Programming project, won't run without example text files.
-
 import re, random, math, collections, itertools, os
 def readFiles(EmoSentences,sentencesTrain,sentencesTest,emotions,totalEmo):
     filenames = os.listdir("emotions")
@@ -376,7 +374,6 @@ sentencesTrain={}
 sentencesTest={}
 emotions=[]
 pEmotion={}
-# get data from files
 readFiles(allSentences,sentencesTrain,sentencesTest,emotions,pEmotion)
 #create datasets for probabilities indexed by emotion class
 pWordEmotion={} # p(W|Positive)
@@ -393,7 +390,6 @@ trainBayes(sentencesTrain, emotions, pWordEmotion, pWordNotEmotion, pWord)
 print ("Naive Bayes")
 testBayes(sentencesTrain,  "(Train Data)\t", emotions, pWordEmotion, pWordNotEmotion, pWord, pEmotion)
 testBayes(sentencesTest,  "(Test Data)\t",  emotions, pWordEmotion, pWordNotEmotion, pWord, pEmotion)
-
 # find most useful tags and create arff file
 presentFeatures={} # array of features present in each sentence in corpus
 mostUseful(emotions,pWord,pWordEmotion,pWordNotEmotion,20,predictFeatures)
