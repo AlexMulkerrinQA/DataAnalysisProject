@@ -10,28 +10,29 @@ with open("../wikiDataset/enwiki-20090810-pages-articles.xml") as inFile:
 	isRedirect = False
 	isTextContent = False
 	articleTitle = ""
-	
+
 	while numArticles < maxArticles:
 		line = inFile.readline()
 		if line.find("</page>") > 0:
 			isArticle = False
 			isTextContent = False
-			isRedirect = False
 			articleTitle = "none"
-			outFile.close()
+			if not isRedirect:
+				outFile.close()
+			isRedirect = False
+			numArticles += 1
 
 		if isArticle:
-			if line.find("<text") > 0: # note text element has attributes attached
+			if line.find("<text") > 0 and not isTextContent:
 				isTextContent = True
 				if not isRedirect:
 					print articleTitle,
-					numArticles += 1
 					outFile = open('../wikiDataset/articles/' + str(articleTitle) + '.txt', 'w')
 
 			if isTextContent and not isRedirect:
 				text = re.sub("<text[^<]+?>|</text>", '', line)
 				#print text
-				print outFile.write(text)
+				outFile.write(text)
 
 			#check for title
 			if line.find("<title>") > 0:
@@ -43,7 +44,7 @@ with open("../wikiDataset/enwiki-20090810-pages-articles.xml") as inFile:
 
 		if line.find("</text>") > 0:
 			isTextContent = False
-			
+
 
 		if line.find("<page>") > 0:
 			isArticle = True
