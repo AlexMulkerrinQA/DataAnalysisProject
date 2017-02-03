@@ -1,23 +1,38 @@
 import os, re, HTMLParser
 
-inFile = open('articleText.txt','r')
-outFile = open('cleanedText.txt', 'w')
-sentences = re.split(r'\n', inFile.read())
-
+# regexs are confusing... remove single tags and text between ref tag pairs.
+# captures opening wiki markup '[[' (with or without | pipe), closing ']]', single html tags <x />, reference elements <ref x>xxx</ref>
+compiledRegex = re.compile(r"""
+		\[\[(Image|File):[^\[]+\||
+		\[\[Category:[^\]]+\]\]|
+		\[\[[^|^\]]+\||
+		\[\[|
+		\]\]|
+		\'{2,5}|
+		\{\{[^\}]+\}\}|
+		\[[^\]]+\]|
+		<[^>]+/>|
+		<ref.*?>[\s\S]*?</ref>|
+		<!--.*?-->|
+		={1,6}""", re.VERBOSE)
+	
 def unescapeHTML(string):
 	string = string.replace("&lt;", "<")
 	string = string.replace("&gt;", ">")
 	string = string.replace("&quot;", '"')
-	#string = string.replace("&nbsp;", " ") BUG not being replaced?
 	#lastly ampersand
 	string = string.replace("&amp;", "&")
 	return string
 	
-for sentence in sentences:
-	cleanedSentence = unescapeHTML(sentence)
-	outFile.write(cleanedSentence+"\n")
-	#words = re.findall(r"[\w']+", sentence)
-
-outFile.close()
-inFile.close()
+for inFileName in os.listdir('../wikiDataset/articles'):
+	inFile = open('../wikiDataset/articles/' + inFileName, 'r')
+	articleTitle = re.sub('.txt', '', inFileName)
+	outFile = open('articleTexts/' + articleTitle + '.txt', 'w') 
+	
+	articletext = inFile.read()
+	articletext = unescapeHTML(articletext)
+	articletext = compiledRegex.sub("", articletext)
+	outFile.write(articletext)
+	outFile.close()
+	inFile.close()
 
