@@ -1,0 +1,79 @@
+      
+
+International Atomic Time (, from the French name Temps Atomique International) is a high-precision atomic coordinate time standard based on the notional passage of proper time on Earth's geoid.  It is the principal realisation of Terrestrial Time, and the basis for Coordinated Universal Time (UTC) which is used for civil timekeeping all over the Earth's surface. , TAI was exactly 34 seconds ahead of UTC: an initial difference of 10 seconds at the start of 1972, plus 24 leap seconds in UTC since 1972 (the last leap second was added on December 31, 2008).
+
+Time coordinates on the TAI scales are conventionally specified using traditional means of specifying days, carried over from non-uniform time standards based on the rotation of the Earth. Specifically, both Julian Dates and the Gregorian calendar are used.  TAI in this form was synchronised with Universal Time at the beginning of 1958, and the two have drifted apart ever since, due to the changing motion of the Earth.
+
+Operation
+
+TAI as a frequency standard is a weighted average of the time kept by about 300 atomic clocks in over 50 national laboratories worldwide. The clocks are compared using satellites (see ).  Many of these are caesium atomic clocks, which are the standard by which the SI second is defined.  Due to the averaging it is far more stable than any clock would be alone.
+
+The participating institutions each broadcast, in real time (in the present), a frequency signal with time codes, which is their estimate of TAI.  Time codes are usually published in the form of UTC. The better laboratories' signals are mutually synchronised to within less than 10<sup>-7</sup> s, but there are outliers up to 10<sup>-5</sup> s out.  These time scales are denoted in the form TAI(NPL) (UTC(NPL) for the UTC form), where NPL in this case identifies the National Physical Laboratory, UK.  Some laboratories also publish their own atomic time scale, denoted in the form TA(USNO) (USNO identifies the United States Naval Observatory).
+
+The clocks at different institutions are regularly compared against each other.  The International Bureau of Weights and Measures (BIPM) combines these measurements to retrospectively calculate the weighted average that forms the most stable time scale possible.  This combined time scale is published monthly in , and is the canonical TAI.  This time scale is expressed in the form of tables of differences UTC-UTC(x) and TAI-TA(x), for each participating institution x.
+
+Errors in publication may be corrected by issuing a revision of the faulty Circular T or by errata in a subsequent Circular T.  Aside from this, once published in Circular T the TAI scale is not revised.  In hindsight it is possible to discover errors in TAI, and to make better estimates of the true proper time scale.  Doing so does not create another version of TAI; it is instead considered to be creating a better realisation of Terrestrial Time (TT).
+
+History
+
+Atomic timekeeping services started experimentally in 1955, using the first caesium atomic clock at the National Physical Laboratory, UK (NPL).  The first formalised atomic time scale was the A.1 scale defined by USNO in 1959.  A.1 was defined by an epoch at the beginning of 1958: it was set to read Julian Date 2436204.5 (1958-01-01T00:00:00) at the UT2 instant JD 2436204.5 (1958-01-01T00:00:00) as calculated at USNO.  This synchronisation was inevitably imperfect, depending as it did on the astronomical realisation of UT2.  At the time, UT2 as published by various observatories differed by several centiseconds.  A.1 was extrapolated backwards to 1956.
+
+In 1961, the Bureau International de l'Heure (BIH) (later superseded by the BIPM and the IERS) constructed an atomic time scale named AM based on three atomic clocks.  The clocks were compared by listening to radio time signals based on them.  The BIH's time scale was synchronised with A.1's epoch, and extrapolated back to 1955 using time signals from the first caesium clock at NPL.  This time scale was soon renamed from AM to A3.
+
+Also in 1961, UTC began.  UTC is a discontinuous time scale composed from segments that are linear transformations of atomic time, the discontinuities being arranged so that UTC approximates UT1.  This was a compromise arrangement for a broadcast time scale: a linear transformation of the BIH's atomic time meant that the time scale was stable and internationally synchronised, while approximating UT1 means that tasks such as navigation which require a source of Universal Time continue to be well served by public time broadcasts.
+
+In 1967 the SI second was redefined in terms of the frequency supplied by a caesium atomic clock.
+
+More clocks were added to the A3 time scale from 1967, and it was renamed to TA.  Finally in 1971 it was renamed TAI.
+
+In the 1970s, it became clear that the clocks participating in TAI were ticking at different rates due to gravitational time dilation, and the combined TAI scale therefore corresponded to an average of the altitudes of the various clocks.  Starting from Julian Date 2443144.5 (1977-01-01T00:00:00), corrections were applied to the output of all participating clocks, so that TAI would correspond to proper time at mean sea level (the geoid).  Because the clocks had been on average well above sea level, this meant that TAI slowed down, by about 10<sup>-12</sup>.  The former uncorrected time scale continues to be published, under the name EAL (Echelle Atomique Libre, meaning Free Atomic Scale).
+
+The instant that the gravitational correction started to be applied serves as the epoch for Barycentric Coordinate Time (TCB), Geocentric Coordinate Time (TCG), and Terrestrial Time (TT).  All three of these time scales were defined to read JD 2443144.5003725 (1977-01-01T00:00:32.184) exactly at that instant.  (The offset is to provide continuity with the older Ephemeris Time.)  TAI was henceforth a realisation of TT, with the equation TT(TAI)  TAI + 32.184 s.
+
+In the 1990s, annual periodic variations in the rate of some clocks were traced to blackbody radiation that varies with the ambient temperature.  It became clear that a correction for this was required.  Accordingly, in 1997 the BIPM declared that the definition of the SI second referred to a caesium atom at rest and at absolute zero temperature.  Temperature corrections were implemented in TAI from 1995 to 1998, speeding TAI up by about 10<sup>-14.3</sup>.
+
+See also
+
+* Time and frequency transfer
+* Clock synchronization
+* Network Time Protocol (used to disseminate TAI in the form of UTC)
+* Precision Time Protocol, a related though separate technology
+* Magneto-optical trap
+
+ References 
+
+
+External links
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+
+
+
+
+cs:Mezinárodní atomový čas
+de:Internationale Atomzeit
+es:Tiempo atómico
+eo:Tempo atoma internacia
+fr:Temps atomique international
+ko:국제원자시
+id:Waktu Atom Internasional
+it:Tempo atomico internazionale
+he:הזמן האטומי הבינלאומי
+ja:国際原子時
+pl:Międzynarodowy czas atomowy
+pt:Tempo Atômico Internacional
+ro:Timpul atomic internaţional
+ru:Международное атомное время
+sk:Medzinárodný atómový čas
+sl:Mednarodni atomski čas
+sv:Internationell atomtid
+vi:Thời gian Nguyên tử Quốc tế
+zh:原子时

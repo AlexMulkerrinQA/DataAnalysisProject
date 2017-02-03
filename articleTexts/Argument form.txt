@@ -1,0 +1,34 @@
+      In logic, the argument form or test form of an argument results from replacing the different words, or sentences, that make up the argument with letters, along the lines of algebra; the letters represent logical variables. This is of importance since the validity of an argument is determined solely by its form. The sentence forms which classify argument forms of common important arguments are studied in logic.
+
+ Example 
+To demonstrate the important notion of the form of an argument, substitute letters for similar items throughout the sentences in the original argument.
+;Original argument
+:All humans are mortal.
+:Socrates is human.
+:Therefore, Socrates is mortal.
+;Argument Form
+:All S are P.
+:a is S.
+:Therefore, a is P.
+
+All we have done in the Argument form is to put 'S' for 'human' and 'humans', 'P' for 'mortal', and 'a' for 'Socrates'; what results, is the form of the original argument. Moreover, each individual sentence of the Argument form is the sentence form of its respective sentence in the original argument.
+
+Importance
+Attention is given to argument and sentence form, because form is what makes an argument valid or cogent. Some examples of valid argument forms are modus ponens, modus tollens, and the disjunctive syllogism. Two invalid argument forms are affirming the consequent and denying the antecedent.
+
+ References 
+
+
+ See also 
+* Analytic proposition
+* Synthetic proposition
+* logical form
+* List of valid argument forms
+* List of invalid argument forms
+
+
+
+
+
+
+pt:Forma de um argumento

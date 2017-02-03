@@ -1,0 +1,150 @@
+      
+| image  Herring2.jpg
+| image_caption  Atlantic herring
+| regnum  Animalia
+| phylum  Chordata
+| infraphylum  Gnathostomata
+| superclassis  Osteichthyes
+| classis  Actinopterygii
+| classis_authority  Klein, 1885
+| subdivision_ranks  Subclasses
+| subdivision 
+Chondrostei
+Neopterygii}}
+The Actinopterygii (the plural form of Actinopterygius) constitute the class of the ray-finned fishes.
+
+The ray-finned fishes are so called because they possess lepidotrichia or "fin rays", their fins being webs of skin supported by bony or horny spines ("rays"), as opposed to the fleshy, lobed fins that characterize the class Sarcopterygii. These actinopterygian fin rays attach directly to the proximal or basal skeletal elements, the radials, which represent the link or connection between these fins and the internal skeleton (e.g., pelvic and pectoral girdles). 
+
+In terms of numbers, actinopterygians are the dominant class of vertebrates, with nearly 30,000 species, and they are ubiquitous throughout fresh water and marine environments from the deep sea to the highest mountain streams. Extant species can range in size from Paedocypris, at , to the massive Ocean Sunfish, at , and the long-bodied Oarfish, to at least .
+
+Fossil record
+Hypsospondylus fossil 
+The earliest known fossil Actinopterygiian is Andreolepis hedei, dating back 420 million years (Late Silurian). This microvertebrate has been uncovered in Russia, Sweden, and Estonia.
+
+Classification
+Traditionally three grades of actinopterygians have been recognised: the Chondrostei, Holostei, and Teleostei. Some morphological evidence suggests that the second is paraphyletic and should be abandoned; however, recent work based on more complete sampling of fossil taxa, and also an analysis of DNA sequence data from the complete mitochondrial genome, supports its recognition. Nearly all living bony fishes are teleosts.
+
+A listing of the different groups is given below, down to the level of orders, arranged in what has been suggested to represent the evolutionary sequence down to the level of order based primarily on the long history of morphological studies. This classification, like any other taxonomy based on phylogenetic research is in a state of flux. Many of these ordinal and higher-level groupings have not been supported in both the recent morphological and molecular literature. Examples of demonstrably paraphyletic or unnatural groups include the Paracanthopterygii, Scorpaeniformes, and Perciformes. The listing follows FishBase with notes when this differs from Nelson and ITIS.
+
+* Subclass Chondrostei
+** Order Polypteriformes, including the bichirs and reedfishes 
+** Order Acipenseriformes, including the sturgeons and paddlefishes
+* Subclass Neopterygii
+** Infraclass Holostei
+*** Order Lepisosteiformes, the gars
+*** Order Amiiformes, the bowfins
+** Infraclass Teleostei
+*** Superorder Osteoglossomorpha
+**** Order Osteoglossiformes, the bony-tongued fishes
+**** Order Hiodontiformes, including the mooneye and goldeye
+*** Superorder Elopomorpha
+**** Order Elopiformes, including the ladyfishes and tarpon
+**** Order Albuliformes, the bonefishes
+**** Order Notacanthiformes, including the halosaurs and spiny eels
+**** Order Anguilliformes, the true eels and gulpers
+**** Order Saccopharyngiformes, including the gulper eel
+*** Superorder Clupeomorpha
+**** Order Clupeiformes, including herrings and anchovies
+*** Superorder Ostariophysi
+**** Order Gonorynchiformes, including the milkfishes
+**** Order Cypriniformes, including barbs, carp, danios, goldfishes, loaches, minnows, rasboras
+**** Order Characiformes, including characins, pencilfishes, hatchetfishes, piranhas, tetras, dourado / golden (genus Salminus) and  pacu.
+**** Order Gymnotiformes, including electric eels and knifefishes
+**** Order Siluriformes, the catfishes
+*** Superorder Protacanthopterygii
+**** Order Salmoniformes, including salmon and trout
+**** Order Esociformes the pike
+**** Order Osmeriformes, including the smelts and galaxiids
+*** Superorder Stenopterygii
+**** Order Ateleopodiformes, the jellynose fish
+**** Order Stomiiformes, including the bristlemouths and marine hatchetfishes
+*** Superorder Cyclosquamata
+**** Order Aulopiformes, including the Bombay duck and lancetfishes
+*** Superorder Scopelomorpha
+**** Order Myctophiformes, including the lanternfishes
+*** Superorder Lampridiomorpha
+**** Order Lampriformes, including the oarfish, opah and ribbonfishes
+*** Superorder Polymyxiomorpha
+**** Order Polymixiiformes, the beardfishes
+*** Superorder Paracanthopterygii
+**** Order Percopsiformes, including the cavefishes and trout-perches
+**** Order Batrachoidiformes, the toadfishes
+**** Order Lophiiformes, including the anglerfishes
+**** Order Gadiformes, including cods
+**** Order Ophidiiformes, including the pearlfishes
+*** Superorder Acanthopterygii
+**** Order Mugiliformes, the mullets
+**** Order Atheriniformes, including silversides and rainbowfishes
+**** Order Beloniformes, including the flyingfishes
+**** Order Cetomimiformes, the whalefishes
+**** Order Cyprinodontiformes, including livebearers, killifishes
+**** Order Stephanoberyciformes, including the ridgeheads
+**** Order Beryciformes, including the fangtooths and pineconefishes
+**** Order Zeiformes, including the dories
+**** Order Gobiesociformes, the clingfishes
+**** Order Gasterosteiformes including sticklebacks
+**** Order Syngnathiformes, including the seahorses and pipefishes
+**** Order Synbranchiformes, including the swamp eels
+**** Order Tetraodontiformes, including the filefishes and pufferfish
+**** Order Pleuronectiformes, the flatfishes
+**** Order Scorpaeniformes, including scorpionfishes and the sculpins
+**** Order Perciformes 40% of all fish including anabantids, Centrarchids (incl. bass and sunfish), Cichlids, gobies, gouramis, mackerel, tuna, perches, scats, whiting, wrasses
+
+Notes
+
+
+
+
+
+
+
+
+
+af:Actinopterygii
+ar:شعاعيات الزعانف
+bg:Лъчеперки
+ca:Actinopterigi
+cs:Paprskoploutví
+da:Strålefinnede fisk
+de:Strahlenflosser
+et:Kiiruimsed
+es:Actinopterygii
+eo:Aktinopterigoj
+fa:پرتوبالگان
+fr:Actinopterygii
+ga:Actinopterygii
+ko:조기어류
+hr:Zrakoperke
+is:Geisluggar
+it:Actinopterygii
+he:מקריני סנפיר
+ku:Masiyên perikên strîdar
+la:Actinopterygii
+lt:Stipinpelekės žuvys
+lij:Actinopterygii
+hu:Sugarasúszójú halak
+mk:Зракоперки
+nl:Straalvinnigen
+ja:条鰭綱
+no:Strålefinnede fisker
+nn:Strålefinnefisk
+oc:Actinopterygii
+pl:Promieniopłetwe
+pt:Actinopterygii
+rm:Actinopterygii
+qu:Wach'i wayt'ana
+ru:Лучепёрые рыбы
+scn:Actinopterygii
+simple:Actinopterygii
+sk:Lúčoplutvovce
+sl:Žarkoplavutarice
+sr:Зракоперке
+fi:Viuhkaeväiset
+sv:Taggfeniga fiskar
+ta:அக்டினோட்டெரிகீயை
+vi:Lớp Cá vây tia
+to:Ika kaponga tala
+tr:Işınsal yüzgeçliler
+uk:Променепері
+zea:Straelvinnigen
+zh:輻鰭魚

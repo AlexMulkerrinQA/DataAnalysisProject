@@ -1,0 +1,95 @@
+      
+ Database entry includes a brief justification of why this species is of least concern</ref>
+| image  Proteles cristatus1.jpg
+| image_width  300px
+| image_caption  Aardwolf
+| regnum  Animalia
+| phylum  Chordata
+| classis  Mammalia
+| ordo  Carnivora
+| familia  Hyaenidae
+| subfamilia  Protelinae
+| subfamilia_authority  Flower, 1869
+| genus  Proteles
+| genus_authority  I. Geoffroy Saint-Hilaire, 1824  
+| species  P. cristata
+| binomial  Proteles cristata
+| binomial_authority  Sparrman, 1783
+| range_map  Leefgebied aardwolf.JPG
+| range_map_width  300px
+| range_map_caption  Aardwolf range
+}}
+
+The aardwolf (Proteles cristata) is a small, insectivorous hyena-like mammal, native to Eastern and Southern Africa. The name means "earth wolf" in Afrikaans/Dutch. It is also called "maanhaar-jackal" and "protelid". Unlike other hyenas, the diet of the aardwolf almost completely consists of termites, other insect larvae and carrion.
+
+The aardwolf is the only surviving species of the subfamily Protelinae. Two subspecies are recognized: Proteles cristatus cristatus of Southern Africa, and Proteles cristatus septentrionalis of eastern and northeastern Africa. It is usually placed in the Hyaenidae, though formerly separated into a monotypic family, Protelidae. The aardwolf lives in the scrublands of eastern and southern Africa. These are the areas of land covered with stunted trees or shrubs. The aardwolf hides in a burrow during the day and comes out at night to search for food. It is related to hyenas, but unlike its relatives, it does not hunt large prey. This unusual animal is a mass killer-of insects. It feeds mainly on termites and can eat more than 200,000 in a single night, using its long, sticky tongue to collect them.
+
+Physical characteristics
+The aardwolf looks most like the Striped Hyena, but is significantly smaller with a more slender muzzle, sharper ears utilized in the hunt for harvester termites, black vertical stripes on a coat of yellowish fur, and a long, distinct mane down the middle line of the neck and back, which is raised during a confrontation to make the aardwolf's size appear bigger. It is 55&ndash;80 cm long, excluding its bushy 20&ndash;30 cm tail, stands about 40&ndash;50 cm at the shoulder, and weighs between 9 and 14 kg. Its front feet have 5 toes, unlike other hyenas which have four toes. Its teeth and skull are similar to that of the hyena, although the cheek teeth are specialised for eating insects, and its tongue for licking them up. As the aardwolf ages, it will normally lose some of its teeth, though this has little impact on their feeding habits due to the soft nature of the insects they consume. It has two glands at the rear that secrete a musky fluid for marking territory and communicating with other aardwolves.
+
+Distribution and habitat
+The aardwolf lives on open, dry plains and bushland, while avoiding mountainous areas. Due to its specific food requirements, the animal is only found in regions where termites of the family Hodotermitidae occur. Termites of this family depend on dead and withered grass and are most populous in heavily grazed grasslands and savannahs, including farmland. For most of the year, aardwolves spend time in shared territories consisting of up to a dozen dens which are occupied for six weeks at a time. 
+
+There are two distinct populations: one in Southern Africa, and another in East and Northeast Africa. The species does not occur in the intermediary miombo forests.
+
+Behavior
+Aardwolf from the zoo in San Antonio, Texas
+Aardwolves are shy and nocturnal, sleeping in underground burrows by day. They usually use existing burrows of aardvarks, Old World porcupines or springhares, despite being capable of creating their own. By night, an aardwolf can consume up to 200,000 harvester termites using its sticky, long tongue. They take special care not to destroy the termite mound or consume the entire colony, which ensures that the termites can rebuild and provide a continuous supply of food. They will often memorise and return to nests to save the trouble of finding a new one. They are also known to feed on other insects, larvae, and eggs, and occasionally small mammals and birds. Unlike other hyenas, aardwolves do not scavenge or kill larger animals.
+
+The adult aardwolf is primarily solitary while foraging for food, necessary because of the scarcity and homogeneous distribution of their insect prey. They have often been mistaken for solitary animals. In fact, they live as monogamous pairs, with their young, defending the same territory. Young aardwolves generally achieve sexual maturity after two years, and the breeding season varies depending on their location, but normally takes place during the autumn or spring. During the breeding season, unpaired male aardwolves will search their own territory as well as others' for a female to mate with. Dominant males will also mate opportunistically with the females of less dominant neighboring aardwolves. This can often result in conflict between two male aardwolves when one has wandered into another's territory. Gestation lasts between 90 and 110 days, producing one to five cubs (most often two or three) during the rainy season, when termites are active. The first six to eight weeks are spent in the den with the mother. After three months, they begin supervised foraging and by four months are normally independent. However, they will often use the same den as their mother until the next breeding season. They can achieve a lifespan of up to 15 years when in captivity.
+
+Interaction with humans
+The aardwolf has taken advantage of the development of agriculture in the continent. They are often considered useful, non-dangerous animals by farmers. However, in some areas the aardwolf is hunted for its fur. Encounters with dogs are another threat.
+
+<gallery>
+Image:Aardwolf (Harvard University).JPG|Proteles cristatus
+Image:Aardwolf.png|Illustration of Proteles cristatus
+</gallery>
+
+References
+
+
+
+External links
+
+
+* 
+* 
+
+
+
+
+
+
+
+
+
+af:Aardwolf
+ar:ذئب الأرض
+br:Protel
+bg:Земен вълк
+cs:Hyenka hřivnatá
+da:Jordulv
+de:Erdwolf
+es:Proteles cristatus
+eo:Protelo
+fr:Protèle
+ko:땅늑대
+it:Proteles cristatus
+he:צבועון
+ka:მიწის მგელი
+lt:Urvinė hiena
+hu:Cibethiéna
+nl:Aardwolf
+ja:アードウルフ
+no:Jordulv
+pl:Protel
+pt:Lobo-da-terra
+ru:Земляной волк
+scn:Proteles
+si:අ'ආඩ්වුල්ෆ්
+fi:Maasusi
+sv:Jordvarg
+ur:کرم خور لگڑبھگا
+yo:Aardwolf
+zh:土狼

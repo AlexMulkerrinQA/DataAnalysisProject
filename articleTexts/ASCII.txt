@@ -1,0 +1,621 @@
+      
+:Not to be confused with ANSI
+
+ˈæski}} is a character-encoding scheme based on the ordering of the English alphabet. ASCII codes represent text in computers, communications equipment, and other devices that work with text. Most modern character-encoding schemes—which support many more characters than did the original—have a historical basis in ASCII.
+
+US-ASCII is the IANA preferred charset name for ASCII.
+
+Historically, ASCII developed from telegraphic codes. Its first commercial use was as a seven-bit teleprinter code promoted by Bell data services. Work on ASCII formally began October 6, 1960, with the first meeting of the American Standards Association's (ASA) X3.2 subcommittee. The first edition of the standard was published in 1963, a major revision in 1967, and the most recent update in 1986. Compared to earlier telegraph codes, the proposed Bell code and ASCII were both ordered for more convenient sorting (i.e., alphabetization) of lists, and added features for devices other than teleprinters.
+
+ASCII includes definitions for 128 characters: 33 are non-printing control characters (now mostly obsolete) that affect how text is processed; 94 are printable characters, and the space is considered an invisible graphic.
+The most commonly used character encoding on the World Wide Web was US-ASCII until 2008, when it was surpassed by UTF-8.
+
+History
+US ASCII 1968 Code Chart was structured with two columns of control characters, a column with special characters, a column with numbers, and four columns of letters
+The American Standard Code for Information Interchange (ASCII) was developed under the auspices of a committee of the American Standards Association, called the X3 committee, by its X3.2 (later X3L2) subcommittee, and later by that subcommittee's X3.2.4 working group. The ASA became the United States of America Standards Institute or USASI and ultimately the American National Standards Institute.
+
+The X3.2 subcommittee designed ASCII based on earlier teleprinter encoding systems. Like other character encodings, ASCII specifies a correspondence between digital bit patterns and character symbols (i.e. graphemes and control characters). This allows digital devices to communicate with each other and to process, store, and communicate character-oriented information such as written language. Before ASCII was developed, the encodings in use included 26 alphabetic characters, 10 numerical digits, and from 11 to 25 special graphic symbols. To include all these, and control characters compatible with the Comité Consultatif International Téléphonique et Télégraphique standard, Fieldata, and early EBCDIC, more than 64 codes were required in ASCII.
+
+The committee debated the possibility of a shift key function (like the Baudot code), which would allow more than 64 codes to be represented by six bits. In a shifted code, some character codes determine choices between options for the following character codes. It allows compact encoding, but is less reliable for data transmission; an error in transmitting the shift code typically makes a long part of the transmission unreadable. The standards committee decided against shifting, and so ASCII required at least a seven-bit code.
+
+The committee considered an eight-bit code, since eight bits would allow two four-bit patterns to efficiently encode two digits with binary coded decimal. (However it would require all data transmission to send eight bits when seven could suffice.) The committee voted to use a seven-bit code to minimize costs associated with data transmission. Since perforated tape at the time could record eight bits in one position, it also allowed for a parity bit for error checking if desired. Machines with octets as the native data type that did not use parity checking typically set the eighth bit to 0.
+
+The code itself was structured so that most control codes were together, and all graphic codes were together. The first two columns (32 positions) were reserved for control characters. The "space" character had to come before graphics to make sorting algorithms easy, so it became position 0x20. The committee decided it was important to support upper case 64-character alphabets, and chose to structure ASCII so it could easily be reduced to a usable 64-character set of graphic codes. Lower case letters were therefore not interleaved with upper case. To keep options open for lower case letters and other graphics, the special and numeric codes were placed before the letters, and the letter 'A' was placed in position 0x41 to match the draft of the corresponding British standard. The digits 0–9 were placed so they correspond to values in binary prefixed with 011, making conversion with binary-coded decimal straightforward.
+
+Many of the non-alphanumeric characters were positioned to correspond to their shifted position on typewriters. Thus #, $ and % were placed to correspond to 3, 4, and 5 in the adjacent column. The parentheses could not correspond to 9 and 0, however, because the place corresponding to 0 was taken by the space character. Since many European typewriters placed the parentheses with 8 and 9, those corresponding positions were chosen for the parentheses. The @ symbol was not used in continental Europe and the committee expected it would be replaced by an accented À in the French variation, so the @ was placed in position 0x40 next to the letter A.
+
+The control codes felt essential for data transmission were the start of message (SOM), end of address (EOA), end of message (EOM), end of transmission (EOT), "who are you?" (WRU), "are you?" (RU), a reserved device control (DC0), synchronous idle (SYNC), and acknowledge (ACK). These were positioned to maximize the Hamming distance between their bit patterns.
+
+With the other special characters and control codes filled in, ASCII was published as ASA X3.4-1963, leaving 28 code positions without any assigned meaning, reserved for future standardization, and one unassigned control code. It now seems obvious that these positions should have been assigned to the lower case alphabet, but there was some debate at the time whether there should be more control characters instead. The indecision did not last long: in May 1963 the CCITT Working Party on the New Telegraph Alphabet proposed to assign lower case characters to columns 6 and 7, and International Organization for Standardization TC 97 SC 2 voted in October to incorporate the change into its draft standard. The X3.2.4 task group voted its approval for the change to ASCII at its May 1963 meeting.  Locating the lowercase letters in columns 6 and 7 caused the characters to differ in bit pattern from the upper case by a single bit, which simplified case-insensitive character matching and the construction of keyboards and printers.
+
+The X3 committee made other changes, including other new characters (the brace and vertical line characters), renaming some control characters (SOM became start of header (SOH)) and moving or removing others (RU was removed). ASCII was subsequently updated as USASI X3.4-1967, then USASI X3.4-1968, ANSI X3.4-1977, and finally, ANSI X3.4-1986 (the first two are occasionally retronamed ANSI X3.4-1967, and ANSI X3.4-1968).
+
+The X3 committee also addressed how ASCII should be transmitted (least significant bit first), and how it should be recorded on perforated tape. They proposed a 9-track standard for magnetic tape, and attempted to deal with some forms of punched card formats.
+
+ASCII itself first entered commercial use in 1963 as a seven-bit teleprinter code for American Telephone & Telegraph's TWX (Teletype Wide-area eXchange) network. TWX originally used the earlier five-bit Baudot code, which was also used by the competing Telex teleprinter system. Bob Bemer introduced features such as the escape sequence. His British colleague Hugh McGregor Ross helped to popularize this work—according to Bemer, "so much so that the code that was to become ASCII was first called the Bemer-Ross Code in Europe". Because of his extensive work on ASCII, Bemer has been called "the father of ASCII."
+
+
+On March 11, 1968, U.S. President Lyndon B. Johnson mandated that all computers purchased by the United States federal government support ASCII, stating:
+<blockquote>I have also approved recommendations of the Secretary of Commerce regarding standards for recording the Standard Code for Information Interchange on magnetic tapes and paper tapes when they are used in computer operations.
+All computers and related equipment configurations brought into the Federal Government inventory on and after July 1, 1969, must have the capability to use the Standard Code for Information Interchange and the formats prescribed by the magnetic tape and paper tape standards when these media are used.</blockquote>
+
+Other international standards bodies have ratified character encodings such as ISO/IEC 646 that are identical or nearly identical to ASCII, with extensions for characters outside the English alphabet and symbols used outside the United States, such as the symbol for the United Kingdom's pound sterling (£). Almost every country needed an adapted version of ASCII since ASCII only suited the needs of the USA and a few other countries. For example, Canada had its own version that supported French characters. Other adapted encodings include ISCII (India), VISCII (Vietnam), and YUSCII (Yugoslavia). Although these encodings are sometimes referred to as ASCII, true ASCII is strictly defined only by ANSI standard.
+
+ASCII was incorporated into the Unicode character set as the first 128 symbols, so the ASCII characters have the same numeric codes in both sets. This allows UTF-8 to be backward compatible with ASCII, a significant advantage.
+
+ASCII control characters
+
+ASCII reserves the first 32 codes (numbers 0–31 decimal) for control characters: codes originally intended not to carry printable information, but rather to control devices (such as printers) that make use of ASCII, or to provide meta-information about data streams such as those stored on magnetic tape. For example, character 10 represents the "line feed" function (which causes a printer to advance its paper), and character 8 represents "backspace". RFC 2822 refers to control characters that do not include carriage return, line feed or white space as non-whitespace control characters. Except for the control characters that prescribe elementary line-oriented formatting, ASCII does not define any mechanism for describing the structure or appearance of text within a document. Other schemes, such as markup languages, address page and document layout and formatting.
+
+The original ASCII standard used only short descriptive phrases for each control character. The ambiguity this left was sometimes intentional (where a character would be used slightly differently on a terminal link than on a data stream) and sometimes more accidental (such as what "delete" means).
+
+Probably the most influential single device on the interpretation of these characters was the ASR-33 Teletype series, which was a printing terminal with an available paper tape reader/punch option. Paper tape was a very popular medium for long-term program storage up through the 1980s, lower cost and in some ways less fragile than magnetic tape. In particular, the Teletype 33 machine assignments for codes 17 (Control-Q, DC1, also known as XON), 19 (Control-S, DC3, also known as XOFF), and 127 (DELete) became de facto standards. Because the keytop for the O key also showed a left-arrow symbol (from ASCII-1963, which had this character instead of underscore), a noncompliant use of code 15 (Control-O, Shift In) interpreted as "delete previous character" was also adopted by many early timesharing systems but eventually faded out.
+
+The use of Control-S (XOFF, an abbreviation for transmit off) as a handshaking signal warning a sender to stop transmission because of impending overflow, and Control-Q (XON, "transmit on") to resume sending, persists to this day in many systems as a manual output control technique. On some systems Control-S retains its meaning but Control-Q is replaced by a second Control-S to resume output.
+
+Code 127 is officially named "delete" but the Teletype label was "rubout". Since the original standard gave no detailed interpretation for most control codes, interpretations of this code varied. The original Teletype meaning, and the intent of the standard, was to make it an ignored character, the same as NUL (all zeroes). This was specifically useful for paper tape, because punching the all-ones bit pattern on top of an existing mark would obliterate it. Tapes designed to be "hand edited" could even be produced with spaces of extra NULs (blank tape) so that a block of characters could be "rubbed out" and then replacements put into the empty space.
+
+As video terminals began to replace printing ones, the value of the "rubout" character was lost. DEC systems, for example, interpreted "Delete" to mean "remove the character before the cursor," and this interpretation also became common in Unix systems. Most other systems used "Backspace" for that meaning and used "Delete" to mean "remove the character at the cursor". That latter interpretation is the most common today.
+
+Many more of the control codes have taken on meanings quite different from their original ones. The "escape" character (code 27), for example, was originally intended to allow sending other control characters as literals instead of invoking their meaning. This is the same meaning of "escape" encountered in URL encodings, C language strings, and other systems where certain characters have a reserved meaning. Over time this meaning has been co-opted and has eventually drifted. In modern use, an ESC sent to the terminal usually indicates the start of a command sequence, usually in the form of a so-called "ANSI escape code" (or, more properly, a "Control Sequence Introducer") beginning with ESC followed by a "<nowiki>] character used to terminate an operation, as in the TECO and vi text editors.
+
+The inherent ambiguity of many control characters, combined with their historical usage, created problems when transferring "plain text" files between systems. The clearest example of this is the newline problem on various operating systems. On printing terminals there is no question that you terminate a line of text with both "Carriage Return" and "Linefeed". The first returns the printing carriage to the beginning of the line and the second advances to the next line without moving the carriage. However, requiring two characters to mark the end of a line introduced unnecessary complexity and questions as to how to interpret each character when encountered alone. To simplify matters, plain text files on Unix and Amiga systems use line feeds alone to separate lines. Similarly, older Macintosh systems, among others, use only carriage returns in plain text files. Various DEC operating systems used both characters to mark the end of a line, perhaps for compatibility with teletypes. This de facto standard was copied into CP/M and then into MS-DOS and eventually into Microsoft Windows. Transmission of text over the Internet, for protocols as E-mail and the World Wide Web, uses both characters.
+
+The DEC operating systems, along with CP/M, tracked file length only in units of disk blocks and used Control-Z (SUB) to mark the end of the actual text in the file (also done for CP/M compatibility in some cases in MS-DOS, though MS-DOS has always recorded exact file-lengths). Text strings ending with the null character are known as ASCIZ or C strings.
+
+{| class"wikitable" style"text-align: center"
+|-
+! Binary !! Oct !! Dec !! Hex !! Abbr !! PR !! CS !! CEC !! Description
+|-
+|000 0000 ||style"background:lightblue;"| 000 ||style"background:#CFF;"| 0 ||style"background:lightblue;"| 00
+|NUL || <big></big> || ^@ || \0 || alignleft| Null character
+|-
+|000 0001 ||style"background:lightblue;"| 001 ||style"background:#CFF;"| 1 ||style"background:lightblue;"| 01
+|SOH || <big></big> || ^A ||  || alignleft| Start of Header
+|-
+|000 0010 ||style"background:lightblue;"| 002 ||style"background:#CFF;"| 2 ||style"background:lightblue;"| 02
+|STX || <big></big> || ^B ||  || alignleft| Start of Text
+|-
+|000 0011 ||style"background:lightblue;"| 003 ||style"background:#CFF;"| 3 ||style"background:lightblue;"| 03
+|ETX || <big></big> || ^C ||  || alignleft| End of Text
+|-
+|000 0100 ||style"background:lightblue;"| 004 ||style"background:#CFF;"| 4 ||style"background:lightblue;"| 04
+|EOT || <big></big> || ^D ||  || alignleft| End of Transmission
+|-
+|000 0101 ||style"background:lightblue;"| 005 ||style"background:#CFF;"| 5 ||style"background:lightblue;"| 05
+|ENQ || <big></big> || ^E ||  || alignleft| Enquiry
+|-
+|000 0110 ||style"background:lightblue;"| 006 ||style"background:#CFF;"| 6 ||style"background:lightblue;"| 06
+|ACK || <big></big> || ^F ||  || alignleft| Acknowledgment
+|-
+|000 0111 ||style"background:lightblue;"| 007 ||style"background:#CFF;"| 7 ||style"background:lightblue;"| 07
+|BEL
+|<big></big>
+|^G
+| \a
+| alignleft| Bell
+|-
+|000 1000 ||style"background:lightblue;"| 010 ||style"background:#CFF;"| 8 ||style"background:lightblue;"| 08
+|BS
+|<big></big>
+|^H
+| \b
+| alignleft| Backspace
+|-
+|000 1001 ||style"background:lightblue;"| 011 ||style"background:#CFF;"| 9 ||style"background:lightblue;"| 09
+|HT
+|<big></big>
+|^I
+| \t
+| alignleft| Horizontal Tab
+|-
+|000 1010 ||style"background:lightblue;"| 012 ||style"background:#CFF;"| 10 ||style"background:lightblue;"| 0A
+|LF
+|<big></big>
+|^J
+| \n
+| alignleft| Line feed
+|-
+|000 1011 ||style"background:lightblue;"| 013 ||style"background:#CFF;"| 11 ||style"background:lightblue;"| 0B
+|VT
+|<big></big>
+|^K
+| \v
+| alignleft| Vertical Tab
+|-
+|000 1100 ||style"background:lightblue;"| 014 ||style"background:#CFF;"| 12 ||style"background:lightblue;"| 0C
+|FF
+|<big></big>
+|^L
+| \f
+| alignleft| Form feed
+|-
+|000 1101 ||style"background:lightblue;"| 015 ||style"background:#CFF;"| 13 ||style"background:lightblue;"| 0D
+|CR
+|<big></big>
+|^M
+| \r
+| alignleft| Carriage return
+|-
+|000 1110 ||style"background:lightblue;"| 016 ||style"background:#CFF;"| 14 ||style"background:lightblue;"| 0E
+|SO
+|<big></big>
+|^N
+|
+| alignleft| Shift Out
+|-
+|000 1111 ||style"background:lightblue;"| 017 ||style"background:#CFF;"| 15 ||style"background:lightblue;"| 0F
+|SI
+|<big></big>
+|^O
+|
+| alignleft| Shift In
+|-
+|001 0000 ||style"background:lightblue;"| 020 ||style"background:#CFF;"| 16 ||style"background:lightblue;"| 10
+|DLE
+|<big></big>
+|^P
+|
+| alignleft| Data Link Escape
+|-
+|001 0001 ||style"background:lightblue;"| 021 ||style"background:#CFF;"| 17 ||style"background:lightblue;"| 11
+|DC1
+|<big></big>
+|^Q
+|
+| alignleft| Device Control 1 (oft. XON)
+|-
+|001 0010 ||style"background:lightblue;"| 022 ||style"background:#CFF;"| 18 ||style"background:lightblue;"| 12
+|DC2
+|<big></big>
+|^R
+|
+| alignleft| Device Control 2
+|-
+|001 0011 ||style"background:lightblue;"| 023 ||style"background:#CFF;"| 19 ||style"background:lightblue;"| 13
+|DC3
+|<big></big>
+|^S
+|
+| alignleft| Device Control 3 (oft. XOFF)
+|-
+|001 0100 ||style"background:lightblue;"| 024 ||style"background:#CFF;"| 20 ||style"background:lightblue;"| 14
+|DC4
+|<big></big>
+|^T
+|
+| alignleft| Device Control 4
+|-
+|001 0101 ||style"background:lightblue;"| 025 ||style"background:#CFF;"| 21 ||style"background:lightblue;"| 15
+|NAK
+|<big></big>
+|^U
+|
+| alignleft| Negative Acknowledgement
+|-
+|001 0110 ||style"background:lightblue;"| 026 ||style"background:#CFF;"| 22 ||style"background:lightblue;"| 16
+|SYN
+|<big></big>
+|^V
+|
+| alignleft| Synchronous Idle
+|-
+|001 0111 ||style"background:lightblue;"| 027 ||style"background:#CFF;"| 23 ||style"background:lightblue;"| 17
+|ETB
+|<big></big>
+|^W
+|
+| alignleft| End of Trans. Block
+|-
+|001 1000 ||style"background:lightblue;"| 030 ||style"background:#CFF;"| 24 ||style"background:lightblue;"| 18
+|CAN
+|<big></big>
+|^X
+|
+| alignleft| Cancel
+|-
+|001 1001 ||style"background:lightblue;"| 031 ||style"background:#CFF;"| 25 ||style"background:lightblue;"| 19
+|EM
+|<big></big>
+|^Y
+|
+| alignleft| End of Medium
+|-
+|001 1010 ||style"background:lightblue;"| 032 ||style"background:#CFF;"| 26 ||style"background:lightblue;"| 1A
+|SUB
+|<big></big>
+|^Z
+|
+| alignleft| Substitute
+|-
+|001 1011 ||style"background:lightblue;"| 033 ||style"background:#CFF;"| 27 ||style"background:lightblue;"| 1B
+|ESC
+|<big></big>
+|^<nowiki>]
+|-
+|001 1100 ||style"background:lightblue;"| 034 ||style"background:#CFF;"| 28 ||style"background:lightblue;"| 1C
+|FS
+|<big></big>
+|^\
+|
+| alignleft| File Separator
+|-
+|001 1101 ||style"background:lightblue;"| 035 ||style"background:#CFF;"| 29 ||style"background:lightblue;"| 1D
+|GS
+|<big></big>
+|^<nowiki>]</nowiki>
+|
+| alignleft| Group Separator
+|-
+|001 1110 ||style"background:lightblue;"| 036 ||style"background:#CFF;"| 30 ||style"background:lightblue;"| 1E
+|RS
+|<big></big>
+|^^
+|
+| alignleft| Record Separator
+|-
+|001 1111 ||style"background:lightblue;"| 037 ||style"background:#CFF;"| 31 ||style"background:lightblue;"| 1F
+|US
+|<big></big>
+|^_
+|
+| alignleft| Unit Separator
+|-
+|colspan"9"|
+|-
+|111 1111 ||style"background:lightblue;"| 177 ||style"background:#CFF;"| 127 ||style"background:lightblue;"| 7F
+|DEL
+|<big></big>
+|^?
+|
+| alignleft| Delete
+|}
+
+
+ASCII printable characters
+Code 0x20, the "space" character, denotes the space between words, as produced by the space-bar of a keyboard. The "space" character is considered an invisible graphic rather than a control character. Codes 0x21 to 0x7E, known as the printable characters, represent letters, digits, punctuation marks, and a few miscellaneous symbols.
+
+Seven-bit ASCII provided seven "national" characters and, if the combined hardware and software permit, can use overstrikes to simulate some additional international characters: in such a scenario a backspace can precede a grave accent (which the American and British standards, but only those standards, also call "opening single quotation mark"), a backtick, or a breath mark (inverted vel).
+
+{| class"wikitable" style"text-align: center; float:left;"
+|-
+!Binary !! Oct !! Dec !! Hex !! Glyph
+|-
+|010 0000 ||style"background:lightblue;"| 040 ||style"background:#CCFFFF;"| 32 ||style"background:lightblue;"| 20 || 
+|-
+|010 0001 ||style"background:lightblue;"| 041 ||style"background:#CCFFFF;"| 33 ||style"background:lightblue;"| 21 || !
+|-
+|010 0010 ||style"background:lightblue;"| 042 ||style"background:#CCFFFF;"| 34 ||style"background:lightblue;"| 22 || "
+|-
+|010 0011 ||style"background:lightblue;"| 043 ||style"background:#CCFFFF;"| 35 ||style"background:lightblue;"| 23 || #
+|-
+|010 0100 ||style"background:lightblue;"| 044 ||style"background:#CCFFFF;"| 36 ||style"background:lightblue;"| 24 || $
+|-
+|010 0101 ||style"background:lightblue;"| 045 ||style"background:#CCFFFF;"| 37 ||style"background:lightblue;"| 25 || %
+|-
+|010 0110 ||style"background:lightblue;"| 046 ||style"background:#CCFFFF;"| 38 ||style"background:lightblue;"| 26 || &
+|-
+|010 0111 ||style"background:lightblue;"| 047 ||style"background:#CCFFFF;"| 39 ||style"background:lightblue;"| 27 || '
+|-
+|010 1000 ||style"background:lightblue;"| 050 ||style"background:#CCFFFF;"| 40 ||style"background:lightblue;"| 28 || (
+|-
+|010 1001 ||style"background:lightblue;"| 051 ||style"background:#CCFFFF;"| 41 ||style"background:lightblue;"| 29 || )
+|-
+|010 1010 ||style"background:lightblue;"| 052 ||style"background:#CCFFFF;"| 42 ||style"background:lightblue;"| 2A || *
+|-
+|010 1011 ||style"background:lightblue;"| 053 ||style"background:#CCFFFF;"| 43 ||style"background:lightblue;"| 2B || +
+|-
+|010 1100 ||style"background:lightblue;"| 054 ||style"background:#CCFFFF;"| 44 ||style"background:lightblue;"| 2C || ,
+|-
+|010 1101 ||style"background:lightblue;"| 055 ||style"background:#CCFFFF;"| 45 ||style"background:lightblue;"| 2D || -
+|-
+|010 1110 ||style"background:lightblue;"| 056 ||style"background:#CCFFFF;"| 46 ||style"background:lightblue;"| 2E || .
+|-
+|010 1111 ||style"background:lightblue;"| 057 ||style"background:#CCFFFF;"| 47 ||style"background:lightblue;"| 2F || /
+|-
+|011 0000 ||style"background:lightblue;"| 060 ||style"background:#CCFFFF;"| 48 ||style"background:lightblue;"| 30 || 0
+|-
+|011 0001 ||style"background:lightblue;"| 061 ||style"background:#CCFFFF;"| 49 ||style"background:lightblue;"| 31 || 1
+|-
+|011 0010 ||style"background:lightblue;"| 062 ||style"background:#CCFFFF;"| 50 ||style"background:lightblue;"| 32 || 2
+|-
+|011 0011 ||style"background:lightblue;"| 063 ||style"background:#CCFFFF;"| 51 ||style"background:lightblue;"| 33 || 3
+|-
+|011 0100 ||style"background:lightblue;"| 064 ||style"background:#CCFFFF;"| 52 ||style"background:lightblue;"| 34 || 4
+|-
+|011 0101 ||style"background:lightblue;"| 065 ||style"background:#CCFFFF;"| 53 ||style"background:lightblue;"| 35 || 5
+|-
+|011 0110 ||style"background:lightblue;"| 066 ||style"background:#CCFFFF;"| 54 ||style"background:lightblue;"| 36 || 6
+|-
+|011 0111 ||style"background:lightblue;"| 067 ||style"background:#CCFFFF;"| 55 ||style"background:lightblue;"| 37 || 7
+|-
+|011 1000 ||style"background:lightblue;"| 070 ||style"background:#CCFFFF;"| 56 ||style"background:lightblue;"| 38 || 8
+|-
+|011 1001 ||style"background:lightblue;"| 071 ||style"background:#CCFFFF;"| 57 ||style"background:lightblue;"| 39 || 9
+|-
+|011 1010 ||style"background:lightblue;"| 072 ||style"background:#CCFFFF;"| 58 ||style"background:lightblue;"| 3A || :
+|-
+|011 1011 ||style"background:lightblue;"| 073 ||style"background:#CCFFFF;"| 59 ||style"background:lightblue;"| 3B || ;
+|-
+|011 1100 ||style"background:lightblue;"| 074 ||style"background:#CCFFFF;"| 60 ||style"background:lightblue;"| 3C || <
+|-
+|011 1101 ||style"background:lightblue;"| 075 ||style"background:#CCFFFF;"| 61 ||style"background:lightblue;"| 3D || 
+|-
+|011 1110 ||style"background:lightblue;"| 076 ||style"background:#CCFFFF;"| 62 ||style"background:lightblue;"| 3E || >
+|-
+|011 1111 ||style"background:lightblue;"| 077 ||style"background:#CCFFFF;"| 63 ||style"background:lightblue;"| 3F || ?
+|}
+
+{| class"wikitable" style"text-align:center; float:left;"
+|- valign"bottom"
+!Binary !! Oct !! Dec !! Hex !! Glyph
+|-
+|100 0000 ||style"background:lightblue;"| 100 ||style"background:#CCFFFF;"| 64 ||style"background:lightblue;"| 40 || @
+|-
+|100 0001 ||style"background:lightblue;"| 101 ||style"background:#CCFFFF;"| 65 ||style"background:lightblue;"| 41 || A
+|-
+|100 0010 ||style"background:lightblue;"| 102 ||style"background:#CCFFFF;"| 66 ||style"background:lightblue;"| 42 || B
+|-
+|100 0011 ||style"background:lightblue;"| 103 ||style"background:#CCFFFF;"| 67 ||style"background:lightblue;"| 43 || C
+|-
+|100 0100 ||style"background:lightblue;"| 104 ||style"background:#CCFFFF;"| 68 ||style"background:lightblue;"| 44 || D
+|-
+|100 0101 ||style"background:lightblue;"| 105 ||style"background:#CCFFFF;"| 69 ||style"background:lightblue;"| 45 || E
+|-
+|100 0110 ||style"background:lightblue;"| 106 ||style"background:#CCFFFF;"| 70 ||style"background:lightblue;"| 46 || F
+|-
+|100 0111 ||style"background:lightblue;"| 107 ||style"background:#CCFFFF;"| 71 ||style"background:lightblue;"| 47 || G
+|-
+|100 1000 ||style"background:lightblue;"| 110 ||style"background:#CCFFFF;"| 72 ||style"background:lightblue;"| 48 || H
+|-
+|100 1001 ||style"background:lightblue;"| 111 ||style"background:#CCFFFF;"| 73 ||style"background:lightblue;"| 49 || I
+|-
+|100 1010 ||style"background:lightblue;"| 112 ||style"background:#CCFFFF;"| 74 ||style"background:lightblue;"| 4A || J
+|-
+|100 1011 ||style"background:lightblue;"| 113 ||style"background:#CCFFFF;"| 75 ||style"background:lightblue;"| 4B || K
+|-
+|100 1100 ||style"background:lightblue;"| 114 ||style"background:#CCFFFF;"| 76 ||style"background:lightblue;"| 4C || L
+|-
+|100 1101 ||style"background:lightblue;"| 115 ||style"background:#CCFFFF;"| 77 ||style"background:lightblue;"| 4D || M
+|-
+|100 1110 ||style"background:lightblue;"| 116 ||style"background:#CCFFFF;"| 78 ||style"background:lightblue;"| 4E || N
+|-
+|100 1111 ||style"background:lightblue;"| 117 ||style"background:#CCFFFF;"| 79 ||style"background:lightblue;"| 4F || O
+|-
+|101 0000 ||style"background:lightblue;"| 120 ||style"background:#CCFFFF;"| 80 ||style"background:lightblue;"| 50 || P
+|-
+|101 0001 ||style"background:lightblue;"| 121 ||style"background:#CCFFFF;"| 81 ||style"background:lightblue;"| 51 || Q
+|-
+|101 0010 ||style"background:lightblue;"| 122 ||style"background:#CCFFFF;"| 82 ||style"background:lightblue;"| 52 || R
+|-
+|101 0011 ||style"background:lightblue;"| 123 ||style"background:#CCFFFF;"| 83 ||style"background:lightblue;"| 53 || S
+|-
+|101 0100 ||style"background:lightblue;"| 124 ||style"background:#CCFFFF;"| 84 ||style"background:lightblue;"| 54 || T
+|-
+|101 0101 ||style"background:lightblue;"| 125 ||style"background:#CCFFFF;"| 85 ||style"background:lightblue;"| 55 || U
+|-
+|101 0110 ||style"background:lightblue;"| 126 ||style"background:#CCFFFF;"| 86 ||style"background:lightblue;"| 56 || V
+|-
+|101 0111 ||style"background:lightblue;"| 127 ||style"background:#CCFFFF;"| 87 ||style"background:lightblue;"| 57 || W
+|-
+|101 1000 ||style"background:lightblue;"| 130 ||style"background:#CCFFFF;"| 88 ||style"background:lightblue;"| 58 || X
+|-
+|101 1001 ||style"background:lightblue;"| 131 ||style"background:#CCFFFF;"| 89 ||style"background:lightblue;"| 59 || Y
+|-
+|101 1010 ||style"background:lightblue;"| 132 ||style"background:#CCFFFF;"| 90 ||style"background:lightblue;"| 5A || Z
+|-
+|101 1011 ||style"background:lightblue;"| 133 ||style"background:#CCFFFF;"| 91 ||style"background:lightblue;"| 5B || <nowiki>]
+|-
+|101 1100 ||style"background:lightblue;"| 134 ||style"background:#CCFFFF;"| 92 ||style"background:lightblue;"| 5C || \
+|-
+|101 1101 ||style"background:lightblue;"| 135 ||style"background:#CCFFFF;"| 93 ||style"background:lightblue;"| 5D || <nowiki>]</nowiki>
+|-
+|101 1110 ||style"background:lightblue;"| 136 ||style"background:#CCFFFF;"| 94 ||style"background:lightblue;"| 5E || ^
+|-
+|101 1111 ||style"background:lightblue;"| 137 ||style"background:#CCFFFF;"| 95 ||style"background:lightblue;"| 5F || _
+|}
+
+{| class"wikitable" style"text-align:center; float:left;"
+|- valign"bottom"
+!Binary !! Oct !! Dec !! Hex !! Glyph
+|-
+|110 0000 ||style"background:lightblue;"| 140 ||style"background:#CCFFFF;"| 96 ||style"background:lightblue;"| 60 || `
+|-
+|110 0001 ||style"background:lightblue;"| 141 ||style"background:#CCFFFF;"| 97 ||style"background:lightblue;"| 61 || a
+|-
+|110 0010 ||style"background:lightblue;"| 142 ||style"background:#CCFFFF;"| 98 ||style"background:lightblue;"| 62 || b
+|-
+|110 0011 ||style"background:lightblue;"| 143 ||style"background:#CCFFFF;"| 99 ||style"background:lightblue;"| 63 || c
+|-
+|110 0100 ||style"background:lightblue;"| 144 ||style"background:#CCFFFF;"| 100 ||style"background:lightblue;"| 64 || d
+|-
+|110 0101 ||style"background:lightblue;"| 145 ||style"background:#CCFFFF;"| 101 ||style"background:lightblue;"| 65 || e
+|-
+|110 0110 ||style"background:lightblue;"| 146 ||style"background:#CCFFFF;"| 102 ||style"background:lightblue;"| 66 || f
+|-
+|110 0111 ||style"background:lightblue;"| 147 ||style"background:#CCFFFF;"| 103 ||style"background:lightblue;"| 67 || g
+|-
+|110 1000 ||style"background:lightblue;"| 150 ||style"background:#CCFFFF;"| 104 ||style"background:lightblue;"| 68 || h
+|-
+|110 1001 ||style"background:lightblue;"| 151 ||style"background:#CCFFFF;"| 105 ||style"background:lightblue;"| 69 || i
+|-
+|110 1010 ||style"background:lightblue;"| 152 ||style"background:#CCFFFF;"| 106 ||style"background:lightblue;"| 6A || j
+|-
+|110 1011 ||style"background:lightblue;"| 153 ||style"background:#CCFFFF;"| 107 ||style"background:lightblue;"| 6B || k
+|-
+|110 1100 ||style"background:lightblue;"| 154 ||style"background:#CCFFFF;"| 108 ||style"background:lightblue;"| 6C || l
+|-
+|110 1101 ||style"background:lightblue;"| 155 ||style"background:#CCFFFF;"| 109 ||style"background:lightblue;"| 6D || m
+|-
+|110 1110 ||style"background:lightblue;"| 156 ||style"background:#CCFFFF;"| 110 ||style"background:lightblue;"| 6E || n
+|-
+|110 1111 ||style"background:lightblue;"| 157 ||style"background:#CCFFFF;"| 111 ||style"background:lightblue;"| 6F || o
+|-
+|111 0000 ||style"background:lightblue;"| 160 ||style"background:#CCFFFF;"| 112 ||style"background:lightblue;"| 70 || p
+|-
+|111 0001 ||style"background:lightblue;"| 161 ||style"background:#CCFFFF;"| 113 ||style"background:lightblue;"| 71 || q
+|-
+|111 0010 ||style"background:lightblue;"| 162 ||style"background:#CCFFFF;"| 114 ||style"background:lightblue;"| 72 || r
+|-
+|111 0011 ||style"background:lightblue;"| 163 ||style"background:#CCFFFF;"| 115 ||style"background:lightblue;"| 73 || s
+|-
+|111 0100 ||style"background:lightblue;"| 164 ||style"background:#CCFFFF;"| 116 ||style"background:lightblue;"| 74 || t
+|-
+|111 0101 ||style"background:lightblue;"| 165 ||style"background:#CCFFFF;"| 117 ||style"background:lightblue;"| 75 || u
+|-
+|111 0110 ||style"background:lightblue;"| 166 ||style"background:#CCFFFF;"| 118 ||style"background:lightblue;"| 76 || v
+|-
+|111 0111 ||style"background:lightblue;"| 167 ||style"background:#CCFFFF;"| 119 ||style"background:lightblue;"| 77 || w
+|-
+|111 1000 ||style"background:lightblue;"| 170 ||style"background:#CCFFFF;"| 120 ||style"background:lightblue;"| 78 || x
+|-
+|111 1001 ||style"background:lightblue;"| 171 ||style"background:#CCFFFF;"| 121 ||style"background:lightblue;"| 79 || y
+|-
+|111 1010 ||style"background:lightblue;"| 172 ||style"background:#CCFFFF;"| 122 ||style"background:lightblue;"| 7A || z
+|-
+|111 1011 ||style"background:lightblue;"| 173 ||style"background:#CCFFFF;"| 123 ||style"background:lightblue;"| 7B || &#123;
+|-
+|111 1100 ||style"background:lightblue;"| 174 ||style"background:#CCFFFF;"| 124 ||style"background:lightblue;"| 7C || &#124;
+|-
+|111 1101 ||style"background:lightblue;"| 175 ||style"background:#CCFFFF;"| 125 ||style"background:lightblue;"| 7D || &#125;
+|-
+|111 1110 ||style"background:lightblue;"| 176 ||style"background:#CCFFFF;"| 126 ||style"background:lightblue;"| 7E || ~
+|}
+
+
+Aliases
+A June 1992 RFC and the Internet Assigned Numbers Authority registry of character sets recognize the following case-insensitive aliases for ASCII as suitable for use on the Internet:<div style"-moz-column-count:2; column-count:2;">
+* ANSI_X3.4-1968 (canonical name)
+* iso-ir-6
+* ANSI_X3.4-1986
+* ISO_646.irv:1991
+* ASCII (with ASCII-7 and ASCII-8 variants)
+* ISO646-US
+* US-ASCII (preferred MIME name)
+* us
+* IBM367
+* cp367
+* csASCII
+</div>
+
+Of these, the IANA encourages use of the name "US-ASCII" for Internet uses of ASCII. One often finds this in the optional "charset" parameter in the Content-Type header of some MIME messages, in the equivalent "meta" element of some HTML documents, and in the encoding declaration part of the prologue of some XML documents.
+
+Variants
+As computer technology spread throughout the world, different standards bodies and corporations developed many variations of ASCII to facilitate the expression of non-English languages that used Roman-based alphabets. One could class some of these variations as "ASCII extensions", although some misuse that term to cover all variants, including those that do not preserve ASCII's character-map in the 7-bit range.
+
+The PETSCII code Commodore International used for their 8-bit systems is probably unique among post-1970 codes in being based on ASCII-1963, instead of the more common ASCII-1967, such as found on the ZX Spectrum computer. Atari and Galaksija computers also used ASCII variants.
+
+Incompatibility vs interoperability
+From early in its development, ASCII was intended to be just one of several national variants of an international character code standard, ultimately published as ISO/IEC 646 (1972), which would share most characters in common but assign other locally-useful characters to several code points reserved for "national use."  However, the four years that elapsed between the publication of ASCII-1963 and ISO's first acceptance of an international recommendation in 1967 caused ASCII's choices for the national use characters to appear to be de facto standards for the world, leading to confusion and incompatibility once other countries did begin to make their own assignments to these code points.
+
+ISO/IEC 646, like ASCII, was a 7-bit character set. It made no additional codes available, so the same code points encoded different characters in different countries. Escape codes were defined to indicate which national variant applied to a piece of text, but they were rarely used, so it was often impossible to know what variant to work with and therefore which character a code represented, and text-processing systems could generally cope with only one variant anyway.
+
+Because the bracket and brace characters of ASCII were assigned to "national use" code points that were used for accented letters in other national variants of ISO/IEC 646, a German, French, or Swedish, etc., programmer had to get used to reading and writing
+<br><code>ä aÄiÜ'Ön'; ü</code><br>
+instead of<br>
+<code>{ a'\n'; }</code><br>
+C trigraphs were created to solve this issue in ANSI C, although their late introduction and inconsistent implementation in compilers limited their use.
+
+Eventually, as 8-, 16-, and 32-bit computers began to replace 18- and 36-bit computers as the norm, it became common to use an 8-bit byte to store each character in memory, providing an opportunity for extended, 8-bit, relatives of ASCII, with the 128 additional characters providing room to avoid most of the ambiguity that had been necessary in 7-bit codes.
+
+For example, IBM developed 8-bit code pages, such as code page 437, which replaced the control-characters with graphic symbols such as smiley faces, and mapped additional graphic characters to the upper 128 positions. Operating systems such as DOS supported these code-pages, and manufacturers of IBM PCs supported them in hardware.  Digital Equipment Corporation developed the Multinational Character Set (DEC-MCS) for use in the popular VT220 terminal.
+
+Eight-bit standards such as ISO/IEC 8859 (derived from the DEC-MCS) and Mac OS Roman developed as true extensions of ASCII, leaving the original character-mapping intact, but adding additional character definitions after the first 128 (i.e., 7-bit) characters. This enabled representation of characters used in a broader range of languages. Because there were several competing 8-bit code standards, they continued to suffer from incompatibilities and limitations. Still, ISO-8859-1 (Latin 1), its variant Windows-1252 (often mislabeled as ISO-8859-1), and the original 7-bit ASCII remain the most common character encodings in use today.
+
+Unicode
+Unicode and the ISO/IEC 10646 Universal Character Set (UCS) have a much wider array of characters, and their various encoding forms have begun to supplant ISO/IEC 8859 and ASCII rapidly in many environments. While ASCII is limited to 128 characters, Unicode and the UCS support more characters by separating the concepts of unique identification (using natural numbers called code points) and encoding (to 8-, 16- or 32-bit binary formats, called UTF-8, UTF-16 and UTF-32).
+
+To permit backward compatibility, the 128 ASCII and 256 ISO-8859-1 (Latin 1) characters are assigned Unicode/UCS code points that are the same as their codes in the earlier standards. Therefore, ASCII can be considered a 7-bit encoding scheme for a very small subset of Unicode/UCS, and, conversely, the UTF-8 encoding forms are binary-compatible with ASCII for code points below 128, meaning all ASCII is valid UTF-8. The other encoding forms resemble ASCII in how they represent the first 128 characters of Unicode, but use 16 or 32 bits per character, so they require conversion for compatibility. (similarly UCS-2 is upwards compatible with UTF-16)
+
+Order
+Collation of data is sometimes done in ASCII-code order rather than "standard" alphabetical order. The main deviations in ASCII are:
+* capitals come before lowercase letters, i.e. "Z" before "a"
+* characters in extended character sets such as "é" come after "z"
+The slang expression ASCIIbetical is sometimes used for this order. This ordering can be refined by converting uppercase letters to lowercase before comparing ASCII values, or for more sophisticated purposes, applying a collation map to bring accented characters into the correct positions.
+
+See also
+*3568 ASCII, an asteroid named after the character encoding
+*ASCII art
+
+References
+
+
+Further reading
+
+* R.W. Bemer, "A Proposal for Character Code Compatibility," Communications of the ACM, Vol. 3. No. 2, February, 1960, pp. 71–72
+* R.W. Bemer, , May 23, 2003 (from H.J. Smith, Jr., F.A. Williams, "Survey of punched card codes", Communications of the ACM 3, 639 & 642, December 1960)
+* 
+* 
+* 
+
+External links
+*  by Tom Jennings (October 29, 2004) (accessed 2005-12-17)
+*  of Unicode
+* 
+* 
+
+
+
+
+
+
+
+als:ASCII
+ar:آسكي
+ast:ASCII
+bn:অ্যাস্‌কি
+zh-min-nan:ASCII
+bs:ASCII
+bg:ASCII
+ca:ASCII
+cs:ASCII
+da:ASCII
+de:American Standard Code for Information Interchange
+et:Ameerika Informatsioonivahetuse Standardkood
+el:ASCII
+es:ASCII
+eo:Askio
+eu:ASCII
+fa:اسکی (استاندارد)
+fr:American Standard Code for Information Interchange
+ga:ASCII
+gl:ASCII
+ko:미국 정보 교환 표준 부호
+hr:ASCII
+id:ASCII
+ia:ASCII
+it:ASCII
+he:ASCII
+ku:ASCII
+lv:ASCII
+lb:American Standard Code for Information Interchange
+lt:ASCII
+hu:ASCII
+mr:आस्की
+ms:ASCII
+nl:ASCII (tekenset)
+new:एस्की
+ja:ASCII
+no:ASCII
+nn:ASCII
+nds:ASCII
+pl:ASCII
+pt:ASCII
+ksh:ASCII
+ro:ASCII
+ru:ASCII
+sco:ASCII
+sq:ASCII
+simple:ASCII
+sk:ASCII
+sl:ASCII
+sr:ASCII
+fi:ASCII
+sv:ASCII
+kab:ASCII
+th:แอสกี
+tr:ASCII
+uk:ASCII
+ur:امریکی معیاری رمز براۓ اطلاعاتی تبادلہ
+vi:ASCII
+zh:ASCII

@@ -1,0 +1,255 @@
+      
+{| style"float: right; border: 1px solid #ccc; margin: 0.5em 0pt 0.8em 1.4em; padding: 3px !important; width: 75px;"
+! Group&nbsp;→!! 1
+|-
+! ↓&nbsp;Period
+|
+|-
+! 1
+| 
+|-
+! 2
+| 
+|-
+! 3
+| 
+|-
+! 4
+| 
+|-
+! 5
+| 
+|-
+! 6
+| 
+|-
+! 7
+| 
+|}
+
+The alkali metals are a series of chemical elements comprising Group 1 (IUPAC style) of the periodic table: lithium (Li), sodium (Na), potassium (K), rubidium (Rb), caesium (Cs), and francium (Fr). (Hydrogen, although nominally also a member of Group 1, very rarely exhibits behavior comparable to the alkali metals). The alkali metals provide one of the best examples of group trends in properties in the periodic table, with well characterized homologous behavior down the group.
+
+Properties
+
+
+
+The alkali metals are all highly reactive and are never found in elemental form in nature. As a result, in the laboratory they are stored under mineral oil or parafin oil. They also tarnish easily and have low melting points and densities. Potassium and rubidium possess a weak radioactive characteristic due to the presence of long duration radioactive isotopes. 
+
+The alkali metals are silver-colored (caesium has a golden tinge), soft, low-density metals, which react readily with halogens to form ionic salts, and with water to form strongly alkaline (basic) hydroxides. These elements all have one electron in their outermost shell, so the energetically preferred state of achieving a filled electron shell is to lose one electron to form a singly charged positive ion, i.e. cation.
+
+Hydrogen, with a solitary electron, is usually placed at the top of Group 1 of the periodic table, but it is not considered an alkali metal; rather it exists naturally as a diatomic gas. Removal of its single electron requires considerably more energy than removal of the outer electron for the alkali metals.  As in the halogens, only one additional electron is required to fill in the outermost shell of the hydrogen atom, so hydrogen can in some circumstances behave like a halogen, forming the negative hydride ion. Binary compounds of hydride with the alkali metals and some transition metals have been prepared. Under extremely high pressure, such as is found at the core of Jupiter, hydrogen does become metallic and behaves like an alkali metal; see metallic hydrogen.
+
+Alkali metals have the lowest ionization potentials in their respective periods, as removing the single electron from the outermost shell gives them the stable inert gas configuration. Their second ionization potentials are very high, as removing an electron from a species having a noble gas configuration is very difficult.
+
+Series of alkali metals, stored in mineral oil (note "natrium" is sodium.)
+Alkali metals are famous for their vigorous reactions with water, and these reactions become increasingly violent as one moves down the group.  The reaction with water is as follows:
+
+Alkali metal + water → Alkali metal hydroxide + hydrogen gas
+
+With potassium as an example:
+
+:2K (s) + 2H<sub>2</sub>O (l) → 2KOH (aq) + H<sub>2</sub> (g)
+
+Trends
+
+Like other groups, the members of this family show patterns in its electron configuration, especially the outermost shells resulting in trends in chemical behavior:
+
+{| class"wikitable" border"1" cellpadding"3" cellspacing"0"
+|-
+!Z !! Element !! No. of electrons/shell 
+|-
+
+| 1 || Hydrogen || 1
+|- 
+| 3 || Lithium || 2, 1
+|- 
+| 11 || Sodium || 2, 8, 1
+|- 
+| 19 || Potassium || 2, 8, 8, 1
+|- 
+| 37 || Rubidium || 2, 8, 18, 8, 1
+|- 
+| 55 || Caesium || 2, 8, 18, 18, 8, 1
+|- 
+| 87 || Francium || 2, 8, 18, 32, 18, 8, 1
+|}
+
+The alkali metals show a number of trends when moving down the group - for instance,decreasing electronegativity, increasing reactivity, and decreasing melting and boiling point. Density generally increases, with the notable exception of potassium being less dense than sodium, and the possible exception of francium being less dense than caesium.
+
+<table border0 cellpadding2 cellspacing0 width"100%">
+ <tr>
+  <td bgcolor"#CCCCFF">Alkali metal</td>
+  <td bgcolor"#CCCCFF" align"center">Standard Atomic Weight (u)</td>
+  <td bgcolor"#CCCCFF" align"center">Melting Point (K)</td>
+  <td bgcolor"#CCCCFF" align"center">Boiling Point (K)</td>
+  <td bgcolor"#CCCCFF" align"center">Density (g·cm<sup>−3</sup>)</td>
+  <td bgcolor"#CCCCFF" align"center">Electronegativity (Pauling)</td>
+ </tr>
+
+ <tr>
+  <td>Lithium</td>
+  <td align"center">6.941</td>
+  <td align"center">453</td>
+  <td align"center">1615</td>
+  <td align"center">0.534</td>
+  <td align"center">0.98</td>
+ </tr>
+ <tr>
+  <td bgcolor"#EEEEEE">Sodium</td>
+  <td bgcolor"#EEEEEE" align"center">22.990</td>
+  <td bgcolor"#EEEEEE" align"center">370</td>
+  <td bgcolor"#EEEEEE" align"center">1156</td>
+  <td bgcolor"#EEEEEE" align"center">0.968</td>
+  <td bgcolor"#EEEEEE" align"center">0.93</td>
+ </tr>
+ <tr>
+  <td>Potassium</td>
+  <td align"center">39.098</td>
+  <td align"center">336</td>
+  <td align"center">1032</td>
+  <td align"center">0.89</td>
+  <td align"center">0.82</td>
+ </tr>
+ <tr>
+  <td bgcolor"#EEEEEE">Rubidium</td>
+  <td bgcolor"#EEEEEE" align"center">85.468</td>
+  <td bgcolor"#EEEEEE" align"center">312</td>
+  <td bgcolor"#EEEEEE" align"center">961</td>
+  <td bgcolor"#EEEEEE" align"center">1.532</td>
+  <td bgcolor"#EEEEEE" align"center">0.82</td>
+ </tr>
+ <tr>
+  <td>Caesium</td>
+  <td align"center">132.905</td>
+  <td align"center">301</td>
+  <td align"center">944</td>
+  <td align"center">1.93</td>
+  <td align"center">0.79</td>
+ </tr>
+ <tr>
+  <td bgcolor"#EEEEEE">Francium</td>
+  <td bgcolor"#EEEEEE" align"center">(223)</td>
+  <td bgcolor"#EEEEEE" align"center">295</td>
+  <td bgcolor"#EEEEEE" align"center">950</td>
+  <td bgcolor"#EEEEEE" align"center">1.87</td>
+  <td bgcolor"#EEEEEE" align"center">0.70</td>
+ </tr>
+</table>
+
+Occurrence and production
+
+Applications
+
+Reference material
+
+* 
+
+*  
+
+* 
+
+*    
+
+* 
+
+*  
+
+* "Physics Update." Physics Today June 1996: 9. 
+
+* "Visual Elements: Group 1 - The Alkali Metals." <u>Visual Elements.</u> Royal Society of Chemistry. <http://www.chemsoc.org/Viselements/pages/data/intro_groupi_data.html>.
+
+See also
+*Lithium
+*Sodium
+*Potassium
+*Rubidium
+*Caesium
+*Francium
+
+External links
+* A simple look at alkali metals
+* An in-depth look at alkali metals
+
+{|style"text-align: center;" border"1" cellpadding"2" 
+|+ Explanation of above periodic table slice:
+| bgcolor"" | Alkali metals
+| Atomic numbers in <font color""></font> are solids
+| style"border:;" | Solid borders indicate primordial elements (older than the Earth)
+| style"border:;" | Dashed borders indicate natural radioactive elements with no isotopes older than the Earth
+|}
+
+ 
+
+
+
+
+
+
+
+
+
+ar:فلز قلوي
+ast:Alcalín
+bn:ক্ষার ধাতু
+be:Шчолачныя металы
+bs:Alkalni metali
+bg:Група 1А на периодичната система
+ca:Metall alcalí
+cv:Сĕлтĕ металлĕсем
+cs:Alkalický kov
+cy:Metel alcalïaidd
+da:Alkalimetal
+de:Alkalimetalle
+et:Leelismetallid
+el:Αλκάλια
+es:Alcalino
+eo:Alkala metalo
+eu:Metal alkalino
+fa:فلز قلیایی
+fr:Métal alcalin
+gl:Alcalino
+ko:알칼리 금속
+hr:Alkalijski metali
+id:Logam alkali
+is:Alkalímálmur
+it:Metalli alcalini
+he:מתכת אלקלית
+jv:Logam alkali
+sw:Metali alikali
+la:Metallum alkalinum
+lv:Sārmu metāli
+lt:Šarminiai metalai
+lmo:Metai alcalitt
+hu:Alkálifém
+mk:Алкален метал
+ml:ക്ഷാരലോഹങ്ങള്‍
+mr:अल्कली धातू
+ms:Logam alkali
+nl:Alkalimetaal
+ja:第1族元素
+no:Alkalimetall
+nn:Alkalimetall
+nds:Alkalimetall
+pl:Metale alkaliczne
+pt:Alcalino-metálicos
+ksh:Alkalimetall
+ro:Metal alcalin
+qu:Alkali q'illay
+ru:Щелочные металлы
+sah:Алкали метал
+simple:Alkali metal
+sk:Alkalické kovy
+sl:Alkalijska kovina
+sr:Алкални метали
+sh:Alkalni metali
+su:Logam alkali
+fi:Alkalimetalli
+sv:Alkalimetall
+ta:கார மாழைகள்
+te:క్షార లోహము
+th:โลหะแอลคาไล
+tr:Alkali metal
+uk:Лужні метали
+vi:Kim loại kiềm
+zh-yue:鹼金屬
+zh:碱金属

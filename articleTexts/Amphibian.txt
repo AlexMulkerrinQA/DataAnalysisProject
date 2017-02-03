@@ -1,0 +1,212 @@
+      
+
+
+| image  Spea hammondii 1.jpg
+| image_width  200px
+| image_caption  Western Spadefoot Toad, Spea hammondii 
+| regnum  Animalia
+| phylum  Chordata
+| subphylum  Vertebrata
+| superclassis  Tetrapoda
+| classis  Amphibia
+| classis_authority  Linnaeus, 1758
+| subdivision_ranks  Subclasses and Orders
+| subdivision 
+&nbsp;&nbsp; Order Temnospondyli - extinct
+Subclass Lepospondyli - extinct
+Subclass Lissamphibia
+&nbsp;&nbsp; Order Anura
+&nbsp;&nbsp; Order Caudata
+&nbsp;&nbsp; Order Gymnophiona}}
+
+Amphibians (class Amphibia), such as frogs, toads, salamanders, newts, and caecilians, are ectothermic (or cold-blooded) animals that metamorphose from a juvenile water-breathing form, to an adult air-breathing form. Though amphibians typically have four limbs, the Caecilians are notable for being limbless. Unlike other land animals (amniotes), amphibians lay eggs in water. Amphibians are superficially similar to reptiles.
+
+Amphibians are ecological indicators, and in recent decades there has been a dramatic decline in amphibian populations around the globe. Many species are now threatened or extinct.
+
+Amphibians evolved in the Devonian Period and were top predators in the Carboniferous and Permian Periods, but many lineages were wiped out during the Permian-Triassic extinction. One group, the metoposaurs, remained important predators during the Triassic, but as the world became drier during the Early Jurassic they died out, leaving a handful of relict temnospondyls like Koolasuchus and the modern orders of Lissamphibia.
+
+Etymology
+Amphibian is derived from the Ancient Greek term "amphíbios" which means both kinds of life. Amphi referring to "both" and bio referring to life. The term was initially used for all kinds of combined natures. Eventually it was used to refer to animals that live both in the water and on land.
+
+Evolutionary history
+
+The first major groups of amphibians developed in the Devonian Period from fish similar to the modern coelacanth and lungfish where the fins had evolved into legs. These amphibians were around one to five meters long. The land was safe as the giant fish and sharks in the ocean could not come onto land. However, there were two problems with living out their entire lives on land. Primarily, the food that these amphibians consumed was in the water, but also at this point the skin on most of these amphibians was not water-tight.
+
+In the Carboniferous Period, the amphibians moved up in the food chain and began to occupy the ecological position currently occupied by crocodiles. These amphibians were notable for eating the mega insects on land and many types of fishes in the water. During the Triassic Period, the amphibians started competing with proto-crocodiles, which led to their drop in size in the temperate zones, or leaving for the poles. Amphibians were able to hibernate during the winter, whereas crocodiles could not, allowing the amphibians in higher latitudes protection from the reptiles.
+
+Taxonomy
+Traditionally, amphibians have included all tetrapods that are not amniotes.  They are divided into three subclasses, of which two are only known as extinct subclasses: 
+* Subclass Labyrinthodontia (diverse Paleozoic and early Mesozoic group)
+* Subclass Lepospondyli (small Paleozoic group)
+* Subclass Lissamphibia (frogs, toads, salamanders, newts, etc.)
+
+Of these only the last subclass includes recent species.
+
+With the phylogenetic revolution, this classification has been modified, or changed, and the Labyrinthodontia discarded as being a paraphyletic group without unique defining features apart from shared primitive characteristics.  Classification varies according to the preferred phylogeny of the author, whether they use a stem-based or node-based classification. Generally amphibians are defined as the group that includes the common ancestors of all living amphibians (frogs, salamanders, etc) and all their descendants.  This may also include extinct groups like the temnospondyls (traditionally placed in the disbanded subclass "labyrinthodontia"), and the Lepospondyls.  This means that there are a now large number of basal Devonian and Carboniferous tetrapod groups, described as "amphibians" in earlier books, that are no longer placed in the formal Amphibia.
+
+All recent amphibians are included in the subclass Lissamphibia, superorder Salientia, which is usually considered a clade (which means that it is thought that they evolved from a common ancestor apart from other extinct groups), although it has also been suggested also that salamanders arose separately from a temnospondyl-like ancestor.
+
+Authorities also disagree on whether Salientia is a Superorder that includes the order Anura, or whether Anura is a sub-order of the order Salientia. Practical considerations seem to favour using the former arrangement now.
+
+The Lissamphibia, superorder Salientia, are traditionally divided into three orders, but an extinct salamander-like family, the Albanerpetontidae, is now considered part of the Lissamphibia, besides the superorder Salientia. Furthermore, Salientia includes all three recent orders plus a single Triassic proto-frog, Triadobatrachus.
+
+Class Amphibia
+* Subclass Lissamphibia
+*** Family Albanerpetontidae - Jurassic to Miocene (extinct)
+** Superorder Salientia
+*** Genus Triadobatrachus - Triassic (extinct)
+*** Order Anura (frogs and toads): Jurassic to recent - 5,602 recent species in 48 families
+*** Order Caudata or Urodela (salamanders, newts): Jurassic to recent - 571 recent species in 9 families
+*** Order Gymnophiona or Apoda (caecilians): Jurassic to recent - 174 recent species in 3 families
+
+The actual number of species partly also depends on the taxonomic classification followed, the two most common classifications being the classification of the website AmphibiaWeb, University of California (Berkeley) and the classification by herpetologist Darrel Frost and The American Museum of Natural History, available as the online reference database Amphibian Species of the World. The numbers of species cited above follow Frost.
+
+Reproductive system
+Caecilian from the San Antonio zoo
+
+For the purpose of reproduction most amphibians require fresh water. A few (e.g. Fejervarya raja) can inhabit brackish water and even survive (though not thrive) in seawater, but there are no true marine amphibians. Several hundred frog species in adaptive radiations (e.g., Eleutherodactylus, the Pacific Platymantines, the Australo-Papuan microhylids, and many other tropical frogs), however, do not need any water for breeding in the wild. They reproduce via direct development, an ecological and evolutionary adaptation that has allowed them to be completely independent from free-standing water. Almost all of these frogs live in wet tropical rainforests and their eggs hatch directly into miniature versions of the adult, passing through the tadpole stage within the egg. Several species have also adapted to arid and semi-arid environments, but most of them still need water to lay their eggs. Symbiosis with single celled algae that lives in the jelly-like layer of the eggs has evolved several times. The larvae (tadpoles or polliwogs) breathe with exterior gills. After hatching, they start to transform gradually into the adult's appearance. This process is called metamorphosis. Typically, the animals then leave the water and become terrestrial adults, but there are many interesting exceptions to this general way of reproduction.
+
+The most obvious part of the amphibian metamorphosis is the formation of four legs in order to support the body on land. But there are several other changes: 
+
+* The gills are replaced by other respiratory organs, i.e., lungs.
+* The skin changes and develops glands to avoid dehydration.
+* The eyes develop eyelids and adapt to vision outside the water.
+* An eardrum is developed to lock the middle ear.
+* In frogs and toads, the tail disappears.
+
+Conservation
+
+
+The Golden Toad of Monteverde, Costa Rica was among the first casualties of amphibian declines. Formerly abundant, it was last seen in 1989.
+
+Dramatic declines in amphibian populations, including population crashes and mass localized extinction, have been noted in the past two decades from locations all over the world, and amphibian declines are thus perceived as one of the most critical threats to global biodiversity. A number of causes are believed to be involved, including habitat destruction and modification, over-exploitation, pollution, introduced species, climate change, endocrine-disrupting pollutants, destruction of the ozone layer (ultraviolet radiation has shown to be especially damaging to the skin, eyes, and eggs of amphibians), and diseases like chytridiomycosis.  However, many of the causes of amphibian declines are still poorly understood, and are a topic of ongoing discussion. A global strategy to stem the crisis has been released in the form of the Amphibian Conservation Action Plan (available at www.amphibians.org). Developed by over 80 leading experts in the field, this call to action details what would be required to curtail amphibian declines and extinctions over the next 5 years - and how much this would cost. The Amphibian Specialist Group of the World Conservation Union (IUCN) is spearheading efforts to implement a comprehensive global strategy for amphibian conservation.
+
+On January 21, 2008, Evolutionarily Distinct and Globally Endangered (EDGE), per chief Helen Meredith identified nature's most endangered species: "The EDGE amphibians are amongst the most remarkable and unusual species on the planet and yet an alarming 85% of the top 100 are receiving little or no conservation attention." The top 10 endangered species (in the List of endangered animal species) 
+include: the Chinese giant salamander, a distant relative of the newt, the tiny Gardiner's Seychelles, the limbless Sagalla caecilian, South African ghost frogs, lungless Mexican salamanders, the Malagasy rainbow frog, Chile's Darwin frog (Rhinoderma rufum) and the Betic Midwife Toad.
+
+
+
+ See also 
+*Fishapods
+*List of amphibians
+*List of prehistoric amphibians
+*Tetrapod
+
+References
+
+
+ Further reading 
+*
+*
+*
+*
+*
+*Solomon Berg Martin, Biology
+*
+* 776 pages
+
+ External links 
+
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+
+
+
+
+
+
+
+af:Amfibie
+ar:برمائيات
+bn:উভচর প্রাণী
+zh-min-nan:Lióng-chhe-lūi
+bs:Vodozemci
+br:Divelfenneg
+bg:Земноводни
+ca:Amfibi
+cs:Obojživelníci
+cy:Amffibiad
+da:Padde
+de:Amphibien
+et:Kahepaiksed
+el:Αμφίβια
+es:Amphibia
+eo:Amfibioj
+eu:Anfibio
+fa:دوزیستان
+fr:Amphibia
+ga:Amfaibiach
+gv:Daa-veaghagh
+gd:Dà-bheathach
+gl:Anfibio
+ko:양서류
+hr:Vodozemci
+io:Amfibio
+id:Amfibia
+is:Froskdýr
+it:Amphibia
+he:דו-חיים
+jv:Amfibi
+pam:Amphibian
+ka:ამფიბიები
+sw:Amfibia
+la:Amphibia
+lv:Abinieki
+lb:Lurchen
+lt:Varliagyviai
+li:Amfibieë
+jbo:banfi
+hu:Kétéltűek
+mk:Водоземец
+ml:ഉഭയജീവി
+ms:Amfibia
+nl:Amfibieën
+ja:両生類
+no:Amfibier
+nn:Amfibium
+oc:Amphibia
+nds:Amphibien
+pl:Płazy
+pt:Anfíbios
+ro:Amfibian
+rm:Amphibia
+qu:Allpa yaku kawsaq
+ru:Земноводные
+sah:Амфибия
+stq:Amphibien
+scn:Anfibbiu
+simple:Amphibian
+sk:Obojživelníky
+sl:Dvoživke
+sr:Водоземци
+sh:Vodozemac
+su:Ampibi
+fi:Sammakkoeläimet
+sv:Groddjur
+tl:Ampibyan
+ta:நிலநீர் வாழிகள்
+te:ఉభయచరము
+th:สัตว์สะเทินน้ำสะเทินบก
+to:Monumanu nofo ʻuta mo vai
+tr:İki yaşamlılar
+uk:Земноводні
+ur:جل تھلیل
+vi:Động vật lưỡng cư
+wa:Glumiantès biesses
+war:Ampibyan
+zh-yue:兩棲動物
+zea:Amfibieën
+zh:两栖动物

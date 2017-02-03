@@ -1,0 +1,128 @@
+       
+
+In chemistry and physics, the atomic number (also known as the proton number) is the number of protons found in the nucleus of an atom and therefore identical to the charge number of the nucleus. It is conventionally represented by the symbol Z.  The atomic number uniquely identifies a chemical element. In an atom of neutral charge, atomic number is equal to the number of electrons.
+
+The atomic number, Z, should not be confused with the mass number, A, which is the total number of protons and neutrons in the nucleus of an atom.  The number of neutrons, N, is known as the neutron number of the atom; thus, A  Z + N.  Since protons and neutrons have approximately the same mass (and the mass of the electrons is negligible for many purposes), the atomic mass of an atom is roughly equal to A.
+
+Atoms having the same atomic number Z but different neutron number N, and hence different atomic masses, are known as isotopes. Most naturally occurring elements exist as a mixture of isotopes, and the average atomic mass of this mixture determines the element's atomic weight.  The current standard for the atomic mass unit (amu), also termed the dalton (Da) is defined to be exactly  of the mass of a free (unbound) neutral  atom in its ground (lowest-energy) state.
+:1&nbsp;Da &nbsp;.
+
+History
+Loosely speaking, the existence of a periodic table creates an ordering for the elements. Such an ordering is not necessarily a numbering, but can be used to construct a numbering by fiat. 
+Dmitri Mendeleev claimed he arranged his tables in order of atomic weight ("Atomgewicht")<ref name"dm1869"
+> (American Institute of Physics)</ref> However, in deference to the observed chemical properties, he violated his own rule and placed tellurium (atomic weight 127.6) ahead of iodine (atomic weight 126.9).<ref
+> (Chemsoc)</ref>  This placement is consistent with the modern practice of ordering the elements by proton number, Z, but this number was not known or suspected at the time. 
+
+A simple numbering based on periodic table position was never entirely satisfactory. Besides iodine and tellurium, several other pairs of elements (such as cobalt and nickel) were known to have nearly identical or reversed atomic weights, leaving their placement in the periodic table by chemical properties to be in violation of known physical properties. Another problem was that the gradual identification of more and more chemically similar and indistinguishable lanthanides, which were of an uncertain number, led to inconsistency and uncertainty in the numbering of all elements from hafnium onwards.
+
+In 1911 Ernest Rutherford gave a model of the atom in which a central core held most of the atom's mass and a positive charge which, in units of the electron's charge, was to be approximately equal to half of the atom's atomic weight, expressed in numbers of hydrogen atoms. This central charge would thus be approximately the atomic number Z, or place on the periodic table. A month after Rutherford's paper appeared, Antonius Van den Broek first formally suggested that the central charge and number of electrons in an atom was exactly equal to its place in the periodic table (also known as element number, atomic number, and symbolized Z). 
+
+The situation improved dramatically after research by Henry Moseley in 1913. Moseley, after discussions with Bohr who was at the same lab (and who had used Van den Broek's hypothesis in his Bohr model of the atom), decided to test van den Broek and Bohr's hypothesis directly, by seeing if spectral lines emitted from exited atoms fit the Bohr theory's demand that the frequency of the spectral lines be proportional to a measure of the square of Z.
+
+To do this, Moseley measured the wavelengths of the innermost photon transitions (K and L lines) produced by the elements from aluminum (Z13) to gold (Z 79) used as a series of movable anodic targets inside an x-ray tube. The square root of the frequency of these photons (x-rays) increased from one target to the next in a linear fashion. This led to the conclusion (Moseley's law) that the atomic number does closely correspond (with an offset of one unit for K-lines, in Moseley's work) to the calculated electric charge of the nucleus, i.e. the proton number Z.  Among other things, Moseley demonstrated that the lanthanide series (from lanthanum to lutetium inclusive) must have 15 members — no fewer and no more — which was far from obvious from the chemistry at that time.
+
+The conventional symbol Z presumably comes from the German word Atom<u>z</u>ahl (atomic number).
+
+Chemical properties
+Each element has a specific set of chemical properties as a consequence of the number of electrons present in the neutral atom, which is Z. The configuration of these electrons follows from the principles of quantum mechanics. The number of electrons in each element's electron shells, particularly the outermost valence shell, is the primary factor in determining its chemical bonding behavior. Hence it is the atomic number alone that determines the chemical properties of an element; and it is for this reason that an element can be defined as consisting of any mixture of atoms with a given atomic number.
+
+New elements
+The quest for new elements is usually described using atomic number. As of early 2007, elements with atomic numbers 1 to 116 and 118 have been observed. Synthesis of new elements is accomplished by bombarding target atoms of heavy elements with ions, such that the sum of the atomic numbers of the target and ion elements equals the atomic number of the element being created. In general, the half-life becomes shorter as atomic number increases, though an "island of stability" may exist for undiscovered isotopes with certain numbers of protons and neutrons.
+
+See also
+*History of the periodic table
+*Effective atomic number
+*Atomic theory
+*Prout's hypothesis
+
+Notes
+
+
+
+
+
+
+
+
+af:Atoomgetal
+als:Ordnungszahl
+ar:رقم ذري
+an:Lumero atomico
+ast:Númberu atómicu
+bn:পারমাণবিক সংখ্যা
+zh-min-nan:Goân-chú-hoan
+bar:Ordnungszoi
+bs:Atomski broj
+br:Niver atomek
+bg:Атомен номер
+ca:Nombre atòmic
+cs:Atomové číslo
+cy:Rhif Atomig
+da:Atomnummer
+de:Ordnungszahl
+et:Aatomnumber
+el:Ατομικός αριθμός
+es:Número atómico
+eo:Atomnumero
+eu:Zenbaki atomiko
+fa:عدد اتمی
+fr:Numéro atomique
+fy:Atoomnûmer
+fur:Numar atomic
+ga:Uimhir adamhach
+gl:Número atómico
+ko:원자 번호
+hi:परमाणु क्रमांक
+hr:Atomski broj
+io:Atomala nombro
+id:Nomor atom
+is:Sætistala
+it:Numero atomico
+he:מספר אטומי
+jv:Nomer atom
+ka:ატომური ნომერი
+sw:Namba atomia
+ku:Hijmara atomî
+la:Numerus atomicus
+lv:Atomskaitlis
+lb:Uerdnungszuel
+lt:Atomo numeris
+li:Atoomnómmer
+lmo:Nümer atòmich
+hu:Rendszám (kémia)
+mk:Атомски број
+ml:അണുസംഖ്യ
+mr:अणुक्रमांक
+ms:Nombor atom
+mn:Атомын дугаар
+nl:Atoomnummer
+ja:原子番号
+no:Atomnummer
+nn:Atomnummer
+uz:Atom raqami
+nds:Atomtall
+pl:Liczba atomowa
+pt:Número atómico
+ro:Număr atomic
+qu:Iñuku ñiqi
+ru:Зарядовое число
+sq:Numri atomik
+scn:Nùmmuru atòmicu
+simple:Atomic number
+sk:Protónové číslo
+sl:Vrstno število
+sr:Атомски број
+sh:Atomski broj
+su:Nomer atom
+fi:Järjestysluku (kemia)
+sv:Atomnummer
+ta:அணு எண்
+th:เลขอะตอม
+tr:Atom numarası
+uk:Атомний номер
+ur:جوہری نمبر
+vec:Numero atomego
+vi:Số nguyên tử
+yi:אטאם נומער
+zh-yue:原子序數
+zh:原子序数

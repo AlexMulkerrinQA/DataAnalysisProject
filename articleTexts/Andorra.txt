@@ -1,0 +1,447 @@
+      
+
+ 
+|conventional_long_name  Principality of Andorra 
+|common_name  Andorra
+|image_flag  Flag of Andorra.svg
+|image_coat  Coat of arms of Andorra.svg
+|symbol_type  Coat of arms
+|image_map  Location Andorra Europe.png
+|map_caption  
+|national_motto  <small>(Latin)"Strength United is Stronger"</small>
+|national_anthem  <small>(Catalan)The Great Charlemagne, my Father</small>
+|official_languages  Catalan 
+|capital  Andorra la Vella
+|latd42 |latm30 |latNSN |longd1 |longm31 |longEWE
+|largest_city  capital
+|government_type  Parliamentary democracy and Co-principality
+|leader_title1  Co-Princes
+|leader_name1  Joan Enric Vives Sicília<br>Nicolas Sarkozy
+|leader_title2  Representatives
+|leader_name2  Nemesi Marqués Oste<br>Christian Frémont
+|leader_title3  Head of Government
+|leader_name3  Jaume Bartumeu (PS)
+|sovereignty_type  Independence
+|established_event1  Paréage
+|established_date1  1278
+|accessionEUdate 
+|area_km2  468
+|area_sq_mi  181 
+|area_rank  191st
+|area_magnitude  1 E8
+|percent_water  0
+|population_estimate  84,484
+|population_estimate_year  2008
+|population_estimate_rank  194th
+|population_census  69,150
+|population_census_year  2006
+|population_density_km2  180.5
+|population_density_sq_mi  466.8 
+|population_density_rank  69th
+|GDP_PPP_year  2005
+|GDP_PPP  $3.77 billion 
+|GDP_PPP_rank  177th
+|GDP_PPP_per_capita  $38,800 
+|GDP_PPP_per_capita_rank  unranked
+|HDI_year  2003
+|HDI 
+|HDI_rank  n/a
+|HDI_category  <span style"color:gray;">unranked</span>
+|currency  Euro (€)
+|currency_code  EUR
+|time_zone  CET
+|utc_offset  +1
+|time_zone_DST  CEST
+|utc_offset_DST  +2
+|demonym  Andorran
+|drives_on  right
+|cctld  .ad
+|calling_code  +376
+|footnote1  Before 1999, the French franc and Spanish peseta. Small amounts of Andorran diners (divided into 100 centim) were minted after 1982.
+|footnote2  Also .cat, shared with Catalan-speaking territories.
+}}
+
+Andorra , officially the Principality of Andorra (), also called the Principality of the Valleys of Andorra, is a small landlocked country in southwestern Europe, located in the eastern Pyrenees mountains and bordered by Spain and France. Its size is approximately  with an estimated population of 84,484 in 2008. Its capital is Andorra la Vella. It is a prosperous country mainly because of tourism and its status as a tax haven. The people of Andorra have the highest human life expectancy in the world, at an average of 85 years at birth. Andorra is the sixth smallest nation in Europe. 
+
+
+ History 
+
+Tradition holds that Charles the Great (Charlemagne) granted a charter to the Andorran people in return for fighting against the Moors. Overlordship of the territory was of the local count of Urgell and eventually to the bishop of the diocese of Urgell. In 988 Borrell II count of Urgell gave the Andorran valleys to the Diocese of Urgell when the count expanded to the south. Since then the Bishop of Urgell, locally known as the bishop of the Seu d'Urgell, has owned Andorra.
+
+Andorra did not have any type of protection and the Bishop of Urgell, who knew that the Count of Urgell wanted to reclaim the Andorran valleys, decided to ask for help and protection from the Lord of Caboet. In 1095, the Lord of Caboet and the Bishop of la Seu d'Urgell signed under oath the recognition of their sovereignty over Andorra. Arnalda, daughter of Arnau of Caboet, married the Viscount of Castellbò and both became Viscounts of Castellbò and Cerdanya. Years later their daughter, Ermessenda, married Roger Bernat II of the French Count of Foix. They became Roger Bernat II and Ermessenda I               Counts of Foix, Viscounts of Castellbò and Cerdanya and also sovereigns of Andorra (shared with the Bishop of Urgell).
+
+In the eleventh century a dispute arose between the bishop of la Seu d'Urgell and Count of Foix. The conflict was resolved in 1278 by the signing of the first paréage, with the mediation of Aragon, which provided that Andorra's sovereignty be shared between the count of Foix (whose title would ultimately transfer to the French head of state) and the bishop of Urgell, in Catalonia. This gave the small principality its territory and political form.
+
+Over the years the title passed to the kings of Navarre. After Henry of Navarre became King Henry IV of France he issued an edict (1607) that established the head of the French state and the Bishop of Urgell as co-princes of Andorra. In 1812–13, the First French Empire annexed Catalonia and divided it in four départements. Andorra was also annexed and made part of the district of Puigcerdà (département of Sègre).
+
+Andorra declared war on Imperial Germany during World War I, but did not actually take part in the fighting. It remained in an official state of belligerency until 1957 as it was not included in the Treaty of Versailles. 
+
+In 1933 France occupied Andorra as a result of social unrest before elections. On July 12, 1934, adventurer Boris Skossyreff issued a proclamation in Urgell, declaring himself Boris I, sovereign prince of Andorra, simultaneously declaring war on the bishop of Urgell. He was arrested by Spanish authorities on July 20 and ultimately expelled from Spain. From 1936 to 1940, a French detachment was garrisoned in Andorra to prevent influences of the Spanish Civil War and Franco's Spain. Francoist troops reached the Andorran border in the later stages of the war. During World War II, Andorra remained neutral and was an important smuggling route between Vichy France and Spain.
+
+Given its relative isolation, Andorra has existed outside the mainstream of European history, with few ties to countries other than France and Spain. In recent times, however, its thriving tourist industry along with developments in transportation and communications have removed the country from its isolation. Its political system was thoroughly modernized in 1993, the year in which it became a member of the United Nations and the Council of Europe. 
+
+Politics of Andorra}}
+Andorra is a parliamentary co-principality with the President of France and the Bishop of Urgell (Catalonia), Spain, as co-princes, in a duumvirate. The politics of Andorra take place in a framework of a parliamentary representative democracy, whereby the Prime Minister of Andorra is the head of government, and of a pluriform multi-party system. 
+
+The current Prime Minister is Jaume Bartumeu of the Social Democratic Party (PS). Executive power is exercised by the government. Legislative power is vested in both the government and parliament. 
+
+The Parliament of Andorra is known as the General Council. The General Council consists of between 28 and 42 Councilors, as the members of the legislative branch are called. The Councilors serve for four-year terms and elections are held within the thirtieth and fortieth days following the dissolution of the previous Council. The Councilors can be elected on two equal constituencies. Half are elected in equal number from each of the seven administrative parishes and the other half of the Councilors are elected from a single national constituency. Fifteen days following the election, the Councilors convene in their inauguration. During this session, the Syndic General, who is the head of the General Council, and the Subsyndic General, his assistant, are elected. Eight days later, the Council convenes once more. During this session the Head of Government, the Prime Minister of Andorra, is chosen from among the Councilors. 
+
+Candidates for nomination can be proposed by a minimum of one-fifth of the Councilors. The Council then elects the candidate with the absolute majority of votes to be Head of Government. The Syndic General then notifies the Coprinces who in turn appoint the elected candidate as the Prime Minister of Andorra. The General Council also is responsible for proposing and passing laws. Bills may be presented to the Council as Private Members' Bills by three of the Local Parish Councils jointly or one tenth of the citizens of Andorra. 
+
+The Council also approves the annual budget of the principality. The government must submit the proposed budget for parliamentary approval at least two months before the current budget expires. If the budget is not approved by the first day of the next year, the previous budget is extended until a new one is approved. Once any bill is approved, the Syndic General is responsible for presenting it to the Coprinces so that they may sign and enact it. 
+
+If the Head of Government is not satisfied with the Council, he may request that the Coprinces dissolve the Council and order new elections. In turn, the Councilors have the power to remove the Head of Government from office. After a motion of censure is approved by at least one-fifth of the Councilors, the Council will vote and if it receives the absolute majority of votes, the Prime Minister is removed.  
+
+Law and criminal justice
+The judiciary is composed of the Magistrates Court, the Criminal Law Court, the High Court of Andorra, and the Constitutional Court. The High Court of Justice is composed of five judges: one appointed by the Head of Government, one each by the Coprinces, one by the Syndic General, and one by the Judges and Magistrates. It is presided over by the member appointed by the Syndic General and the judges hold office for six-year terms. The Magistrates and Judges are appointed by the High Court and so is the President of the Criminal Law Court. The High Court also appoints members of the Office of the Attorney General. The Constitutional Court is responsible for interpreting the Constitution and reviewing all appeals  of unconstitutionality against laws and treaties. The Court is composed of four judges, one appointed by each of the Coprinces and two by the General Council. They serve eight-year terms. The Court is presided over by one of the Judges on a two year rotation so that each judge at one point will be the leader of the Court.
+
+Foreign relations and defence
+
+Responsibility for defending Andorra rests with Spain and France.
+
+ Geography 
+
+
+<imagemap>
+Image:Andorramap.png|thumb|250px|Map of Andorra with its seven parishes labeled (enlarge map)
+rect 34 350 121 404 Andorra la Vella
+rect 443 148 519 172 Canillo
+rect 437 363 520 389 Encamp
+rect 352 443 464 498 Escaldes-Engordany
+rect 36 223 155 247 La Massana
+rect 284 78 354 103 Ordino
+rect 208 567 304 618 Sant Julià de Lòria
+rect 651 54 745 83 France
+rect 484 583 560 619 Spain
+</imagemap>
+
+ Parishes 
+
+Andorra consists of seven parishes:
+* Andorra la Vella
+* Canillo
+* Encamp
+* Escaldes-Engordany
+* La Massana
+* Ordino
+* Sant Julià de Lòria
+
+Physical geography
+Topographic map of Andorra
+Scenery of the Andorran mountains
+Escaldes-Engordany with Caldea spa (center)
+Due to its location in the eastern Pyrenees mountain range, Andorra consists predominantly of rugged mountains of an average height of  with the highest being the Coma Pedrosa at . These are dissected by three narrow valleys in a Y shape that combine into one as the main stream, the Valira river, leaves the country for Spain (at Andorra's lowest point of ). Andorra's surface area is .
+
+Phytogeographically, Andorra belongs to the Atlantic European province of the Circumboreal Region within the Boreal Kingdom. According to the WWF, the territory of Andorra belongs to the ecoregion of Pyrenees conifer and mixed forests.
+
+Climate
+Andorra has a temperate climate similar to that of its neighbours, but its higher altitude means there is, on average, more snow in winter, lower humidity, and it is slightly cooler in summer. There are, on average, 300&nbsp;days per year of sunshine.
+
+Economy
+
+Casa de la Vall, Andorran Parliament
+Tourism, the mainstay of Andorra's tiny, well-to-do economy, accounts for roughly 80% of GDP. An estimated 9 million tourists visit annually, attracted by Andorra's duty-free status and by its summer and winter resorts. Andorra's comparative advantage has recently eroded as the economies of adjoining France and Spain have been opened up, providing broader availability of goods and lower tariffs.
+
+The banking sector, with its tax haven status, also contributes substantially to the economy. Agricultural production is limited&mdash;only 2% of the land is arable&mdash;and most food has to be imported. Some tobacco is grown locally. The principal livestock activity is domestic sheep raising. Manufacturing output consists mainly of cigarettes, cigars, and furniture. Andorra's natural resources include hydroelectric power, mineral water, timber, iron ore, and lead.
+
+Andorra is not a member of the European Union, but enjoys a special relationship with it, such as being treated as an EU member for trade in manufactured goods (no tariffs) and as a non-EU member for agricultural products. Andorra lacks a currency of its own and uses that of its two surrounding nations. Prior to 2002 these were the French franc and the Spanish peseta, which have since been both replaced by the EU's single currency, the euro. Andorra is negotiating to issue its own euro coins.
+
+ Demography 
+
+Population
+The population of Andorra is estimated to be 83,888 (July 2009). The population has grown from 5,000 in 1900, and reached a peak of 84,484 (estimated) in July 2008.
+
+Andorrans who are ethnically Catalans are a minority in their own country (31,363),; Spaniards (27,300), Portuguese (13,794), French (5,213), Britons (1,085)  and Italians make up 67.7% of Andorra's population.
+
+ Languages 
+
+The national language is Catalan, a Romance language. Most Andorrans also speak Spanish, French or both. Andorra is one of only four European countries (together with France, Monaco, and Turkey) that have never signed the Council of Europe Framework Convention on National Minorities.
+
+Religion
+The population of Andorra is predominantly Roman Catholic. Their patron saint is Our Lady of Meritxell.
+
+Education
+Education law requires school attendance for children up to age 16. A system of French, Spanish and Andorran lay schools provide education up to the secondary level. Schools are built and maintained by Andorran authorities, but teachers are paid for the most part by France or Spain. About 50% of Andorran children attend the French primary schools, and the rest attend Spanish or Andorran schools. In July 1997, the Andorran Government passed a law on universities and shortly afterward, the University of Andorra was established. Neither the geographically complex country nor the number of students makes it possible for the University of Andorra to develop a full academic program, and it serves principally as a center for virtual studies, connected to Spanish and French universities. The only two graduate schools in Andorra are the Nursing School and the School of Computer Science.
+
+Healthcare
+Healthcare in Andorra is provided to all employed persons and their families by the government-run social security system, CASS (Caixa Andorrana de Seguretat Social), which is funded by employer and employee contributions in respect of salaries. The cost of healthcare is covered by CASS at rates of 75% for out-patient expenses such as medicines and hospital visits, 90% for hospitalisation, and 100% for work-related accidents. The remainder of the costs may be covered by private health insurance. Other residents and tourists require full private health insurance.
+
+The main hospital, Meritxell, is in Escaldes-Engordany. It is a modern hospital with services that include 24-hour accident and emergency, anatomy, angiology, pathology, anesthesiology, clinical cardiology, clinical biochemistry, clinical neurology, dermatology, endocrinology, gastroenterology, genetics, geriatrics, hematology, immunology, intensive care, internal medicine, medical oncology, microbiology, nephrology and dialysis, neurophysiology, obstetrics and gynecology, oncology, ophthalmology, otorhinolaringology, orthopedics, pediatrics, physiotherapy, neonatology, plastic surgery, general surgery, oral and maxillofacial surgery, neurosurgery, pediatric surgery, thoracic surgery, trauma surgery, cardiovascular surgery, parasitology, psychiatry, radiodiagnostics, radiotherapy, urology, and venerealogy.
+
+There are also 12 primary health care centres in various locations around the Principality.
+
+Religion
+
+The Constitution provides for freedom of religion, and the Government generally respected this right in practice. There is no state religion; however, the Constitution acknowledges a special relationship with the Roman Catholic Church, which receives some privileges, although no direct subsidies, not available to other religious groups. There were no reports of societal abuses or discrimination based on religious belief or practice.
+
+Religious demography
+
+
+The country has an area of  and a population of 81,200 (December 2006 figure). Few official statistics are available on religion; traditionally, approximately 90 % of the population is Catholic. The population consists largely of immigrants from Spain, Portugal, and France, with full citizens representing less than 36 % of the total. The immigrants are also generally Catholic. It is estimated that, of the Catholic population, half are active church attendees. Other Christian groups include the New Apostolic Church; the Church of Jesus Christ of Latter-day Saints (Mormons); several Protestant denominations, including the Anglican Church; the Reunification Church; and Jehovah's Witnesses. Other religious groups include Jews, Muslims (primarily two thousand North African immigrants divided into two groups, one more fundamentalist) and Hindus. An estimated one hundred Jews live in the country.
+
+Foreign missionaries are active and operate without restriction.
+
+Status of religious freedom
+Legal and policy framework
+The Constitution acknowledges a special relationship with the Catholic Church "in accordance with Andorran tradition" and recognizes the "full legal capacity" of the bodies of the Catholic Church, granting them legal status "in accordance with their own rules." One of the two constitutionally designated princes of the country (who serves equally as joint head of state with the president of France) is Bishop Joan Enric Vives i Sicilia of the Spanish town of La Seu d'Urgell.
+
+The Catholic religious celebration on September 8 of the Verge de Meritxell (Virgin of Meritxell) is a national holiday.
+
+There is no law that clearly requires legal registration and approval of religious groups and religious worship. The law of associations is very general and does not mention specifically religious organizations. A consolidated register of associations records all types of associations, including religious groups. Registration is not compulsory; however, groups must register or reregister in order to be considered for the support that the Government provides to nongovernmental organizations. For example, the Government provides support to Caritas, Andorran Migrant Women's Association (ADMA), and the Andorran Women's Associations (ADA). To register or reregister, groups must provide the association statutes, the foundation agreement, a statement certifying the names of persons appointed to official or board positions in the organization, and a patrimony declaration that identifies the inheritance or endowment of the organization. There were no reports of rejected applications.
+
+The authorities reportedly expressed concern that some methods used by religious organizations (brainwashing or physical abuse, for example) might prove injurious to public health, safety, morals, or order. These authorities questioned how they might proceed in such cases but did not mention a specific case. The law does not limit any such groups, although it does contain a provision that no one may be "forced to join or remain in an association against his/her will."
+
+In spite of negotiations for some years between the Muslim community and the Government, no mosque was built. Nevertheless, the country's 2,000 Muslims have "prayer spaces" and there appear to be no restrictions on the number of these places of worship scattered throughout the country.
+
+Instruction in the tenets of the Catholic faith is available in public schools on an optional basis, outside of both regular school hours and the time frame set aside for elective school activities, such as civics or ethics. The Catholic Church provides teachers for religion classes, and the Government pays their salaries. The Islamic Cultural Center provided approximately 50 students with Arabic lessons. The Government and the Moroccan community had not yet agreed upon a system that would allow children to receive Arabic classes in school outside of the regular school day. The Government was willing to offer Arabic classes, but the Muslim community had not been able to find an imam to teach. The Ombudsman received no complaints from the Muslim community on this issue.
+
+On occasion the Government made public facilities available to various religious organizations for religious activities.
+
+Government policy and practice contributed to the generally free practice of religion. There were no reports of religious prisoners or detainees in the country. There were no reports of forced religious conversion.
+
+Societal abuses and discrimination
+There were few reports of societal abuses or discrimination based on religious belief or practice. Societal attitudes among religious groups appeared to be amicable and tolerant. For example, the Catholic Church of la Massana lends its sanctuary twice per month to the Anglican community, so that visiting Anglican clergy can conduct services for the English-speaking community. Although those who practiced religions other than Catholicism tend to be immigrants and otherwise not integrated fully into the local community, there appeared to be few or no obstacles to their practicing their own religions.
+
+Transport
+
+Andorra has a road network of , of which  is unpaved. The two main roads out of Andorra La Vella are the CG-1 to the Spanish border, and the CG-2 to the French border at Pas de la Casa. In winter, the main roads in Andorra are usually quickly cleared of snow and remain accessible, but the main road out of Andorra on the French side (RN-22) is less frequently cleared and is sometimes closed by avalanches. The only other main roads out of Andorra La Vella are the CG-3 and CG-4 to Arcalis and Pal, respectively.
+
+Bus services cover all metropolitan and rural communities, with services on most major routes running half-hourly or more frequently during peak travel times. There are frequent long-distance bus services from Andorra to Barcelona and Barcelona Airport, and also to Toulouse and Toulouse Airport, in each case taking approximately 3&nbsp;hours.
+
+There are no railways, ports, or airports in Andorra. There are heliports in La Massana, Arinsal and Escaldes-Engordany with commercial helicopter services. Nearby airports are located in Barcelona, Toulouse, Perpignan, Reus, and Girona. The closest public airport is Perpignan - Rivesaltes Airport, which is  away and has short-haul services to several destinations in the United Kingdom and France. La Seu d'Urgell Airport, a small airfield  south of Andorra currently used only by private airplanes, is being studied by the Catalan government as a possible future airport for public aviation services.
+
+The nearest railway stations are L'Hospitalet-près-l'Andorre  northeast of Andorra, which links to French high-speed trains to Paris via Toulouse, and Latour-de-Carol  east of Andorra, which has a scenic narrow-gauge trainline to Villefranche-de-Conflent connecting to Perpignan, and also a -gauge line to Barcelona operated by Spanish Railways.
+
+ Culture 
+Culture of Andorra}}
+The official and historic language is Catalan. Because of immigration, historical links, and close geographic proximity, other languages such as French, Portuguese and Spanish are also commonly spoken.
+
+Andorra is home to folk dances like the contrapàs and marratxa, which survive in Sant Julià de Lòria especially. Andorran folk music has similarities to the music of its neighbors, but is especially Catalan in character, especially in the presence of dances such as the sardana. Other Andorran folk dances include contrapàs in Andorra la Vella and Saint Anne's dance in Escaldes-Engordany. Andorra's national holiday is Our Lady of Meritxell Day, September 8.
+
+
+
+ See also 
+
+
+|col2 
+* Andorra and the European Union
+* Lists of Andorrans
+* List of Co-Princes of Andorra
+* Recognition of same-sex unions in Andorra
+|col3 
+* Scouting in Andorra
+* Tourism in Andorra
+* Transport in Andorra
+* Universitat d'Andorra
+}}
+
+ References 
+
+
+ External links 
+
+
+;Government
+* - Official governmental site (in Catalan)
+*
+;General information
+* at BBC News
+*
+* information from the United States Department of State
+* from the United States Library of Congress
+* from UCB Libraries GovPubs
+*
+*  from EuroDocs
+*  - History, ethnic relations, diet, urbanism, architecture, use of space, and more.
+*  - A web directory specifically for Andorra
+; Travel
+* 
+*
+;Other
+*  Lists, pictures, and values of Andorra coin types
+* 
+*  - Andorra's health care system and general historical and government background information
+*
+
+
+}}
+
+
+
+
+
+}}
+
+
+
+
+
+
+
+
+
+
+
+af:Andorra
+als:Andorra
+am:አንዶራ
+ang:Andorra
+ar:أندورا
+an:Andorra
+arc:ܐܢܕܘܪܐ
+frp:Andorra
+ast:Andorra
+az:Andorra
+bn:অ্যান্ডোরা
+zh-min-nan:Andorra
+be:Андора
+be-x-old:Андора
+bcl:Andora
+bar:Andorra
+bs:Andora
+br:Andorra
+bg:Андора
+ca:Andorra
+cv:Андорра
+ceb:Andorra
+cs:Andorra
+co:Andorra
+cy:Andorra
+da:Andorra
+pdc:Andorra
+de:Andorra
+dv:އެންޑޯރާ
+dsb:Andorra
+dz:ཨེན་ཌོ་ར
+et:Andorra
+el:Ανδόρρα
+es:Andorra
+eo:Andoro
+ext:Andorra
+eu:Andorra
+ee:Andorra
+fa:آندورا
+hif:Andorra
+fo:Andorra
+fr:Andorre
+fy:Andorra
+fur:Andore
+ga:Andóra
+gv:Andorra
+gd:Andorra
+gl:Andorra
+got:𐌰𐌽𐌳𐌰𐌿𐍂𐌰
+xal:Андормудн Орн Нутг
+ko:안도라
+haw:‘Anakola
+hy:Անդորրա
+hi:अन्डोरा
+hsb:Andorra
+hr:Andora
+io:Andora
+ilo:Andorra
+bpy:এন্ডোরা
+id:Andorra
+ia:Andorra
+ie:Andorra
+os:Андоррæ
+is:Andorra
+it:Andorra
+he:אנדורה
+jv:Andorra
+kn:ಅಂಡೋರ
+pam:Andorra
+ka:ანდორა
+kk:Андорра
+kw:Andorra
+sw:Andorra
+kv:Андорра
+kg:Andora
+ht:Andora
+ku:Andorra
+lad:Andorra
+la:Andorra
+lv:Andora
+lb:Andorra
+lt:Andora
+lij:Andòrra
+li:Andorra
+ln:Andora
+jbo:andoras
+lmo:Andora
+hu:Andorra
+mk:Андора
+ml:അന്‍ഡോറ
+mt:Andorra
+mr:आंदोरा
+arz:اندورا
+ms:Andorra
+mn:Андорра
+nah:Andorra
+na:Andorra
+nl:Andorra
+ne:एण्डोरा
+ja:アンドラ
+nap:Andorra
+ce:Андорра
+pih:Endora
+no:Andorra
+nn:Andorra
+nov:Andora
+oc:Andòrra
+uz:Andorra
+ps:انډورا
+pms:Andorra
+tpi:Andora
+nds:Andorra
+pl:Andora
+pnt:Ανδόρρα
+pt:Andorra
+crh:Andorra
+ro:Andorra
+rm:Andorra
+qu:Andurra
+ru:Андорра
+sah:Андорра
+se:Andorra
+sa:अंडोरा
+sc:Andorra
+sco:Andorrae
+stq:Andorra
+sq:Andorra
+scn:Andorra
+simple:Andorra
+sk:Andorra
+sl:Andora
+szl:Andora
+srn:Andorrakondre
+sr:Андора
+sh:Andora
+fi:Andorra
+sv:Andorra
+tl:Andorra
+ta:அண்டோரா
+tt:Андорра
+te:అండొర్రా
+tet:Andorra
+th:ประเทศอันดอร์รา
+tg:Андорра
+tr:Andorra
+udm:Андорра
+uk:Андорра
+ur:انڈورا
+ug:ئاندوررا
+vec:Andora
+vi:Andorra
+vo:Landorän
+fiu-vro:Andorra
+war:Andorra
+wo:Andoor
+wuu:安道尔
+yi:אנדארא
+yo:Andorra
+zh-yue:安道爾
+diq:Andorra
+bat-smg:Anduora
+zh:安道尔
