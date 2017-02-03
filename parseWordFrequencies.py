@@ -5,8 +5,8 @@ allWordsTotal = 0
 
 print ("Parsing file for word frequencies...")
 
-inFile = open('cleanedText.txt','r')
-sentences = re.split(r'\n', inFile.read())
+inFile = open('textOnly.txt','r')
+sentences = re.split(r'\n', inFile.read().lower())
 
 for sentence in sentences:
 	words = re.findall(r"[\w']+", sentence)
@@ -21,4 +21,14 @@ print ("Parsed " + str(allWordsTotal) + " words. With " + str(len(wordList)) + "
 
 sortedWordList = sorted(wordList.items(), key=operator.itemgetter(1), reverse=True)
 
-print sortedWordList
+print '"Anarchism"{'
+isFirst = True
+output = ""
+for word in sortedWordList:
+	if not isFirst:
+		output += ', '
+	else:
+		isFirst = False
+	output += '"'+str(word[0])+'":'+str(word[1])
+output += '\n}'
+print output

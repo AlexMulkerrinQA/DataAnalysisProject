@@ -1,22 +1,24 @@
 import os, time, re
 
-print ("finding article count...\n")
+print ("Scraping article text...\n")
 startTime = time.clock()
 numArticles = 0
-maxLines = 4000
-outFile = open('articleText.txt', 'w')
+maxArticles = 100
+
 with open("../wikiDataset/enwiki-20090810-pages-articles.xml") as inFile:
 	isArticle = False
 	isRedirect = False
-	articleTitle = ""
 	isTextContent = False
-	for i in range(maxLines):
+	articleTitle = ""
+	
+	while numArticles < maxArticles:
 		line = inFile.readline()
 		if line.find("</page>") > 0:
 			isArticle = False
 			isTextContent = False
 			isRedirect = False
 			articleTitle = "none"
+			outFile.close()
 
 		if isArticle:
 			if line.find("<text") > 0: # note text element has attributes attached
@@ -24,12 +26,11 @@ with open("../wikiDataset/enwiki-20090810-pages-articles.xml") as inFile:
 				if not isRedirect:
 					print articleTitle,
 					numArticles += 1
+					outFile = open('../wikiDataset/articles/' + str(articleTitle) + '.txt', 'w')
 
-				#	print "(R)",
-				#print ""
 			if isTextContent and not isRedirect:
 				text = re.sub("<text[^<]+?>|</text>", '', line)
-				print text
+				#print text
 				print outFile.write(text)
 
 			#check for title
@@ -42,11 +43,11 @@ with open("../wikiDataset/enwiki-20090810-pages-articles.xml") as inFile:
 
 		if line.find("</text>") > 0:
 			isTextContent = False
+			
 
 		if line.find("<page>") > 0:
 			isArticle = True
-#			numArticles += 1
 
 endTime = time.clock()
-print("\nCount complete in: " + str(endTime-startTime) )
+print("\nProcess complete in: " + str(endTime-startTime) +"s" )
 print("Articles found: " + str(numArticles) )
