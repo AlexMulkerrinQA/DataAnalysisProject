@@ -1,0 +1,398 @@
+      {{otheruses6|Algae (disambiguation)|Alga (disambiguation)}}
+{{paraphyletic group
+|domain=[[Eukaryota]]
+|color=lightgreen
+|image=Laurencia.jpg
+|image_width=263px
+|image_caption=''[[Laurencia]]'', a marine genus of [[Red Algae]] from Hawaii.
+|includes=
+* [[Archaeplastida]]
+** [[Chlorophyta]] (Green algae)
+** [[Rhodophyta]] (Red algae)
+** [[Glaucophyta]]
+* [[Rhizaria]], [[Excavata]]
+** [[Chlorarachniophytes]]
+** [[Euglenids]]
+* [[Chromista]], [[Alveolata]]
+** [[Heterokonts]]
+*** [[Bacillariophyceae]] (Diatoms)
+*** [[Axodine]]
+*** [[Bolidomonas]]
+*** [[Eustigmatophyceae]]
+*** [[Phaeophyceae]] (Brown algae)
+*** [[Chrysophyceae]] (Golden algae)
+*** [[Raphidophyceae]]
+*** [[Synurophyceae]]
+*** [[Xanthophyceae]] (Yellow-green algae)
+** [[Cryptophyta]]
+** [[Dinoflagellates]]
+** [[Haptophyta]]
+|excludes=
+* [[Cyanobacteria]]
+* [[Plant]]ae}}
+[[Image:AlgaeTree.png|thumb|260px|The lineage of algae according to [[Thomas Cavalier-Smith]]. The exact number and placement of [[Endosymbiotic theory|endosymbiotic events]] is not yet clear, so this diagram can be taken only as a general guide.&lt;ref name=&quot;keeling&quot;/&gt;&lt;ref name=&quot;parfrey&quot;/&gt; It represents the most parsimonious way of explaining the three types of endosymbiotic origins of chloroplasts. These types include the endosymbiotic events of [[cyanobacteria]], [[red algae]] and [[green algae]], leading to the hypothesis of the supergroups [[Archaeplastida]], [[Chromalveolata]] and [[Cabozoa]] respectively. However, the monophyly of Cabozoa has been refuted and the monophylies of Archaeplastida and Chromalveolata are currently strongly challenged. Endosymbiotic events are noted by dotted lines.]]
+
+'''Algae''' ({{pron-en|ˈældʒiː}}; singular ''alga'' {{IPA-en|ˈælɡə|}}, [[Latin language|Latin]] for &quot;seaweed&quot;) are a large and diverse group of simple, typically [[autotrophic]] organisms, ranging from [[unicellular]] to [[multicellular]] forms. The largest and most complex marine forms are called [[seaweed]]s. They are [[photosynthesis|photosynthetic]], like [[plants]], and &quot;simple&quot; because they lack the many distinct organs found in [[land plants]]. For that reason they are currently excluded from being considered plants.&lt;ref&gt;{{cite encyclopedia|title=Alga|encyclopedia=The American Heritage Dictionary of the English Language: Fourth Edition|date=2000|url=http://www.bartleby.com/61/49/A0194900.html|accessdate=2008-12-19}}&lt;/ref&gt;
+
+Though the [[Prokaryote|prokaryotic]] ''[[Cyanobacteria]]'' (commonly referred to as Blue-green Algae) were traditionally included as &quot;Algae&quot; in older textbooks, many modern sources regard this as outdated&lt;ref name=&quot;IntroBot&quot;&gt;{{cite book|last=Nabors|first=Murray W.|date=2004|title=Introduction to Botany|publisher=Pearson Education, Inc|location=San Francisco, CA}}&lt;/ref&gt; and restrict the term ''Algae'' to [[Eukaryote|eukaryotic]] organisms.&lt;ref name=&quot;Allaby 92&quot;&gt;{{cite encyclopedia|last=Allaby|first=M ed.|date=1992|encyclopedia=The Concise Dictionary of Botany|publisher=Oxford University Press|location=Oxford|title=Algae}}&lt;/ref&gt; All true algae therefore have a nucleus enclosed within a membrane and [[chloroplast]]s bound in one or more membranes.&lt;ref name=&quot;IntroBot&quot;/&gt;&lt;ref name=&quot;Round 81&quot;&gt;Round (1981).&lt;/ref&gt; Algae constitute a [[paraphyletic]] and [[polyphyletic]] group,&lt;ref name=&quot;IntroBot&quot;/&gt; as they do not include all the descendants of the [[last universal ancestor]] nor do they all descend from a common algal ancestor, although their chloroplasts seem to have a single origin.&lt;ref name=&quot;keeling&quot;&gt;{{cite journal | title = Diversity and evolutionary history of plastids and their hosts | author = Patrick J. Keeling | url = http://www.amjbot.org/cgi/content/full/91/10/1481 | journal = American Journal of Botany | year = 2004 | volume = 91 | pages = 1481–1493 | doi = 10.3732/ajb.91.10.1481}}&lt;/ref&gt;
+
+Algae lack the various structures that characterize land plants, such as phyllids and rhizoids in nonvascular plants, or [[leaf|leaves]], [[root]]s, and other [[Organ (anatomy)|organs]] that are found in [[tracheophytes]]. Many are [[autotrophic|photoautotrophic]], although some groups contain members that are [[mixotrophic]], deriving energy both from photosynthesis and uptake of organic carbon either by [[osmotrophy]], [[myzocytosis|myzotrophy]], or [[phagocytosis|phagotrophy]]. Some unicellular [[species]] rely entirely on external energy sources and have limited or no photosynthetic apparatus.
+
+Nearly all algae have photosynthetic machinery ultimately derived from the [[Cyanobacteria]], and so produce [[oxygen]] as a by-product of photosynthesis, unlike other photosynthetic [[bacteria]] such as [[Purple sulfur bacteria|purple]] and [[green sulfur bacteria]]. Fossilized filamentous algae from the [[Vindhya]] basin have been dating back to 1.6 to 1.7 billion years ago.&lt;ref&gt;{{cite pmid|19416859}}&lt;/ref&gt;
+
+The first alga to have its genome sequenced was ''[[Cyanidioschyzon merolae]]''.
+
+==Etymology and study==
+[[File:Gmelin - Historia Fucorum (Titelblatt).png|thumb|left|190px|Title page of [[Samuel Gottlieb Gmelin]], ''Historia Fucorum'', dated 1768.]] The singular ''alga'' is the Latin word for a particular seaweed and retains that meaning in English.&lt;ref&gt;{{cite encyclopedia|title=alga, algae|encyclopedia=Webster's Third New International Dictionary of the English Language Unabridged with Seven Language Dictionary|volume=1|date=1986|publisher=Encyclopedia Britannica, Inc}}&lt;/ref&gt; The [[etymology]] is obscure. Although some speculate that it is related to Latin ''algēre'', &quot;be cold&quot;,&lt;ref&gt;{{cite encyclopedia|first=Eric|last=Partridge|title=algae|encyclopedia=Origins|date=1983}}&lt;/ref&gt; there is no known reason to associate seaweed with temperature. A more likely source is ''alliga'', &quot;binding, entwining.&quot;&lt;ref&gt;{{cite encyclopedia|title=alga|first=Charlton T.|last=Lewis|coauthors=Charles Short|location=Oxford|publisher=Clarendon Press|date=1879|id=ISBN 0198642016|url=http://www.perseus.tufts.edu/cgi-bin/ptext?layout.reflang=la;layout.refdoc=Perseus%3Atext%3A1999.04.0059;layout.reflookup=Alga;layout.refcit=;doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3D%231812}}&lt;/ref&gt; Since Algae has become a biological classification, alga can also mean one classification under Algae, parallel to a fungus being a species of fungi, a plant being a species of plant, and so on.
+
+The [[ancient Greek]] word for seaweed was ''φῦκος'' (fūkos or phykos), which could mean either the seaweed, probably Red Algae, or a red dye derived from it. The Latinization, ''fūcus'', meant primarily the cosmetic rouge. The etymology is uncertain, but a strong candidate has long been some word related to the Biblical ''פוך'' (pūk), &quot;paint&quot; (if not that word itself), a cosmetic eye-shadow used by the ancient Egyptians and other inhabitants of the eastern Mediterranean. It could be any color: black, red, green, blue.&lt;ref&gt;{{cite encyclopedia|encyclopedia=Encyclopædia Biblica| A Dictionary of the Bible|first=Thomas Kelly|last= Cheyne|coauthors= John Sutherland Black|title=Paint|pages=3524–3525|volume=3|location=New York|publisher=Macmillan Co.|date=1899–1903}} [http://books.google.com/books?id=GccVAAAAYAAJ&amp;pg=RA1-PA3525&amp;dq=puk+paint&amp;lr=&amp;ei=Ye9RSYPEAYjcygSSyrW3BA#PPA2689,M1 Downloadable Google Books].&lt;/ref&gt;
+
+Accordingly the modern study of marine and freshwater algae is called either [[phycology]] or algology. The name Fucus appears in a number of [[taxon|taxa]].
+
+==Classification==
+[[File:Gephyrocapsa oceanica color.jpg|thumb|300px|False-colour [[Scanning electron micrograph]] of the unicellular [[coccolithophore]], ''[[Gephyrocapsa]] oceanica''.]]
+While ''[[Cyanobacteria]]'' have been traditionally included among the Algae, recent works usually exclude them due to large differences such as the lack of membrane-bound [[organelle]]s, the presence of a single circular [[chromosome]], the presence of [[peptidoglycan]] in the cell walls, and [[ribosome]]s different in size and content from those of the [[Eukaryote]]s.&lt;ref name=BioRaven&gt;{{cite book|title=Biology|edition=8|last=Losos|first=Jonathan B.|coauthors=Mason, Kenneth A.; Singer, Susan R.|publisher=McGraw-Hill|date= 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.jochemnet.de/fiu/bot4404/BOT4404_12.html|title=Botany 4404 Lecture Notes|first=Frank J|last=Jochem|publisher=Florida International University (FIU)|accessdate=2008-12-20}}&lt;/ref&gt;. Rather than in [[chloroplast]]s, they conduct photosynthesis on specialized infolded cytoplasmic membranes called [[thylakoid membranes]]. Therefore, they differ significantly from the Algae despite occupying similar ecological niches.
+
+By modern definitions Algae are [[Eukaryotes]] and conduct photosynthesis within membrane-bound organelles called [[chloroplasts]]. Chloroplasts contain circular [[DNA]] and are similar in structure to Cyanobacteria, presumably representing reduced cyanobacterial [[endosymbiotic theory|endosymbionts]]. The exact nature of the chloroplasts is different among the different lines of Algae, reflecting different endosymbiotic events. The table below describes the composition of the three major groups of Algae. Their lineage relationships are shown in the figure in the upper right. Many of these groups contain some members that are no longer photosynthetic. Some retain [[plastid]]s, but not chloroplasts, while others have lost plastids entirely.
+
+Phylogeny based on plastid&lt;ref name=Bhattacharya1998&gt;{{citation
+ | last1 = Bhattacharya | first1 = D.
+ | last2 = Medlin | first2 = L.
+ | year = 1998
+ | journal = Plant Physiology
+ | volume = 116
+ | issue = 1
+ | pages = 9–15
+ | url = http://www.plantphysiol.org/cgi/reprint/116/1/9.pdf
+}}&lt;/ref&gt;, not nucleocytoplasmic genealogy:
+
+{{clade|1=Cyanobacteria|2=
+ {{clade|[[Cyanelle]]s|2=
+ {{clade|label1=Rhodoplasts|label2=Chloroplasts|1=
+ {{clade|1=[[Rhodophytes]]|2=[[Heterokonts]]|3=
+ {{clade|[[Cryptophyte]]s|[[Haptophytes]]}}
+ }}
+ |2=
+ {{clade|1=[[Euglenophyte]]s|2=
+ {{clade|1=
+ {{clade|1=[[Chlorophyte]]s|2={{clade|[[Charophyte]]s|[[Embryophytes|Higher plants (Embryophyta)]]}}}}
+ |2=[[Chlorarachniophytes]]
+ }}
+ }}
+ }}
+ }}
+}}
+{| class=&quot;wikitable&quot;
+|-
+! Supergroup affiliation !! Members !! [[Endosymbiont]] !! Summary
+|-
+|[[Primoplantae]]/&lt;br&gt;[[Archaeplastida]]
+|
+* [[Chlorophyta]]
+* [[Rhodophyta]]
+* [[Glaucophyta]]
+|Cyanobacteria
+|These Algae have ''primary'' [[chloroplast]]s, i.e. the chloroplasts are surrounded by ''two membranes'' and probably developed through a single endosymbiotic event. The chloroplasts of Red Algae have [[chlorophyll]]s ''a'' and ''d'' (often), and [[phycobilin]]s, while those of Green Algae have chloroplasts with chlorophyll ''a'' and ''b''. Higher plants are pigmented similarly to Green Algae and probably developed from them, and thus [[Chlorophyta]] is a sister [[taxon]] to the plants; sometimes they are grouped as [[Viridiplantae]].
+|-
+| [[Excavata]] and [[Rhizaria]]
+|
+* [[Chlorarachniophytes]]
+* [[Euglenids]]
+|Green Algae
+|
+These groups have green chloroplasts containing chlorophylls ''a'' and ''b'' &lt;ref name=&quot;BioRaven&quot;/&gt;. Their chloroplasts are surrounded by ''four and three membranes'', respectively, and were probably retained from ingested Green Algae.
+
+'''Chlorarachniophytes''', which belong to the phylum [[Cercozoa]], contain a small [[nucleomorph]], which is a [[relict]] of the algae's [[cell nucleus|nucleus]].
+
+'''Euglenids''', which belong to the phylum [[Euglenozoa]], live primarily in freshwater and have chloroplasts with only three membranes. It has been suggested that the endosymbiotic Green Algae were acquired through [[myzocytosis]] rather than [[phagocytosis]].
+|-
+|[[Chromista]] and [[Alveolata]]
+|
+* [[Heterokonts]]
+* [[Haptophyta]]
+* [[Cryptomonad]]s
+* [[Dinoflagellates]]
+|Red Algae
+|
+These groups have chloroplasts containing chlorophylls ''a'' and ''c'', and phycobilins. The latter chlorophyll type is not known from any prokaryotes or primary chloroplasts, but genetic similarities with the Red Algae suggest a relationship there.
+
+In the first three of these groups ('''Chromista'''), the chloroplast has four membranes, retaining a [[nucleomorph]] in [[Cryptomonad]]s, and they likely share a common pigmented ancestor, although other evidence casts doubt on whether the [[Heterokonts]], [[Haptophyta]], and [[Cryptomonad]]s are in fact more closely related to each other than to other groups.&lt;ref name=&quot;parfrey&quot;&gt;{{cite journal | url = http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&amp;artid=1713255 | title = Evaluating Support for the Current Classification of Eukaryotic Diversity | author = Laura Wegener Parfrey, Erika Barbero, Elyse Lasser, Micah Dunthorn, Debashish Bhattacharya, David J Patterson, and Laura A Katz | doi = 10.1371/journal.pgen.0020220 | journal = PLoS Genet. |date=December 2006| volume = 2 | issue = 12 | pages = e220 | pmid = 17194223 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal | author = Burki F, Shalchian-Tabrizi K, Minge M, Skjæveland Å, Nikolaev SI, et al. | year = 2007 | title = Phylogenomics Reshuffles the Eukaryotic Supergroups | journal = PLoS ONE | volume = 2 | issue = 8: e790 | doi = 10.1371/journal.pone.0000790 | pages = e790}}&lt;/ref&gt;
+
+The typical '''dinoflagellate''' chloroplast has three membranes, but there is considerable diversity in chloroplasts within the group, and it appears there were a number of endosymbiotic events.&lt;ref name=&quot;keeling&quot;/&gt; The [[Apicomplexa]], a group of closely related parasites, also have [[plastid]]s called [[apicoplast]]s. Apicoplasts are not photosynthetic but appear to have a common origin with [[Dinoflagellates|Dinoflagellate]] chloroplasts.&lt;ref name=&quot;keeling&quot;/&gt;
+|}
+
+[[W.H.Harvey]] (1811—1866) was the first to divide the Algae into four divisions based on their pigmentation. This is the first use of a biochemical criterion in plant systematics. Harvey's four divisions are: Red Algae (Rhodophyta), Brown Algae (Heteromontophyta), Green Algae (Chlorophyta) and Diatomaceae.&lt;ref name=&quot;Dixon 73&quot;&gt;{{cite book|last=Dixon|first=P S|date=1973|title=Biology of the Rhodophyta|publisher=Oliver &amp; Boyd|location=Edinburgh|id=ISBN 005002485X|page=232}}&lt;/ref&gt;
+
+==Relationship to higher plants==
+The first plants on earth evolved from shallow freshwater algae much like ''Chara'' some 400 million years ago. These probably had an isomorphic [[alternation of generations]] and were probably filamentous. Fossils of isolated land plant spores suggest land plants may have been around as long as 475 million years ago.&lt;ref&gt;{{cite news | title = When plants conquered land | author = Ivan Noble | date = 18 September, 2003 | url = http://news.bbc.co.uk/1/hi/sci/tech/3117034.stm | publisher = BBC }}&lt;/ref&gt;&lt;ref name=&quot;Wellman2003&quot;&gt;{{cite journal
+ | author = Wellman, C.H.
+ | coauthors = Osterloff, P.L.; Mohiuddin, U.
+ | year = 2003
+ | title = Fragments of the earliest land plants
+ | journal = Nature
+ | volume = 425
+ | issue = 6955
+ | pages = 282–285
+ | doi = 10.1038/nature01884
+}}&lt;/ref&gt;
+
+==Morphology==
+[[File:Kelp-forest-Monterey.jpg|thumb|243px|The [[kelp]] forest exhibit at the Monterey Bay Aquarium. A three-dimensional, multicellular thallus.]]
+A range of algal [[Morphology (biology)|morphologies]] are exhibited, and [[Convergent evolution|convergence]] of features in unrelated groups is common. The only groups to exhibit three dimensional multicellular [[Thallus|thalli]] are the [[Red algae|reds]] and [[Brown algae|browns]], and some [[Chlorophyta|chlorophytes]].&lt;ref name=Xiao2004&gt;{{citation
+ | last1 = Xiao | first1 = S.
+ | last2 = Knoll | first2 = A.H.
+ | last3 = Yuan | first3 = X.
+ | last4 = Pueschel | first4 = C.M.
+ | year = 2004
+ | title = Phosphatized multicellular algae in the Neoproterozoic Doushantuo Formation, China, and the early evolution of florideophyte red algae
+ | journal = American Journal of Botany
+ | volume = 91
+ | issue = 2
+ | pages = 214–227
+ | doi = 10.3732/ajb.91.2.214
+ | url = http://www.amjbot.org/cgi/content/full/91/2/214
+}}&lt;/ref&gt; Apical growth is constrained to subsets of these groups: the [[Florideophyceae|florideophyte]] reds, various browns, and the charophytes.&lt;ref name=Xiao2004/&gt; The form of [[Charophyta|charophytes]] is quite different to those of reds and browns, because have distinct nodes, separated by internode 'stems'; whorls of branches reminiscent of the [[horsetail]]s occur at the nodes.&lt;ref name=Xiao2004/&gt; [[Conceptacle]]s are another [[polyphyletic]] trait; they appear in the [[coralline algae]] and the [[Hildenbrandiales]], as well as the browns.&lt;ref name=Xiao2004/&gt;
+
+Most of the simpler algae are [[unicellular]] [[flagellate]]s or [[amoeboid]]s, but colonial and non-motile forms have developed independently among several of the groups. Some of the more common organizational levels, more than one of which may occur in the [[biological life cycle|life cycle]] of a species, are
+* ''Colonial'': small, regular groups of motile cells
+* ''Capsoid'': individual non-motile cells embedded in [[mucilage]]
+* ''Coccoid'': individual non-motile cells with cell walls
+* ''Palmelloid'': non-motile cells embedded in mucilage
+* ''Filamentous'': a string of non-motile cells connected together, sometimes branching
+* ''Parenchymatous'': cells forming a [[thallus (tissue)|thallus]] with partial differentiation of tissues
+
+In three lines even higher levels of organization have been reached, with full tissue differentiation. These are the [[brown algae]],&lt;ref&gt;{{cite web|url=http://www.ucmp.berkeley.edu/chromista/phaeophyta.html|title= Introduction to the Phaeophyta: Kelps and brown &quot;Algae&quot;|first=Ben|last=Waggoner|publisher=University of California Museum of Palaeontology (UCMP)|date=1994–2008|accessdate=2008-12-19}}&lt;/ref&gt;—some of which may reach 50 m in length ([[kelp]]s)&lt;ref name=&quot;Thomas 02&quot;&gt;{{cite book|last=Thomas|first= D N |date=2002|title=Seaweeds| publisher=The Natural History Museum|location=London|id=ISBN 0565091751}}&lt;/ref&gt;—the [[red alga]]e,&lt;ref&gt;{{cite web|url=http://www.ucmp.berkeley.edu/protista/rhodophyta.html|title= Introduction to the Rhodophyta, The red &quot;algae&quot;|
+first=Ben|last=Waggoner|publisher=University of California Museum of Palaeontology (UCMP)|date=1994–2008|accessdate=2008-12-19}}&lt;/ref&gt; and the [[green alga]]e. &lt;ref&gt;[http://www.ucmp.berkeley.edu/greenalgae/greenalgae.html Introduction to the Green Algae&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; The most complex forms are found among the green algae (see [[Charales]] and [[Charophyta]]), in a lineage that eventually led to the higher [[land plants]]. The point where these non-algal plants begin and algae stop is usually taken to be the presence of reproductive organs with protective cell layers, a characteristic not found in the other alga groups.
+
+==Symbiotic algae==
+Some species of algae form [[symbiosis|symbiotic relationships]] with other organisms. In these [[symbioses]], the algae supply photosynthates (organic substances) to the host organism providing protection to the algal cells. The host organism derives some or all of its energy requirements from the algae. Examples are as follows.
+===Lichens===
+{{main|Lichens}}
+[[File:Lichens near Clogher Head (stevefe).jpg|thumb|left|Rock lichens in Ireland.]]''[[Lichen]]s'' are defined by the [[International Association for Lichenology]] to be &quot;an association of a [[fungus]] and a photosynthetic [[symbiont]] resulting in a stable vegetative body having a specific structure.&quot;&lt;ref&gt;{{cite book|title=Lichens of North America|first=Irwin M|last=Brodo|first2=Sylvia Duran|last2=Sharnoff|first3=Stephen|last3=Sharnoff|first4=Susan|last4= Laurie-Bourque|publisher=Yale University Press|date=2001|location=New Haven|id=ISBN 0300082495, 9780300082494|page=8}}&lt;/ref&gt; The fungi, or mycobionts, are from the [[Ascomycota]] with a few from the [[Basidiomycota]]. They are not found alone in nature but when they began to associate is not known.&lt;ref&gt;{{cite book|title=The Diversity and Evolution of Plants|first=Lorentz C|last=Pearson|publisher=CRC Press|date=1995|id=ISBN 0849324831, 9780849324833|page=221}}&lt;/ref&gt; One mycobiont associates with the same phycobiont species, rarely two, from the [[Green Algae]], except that alternatively the mycobiont may associate with the same species of [[Cyanobacteria]] (hence &quot;photobiont&quot; is the more accurate term). A photobiont may be associated with many specific mycobionts or live independently; accordingly, lichens are named and classified as fungal species.&lt;ref&gt;Brodo et al. (2001), page 6: &quot;A species of lichen collected anywhere in its range has the same lichen-forming fungus and, generally, the same photobiont. (A particular photobiont, on the other hand, may associate with scores of different lichen fungi).&quot;&lt;/ref&gt; The association is termed a morphogenesis because the lichen has a form and capabilities not possessed by the symbiont species alone (they can be experimentally isolated). It is possible that the photobiont triggers otherwise latent genes in the mycobiont.&lt;ref&gt;Brodo et al. (2001), page 8.&lt;/ref&gt;
+
+===Coral reefs===
+{{main|Coral|Coral reef|Zooxanthella}}
+[[File:Coral Reef.jpg|thumb|left|Floridian coral reef]] [[Coral reef]]s are accumulated from the [[calcareous]] [[exoskeleton]]s of [[marine invertebrate]]s of the [[Scleractinia]] order; i.e., the Stony [[Coral]]s. As [[Animal#Food and energy sourcing|animals]] they [[Metabolism|metabolize]] [[Sugar#Chemistry|sugar]] and [[oxygen]] to obtain [[energy]] for their cell-building processes, including [[secretion]] of the exoskeleton, with [[water]] and [[carbon dioxide]] as byproducts. As the reef is the result of a favorable equilibrium between construction by the corals and destruction by marine [[erosion]], the rate at which metabolism can proceed determines the growth or deterioration of the reef.
+
+Algae of the [[Dinoflagellate]] phylum are often [[endosymbiont]]s in the cells of marine invertebrates, where they accelerate host-cell metabolism by generating immediately available sugar and oxygen through [[photosynthesis]] using incident light and the carbon dioxide produced in the host. Endosymbiont algae in the Stony Corals are described by the term [[zooxanthella]]e, with the host Stony Corals called on that account [[hermatypic coral]]s, which although not a [[taxon]] are not in healthy condition without their endosymbionts. Zooxanthellae belong almost entirely to the genus ''Symbiodinium''.&lt;ref&gt;{{Citation|contribution=The coral-algal symbiosis|first=Dennis L|last=Taylor|title=Algal Symbiosis: A Continuum of Interaction Strategies|editor-first=Lynda J|editor-last=Goff|publisher=CUP Archive|date=1983|pages=19–20|id=ISBN 0521255414, 9780521255417}}&lt;/ref&gt; The loss of ''Symbiodinium'' from the host is known as [[coral bleaching]], a condition unless corrected leading to the deterioration and loss of the reef.
+
+===Sea sponges===
+{{main|Sea sponge}}
+Green Algae live close to the surface of some sponges, for example, breadcrumb sponge (''[[Halichondria panicea]]''). The alga is thus protected from predators; the sponge is provided with oxygen and sugars which can account for 50 to 80% of sponge growth in some species.&lt;ref&gt;http://uwsp.edu/cnr/UWEXlakes/laketides/vol26-4/vol26-4.pdf&lt;/ref&gt;
+
+==Life-cycle==
+[[Rhodophyta]], [[Chlorophyta]] and [[Heterokontophyta]], the three main algal [[phylum|Phyla]], have life-cycles which show tremendous variation with considerable complexity. In general there is an asexual phase where the seaweed's cells are [[diploid]], a sexual phase where the cells are [[haploid]] followed by fusion of the male and female [[gametes]]. Asexual reproduction is advantageous in that it permits efficient population increases, but less variation is possible. Sexual reproduction allows more variation but is more costly because among other things. Often there is no strict alternation between the sporophyte and also because there is often an asexual phase, which could include the fragmentation of the thallus.&lt;ref name=&quot;Thomas 02&quot; /&gt;&lt;ref name=&quot;Lobban and Harrison 94&quot;&gt;Lobban, C S and Harrison, P J (1997) ''Seaweed Ecology and Physiology.'' Cambridge University Press. ISBN 0-521-40897-00&lt;/ref&gt;&lt;ref&gt;[http://scitec.uwichill.edu.bb/bcs/bl14apl/algae2.htm Algae II&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+{{details|Conceptacle}}
+
+==Numbers==
+The ''Algal Collection of the U.S. National Herbarium'' (located in the [[National Museum of Natural History]]) consists of approximately 320500 dried specimens, which, although not exhaustive (no exhaustive collection exists), gives an idea of the order of magnitude of the number of algal species (that number remains unknown).&lt;ref&gt;{{cite web|title=Algae Herbarium|publisher=National Museum of Natural History, Department of Botany|date=2008|url=http://botany.si.edu/projects/algae/herbarium.htm|accessdate=2008-12-19}}&lt;/ref&gt; Estimates vary widely. For example, according to one standard textbook,&lt;ref name=&quot;John 02&quot;&gt;John (2002), page 1.&lt;/ref&gt; in the British Isles the ''UK Biodiversity Steering Group Report'' estimated there to be 20000 algal species in the UK. Another checklist reports only about 5000 species. Regarding the difference of about 15000 species, the text concludes: &quot;It will require many detailed field surveys before it is possible to provide a reliable estimate of the total number of species ....&quot;
+
+Regional and group estimates have been made as well: 5000—5500 species of Red Algae worldwide, &quot;some 1300 in Australian Seas,&quot;&lt;ref name=&quot;Huisman 00&quot;&gt;Huisman (2000), page 25.&lt;/ref&gt; 400 seaweed species for the western coastline of South [[Africa]],&lt;ref name=&quot;Stegenga 97&quot;&gt;Stegenga (1997).&lt;/ref&gt; 669 marine species from California (U.S.A.), &lt;ref name=&quot;Abbott and Hollenberg 76&quot;&gt;Abbott and Hollenberg (1976), page 2.&lt;/ref&gt; 642 in the check-list of Britain and Ireland,&lt;ref name=&quot;Hardy nad Guiry 06&quot;&gt;Hardy and Guiry (2006).&lt;/ref&gt; and so on, but lacking any scientific basis or reliable sources, these numbers have no more credibility than the British ones mentioned above. Most estimates also omit the microscopic Algae, such as the [[phytoplankton|phytoplankta]], entirely.
+
+==Distribution==
+The topic of distribution of algal species has been fairly well studied since the founding of [[phytogeography]] in the mid-19th century AD.&lt;ref&gt;Round (1981), Chapter 8, Dispersal, continuity and phytogeography.&lt;/ref&gt; Algae spread mainly by the dispersal of [[spore]]s analogously to the dispersal of Plantae by seeds and spores. Spores are everywhere in all parts of the Earth: the waters fresh and marine, the atmosphere, free-floating and in precipitation or mixed with dust, the [[humus]] and in other organisms, such as humans. Whether a spore is to grow into an organism depends on the combination of the species and the environmental conditions.
+
+The spores of fresh-water Algae are dispersed mainly by running water and wind, as well as by living carriers.&lt;ref&gt;Round (1981), page 360.&lt;/ref&gt; The bodies of water into which they are transported are chemically selective. Marine spores are spread by currents. Ocean water is temperature selective, resulting in phytogeographic zones, regions and provinces.&lt;ref&gt;Round (1981), page 362.&lt;/ref&gt;
+
+To some degree the distribution of Algae is subject to floristic discontinuities caused by geographical features, such as [[Antarctica]], long distances of ocean or general land masses. It is therefore possible to identify species occurring by locality, such as &quot;Pacific Algae&quot; or &quot;North Sea Algae&quot;. When they occur out of their localities, it is usually possible to hypothesize a transport mechanism, such as the hulls of ships. For example, ''Ulva reticulata'' and ''Ulva fasciata'' travelled from the mainland to [[Hawaii]] in this manner.
+
+Mapping is possible for select species only: &quot;there are many valid examples of confined distribution patterns.&quot;&lt;ref&gt;Round (1981), Page 357.&lt;/ref&gt; For example, ''Clathromorphum'' is an arctic genus and is not mapped far south of there.&lt;ref&gt;Round (1981), page 371.&lt;/ref&gt; On the other hand, scientists regard the overall data as insufficient due to the &quot;difficulties of undertaking such studies.&quot;&lt;ref&gt;Round (1981), page 366.&lt;/ref&gt;
+
+==Locations==
+[[File:Phytoplankton Lake Chuzenji.jpg|thumb|left|200px|Phytoplankton, [[Lake Chuzenji]]]]Algae are prominent in bodies of water, common in terrestrial environments and are found in unusual environments, such as [[Snow algae|on snow]] and [[Ice algae|on ice]]. Seaweeds grow mostly in shallow marine waters, under {{convert|100|m|ft|abbre=on}}; however some have been recorded to a depth of {{convert|360|m|ft}}&lt;ref&gt;Round (1981), page 176.&lt;/ref&gt;
+
+The various sorts of algae play significant roles in aquatic ecology. Microscopic forms that live suspended in the water column ([[phytoplankton]]) provide the food base for most marine [[food chain]]s. In very high densities ([[algal bloom]]s) these algae may discolor the water and outcompete, poison, or asphyxiate other life forms.
+
+Algae are variously sensitive to different factors, which has made them useful as biological indicators in the [[Ballantine Scale]] and its modification.
+
+==Uses==
+[[File:Algae harvester-1.jpg|thumb|243px||Harvesting Algae]]
+===Agar===
+[[Agar]], an Algae derivative, has a number of commercial uses.&lt;ref name=&quot;Lewis ''et al.'' 88&quot;&gt;{{Citation|last=Lewis|first=J G|last2=Stanley|first2=N F |last3=Guist|first3= G G |date=1988|contribution= 9 Commercial production of algal hydrocolloides|editor-last=Lembi|editor-first= C.A.|editor2-last= Waaland|editor2-first= J.R.|title=Algae and Human Affairs|publisher= Cambridge University Press|city= Cambridge|id=ISBN 9780521321150}}&lt;/ref&gt;
+===Alginates===
+Between 100,000 and 170,000 wet tons of ''[[Macrocystis]]'' are harvested annually in [[California]] for [[Alginic acid|alginate]] extraction and [[abalone]] feed.&lt;ref&gt;{{cite web|url=http://www.algaebase.org/generadetail.lasso?genus_id=35715&amp;-session=abv3:51909EC307dcf25DFApmi3530315|publisher=AlgaeBase|title=Macrocystis C. Agardh 1820: 46|accessdate=2008-12-28}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://botany.si.edu/projects/algae/economicuses/brownalgae.htm|work=Algae Research|publisher=Smithsonian National Museum of Natural History|title=Secondary Products of Brown Algae|accessdate=2008-12-29}}&lt;/ref&gt;
+===Energy source===
+To be competitive and independent from fluctuating support from (local) policy on the long run, biofuels should equal or beat the cost level of fossil fuels. Here, algae based fuels hold great promise, directly related to the potential to produce more biomass/ha-year than any other form of biomass. The break-even point for algae-based biofuels should be within reach in about ten years.
+{{main|Algae fuel|Biological hydrogen production|Biohydrogen|Biodiesel|Ethanol fuel|Butanol fuel|Vegetable fats and oils}}
+
+===Fertilizer===
+[[Image:Seaweed.jpg|thumb|243px|[[Seaweed]] is used as a fertilizer.]]
+For centuries seaweed has been used as a fertilizer; [[George Owen of Henllys]] writing in the 16th century referring to drift weed in [[South Wales]]:&lt;ref&gt;{{cite journal|journal=Journal of the Royal Agricultural Society of England|volume=10|pages=142–143|title=On the Farming of South Wales: Prize Report|first=Clare Sewell|last=Read|authorlink=Clare Sewell Read|date=1849|city=London|publisher=John Murray}} [http://books.google.com/books?id=UJYEAAAAYAAJ&amp;pg=PA142&amp;dq=%22this+kind+of+ore+they+often+gather%22&amp;lr=&amp;as_brr=0&amp;as_pt=ALLTYPES#PPR4,M1 Downloadable Google Books].&lt;/ref&gt;&lt;blockquote&gt;This kind of ore they often gather and lay on great heapes, where it heteth and rotteth, and will have a strong and loathsome smell; when being so rotten they cast on the land, as they do their muck, and thereof springeth good corn, especially barley ... After spring-tydes or great rigs of the sea, they fetch it in sacks on horse backes, and carie the same three, four, or five miles, and cast it on the lande, which doth very much better the ground for corn and grass.&lt;/blockquote&gt;
+
+Today Algae are used by humans in many ways; for example, as [[fertilizer]]s, [[soil conditioner]]s and livestock feed.&lt;ref&gt;{{cite book|title=A Guide to the Seaweed Industry: FAO Fisheries Technical Paper 441|first=Dennis J.|last=McHugh|location=Rome|date=2003|publisher=Fisheries and Aquaculture Department, Food and Agriculture Organization (FAO) of the United Nations|id=ISBN 9251049580, ISBN 0499345|chapter=9, Other Uses of Seaweeds|url=http://www.fao.org/DOCREP/006/Y4765E/y4765e0c.htm#TopOfPage}}&lt;/ref&gt; Aquatic and microscopic species are cultured in clear tanks or ponds and are either harvested or used to treat effluents pumped through the ponds. [[Algaculture]] on a large scale is an important type of [[aquaculture]] in some places. [[Maerl]] is commonly used as a soil conditioner.
+
+===Nutrition===
+[[File:Inishmaan Gardens.jpg|thumb|left|250px|Seaweed gardens on [[Inisheer]].]]
+Naturally growing seaweeds are an important source of food, especially in Asia. They provide many vitamins including: A, [[Thiamine|B1]], [[Riboflavin|B2]], [[Vitamin B6|B6]], [[niacin]] and [[Vitamin C|C]], and are rich in [[iodine]], [[potassium]], [[iron]], [[magnesium]] and [[calcium]].&lt;ref&gt;{{cite book|title=Food in China: A Cultural and Historical Inquiry|first=Frederick J|last=Simoons|publisher=CRC Press|date=1991|id=ISBN 084938804X, 9780849388040|chapter=6, Seaweeds and Other Algae|pages=179–190}}&lt;/ref&gt; In addition commercially cultivated [[Microphyte|microalgae]], including both Algae and [[Cyanobacteria]], are marketed as nutritional supplements, such as [[Spirulina (dietary supplement)|Spirulina]],&lt;ref&gt;{{cite web|url=http://www.siu.edu/~ebl/leaflets/algae.htm|work=Ethnobotanical Leaflets|title=Modern Uses of Cultivated Algae|publisher=Southern Illinois University Carbondale|first=Steve L|last=Morton|accessdate=2008-12-26}}&lt;/ref&gt; [[Chlorella]] and the Vitamin-C supplement, [[Dunaliella]], high in [[beta-carotene]].
+
+Algae are national foods of many nations: [[China]] consumes more than 70 species, including ''[[fat choy (vegetable)|fat choy]]'', a [[cyanobacterium]] considered a vegetable; [[Japan]], over 20 species;&lt;ref name=&quot;Mondragon 03&quot;&gt;{{cite book|last=Mondragon|first=J|coauthors=Mondragon, J |date=2003|title=Seaweeds of the Pacific Coast|publisher=Sea Challengers Publications|location= Monterey, California|id=ISBN 0930118294}}&lt;/ref&gt; [[Ireland]], [[dulse]]; [[Chile]], [[cochayuyo]].&lt;ref&gt;{{cite web|url=http://www.algaebase.org/speciesdetail.lasso?species_id=11752&amp;sk=0&amp;from=results&amp;-session=abv3:51909EC30802716127sVj3EDC9C7 |publisher=AlgaeBase|title=Durvillaea antarctica (Chamisso) Hariot}}&lt;/ref&gt; [[laver (seaweed)|Laver]] is used to make &quot;laver bread&quot; in the ''British Isles''; in [[Korea]], [[Gim (Korean food)|gim]]; in [[Japan]], [[nori]] and [[aonori]]. It is also used along the west coast of North America from [[California]] to [[British Columbia]], in [[Hawaii]] and by the [[Maori]] of [[New Zealand]]. [[Sea lettuce]] and [[Alaria esculenta|badderlocks]] are a salad ingredient in [[Scotland]], [[Ireland]], [[Greenland]] and [[Iceland]].
+
+[[File:Dulse.JPG|thumb|243px|Dulse, a food.]]The oils from some Algae have high levels of [[Fatty acid#Unsaturated fatty acid|unsaturated fatty acids]]. For example, [[Arachidonic acid]] is very high in ''[[Parietochloris incisa]]'', where it reaches up to 47% of the triglyceride pool.&lt;ref&gt;{{cite journal|last=Bigogno|first= C|coauthors=I Khozin-Goldberg; S Boussiba; A Vonshak; Z Cohen|date=2002|journal=Phytochemistry|volume=60|pages=497–503}}&lt;/ref&gt; Some varieties of Algae favored by [[vegetarianism]] and [[veganism]] contain the long-chain, essential [[omega-3 fatty acid]]s, [[Docosahexaenoic acid]] (DHA) and [[Eicosapentaenoic acid]] (EPA), in addition to [[vitamin B12]]. The vitamin B12 in algae is not biologically active. Fish oil contains the omega-3 fatty acids, but the original source is algae, which are eaten by marine life such as [[copepod]]s and are passed up the food chain.&lt;ref&gt;{{cite news | url = http://www.npr.org/templates/story/story.php?storyId=15823852 | publisher = [[National Public Radio]] | title = Getting Brain Food Straight from the Source | author = Allison Aubrey | date = Morning Edition, November 1, 2007 }}&lt;/ref&gt;
+
+===Pollution control===
+* Sewage can be treated with algae, reducing the need for greater amounts of toxic chemicals than are already used.
+* Algae can be used to capture [[fertilizers]] in runoff from farms. When subsequently harvested, the enriched algae itself can be used as fertilizer.
+* [[Algae Bioreactors]] are used by some powerplants to reduce CO&lt;sub&gt;2&lt;/sub&gt; [[air pollutants|emissions]].&lt;ref&gt;{{cite web|url=http://www.usatoday.com/tech/science/2006-01-10-algae-powerplants_x.htm|publisher=USA Today|title=Algae–like a breath mint for smokestacks|first=Mark|last=Clayton|date=10 January 2008|accessdate=2008-12-26}}&lt;/ref&gt;
+===Pigments===
+The natural [[pigment]]s produced by algae can be used as an alternative to chemical [[dyes]] and coloring agents.&lt;ref&gt;{{Citation | last =Arad| first =Shoshana| last2 =Spharim| first2 =Ishai| year =1998| contribution =Production of Valuable Products from Microalgae: An Emerging Agroindustry| editor-last =Altman| editor-first =Arie| title =Agricultural Biotechnology| series =Books in Soils, Plants, and the Environment| publisher =CRC Press| volume =61| page=638| id =ISBN 0824794397, 9780824794392}}&lt;/ref&gt;
+
+===Stabilizing substances===
+Carrageenan, from the red alga ''Chondrus crispus'', is used as a stabiliser in milk products.
+{{main|Carrageenan|Chondrus crispus}}
+
+==Notes==
+{{reflist|2}}
+
+==Bibliography==
+&lt;div class=&quot;references-small&quot;&gt;
+===General===
+* {{cite book|last=Chapman|first= V.J.|date= 1950|title= Seaweeds and their Uses|publisher= Methuen &amp; Co. Ltd|location= London}}
+* {{cite book|last=Lembi|first= C.A.|last2=Waaland|first2=J.R.|date= 1988|title=Algae and Human Affairs|publisher=Cambridge University Press|location= Cambridge|id=ISBN 0521321158}}
+* {{cite book|last=Round|first=F E|date=1981|title=The Ecology of Algae|publisher=Cambridge University Press|location=London|id=ISBN 0521225833}}
+* {{Citation|last=Mumford|first=T F|last2=Miura|first2=A|date=1988|contribution=''Porphyra'' as food: cultivation and economic|pages=87—117|editor-last=Lembi|editor-first=C A|editor2-last=Waaland|editor2-first=J R|title=Algae and Human Affairs|publisher=Cambridge University Press|id=ISBN 0521321158}}.
+
+===Regional===
+====Britain and Ireland====
+* {{cite book
+| title=Seaweeds of the British Isles: A Collaborative Project of the British Phycological Society and the British Museum (Natural History)
+| date=1977–2003
+| last=Brodie | first=Juliet
+| last2=Burrows| first2=Elsie M
+| last3=Chamberlain| first3=Yvonne M.
+| last4=Christensen | first4=Tyge
+| last5=Dixon | first5=Peter Stanley
+| last6=Fletcher |first6=R.L.
+| last7=Hommersand | first7=Max H
+| last8=Irvine| first8=Linda M
+| last9=Maggs| first9=Christine A
+| location=London, Andover
+| publisher=British Museum (Natural History), HMSO, Intercept
+|id=ISBN 0565007815, 9780565007812, 0113100450, 9780113100453, 0113100167, 9780113100163, 1898298874, 9781898298878, 056500980X, 9780565009809, 0565009818, 0565009923, 0565008714
+}}
+* {{cite book|last=Cullinane|first=John P|date=1973|title=Phycology of the South Coast of Ireland|location=Cork|publisher=Cork University Press}}
+* {{cite book|last=Hardy|first= F G|last2=Aspinall|first2= R J|date=1988|title=An Atlas of the Seaweeds of Northumberland and Durham|publisher=Northumberland Biological Records Centre|location=The Hancock Museum, University Newcastle upon Tyne|id=ISBN 0950968056, 9780950968056}}
+* {{cite book|last=Hardy|first=F G|last2=Guiry|first2=Michael D|last3=Arnold|first3=Henry R|date=2006|title=A Check-list and Atlas of the Seaweeds of Britain and Ireland|publisher=British Phycological Society|location=London|id= ISBN 390616635X 9783906166353 |edition=Revised}}
+* {{cite book|last=John|first=D M|last2=Whitton|first2=B A|last3=Brook|first3=J A|date=2002|title=The Freshwater Algal Flora of the British Isles|publisher=Cambridge University Press|location=Cambridge, UK; New York|id=ISBN 0521770513}}
+* {{cite book|last=Knight|first=Margery|last2=Parke|first2=Mary W|title=Manx Algae: An Algal Survey of the South End of the Isle of Man|date=1931|location=Liverpool|publisher=University Press|series=Liverpool Marine Biology Committee (LMBC) Memoirs on Typical British Marine Plants &amp; Animals|volume=XXX}}
+* {{cite book|last=Morton|first=Osborne|date=1994|title=Marine Algae of Northern Ireland|location=Belfast|publisher=Ulster Museum|id=ISBN 0900761288 9780900761287}}
+* {{cite journal|last=Morton|first=Osborne|title=The Marine Macroalgae of County Donegal, Ireland|journal=Bulletin of the Irish Biogeographical Society|volume=27|pages=3–164|date=1 December 2003}}
+
+====Australia====
+* {{cite book|last=Huisman|first= J M|date= 2000| title= Marine Plants of Australia| publisher=University of Western Australian (UWA) Press |id=ISBN 1876268336}}
+
+====New Zealand====
+* {{cite book|last=Chapman|first=Valentine Jackson|last2=Lindauer|first2=VW|last3=Aiken|first3=M|last4=Dromgoole|first4=FI|title=The Marine algae of New Zealand|date=1900, 1956, 1961, 1969, 1970|location=London; Lehre, Germany|publisher=Linnaean Society of London; Cramer}}
+
+====Europe====
+* {{cite book|title=Guide des algues des mers d'Europe: Manche/Atlantique-Méditerranée|first=Jacqueline|last=Cabioc'h|first2=Jean-Yves|last2=Floc'h|first3=Alain|last3= Le Toquin|first4= Charles-François|last4= Boudouresque|first5= Alexandre|last5= Meinesz|first6= Marc|last6= Verlaque|language=French | location=Lausanne, Suisse |publisher= Delachaux et Niestlé|date=1992|id=ISBN 260300848X, 9782603008485}}
+* {{cite book|title=Les Algues de côtes françaises (manche et atlantique), notions fondamentales sur l'écologie, la biologie et la systématique des algues marines|first=Paulette|last= Gayral|language= French|location=Paris| publisher=Doin, Deren et Cie|date=1966}}
+* {{cite book|last=Guiry|first= M.D.|last2=Blunden|first2= G.|date= 1991|title= Seaweed Resources in Europe: Uses and Potential|publisher= John Wiley &amp; Sons|id= ISBN 0471929476}}
+
+====Arctic====
+* {{cite book|last=Kjellman|first=Frans Reinhold|date=1883|title= The algae of the Arctic Sea: a survey of the species, together with an exposition of the general characters and the development of the flora|location=Stockholm|publisher=Kungl. Svenska vetenskapsakademiens handlingar|volume=20|part=5|pages=1 - 350}}
+
+====Greenland====
+* {{cite book|last=Lund|first=Søren Jensen|date=1959|title=The Marine Algae of East Greenland|location=Kövenhavn|publisher=C.A. Reitzel|id=ISBN 9584734}}
+
+====Faroe Islands====
+* {{Citation|first=Frederik|last=Børgesen|contribution= Marine Algae|pages=339–532|editor-last=Warming|editor-first= Eugene |title=Botany of the Faröes Based Upon Danish Investigations. Part II|city= København|publisher=Det nordiske Forlag|date=1903, 1970 reprint}}.
+
+====Canary Islands====
+* {{cite book|first=Frederik|last=Børgesen|title=Marine Algae from the Canary Islands|date=1925, 1926, 1927, 1929, 1930, 1936|location=København|publisher=Bianco Lunos}}
+
+====Morocco====
+* {{cite book|title=Algues de la côte atlantique marocaine|first=Paulette |last=Gayral|date=1958|publisher=Rabat [Société des sciences naturelles et physiques du Maroc]|location=Casablanca|language=French }}
+
+====South Africa====
+* {{cite book|last=Stegenga|first= H.|coauthors= Bolton, J.J.; Anderson, R.J.| date=1997|title=Seaweeds of the South African West Coast|publisher=Bolus Herbarium, University of Cape Town| id=ISBN 079921793x}}
+
+====North America====
+* {{cite book|last=Abbott|first= I.A.|coauthors= Hollenberg, G.J.|date= 1976|title= Marine Algae of California|publisher= Stanford University Press|location= California|id= ISBN 0804708673}}
+* {{cite book|last=Greeson|first= Phillip E.|date= 1982 |title=An annotated key to the identification of commonly occurring and dominant genera of Algae observed in the Phytoplankton of the United States| publisher=U.S. Department of the Interior, Geological Survey| location=Washington, D.C.| url=http://www.archive.org/details/annotatedkeytoid00gree|accessdate=2008-12-19}}
+* {{cite book|last=Taylor|first= William Randolph|date=1937, 1957, 1962, 1969|title=Marine Algae of the Northeastern Coast of North America|publisher=University of Michigan Press|location= Ann Arbor}}
+* {{cite book|last=Wehr|first= J D|last2= Sheath|first2= R G|date=2003|title=Freshwater Algae of North America: Ecology and Classification|publisher=Academic Press|location= USA}}
+&lt;/div&gt;
+
+==See also==
+* [[AlgaeBase]]
+* [[Microphyte]]
+* [[Nutrition]]
+* [[Plant#Algae|Plant]]
+* [[Hediniella]]
+* [[Microalgae]]
+* [[Photobioreactor]]
+
+==External links==
+{{commonscat}}
+* [http://ccdb.ucsd.edu/sand/main?stype=lite&amp;keyword=algae&amp;event=display&amp;Submit=Go&amp;start=1 Algae - Cell Centered Database]
+* {{cite web|title=Algae Research|publisher=National Museum of Natural History, Department of Botany|date=2008|url=http://botany.si.edu/projects/algae/|accessdate=2008-12-19}}
+* {{cite web| first=Don |last=Anderson |coauthors=Bruce Keafer; Judy Kleindinst; Katie Shaughnessy; Katherine Joyce; Danielle Fino; Adam Shepherd |title=Harmful Algae|date=2007|publisher=U.S. National Office for Harmful Algal Blooms|url=http://www.whoi.edu/redtide/page.do?pid=14779|accessdate=2008-12-19}}
+* {{cite web|title=Australian Freshwater Algae (AFA)|publisher=Department of Environment and Climate Change NSW Botanic Gardens Trust|url=http://www.rbgsyd.nsw.gov.au/science/hot_science_topics/australian_freshwater_algae2|accessdate=2008-12-19}}
+* {{cite web|title=Monterey Bay Flora|publisher=Monterey Bay Aquarium Research Institute (MBARI)|date=1996–2008|accessdate=2008-12-20|url=http://www.mbari.org/staff/conn/botany/flora/mflora.htm}}
+* {{cite web|url=http://ucjeps.berkeley.edu/INA.html|title= Index Nominum Algarum (INA)|first=Paul|last=Silva|date=1997–2004|publisher=University Herbarium, University of California|city=Berkeley|accessdate=2008-12-19}}
+* [http://tolweb.org/notes/?note_id=52 Algae: Protists with Chloroplasts]
+* {{cite web|title=Research on microalgae|publisher=Wageningen UR|date=2009|url=http://www.algae.wur.nl/uk/|accessdate=2009-05-18}}
+{{-}}
+{{Botany}}
+{{fisheries and fishing}}
+
+[[Category:Algae| ]]
+
+[[af:Alg]]
+[[ar:أشنيات]]
+[[bg:Водорасли]]
+[[ca:Alga]]
+[[cs:Řasy]]
+[[da:Alge]]
+[[de:Alge]]
+[[et:Vetikad]]
+[[el:Φύκη]]
+[[myv:Ведьбарсей]]
+[[es:Alga]]
+[[eo:Algo]]
+[[eu:Alga]]
+[[fa:جلبک]]
+[[fr:Algue]]
+[[ga:Algaí]]
+[[gl:Alga]]
+[[ko:조류 (수생 생물)]]
+[[hi:शैवाल]]
+[[hr:Alge]]
+[[io:Algo]]
+[[id:Alga]]
+[[it:Alga]]
+[[he:אצות]]
+[[jv:Ganggang]]
+[[ka:წყალმცენარეები]]
+[[kk:Балдырлар]]
+[[la:Alga]]
+[[lv:Aļģes]]
+[[lt:Dumbliai]]
+[[hu:Alga]]
+[[mk:Алги]]
+[[nl:Algen]]
+[[ja:藻類]]
+[[no:Alge]]
+[[nn:Alge]]
+[[pl:Glony]]
+[[pt:Alga]]
+[[ro:Algă]]
+[[qu:Laqu]]
+[[ru:Водоросли]]
+[[scn:Àlica]]
+[[simple:Algae]]
+[[sk:Riasa]]
+[[sl:Alge]]
+[[sr:Алге]]
+[[sh:Alge]]
+[[fi:Levä]]
+[[sv:Alger]]
+[[ta:பாசிகள்]]
+[[te:శైవలాలు]]
+[[th:สาหร่าย]]
+[[tr:Su yosunları]]
+[[uk:Водорості]]
+[[ur:طحالب]]
+[[vi:Tảo]]
+[[zh:藻類]]

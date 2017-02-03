@@ -1,0 +1,810 @@
+      {{For|the manga|Afghanis-tan}}
+{{pp-semi|small=yes}}
+
+{{Infobox Country
+|native_name=&lt;span style=&quot;line-height:1.33em;&quot;&gt;&lt;big&gt;جمهوری اسلامی افغانستان &lt;/big&gt;&lt;br/&gt;&lt;small&gt;({{lang-fa|{{unicode|Jomhūrī-ye Eslāmī-ye Afġānistān}}}})&lt;/small&gt;&lt;/big&gt;&lt;br/&gt;&lt;big&gt; د افغانستان اسلامي جمهوریت &lt;/big&gt;&lt;br/&gt;&lt;small&gt;({{lang-ps|{{unicode|De Afγānistān Islāmi J̌amhuriyat}}}})&lt;/small&gt;&lt;/span&gt;&lt;br/&gt; 
+|conventional_long_name=Islamic Republic of Afghanistan
+|common_name=Afghanistan
+|image_flag=Flag of Afghanistan.svg
+|image_coat=Coat of arms of Afghanistan.svg
+|symbol_type=Emblem
+|image_map=LocationAfghanistan.svg
+|national_motto=
+|national_anthem=''[[Milli Tharana]]''
+|official_languages=[[Dari (Persian)]], [[Pashto]]&lt;ref name=&quot;CIA&quot;&gt;{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/AF.html|title=Afghanistan|date=December 13, 2007|work=[[The World Factbook]]|publisher=[[Central Intelligence Agency]]}}&lt;/ref&gt; 
+|demonym=[[Afghan]]{{ref_label|crown|alternatives|none}}
+|capital=[[Kabul]]
+|latd=34|latm=31|latNS=N|longd=69|longm=08|longEW=E
+|largest_city=capital
+|government_type=[[Islamic republic]]
+|leader_title1=[[President of Afghanistan|President]]
+|leader_title2=[[Vice President of Afghanistan|Vice President]]
+|leader_name1=[[Hamid Karzai]]
+|leader_name2=[[Ahmad Zia Massoud]]
+|leader_title3=[[Vice President]]
+|leader_name3=[[Karim Khalili]]
+|leader_title4=[[Chief Justice of Afghanistan|Chief Justice]]
+|leader_name4=[[Abdul Salam Azimi]]
+|area_rank=41st
+|area_magnitude=1_E11
+|area_km2=647500
+|area_sq_mi=251772
+|percent_water=negligible
+|population_estimate=28,150,000&lt;ref name=unpop&gt;{{cite paper | url=http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf | title=World Population Prospects, Table A.1| version=2008 revision  | format=.PDF | publisher=United Nations | author=Department of Economic and Social Affairs
+Population Division | date=2009 | accessdate= 2009-03-12}}&lt;/ref&gt;
+|population_estimate_year=2009
+|population_estimate_rank=37th
+|population_census=13,051,358
+|population_census_year=1979
+|population_density_km2=43.5
+|population_density_sq_mi=111.8
+|population_density_rank=150th
+|GDP_PPP_year=2008
+|GDP_PPP=$35 billion&lt;ref&gt;http://www.intute.ac.uk/worldguide/html/802_economic.html&lt;/ref&gt;
+|GDP_PPP_rank=96th
+|GDP_PPP_per_capita=$1000&lt;ref&gt;http://www.intute.ac.uk/worldguide/html/802_economic.html&lt;/ref&gt;
+|GDP_PPP_per_capita_rank=172nd
+|GDP_nominal_year=2008
+|GDP_nominal=$12.061 billion&lt;ref name=imf2 /&gt;
+|GDP_nominal_per_capita=$428&lt;ref name=imf2 /&gt;
+|HDI_year=2007
+|HDI=0.345
+|HDI_rank=174
+|HDI_category=&lt;font color=&quot;#e0584e&quot;&gt;low&lt;/font&gt;
+|FSI=102.3 {{Increase}} 2.5
+|FSI_year=2007
+|FSI_rank=8th
+|FSI_category=&lt;font color=&quot;#FF0000&quot;&gt;Alert&lt;/font&gt; 
+|sovereignty_type=[[History of Afghanistan|Establishment]]
+|established_event1=[[Durrani Empire|First Afghan state]]&lt;ref&gt;''&quot;Afghanistan&quot;'', [https://www.cia.gov/library/publications/the-world-factbook/geos/AF.html CIA - The World Factbook 2007].&lt;/ref&gt;
+|established_date1=October 1747
+|established_event2=[[Treaty of Rawalpindi|Independence]] from the United Kingdom
+|established_date2=August 19, 1919
+|currency=[[Afghan afghani|Afghani]]
+|currency_code=AFN
+|country_code=AFG
+|time_zone=D†
+|utc_offset=+4:30
+|drives_on=right 
+|cctld=[[.af]]
+|calling_code=93
+|footnote1=
+}}
+
+'''Afghanistan''' ({{pron-en|æfˈɡænɨstæn}}),&lt;ref&gt;[[The American Heritage Dictionary of the English Language]], Fourth Edition. Houghton Mifflin Company, 2004.&lt;/ref&gt; officially the '''[[Islamic republic|Islamic Republic]] of Afghanistan''', is a [[landlocked country]] that is located approximately in the center of Asia. It is variously designated as geographically located within [[Central Asia]],&lt;ref&gt;[http://web.utah.edu/meca/2007Conf/2007%20MECA-%20Final%20Program.pdf ''The 2007 Middle East &amp; Central Asia Politics, Economics,and Society Conference'' University of Utah].&lt;/ref&gt;&lt;ref&gt;[http://www.imf.org/external/pubs/ft/reo/2006/eng/01/mreo0506.pdf &quot;Regional Economic Outlook: Middle East &amp; Central Asia&quot; May 2006, International Monetary Fund].&lt;/ref&gt; [[South Asia]],&lt;ref&gt;CIA world factbook, [https://www.cia.gov/library/publications/the-world-factbook/geos/AF.html Afghanistan - Geography (Location: Southern Asia)].&lt;/ref&gt;&lt;ref name=&quot;SouthAsia&quot;&gt;[http://www.ias.berkeley.edu/southasia/aboutus.html University of California], [http://www.southasiaoutreach.wisc.edu/countries.htm], [http://www.southasia.upenn.edu/home/views/languages.html University of Pennsylvania], [http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/0,,menuPK:158937~pagePK:158889~piPK:146815~theSitePK:223547,00.html World Bank]; [http://pubs.usgs.gov/of/1997/ofr-97-470/OF97-470C/asiaGmap.html U.S. maps]; [http://usinfo.state.gov/xarchives/display.html?p=washfile-english&amp;y=2007&amp;m=August&amp;x=20070829160347saikceinawz0.2609064] ; [http://jsis.washington.edu/advise/catalog/soasia-b.html University of Washington] [http://www.maxwell.syr.edu/moynihan/programs/sac/ Syracuse University]&lt;/ref&gt; or the [[Middle East]].&lt;ref&gt;[http://fas.org/sgp/crs/mideast/R40586.pdf &quot;CRS: Middle East Elections 2009: Lebanon, Iran, Afghanistan, and Iraq&quot;]&lt;/ref&gt; It is bordered by [[Iran]] in the south and west, [[Pakistan]] in the south and east, [[Turkmenistan]], [[Uzbekistan]] and [[Tajikistan]] in the north, and [[China]] in the far northeast. 
+
+Afghanistan is a crossroads between the [[Eastern world|East]] and the [[Western world|West]], and was an ancient focal point of the [[Silk Road]] and [[Human migration|migration]]. It has an important [[geostrategy|geostrategic]] location, connecting South and Central Asia and Middle East. Because of this, the land has been a target of various invaders and conquerors, as well as a source from which local powers invaded surrounding regions to form their own empires. [[Ahmad Shah Durrani]] created the [[Durrani Empire]] in 1747, which is considered the beginning of modern Afghanistan.&lt;ref name=&quot;britannica-durrani&quot;&gt;[http://concise.britannica.com/ebc/article-9354776/Ahmad-Shah-Durrani ''Ahmad Shah Durrani''], Britannica Concise.&lt;/ref&gt; Subsequently, the capital was shifted to [[Kabul]] and most of its territories ceded to former neighboring countries. In the late 19th century, Afghanistan became a [[buffer state]] in &quot;[[The Great Game]]&quot; played between the [[British Indian Empire]] and [[Russian Empire]].&lt;ref&gt;The Decline of the Pashtuns in Afghanistan, Anwar-ul-Haq Ahady, Asian Survey, Vol. 35, No. 7. (Jul., 1995), pp. 621–634.&lt;/ref&gt; On August 19, 1919, following the [[European influence in Afghanistan#Third Anglo-Afghan War and Independence|third Anglo-Afghan war]], the country regained full independence from the United Kingdom over its [[foreign affairs]].
+
+Since the late 1970s Afghanistan has suffered continuous and brutal [[Afghan Civil War|civil war]] in addition to foreign interventions in the form of the 1979 [[Soviet war in Afghanistan|Soviet invasion]] and the 2001 [[War in Afghanistan (2001–present)|U.S.-led invasion]] that toppled the [[Taliban]] government. In late 2001 the [[United Nations Security Council]] authorized the creation of an [[International Security Assistance Force|International Security Assistance Force (ISAF)]] composed of [[NATO]] troops.
+
+==Etymology==
+{{main|Origins of the name Afghan|List of country name etymologies}}
+The name ''Afghānistān,'' Persian افغانستان {{IPA-all|avɣɒnestɒn|}},&lt;ref&gt;Cowan, William and Jaromira Rakušan. Source Book for Linguistics. 3rd ed. Amsterdam and Philadelphia: John Benjamins, 1998.&lt;/ref&gt; means ''&quot;[[-stan|Land of Afghans]]&quot;,'' from the word ''[[Origins of the name Afghan|Afghan]]''.
+
+====Origin of the name====
+The first part of the name, &quot;Afghan&quot;, is an alternative name for the [[Pashtuns]] who are the founders and the largest ethnic group of the country. They probably began using the term ''Afghan'' as a name for themselves since at least the [[Islam]]ic period and onwards. According to W. K. Frazier Tyler, M. C. Gillet and several other scholars ''&quot;the word Afghan first appears in history in the [[Hudud ul-'alam min al-mashriq ila al-maghrib|Ḥudūd al-ʿĀlam]] in 982 AD.&quot;'' [[Al-Biruni]] referred to Afghans as various tribes living on the western frontier mountains of the [[Indus River]], which would be the [[Sulaiman Mountains]].&lt;ref name=&quot;EofI&quot;&gt;{{cite encyclopedia|last=Morgenstierne|first=G.|title=AF&lt;u&gt;GH&lt;/u&gt;ĀN|encyclopedia=[[Encyclopaedia of Islam]]|edition=CD-ROM Edition v. 1.0|publisher=Koninklijke Brill NV|location=Leiden, The Netherlands|year=1999}}&lt;/ref&gt; 
+
+A [[Morocco|Moroccan]] traveller, [[Ibn Battuta]], visiting Kabul in 1333 writes:&lt;ref&gt;Nancy Hatch Dupree - [http://www.aisk.org/aisk/NHDAHGTK05.php#Top The Story of Kabul (Mongols)].&lt;/ref&gt; 
+{{quote|We travelled on to Kabul, formerly a vast town, the site of which is now occupied by a village inhabited by a tribe of [[Iranian peoples|Persians]] called Afghans.}}
+
+In this regard the ''[[Encyclopædia Iranica]]'' states:&lt;ref&gt;[http://www.iranica.com/newsite/articles/v1f5/v1f5a037.html &quot;Afghan&quot;] (with ref. to &quot;Afghanistan: iv. Ethnography&quot;) by Ch. M. Kieffer, ''[[Encyclopaedia Iranica]]'' Online Edition 2006.&lt;/ref&gt;
+{{quote|From a more limited, ethnological point of view, &quot;Af&lt;u&gt;gh&lt;/u&gt;ān&quot; is the term by which the Persian-speakers of Afghanistan (and the non-Paštō-speaking ethnic groups generally) designate the Paštūn. The equation [of] ''Afghan'' [and] ''Paštūn'' has been propagated all the more, both in and beyond Afghanistan, because the Paštūn tribal confederation is by far the most important in the country, numerically and politically.}}
+
+It further explains:
+{{quote|The term &quot;Af&lt;u&gt;gh&lt;/u&gt;ān&quot; has probably designated the Paštūn since ancient times. Under the form ''Avagānā'', this ethnic group is first mentioned by the Indian astronomer [[Varahamihira|Varāha Mihira]] in the beginning of the 6th century CE in his ''[[Bṛhat Saṃhitā|Brihat-samhita]]''.}}
+
+This information is supported by traditional [[Pashto|Pashto literature]], for example, in the writings of the 17th-century Pashto poet [[Khushal Khan Khattak]]:&lt;ref&gt;''extract from &quot;Passion of the Afghan&quot;'' by [[Khushal Khan Khattak]]; translated by C. Biddulph in ''&quot;Afghan Poetry Of The 17th Century: Selections from the Poems of Khushal Khan Khattak''&quot;, [[London]], 1890.&lt;/ref&gt;
+
+{{quote|Pull out your sword and slay any one, that says Pashtun and Afghan are not one! Arabs know this and so do Romans: Afghans are Pashtuns, Pashtuns are Afghans!}}
+
+The last part of the name, ''[[-stan|-stān]]'' is an ancient [[Indo-Iranian languages|Indo-Iranian]] suffix for &quot;place&quot;, prominent in many languages of the region.
+
+The term &quot;''Afghanistan'',&quot; meaning the &quot;''Land of Afghans'',&quot; was mentioned by the sixteenth century [[Mughal Empire|Mughal Emperor]] Babur in his [[Baburnama|memoirs]], referring to the territories south of [[Kabul]] that were inhabited by Pashtuns (called ''&quot;Afghans&quot;'' by Babur).&lt;ref&gt;[http://persian.packhum.org/persian//pf?file=03501051&amp;ct=92 &quot;Transactions of the year 908&quot;] by Zāhir ud-Dīn Mohammad Bābur in Bāburnāma, translated by John Leyden, Oxford University Press: 1921.&lt;/ref&gt;
+
+Until the 19th century the name was only used for the traditional lands of the Pashtuns, while the kingdom as a whole was known as the ''[[Caboul|Kingdom of Kabul]]'', as mentioned by the [[United Kingdom|British]] statesman and historian [[Mountstuart Elphinstone]].&lt;ref&gt;[[Mountstuart Elphinstone|Elphinstone, M.]], ''&quot;Account of the Kingdom of Cabul and its Dependencies in Persia and India&quot;'', [[London]] 1815; published by Longman, Hurst, Rees, Orme &amp; Brown.&lt;/ref&gt; Other parts of the country were at certain periods recognized as independent kingdoms, such as the ''Kingdom of Balkh'' in the late eighteenth and early nineteenth centuries.&lt;ref&gt;E. Bowen, ''&quot;A New &amp; Accurate Map of Persia&quot;'' in ''A Complete System Of Geography'', Printed for W. Innys, R. Ware [etc.], [[London]] 1747.&lt;/ref&gt;
+
+With the expansion and centralization of the country, Afghan authorities adopted and extended the name &quot;Afghanistan&quot; to the entire kingdom, after its English translation had already appeared in various treaties between the [[British Raj]] and [[Qajar dynasty|Qajarid Persia]], referring to the lands subject to the [[Pashtun]] [[Barakzai Dynasty]] of Kabul.&lt;ref&gt;E. Huntington, ''&quot;The Anglo-Russian Agreement as to Tibet, Afghanistan, and Persia&quot;'', Bulletin of the American Geographical Society, Vol. 39, No. 11 (1907).&lt;/ref&gt; &quot;Afghanistan&quot; as the name for the entire kingdom was mentioned in 1857 by [[Friedrich Engels]].&lt;ref name=&quot;MECW&quot;&gt;[http://www.marxists.org/archive/marx/works/1857/afghanistan/index.htm MECW Volume 18, p. 40; The New American Cyclopaedia - Vol. I, 1858].&lt;/ref&gt; It became the official name when the country was recognized by the world community in 1919, after regaining full independence over its [[foreign affairs]] from the British,&lt;ref&gt;M. Ali, ''&quot;Afghanistan: The War of Independence, 1919&quot;'', Kabul [s.n.], 1960.&lt;/ref&gt; and was confirmed as such in the nation's 1923 constitution.&lt;ref&gt;[http://www.afghan-web.com/history/const/const1923.html Afghanistan's Constitution of 1923] under ''[[Amanullah Khan|King Amanullah Khan]]'' (English translation).&lt;/ref&gt;
+
+==Geography==
+{{main|Geography of Afghanistan}}
+[[File:Afghan topo en.jpg|thumb|300px|Topography]]
+Afghanistan is a landlocked and [[mountain]]ous country in South-[[Central Asia]], with plains in the north and southwest. The highest point is [[Nowshak]], at 7,485&amp;nbsp;m (24,557&amp;nbsp;ft) above sea level. The [[Geography of Afghanistan#Climate|climate]] varies by region and tends to change quite rapidly. Large parts of the country are dry, and fresh water supplies are limited. The [[Endorheic basin|endorheic]] [[Sistan Basin]] is one of the driest regions in the world.&lt;ref&gt;{{cite web|url=http://postconflict.unep.ch/publications/sistan.pdf|format=pdf|title=History of Environmental Change in the Sistan Basin 1976–2005|accessdate=2007-07-20}}&lt;/ref&gt; Afghanistan has a continental climate with very harsh winters in the [[Hazarajat|central highlands]], the glacierized northeast (around [[Nuristan]]) and the [[Wakhan Corridor]], where the average temperature in January is below -15°C, and hot summers in the low-lying areas of [[Sistan Basin]] of the southwest, the [[Jalalabad]] basin of the east, and the [[Afghan Turkestan|Turkistan]] plains along the [[Amu River]] of the north, where temperature averages over 35°C in July. The country is frequently subject to minor [[earthquake]]s, mainly in the northeast of [[Hindu Kush]] mountain areas. Some 125 villages were damaged and 4000 people killed by the May 30, 1998 earthquake.
+
+At 249,984&amp;nbsp;sq&amp;nbsp;mi (647,500&amp;nbsp;km²), Afghanistan is the world's 41st-largest country (after [[Burma]]).
+
+[[Tajikistan]], [[Turkmenistan]] and [[Uzbekistan]] border Afghanistan to the north, [[Iran]] to the west, [[Pakistan]] to the south and the [[People's Republic of China]] to the east.
+
+The country's natural resources include [[gold]], [[silver]], [[copper]], [[zinc]], and [[iron ore]] in the Southeast; precious and [[semi-precious stones]] (such as [[lapis]], [[emerald]], and [[azure]]) in the Northeast; and potentially significant [[petroleum]] and [[natural gas]] reserves in the North. The country also has [[uranium]], [[coal]], [[chromite]], [[talc]], [[barites]], [[sulfur]], [[lead]], and [[salt]].&lt;ref name=&quot;CIA&quot;&gt;[https://www.cia.gov/library/publications/the-world-factbook/geos/AF.html ''Afghanistan''], CIA World Factbook.&lt;/ref&gt;&lt;ref name=&quot;AfghanMinerals&quot;&gt;[http://www.bgs.ac.uk/AfghanMinerals/docs/Gold_A4.pdf#search='gold%20and%20copper%20discovered%20in%20afghanistan' ''Gold and copper discovered in Afghanistan''].&lt;/ref&gt;&lt;ref&gt;[http://www.wise-uranium.org/uissr05.html#NEWDISC Uranium Mining Issues: 2005 Review].&lt;/ref&gt;&lt;ref&gt;[http://www.pajhwak.com/viewstory.asp?id=29308 ''16 detained for smuggling chromites''], Pajhwok Afghan News.&lt;/ref&gt; However, these significant mineral and energy resources remain largely untapped, due to the effects of the Soviet invasion and the subsequent civil war. Plans are underway to begin extracting them in the near future.&lt;ref name=&quot;Eurasianet&quot;&gt;[http://www.eurasianet.org/departments/insight/articles/eav090306.shtml ''Afghanistan’s Energy Future and its Potential Implications''], Eurasianet.org.&lt;/ref&gt;&lt;ref name=&quot;Pajhwok&quot;&gt;[http://www.pajhwok.com/viewstory.asp?lng=eng&amp;id=27383 ''Govt plans to lease out Ainak copper mine''], Pajhwok Afghan News.&lt;/ref&gt;
+
+==History==
+{{main|History of Afghanistan}}
+[[File:Indo-Sassanid.jpg|thumb|300px|For many centuries, the region that is now ''Afghanistan'' was the eastern part of the [[Persian Empire]]. Ever since, it forms the eastern periphery to the [[Greater Iran|Iranian Cultural Continent]].]]
+Though the modern state of Afghanistan was founded or created in 1747 by [[Ahmad Shah Durrani]],&lt;ref name=&quot;britannica-durrani&quot;/&gt; the land has an ancient history and various timelines of different civilizations. Excavation of prehistoric sites by Louis Dupree, the [[University of Pennsylvania]], the [[Smithsonian Institution]] and others suggests that humans were living in what is now Afghanistan at least 50,000 years ago, and that farming communities of the area were among the earliest in the world.&lt;ref&gt;[http://www.zharov.com/dupree/chapter03.html Sites in Perspective], chapter 3 of Nancy Hatch Dupree, ''An Historical Guide To Afghanistan''.&lt;/ref&gt;&lt;ref&gt;[http://encarta.msn.com/text_761569370___42/Afghanistan.html ''Afghanistan''], Microsoft Encarta Online Encyclopedia 2006 (specifically John Ford Shroder, B.S., M.S., Ph.D.
+Regents Professor of Geography and Geology, University of Nebraska. Editor, Himalaya to the Sea: Geology, Geomorphology, and the Quaternary and other books).&lt;/ref&gt; 
+
+Afghanistan is a country at a unique nexus point where numerous [[Indo-European people|Indo-European]] civilizations have interacted and often fought, and was an important site of early historical activity. Through the ages, the region has been home to various people, among them the [[Aryan]] ([[Indo-Iranians|Indo-Iranian]]) tribes, such as the [[Kambojas]], [[Bactrians]], [[Pashtuns]], etc. It also has been conquered by a host of people, including the [[Median Empire|Median]] and [[Persian Empire]]s, [[Alexander the Great]], the [[Seleucids]], the [[Indo-Greeks]], [[Turkic peoples|Turks]], and [[Mongols]]. In recent times, invasions from the [[United Kingdom|British]], [[Soviet Union|Soviets]], and most recently by the [[War in Afghanistan (2001–present)|United States and their allies]] have taken place. On the other hand, native entities have invaded surrounding regions in [[Iranian plateau]], [[Central Asia]] and [[Indian subcontinent]] to form empires of their own.
+
+In 2000 BC, [[Indo-European languages|Indo-European]]-speaking [[Aryans]] are thought to have been in the region of Afghanistan. It is unlikely&lt;ref&gt;It is unlikely because of the migration significantly north of the Caspian. Bryant, Edwin F. (2001) ''The quest for the origins of Vedic culture: the Indo-Aryan migration debate'' Oxford University Press, Oxford, England, ISBN 0-19-513777-9.&lt;/ref&gt; that the [[Aryans]] themselves originated in Afghanistan although they did migrate from there south towards India and west towards [[Persia]], but they also migrated into Europe via north of the Caspian. These Aryans set up a nation which became known as [[Airyanem Vaejah|Airyānem Vāejah]]. Original homelands of the [[Aryans]] have been proposed as Anatolia, Kurdistan, Central Asia, Iran, or Northern India, with the directions of the historical migration varying accordingly.&lt;ref&gt;Lal, B. B. and Saraswat, K. S. (2005) ''The homeland of the Aryans : evidence of Ṛigvedic flora and fauna &amp; archaeology'' Aryan Books International, New Delhi, ISBN 81-7305-283-2.&lt;/ref&gt;&lt;ref&gt;Sethna, Kaikhushru Dhunjibhoy (1992) ''The Problem of Aryan Origins'' Aditya Prakashan, New Delhi, ISBN 81-85179-67-0.&lt;/ref&gt; Later, during the rule of [[Ashkanian]], [[Sasanian]] and after, it was called Erānshahr ({{lang-fa|&lt;big&gt;ايرانشهر &lt;/big&gt;}} - ''Īrānšahr'') meaning “Dominion of the Aryans”.
+
+It has been speculated that [[Zoroastrianism]] might have originated in what is now Afghanistan between 1800 to 800 BC, as [[Zoroaster]] lived and died in [[Balkh]].&lt;ref&gt;''The history of Afghanistan'', [http://www.gandhara.com.au/afghan_table.html Ghandara.com website].&lt;/ref&gt;&lt;ref&gt;''Afghanistan: Achaemenid dynasty rule'', Ancient Classical History, [http://ancienthistory.about.com/library/bl/bl_afghanachaemenid.htm about.com].&lt;/ref&gt; Ancient [[Iranian languages|Eastern Iranian languages]], such as [[Avestan]], may have been spoken in this region around the time of the rise of Zoroastrianism. By the middle of the sixth century BC, the [[Persian Empire]] of the [[Achaemenid]] Persians overthrew the [[Medes|Median Empire]] and incorporated Afghanistan (known as [[Arachosia]] to the Greeks) within its boundaries. [[Alexander the Great]] conquered Afghanistan after 330 BCE. Following Alexander's brief occupation, the successor state of the [[Seleucid Empire]] controlled the area until 305 BCE, when they gave most of the area to the Hindu [[Mauryan Empire]] as part of an alliance treaty. During Mauryan rule, [[Hinduism]] and [[Budhism]] became the dominant religions in the region. The Mauryans were overthrown by the [[Sunga Dynasty]] in 185 BCE, leading to the [[Hellenistic civilization|Hellenistic]] reconquest of Afghanistan by the [[Greco-Bactrians]] by 180 BCE. Much of Afghanistan soon broke away from the Greco-Bactrians and became part of the [[Indo-Greek Kingdom]]. The Indo-Greeks were defeated by the [[Indo-Scythians]] and expelled from most of Afghanistan by the end of the 2nd century BCE.
+[[File:Greco-BactrianKingdomMap.jpg|thumb|The [[Greco-Bactrian Kingdom]] at its maximum extent, circa 180 BCE]]
+During the first century, the [[Parthian Empire]] subjugated Afghanistan, but lost it to their [[Indo-Parthian]] vassals. In the mid to late 1st century AD the vast [[Kushan Empire]], centered in modern Afghanistan, became great patrons of Buddhist culture. The Kushans were defeated by the [[Sassanid Empire|Sassanids]] in the third century. Although various rulers calling themselves [[Kushanshas]] (generally known as [[Indo-Sassanids]]) continued to rule at least parts of the region, they were probably more or less subject to the Sassanids.&lt;ref&gt;Dani, A. H. and B. A. Litvinsky. “The Kushano-Sasanian Kingdom”. In: ''History of civilizations of Central Asia, Volume III. The crossroads of civilizations: A.D. 250 to 750''. Litvinsky, B. A., ed., 1996. Paris: UNESCO Publishing, pp. 103–118. ISBN 92-3-103211-9.&lt;/ref&gt; The late Kushans were followed by the [[Kidarite]] Huns&lt;ref&gt;Zeimal, E. V. “The Kidarite Kingdom in Central Asia”. In: ''History of civilizations of Central Asia, Volume III. The crossroads of civilizations: A.D. 250 to 750''. Litvinsky, B. A., ed., 1996, Paris: UNESCO Publishing, pp. 119–133. ISBN 92-3-103211-9.&lt;/ref&gt; who, in turn, were replaced by the short-lived but powerful [[Hephthalites]], as rulers of the region in the first half of the fifth century.&lt;ref&gt;Litvinsky, B. A. “The Hephthalite Empire”. In: ''History of civilizations of Central Asia, Volume III. The crossroads of civilizations: A.D. 250 to 750''. Litvinsky, B. A., ed., 1996, Paris: UNESCO Publishing, pp. 135–162. ISBN 92-3-103211-9.&lt;/ref&gt; The Hephthalites were defeated by the Sasanian king [[Khosrau I]] in AD 557, who re-established Sassanid power in Persia. However, the successors of Kushans and Hepthalites established a small dynasty in [[Kabulistan]] called [[Kushano-Hephthalites]] or [[Kushano-Hephthalite|Kabul-Shahan]]/[[Shahi]], who were later defeated by the Muslim [[Arab]] armies and finally conquered by Muslim Turkish armies led by the [[Ghaznavids]].
+
+===Islamic and Mongol conquests of the region===
+[[File:Age of Caliphs.png|thumb|300px|Afghanistan was the eastern frontier of the Islamic Caliphate by 750.]]
+{{Main|Islamic conquest of Afghanistan|Mongol invasion of Central Asia}}
+In the [[Middle Ages]], up to the nineteenth century, Afghanistan was part of a larger region known as [[Greater Khorasan]].&lt;ref&gt;Ali Akbar Dehkhoda, ''[[Dehkhoda Dictionary]]'', p. 8457.&lt;/ref&gt;&lt;ref&gt;Ghubar, Mir Ghulam Mohammad, ''Khorasan'', 1937 Kabul Printing House, Kabul).&lt;/ref&gt;&lt;ref&gt;[http://www.tajik-gateway.org/index.phtml?lang=en&amp;id=1005 Tajikistan Development Gateway], from ''History of Afghanistan'' by the [http://www.developmentgateway.org/aboutus Development Gateway Foundation].&lt;/ref&gt; Several important centers of Khorāsān are thus located in modern Afghanistan, such as [[Balkh]], [[Herat]], [[Ghazni]] and [[Kabul]]. It was during this period of time when [[Islam]] was introduced and spread in the area.
+[[Image:Avicenna Persian Physician.jpg|thumb|180px|The [[Persian people|Persian]] scholar [[Avicenna]]. His father was from [[Balkh]], an important city of the [[Persian Empire]], in what is today contemporary Afghanistan.]]
+The region of Afghanistan became the center of various important empires, including that of the [[Shahi]]s, [[Samanid]]s (875–999), [[Ghaznavid Empire|Ghaznavids]] (977–1187), [[Seljukids]] (1037–1194), [[Ghurids]] (1149–1212), [[Mongol Empire]], [[Ilkhanate]] (1225–1335), and [[Timurid Dynasty|Timurids]] (1370–1506). Among them, the periods of the Ghaznavids&lt;ref&gt;[http://www.britannica.com/eb/article-9036676/Ghaznavid-Dynasty Ghaznavid Dynasty], ''Encyclopaedia Britannica'' Online Edition.&lt;/ref&gt; and Timurids&lt;ref&gt;[http://www.britannica.com/eb/article-9072546/Timurid-Dynasty Timurid Dynasty], ''Encyclopaedia Britannica'' Online Edition.&lt;/ref&gt; are considered as some of the most brilliant eras of the region's history.
+
+In 1219 the region was overrun by the [[Mongols]] under [[Genghis Khan]], who devastated the land, including, for example, exterminating every human being in the ancient cities of [[Herat]] and [[Balkh]].&lt;ref&gt;[https://faculty.washington.edu/modelski/CAWC.htm Central Asian world cities]. Faculty.washington.edu.&lt;/ref&gt; The destruction caused by the Mongols depopulated major cities and caused much of the population to revert to an agrarian rural society.&lt;ref&gt;[http://www.usatoday.com/news/world/2009-02-17-afghanistan-forces_N.htm Obama's war: Deploying 17,000 raises stakes in Afghanistan]. USATODAY.com. February 18, 2009.&lt;/ref&gt; Their rule continued with the [[Ilkhanate]] [one of 4 Subordinate Mongolian Khanates], and was extended further following the [[invasion]] of [[Timur|Timur Lang]] (“Tamerlane”), a ruler from Central Asia. In 1504, [[Babur]], a descendant of both Timur Lang and Genghis Khan, established the [[Mughal Empire]] with its capital at [[Kabul]]. By the early 1700s, Afghanistan was controlled by several ruling groups: [[Uzbeks]] to the north, [[Safavids]] to the west and the remaining larger area by the Mughals or self-ruled by local tribes.
+
+===Hotaki dynasty===
+{{Main|Hotaki dynasty}}
+In 1709, [[Mir Wais Hotak]], a local Afghan (''Pashtun'') from the [[Ghilzai]] clan, overthrew and killed [[Gurgin Khan]], the Safavid governor of [[Kandahar Province|Kandahar]]. Mir Wais successfully defeated the Persians, who were attempting to convert the local population of Kandahar from [[Sunni]] to the [[Shia Islam|Shia]] sect of [[Islam]]. Mir Wais held the region of Kandahar until his death in 1715 and was succeeded by his son [[Mir Mahmud Hotaki]]. In 1722, Mir Mahmud led an Afghan army to [[Isfahan]] ([[Iran]]), sacked the city and proclaimed himself [[Shah of Persia|King of Persia]]. However, the great majority still rejected the Afghan regime as usurping, and after the massacre of thousands of civilians in Isfahan by the Afghans &amp;ndash; including more than three thousand religious scholars, nobles, and members of the Safavid family &amp;ndash; the [[Hotaki|Hotaki dynasty]] was eventually removed from power by a new ruler, [[Nadir Shah]] of Persia.&lt;ref&gt;[http://www.iranica.com/newsite/articles/v2f8/v2f8a024.html “Ašraf &lt;u&gt;Gh&lt;/u&gt;ilzai”] by Prof. D. Balland, ''Encyclopaedia Iranica'' Online Edition 2006.&lt;/ref&gt;&lt;ref&gt;[http://www.britannica.com/eb/article-21394/Afghanistan “The Hotakis”] in &quot;Afghanistan&quot;, ''Encyclopaedia Britannica''.&lt;/ref&gt;
+[[File:Afgempdur.jpg|thumb|200px|Conquest of the Afghan Durrani Empire at its greatest extent]]
+[[File:Remnants of an army2.jpg‎|thumb|[[First Anglo-Afghan War]] (1839–42). [[William Brydon]] was the sole survivor of the invading British army of 16,500 soldiers and civilian camp followers.]]
+===Durrani Empire: beginnings of the “Afghan state”===
+{{Main|Durrani Empire}}
+In 1738, Nadir Shah and his army, which included four thousand Pashtuns of the [[Abdali]] clan,&lt;ref name=&quot;DurraniDynasty&quot;&gt;[http://www.britannica.com/eb/article-21396/Afghanistan The Durranti dynasty], in “Afghanistan”, ''Encyclopaedia Britannica''.&lt;/ref&gt; conquered the region of Kandahar; in the same year he occupied Ghazni, Kabul and [[Lahore]]. On June 19, 1747, Nadir Shah was assassinated, possibly planned by his nephew [[Adil Shah|Ali Qoli]]. In the same year, one of Nadir's military commanders and personal bodyguard, [[Ahmad Shah Abdali]], a Pashtun from the Abdali clan, called for a [[loya jirga]] following Nadir's death. The Afghans gathered at [[Kandahar]] and chose Ahmad Shah as their King. Since then, he is often regarded as the founder of modern Afghanistan.&lt;ref name=&quot;CIA&quot;/&gt;&lt;ref name=&quot;Britannica&quot;&gt;[http://www.britannica.com/eb/article-9004137/Ahmad-Shah-Durrani?source=YNFAF Ahmad Shah Durrani], ''Encyclopaedia Britannica''.&lt;/ref&gt;&lt;ref&gt;[http://www.zharov.com/dupree/chapter16.html The South], chapter 16 of Nancy Hatch Dupree, ''An Historical Guide To Afghanistan''.&lt;/ref&gt; After the inauguration, he changed his title or clans' name to ''“Durrani”'', which derives from the Persian word ''Durr'', meaning ''“Pearl”''.&lt;ref name=&quot;DurraniDynasty&quot;/&gt;
+
+By 1751, Ahmad Shah Durrani and his Afghan army conquered the entire present-day Afghanistan, Pakistan, Khorasan and Kohistan provinces of Iran, along with [[Delhi]] in India.&lt;ref name=&quot;MECW&quot;/&gt; In October 1772, Ahmad Shah retired to his home in [[Maruf]], Kandahar, where he died peacefully. He was succeeded by his son, [[Timur Shah Durrani]], who transferred the capital from Kandahar to Kabul. Timur died in 1793 and was finally succeeded by his son [[Zaman Shah Durrani]].
+
+===European influence and the creation of the state of Afghanistan===
+{{Main|European influence in Afghanistan}}
+
+During the nineteenth century, following the [[Anglo-Afghan war]]s (fought 1839–42, 1878–80, and lastly in 1919) and the ascension of the [[Barakzai|Barakzai dynasty]], Afghanistan saw much of its territory and autonomy ceded to the United Kingdom. The UK exercised a great deal of influence, and it was not until King [[Amanullah Khan]] acceded to the throne in 1919 that Afghanistan re-gained complete independence over its foreign affairs (see “[[The Great Game]]”). During the period of British intervention in Afghanistan, ethnic Pashtun territories were divided by the [[Durand Line]]. This would lead to strained relations between Afghanistan and British India – and later the new state of Pakistan – over what came to be known as the [[Pashtunistan]] debate.
+[[File:Bundesarchiv Bild 102-05494, Berlin, Besuch König von Afghanistan.jpg|thumb|King Amanullah on a royal trip to Berlin. This trip initiated a great alliance between Afghanistan and Germany that continues to this day.]]
+===The Kingdom of Afghanistan===
+King [[Amanullah Khan|Amanullah]] (1919-1929) moved to end his country's traditional isolation in the years following the Third Anglo-Afghan war. He established diplomatic relations with most major countries and, following a 1927 tour of [[Europe]] and [[Turkey]] (during which he noted the modernization and secularization advanced by [[Atatürk]]), introduced several reforms intended to modernize Afghanistan. A key force behind these reforms was [[Mahmud Tarzi]], [[Amanullah Khan]]'s Foreign Minister and father-in-law - and an ardent supporter of the education of women. He fought for Article 68 of Afghanistan's first constitution (declared through a [[Loya Jirga]]), which made elementary education compulsory.&lt;ref&gt;&quot;Education in Afghanistan,&quot; published in Encylopaedia Iranica, volume VIII - pp. 237-241...[http://www.ed.uiuc.edu/EPS/people/Shorish-Education_in_Afghanistan.htm Link].&lt;/ref&gt; Some of the reforms that were actually put in place, such as the abolition of the traditional [[Muslim]] [[veil]] for women and the opening of a number of co-educational schools, quickly alienated many tribal and religious leaders. Faced with overwhelming armed opposition, Amanullah was forced to abdicate in January 1929 after [[Kabul]] fell to forces led by [[Habibullah Kalakani]].
+
+[[File:Zaher Shah Kennedy.jpg|thumb|left|300px|Afghan King Zahir Shah and his wife with US President [[John F. Kennedy]] (far right) and his wife [[Jacqueline Kennedy Onassis|Jacqueline]] (far left).]]
+
+Prince Mohammed Nadir Khan, a cousin of Amanullah's, in turn defeated and killed Habibullah Kalakani in October of the same year, and with considerable Pashtun tribal support he was declared King Nadir Shah. He began consolidating power and regenerating the country. He abandoned the reforms of Amanullah Khan in favour of a more gradual approach to modernisation. In 1933, however, he was assassinated in a revenge killing by a Kabul student.
+
+Mohammad Zahir Shah, Nadir Khan's 19-year-old son, succeeded to the throne and reigned from 1933 to 1973. The longest period of stability in Afghanistan was when the country was under the rule of [[Mohammed Zahir Shah|King Zahir Shah]]. Until 1946 Zahir Shah ruled with the assistance of his uncle, who held the post of Prime Minister and continued the policies of Nadir Shah. In 1946, another of Zahir Shah's uncles, [[Sardar Shah Mahmud Khan]], became Prime Minister and began an experiment allowing greater political freedom, but reversed the policy when it went further than he expected. In 1953, he was replaced as Prime Minister by [[Mohammed Daoud Khan]], the king's cousin and brother-in-law. Daoud sought a closer relationship with the [[Soviet Union]] and a more distant one towards [[Pakistan]].
+
+During this period Afghanistan remained neutral. It was not a participant in [[World War II]], nor aligned with either power bloc in the [[Cold War]]. However, it was a beneficiary of the latter rivalry as both the Soviet Union and the U.S. vied for influence by building such works as hotels and sewer systems. A good two lane road was constructed from Iran. Running through Herat, Kandahar, and Kabul, it ended at the Pakistani border. By the late 1960s large numbers of travelers were using it as part of the [[Hippie trail]].
+
+===Republic of Afghanistan===
+{{Main|Democratic Republic of Afghanistan}}
+In 1973, Zahir Shah's brother-in-law, [[Mohammed Daoud Khan]], launched a bloodless coup and became the first [[President of Afghanistan]] while Zahir Shah was on an official overseas visit. Mohammed Daoud Khan jammed Afghan radio's with anti-Pakistani broadcasts and looked to the Soviet Union and the United States for aid for development.
+
+In 1978 a prominent member of the [[People's Democratic Party of Afghanistan]] (PDPA), [[Mir Akbar Khyber]] (or “Kaibar”), was killed by the government. The leaders of PDPA apparently feared that Daoud was planning to exterminate them all, especially since most of them were arrested by the government shortly after. [[Hafizullah Amin]] and a number of military wing officers of the PDPA managed to remain at large and organised an uprising. 
+
+The PDPA, led by [[Nur Mohammad Taraki]], [[Babrak Karmal]] and Amin overthrew the regime of Mohammad Daoud, who was killed along with his family. The uprising was known as the [[Khalq]], or Great Saur Revolution ('Saur' means 'April' in Pashto). On May 1 1978, Taraki became President, [[Prime Minister of Afghanistan|Prime Minister]] and [[General Secretary]] of the PDPA. The country was then renamed the [[Democratic Republic of Afghanistan]] (DRA), and the PDPA regime lasted, in some form or another, until April 1992.
+
+The 1978 Khalq uprising against the government of Daoud Khan was essentially a resurgence by the [[Ghilzai]] tribe of the [[Pashtun]] against the [[Durrani]] (the tribe of Daoud Khan and the previous monarchy).&lt;ref name=&quot;Iranica&quot;&gt;{{cite encyclopedia|last=Hanifi|first=M. Jamil|encyclopedia=[[Encyclopædia Iranica]]|title=&lt;u&gt;GH&lt;/u&gt;ILZĪ or &lt;u&gt;GH&lt;/u&gt;ALZĪ|url=http://www.iranica.com/newsite/articles/v10f6/v10f637.html|accessyear=2008|accessmonth=January|edition=Online Edition|publisher=[[Columbia University]]|location=United States }}&lt;/ref&gt;
+
+[[File:Evstafiev-40th army HQ-Amin-palace-Kabul.jpg|thumb|Kabul's Queens Palace before the Soviet invasion, as the headquarters of the PDPA.]]
+
+Once in power, the PDPA moved to permit [[freedom of religion]] and carried out an ambitious [[land reform]], waiving farmers' debts countrywide. They also made a number of statements on [[women’s rights]] and introduced women to political life. A prominent example was Anahita Ratebzad, who was a major Marxist leader and a member of the Revolutionary Council. Ratebzad wrote the famous May 28, 1978 ''New Kabul Times'' editorial which declared: “Privileges which women, by right, must have are equal education, job security, health services, and free time to rear a healthy generation for building the future of the country … Educating and enlightening women is now the subject of close government attention.”&lt;ref name=&quot;Prashad&quot;&gt;{{cite web
+|last=Prashad|first=Vijay 
+|title=War Against the Planet
+|url=http://www.zmag.org/prashcalam.htm
+|date=2001-09-15
+|publisher=[[ZMag]]
+|accessdate=2008-03-21}}&lt;/ref&gt;
+
+Many people in the cities including Kabul either welcomed or were ambivalent to these policies. However, the [[secular]] nature of the government made it unpopular with religiously conservative Afghans in the villages and the countryside, who favoured traditionalist 'Islamic' law.
+
+The U.S. saw the situation as a prime opportunity to weaken the [[Soviet Union]]. As part of a [[Cold War]] strategy, in 1979 the [[United States government]] (under President [[Jimmy Carter]]) began to covertly fund forces ranged against the pro-Soviet government, although warned that this might prompt a Soviet intervention, (according to National Security Advisor [[Zbigniew Brzezinski]]).&lt;ref name=&quot;The-CIA's-Intervention-in-Afghanistan&quot;&gt;{{cite web
+|title=The CIA's Intervention in Afghanistan (Interview with Zbigniew Brzezinski)
+|url=http://www.globalresearch.ca/articles/BRZ110A.html
+|date=1998-01-21
+|publisher=[[Le Nouvel Observateur]]
+|accessdate=2008-03-15 }}&lt;/ref&gt; The [[Mujahideen]] belonged to various different factions, but all shared, to varying degrees, a similarly conservative 'Islamic' ideology.
+
+In March 1979 Hafizullah Amin took over as prime minister, retaining the position of [[field marshal]] and becoming vice-president of the Supreme Defence Council. Taraki remained President and in control of the Army. On September 14, Amin overthrew Taraki, who died or was killed. Amin's tenure as prime minister lasted only a few months.
+
+===Soviet invasion and civil war===
+{{Main|Soviet war in Afghanistan|Civil war in Afghanistan}}
+In order to bolster the [[Parcham]] faction, the Soviet Union&amp;mdash;citing the 1978 Treaty of Friendship, Cooperation and Good Neighborliness that had been signed between the two countries&amp;mdash;intervened on December 24, 1979. Over 100,000 Soviet troops took part in the invasion backed by another one hundred thousand and by members of the Parcham faction. Amin was killed and replaced by Babrak Karmal.
+[[File:Evstafiev-afghan-apc-passes-russian.jpg|thumb|300px|Soviet troops withdrawing from Afghanistan in 1988.]]
+In response to the Soviet occupation of Afghanistan and part of its overall [[Cold War]] strategy, the [[United States]] responded by arming and otherwise supporting the Afghan [[mujahideen]], which had taken up arms against the Soviet occupiers. U.S. support began during the [[Jimmy Carter|Carter]] administration, but increased substantially during the [[Ronald Reagan|Reagan administration]], in which it became a centerpiece of the so-called [[Reagan Doctrine]] under which the U.S. provided support to anti-communist resistance movements in Afghanistan and also in [[Angola]], [[Nicaragua]], and other nations. In addition to U.S. support, the mujahideen received support from [[Pakistan]], [[Saudi Arabia]] and other nations.
+
+The Soviet occupation resulted in the killings of between six hundred thousand and 2{{nbsp}}million Afghan civilians. Over 5{{nbsp}}million [[Afghan refugees|Afghans]] fled their country to Pakistan, Iran and other parts of the world. Faced with mounting international pressure and great number of casualties on both sides, the Soviets withdrew in 1989.
+
+The Soviet withdrawal from the DRA was seen as an ideological victory in the U.S., which had backed the Mujahideen through three U.S. presidential administrations in order to counter Soviet influence in the vicinity of the oil-rich [[Persian Gulf]].
+
+Following the removal of the Soviet forces, the U.S. and its allies lost interest in Afghanistan and did little to help rebuild the war-ravaged country or influence events there.{{Fact|date=October 2008}} The [[USSR]] continued to support President [[Mohammad Najibullah]] (former head of the Afghan secret service, ''[[KHAD]]'') until 1992 when the new Russian government refused to sell oil products to the Najibullah regime.&lt;ref name=&quot;Columbia:Afghanistan:History&quot;&gt;[http://www.infoplease.com/ce6/world/A0856490.html Afghanistan: History], ''Columbia Encyclopedia''.&lt;/ref&gt;
+
+Because of the fighting, a number of elites and intellectuals fled to take refuge abroad. This led to a leadership imbalance in Afghanistan. Fighting continued among the victorious Mujahideen factions, which gave rise to a state of warlordism. The most serious fighting during this period occurred in 1994, when over 10,000 people were killed in Kabul alone. It was at this time that the [[Taliban]] developed as a politico-religious force, eventually seizing Kabul in 1996 and establishing the [[Islamic Emirate of Afghanistan]]. By the end of 2000 the Taliban had captured 95% of the country.
+
+During the Taliban's seven-year rule, much of the population experienced restrictions on their freedom and violations of their human rights. Women were banned from jobs, girls forbidden to attend schools or universities.&lt;ref&gt;http://physiciansforhumanrights.org/library/documents/reports/talibans-war-on-women.pdf&lt;/ref&gt; Communists were systematically eradicated and thieves were punished by amputating one of their hands or feet.&lt;ref&gt;{{cite news|author=Erik Eckholm|title=A NATION CHALLENGED: PENALTIES; Taliban Justice: Stadium Was Scene of Gory Punishment|url=http://query.nytimes.com/gst/fullpage.html?res=9C00E6DD1231F935A15751C1A9679C8B63&amp;sec=&amp;spon=&amp;pagewanted=all|publisher=The New York Times|date=2001-12-26|accessdate=2008-05-19 }}&lt;/ref&gt; Opium production was nearly wiped out by the Taliban by 2001.&lt;ref&gt;http://opioids.com/afghanistan/index.html&lt;/ref&gt;
+
+===War in Afghanistan 2001–present===
+{{Main|War in Afghanistan (2001–present)}}
+
+[[File:Afghanistan map - security by district and opium poppy cultivation by province 2007 - 2008.gif|thumb|300px|Map of Afghanistan by the United Nations showing regional security risks and levels of [[Opium production in Afghanistan|opium poppy cultivation]].]]
+
+[[File:Hamid Karzai at Kabul Military Training Center in 2002.jpg|thumb|300px|Current President Hamid Karzai reviewing the Presidential Guard in Kabul.]]
+
+Following the [[September 11 attacks]] the United States launched [[Operation Enduring Freedom]], a military campaign to destroy the Al-Qaeda terrorist training camps inside Afghanistan. The U.S. military also threatened to overthrow the Taliban government for refusing to hand over [[Osama bin Laden]] and several Al-Qaeda members. The U.S. made a common cause with the former Afghan Mujahideen to achieve its ends, including the [[United Islamic Front for the Salvation of Afghanistan|Northern Alliance]], a militia still recognized by the [[United Nations]] as the Afghan government.
+
+In late 2001, the United States sent teams of CIA Paramilitary Officers from their [[Special Activities Division]] and U.S. Army Special Forces to invade Afghanistan to aid anti-Taliban militias, backed by U.S. air strikes against Taliban and Al-Qaeda targets, culminating in the seizure of Kabul by the Northern Alliance and the overthrow of the Taliban, with many local warlords switching allegiance from the Taliban to the Northern Alliance.&lt;ref&gt;Bush At War, Bob Woodward, 2002.&lt;/ref&gt;
+
+In December 2001, leaders of the former Afghan mujahideen and diaspora met in Germany, and arrived at the [[Bonn Agreement (Afghanistan)|Bonn Agreement]] for the formulation of a new democratic government that resulted in the inauguration of [[Hamid Karzai]], an ethnic Pashtun of the Durrani clan (from which the royal family was drawn) from the southern city of Kandahar, as Chairman of the [[Afghan Interim Authority]].
+
+After a nationwide ''[[Loya Jirga]]'' in 2002, Karzai was chosen by the representatives to assume the title as Interim President of Afghanistan. The country convened a Constitutional Loya Jirga (Council of Elders) in 2003 and a new [[Constitution of Afghanistan|constitution]] was ratified in January 2004. Following an election in October 2004, Hamid Karzai won and became the President of the Islamic Republic of Afghanistan. Legislative elections were held in September 2005. The National Assembly – the first freely elected legislature in Afghanistan since 1973 &amp;ndash; sat in December 2005, and was noteworthy for the inclusion of women as voters, candidates, and elected members.
+
+As the country continues to rebuild and recover, it is still struggling against poverty, poor [[infrastructure]], large concentration of [[land mine]]s and other unexploded ordnance, as well as a huge illegal [[opium poppy|poppy]] cultivation and [[opium]] trade. Afghanistan also remains subject to occasionally violent political jockeying. The country continues to grapple with the [[Taliban insurgency]] and the threat of attacks from a few remaining elements of Al-Qaeda.
+
+At the start of 2007, reports of the Taliban's increasing presence in Afghanistan led the U.S. to consider longer tours of duty and even an increase in troop numbers. According to a report filed by Robert Burns of Associated Press on January 16, 2007, “U.S. military officials cited new evidence that the Pakistani military, which has long-standing ties to the Taliban movement, has turned a blind eye to the incursions.” Also, “The number of insurgent attacks is up 300 percent since September 2006, when the Pakistani government put into effect a peace arrangement with tribal leaders in the north Waziristan area, along Afghanistan's eastern border,&quot; a U.S. military intelligence officer told reporters. 
+
+{{seealso|Timeline of the history of Afghanistan|Invasions of Afghanistan}}
+
+==Government and politics==
+{{main|Politics of Afghanistan}}
+Politics in Afghanistan has historically consisted of power struggles, bloody [[coups]] and unstable transfers of power. With the exception of a [[military junta]], the country has been governed by nearly every system of government over the past century, including a [[monarchy]], [[republic]], [[theocracy]] and [[communist state]]. The constitution ratified by the [[2003 Loya jirga]] restructured the government as an [[Islamic republic]] consisting of three branches, ([[executive (government)|executive]], [[legislature]] and [[judiciary]]). 
+
+Afghanistan is currently led by President [[Hamid Karzai]], who was elected in October 2004. The current [[National Assembly of Afghanistan|parliament]] was elected in 2005. Among the elected officials were former mujahadeen, Taliban members, communists, [[reformists]], and [[Islamic fundamentalists]]. 28% of the delegates elected were women, three points more than the 25% minimum guaranteed under the constitution. This made Afghanistan, long known under the Taliban for its [[Taliban treatment of women|oppression of women]], one of the leading countries in terms of female representation. Construction for a new parliament building began on August 29, 2005.
+
+The [[Afghan Supreme Court|Supreme Court of Afghanistan]] is currently led by Chief Justice [[Abdul Salam Azimi]], a former university professor who had been legal advisor to the president.&lt;ref&gt;[http://www.e-ariana.com/ariana/eariana.nsf/allDocs/E78CB0C74F5E7142872571C90048D8BD?OpenDocument] - New Supreme Court Could Mark Genuine Departure - August 13, 2006.&lt;/ref&gt; The previous court, appointed during the time of the interim government, had been dominated by fundamentalist religious figures, including Chief Justice [[Faisal Ahmad Shinwari]]. The court issued several rulings, such as banning [[cable television]], seeking to ban a candidate in the 2004 presidential election and limiting the rights of women, as well as overstepping its constitutional authority by issuing rulings on subjects not yet brought before the court. The current court is seen as more moderate and led by more [[Technocracy (bureaucratic)|technocrat]]s than the previous court, although it has yet to issue any rulings.
+{{seealso|Constitution of Afghanistan}}
+
+===Law enforcement and military===
+[[File:An MI-17 helicopter door gunner from the Afghan National Army Air Corps.jpg|thumb|An Afghan Air Force soldier aboard an Afghan gunship.]]
+{{main|Law enforcement in Afghanistan|Military of Afghanistan}}
+Afghanistan currently has more than 70,000 [[Afghan National Police|national police]] officers, with plans to recruit more so that the total number can reach 80,000. They are being trained by and through the [[Afghanistan Police Program]]. Although the police officially are responsible for maintaining civil order, sometimes local and regional military commanders continue to exercise control in the hinterland. Police have been accused of improper treatment and detention of prisoners. In 2003 the mandate of the International Security Assistance Force, now under command of the [[North Atlantic Treaty Organization]] (NATO) was extended and expanded beyond the [[Kabul]] area. However, in some areas unoccupied by those forces, local militias maintain control. In many areas, crimes have gone uninvestigated because of insufficient police and/or communications. Troops of the [[Afghan National Army]] have been sent to quell fighting in some regions lacking police protection.&lt;ref name=&quot;LOCprof&quot;&gt;Text used in this cited section originally came from: [http://lcweb2.loc.gov/frd/cs/profiles/Afghanistan.pdf Afghanistan (Feb 2005) profile] from the [[Library of Congress Country Studies]] project.&lt;/ref&gt;
+
+The [[Afghan National Army]] currently has 90,000 troops, with plans to increase this number to 260,000 in the next few years. The Afghan Army is not as affected by corruption as the National Police due to international oversight.
+
+===Provinces===
+{{main|Provinces of Afghanistan|Districts of Afghanistan}}
+Afghanistan is administratively divided into thirty-four (34) [[province]]s (''welayats''), and for each province there is a capital. Each province is then divided into many provincial [[district]]s, and each district normally covers a city or several [[townships]].
+
+The [[Governor]] of the province is appointed by the [[Ministry of Interior]], and the [[Prefect]]s for the districts of the province will be appointed by the provincial Governor. The Governor is the representative of the central government of Afghanistan, and is responsible for all administrative and formal issues. The provincial [[Chief of Police]] is appointed by the Ministry of Interior, who works together with the Governor on law enforcement for all the cities or districts of that province.
+
+There is an exception in the capital city (Kabul) where the [[Mayor]] is selected by the [[President of Afghanistan]], and is completely independent from the [[prefecture]] of the [[Kabul Province]].
+
+[[File:Afghanistan provinces numbered.png|thumb|300px|Map showing the 34 [[provinces of Afghanistan]].]]
+&lt;table&gt;&lt;td&gt;&lt;ol&gt;
+&lt;li&gt; [[Badakhshan Province|Badakhshan]]
+&lt;li&gt; [[Badghis Province|Badghis]]
+&lt;li&gt; [[Baghlan Province|Baghlan]]
+&lt;li&gt; [[Balkh Province|Balkh]]
+&lt;li&gt; [[Bamyan Province|Bamyan]]
+&lt;li&gt; [[Daykundi Province|Daykundi]]
+&lt;li&gt; [[Farah Province|Farah]]
+&lt;li&gt; [[Faryab Province|Faryab]]
+&lt;li&gt; [[Ghazni Province|Ghazni]]
+&lt;li&gt; [[Ghor Province|Ghor]]
+&lt;li&gt; [[Helmand Province|Helmand]]
+&lt;li&gt; [[Herat Province|Herat]]
+&lt;li&gt; [[Jowzjan Province|Jowzjan]]
+&lt;li&gt; [[Kabul Province|Kabul]]
+&lt;li&gt; [[Kandahar Province|Kandahar]]
+&lt;li&gt; [[Kapisa Province|Kapisa]]
+&lt;li&gt; [[Khost Province|Khost]]
+&lt;/ol&gt;&lt;/td&gt;&lt;td&gt;&lt;ol start=18&gt;
+&lt;li&gt; [[Konar Province|Konar]]
+&lt;li&gt; [[Kunduz Province|Kunduz]]
+&lt;li&gt; [[Laghman Province|Laghman]]
+&lt;li&gt; [[Lowgar Province|Lowgar]]
+&lt;li&gt; [[Nangarhar Province|Nangarhar]]
+&lt;li&gt; [[Nimruz Province|Nimruz]]
+&lt;li&gt; [[Nurestan Province|Nurestan]]
+&lt;li&gt; [[Oruzgan Province|Oruzgan]]
+&lt;li&gt; [[Paktia Province|Paktia]]
+&lt;li&gt; [[Paktika Province|Paktika]]
+&lt;li&gt; [[Panjshir Province|Panjshir]]
+&lt;li&gt; [[Parvan Province|Parvan]]
+&lt;li&gt; [[Samangan Province|Samangan]]
+&lt;li&gt; [[Sare Pol Province|Sare Pol]]
+&lt;li&gt; [[Takhar Province|Takhar]]
+&lt;li&gt; [[Vardak Province|Wardak]]
+&lt;li&gt; [[Zabol Province|Zabol]]
+&lt;/ol&gt;&lt;/td&gt;&lt;/table&gt;
+
+===Security and Crime===
+[[Helmand]] is the most dangerous place in Afghanistan due to its distance from Kabul as well as the drug trade that flourishes there. Other turbulent provinces in Afghanistan include [[Kandahar]] and [[Oruzgan]], although security in the latter has improved recently due to Dutch and Afghan counteroffensives. Most of the unstable provinces border Pakistan and are in the south of the country, resulting in questions as to the volume of the flow of insurgents from Pakistan into Afghanistan.
+
+There are also many stable and secure provinces, with low risks of violence and lower crime levels. [[Faryab]], [[Herat]], [[Farah]], [[Kabul]] and [[Badakhshan]] are some of these. Most of these provinces are in the north of the country.
+
+===Foreign relations===
+{{main|Foreign relations of Afghanistan}}
+Afghanistan's government is currently fighting an insurgency with the assistance of the United States and [[NATO]]. Therefore, relations between Afghanistan and NATO members is strong. Afghanistan depends a lot on multi-billion dollar aid infusions from the United States. Canada, France, the United Kingdom, Australia and Germany are also large donors. 
+
+Relations between Afghanistan and the [[Islamic Republic of Iran]] are very strong. The two nations share the same language and culture, and both countries are part of [[Greater Persia]]. Shiites and Sunnis get along well in Afghanistan which causes no religious tensions between the two nations. Iran is a consistent donor towards Afghan reconstruction. 
+
+Afghan and Pakistani relations always fluctuate. The two nations are always disputing, but recent relations have deteriorated vastly. Afghan Intelligence and American agencies accuse Pakistan of working to stop Afghan reconstruction mainly through the [[Inter-Services Intelligence]]. Most of the Taliban come from Pakistan and Osama bin Laden is thought to be hiding in Pakistan. Afghanistan and Pakistan recently fought a series of [[Afghanistan-Pakistan Skirmishes|border skirmishes]] and the US has led several air strikes in Pakistani territory from Afghan air bases. 
+
+Afghanistan maintains excellent relations with their Northern Allies, including [[Uzbekistan]], [[Tajikistan]] and [[Turkmenistan]] as all three share a similar culture as the Afghans. [[Hazaras]] are from those nations. 
+
+Afghanistan also has good relations with Russia and India. India is a leading investor in Afghanistan, alongside Iran, and the current Afghan President, Hamid Karzai received some of his college education in India.
+
+Afghanistan has excellent relations with the rest of the Arab and [[Muslim world]]. Afghanistan has no relations with Israel and alongside ally Iran, is a frequent non-Arab critic of Israel.
+
+==Demographics==
+{{main|Demography of Afghanistan}}
+{{see|Refugees of Afghanistan}}
+[[Image:Girl in a Kabul orphanage, 01-07-2002.jpg|thumb|150px|A [[Nuristani people|Nuristani]] girl in a Kabul orphanage.]]
+===Population===
+A 2009 [[United Nations|UN]] estimate of the total Afghan population is 28,150,000&lt;ref name=unpop&gt;{{cite paper | url=http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf | title=World Population Prospects, Table A.1| version=2008 revision  | format=.PDF | publisher=United Nations | author=Department of Economic and Social Affairs
+Population Division | date=2009 | accessdate= 2009-03-12}}&lt;/ref&gt;. In 1979, it was ''13,051,358.'' By 2050, the population is estimated to be increased to about 74 million&lt;ref name=unpop&gt;{{cite paper | url=http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf | title=World Population Prospects, Table A.1| version=2008 revision  | format=.PDF | publisher=United Nations | author=Department of Economic and Social Affairs
+Population Division | date=2009 | accessdate= 2009-03-12}}&lt;/ref&gt;. About 2.7 million Afghan [[refugee]]s are currently registered in Pakistan and Iran.&lt;ref&gt;[http://unama.unmissions.org/Default.aspx?tabid=1761&amp;ctl=Details&amp;mid=1892&amp;ItemID=3326 30 March 2009 - Press conference by Nazifullah Salarzai, Press Officer, UNAMA.] United Nations Assistance Mission in Afghanistan.&lt;/ref&gt;
+
+===Largest cities===
+{{seealso|List of cities in Afghanistan|Places in Afghanistan}}
+The only city in Afghanistan with over one million residents is its capital, Kabul. The other major cities in the country are, in order of population size, [[Herat]], [[Kandahar]], [[Mazar-e Sharif]], [[Jalalabad]], [[Ghazni]] and [[Kunduz]]. Urban areas are experiencing rapid population growth following the establishment of the Islamic Republic in 2002.
+
+===Ethnic groups===
+The population of Afghanistan is divided into a wide variety of ethnic groups. Because a systematic census has not been held in the country in decades, exact figures about the size and composition of the various ethnic groups are not available.&lt;ref&gt;[http://news.bbc.co.uk/1/hi/world/south_asia/3717092.stm BBC News - Afghan poll's ethnic battleground - October 6, 2004].&lt;/ref&gt; Therefore most figures are approximations only:
+
+[[File:Map of Ethnic Groups in Afghanistan, by district.svg|thumb|Ethnic groups of Afghanistan (largest ethnic group of each district)
+&lt;!--brown--&gt; {{legend|#665600|36.4% to 42.0% [[Pashtun people|Pashtun]]}}
+&lt;!--light green--&gt; {{legend|#58D87B|27% to 38.0% [[Tājik people|Tajik]]}}
+&lt;!--yellow--&gt; {{legend|#FFF36D|8.0% to 10.0% [[Hazara people|Hazara]]}}
+&lt;!--red--&gt; {{legend|#C3272B|6.0% to 9.2% [[Uzbek people|Uzbek]]}}
+{{spaces|5}}{{smaller|0.1% to 4% [[Aimak]]}}
+&lt;!--orange--&gt; {{legend|#FDA51F|1.7 to 3% [[Turkmen people|Turkmen]]}}
+&lt;!--gray--&gt; {{legend|#D8C3C8|0.5% to 4% [[Baloch]]}}
+{{spaces|5}}{{smaller|1.9% to 9.2% other ([[Pashai]], [[Hindki]], [[Nuristani people|Nuristani]], [[Brahui]], [[Hindkowans]], etc.)}}]]
+[[File:Map of Languages in Afghanistan, by district.svg|thumb|Languages of Afghanistan ''(percentages are from [[CIA World Factbook]])''&lt;ref name=&quot;CIA&quot;&gt;[https://www.cia.gov/library/publications/the-world-factbook/geos/AF.html CIA World Factbook].&lt;/ref&gt;
+&lt;!--light green--&gt; {{legend|#58D87B|50% [[Dari (Eastern Persian)]]}}
+&lt;!--brown--&gt; {{legend|#665600|35% [[Pashto]]}}
+&lt;!--red--&gt; {{legend|#C3272B|8% [[Uzbek language|Uzbek]]}}
+&lt;!--orange--&gt; {{legend|#FDA51F|3% [[Turkmen language|Turkmen]]}}
+&lt;!--gray--&gt; {{legend|#D8C3C8|4% [[Balochi language|Balochi]]}}
+{{spaces|5}}{{smaller|2% other ([[Nuristani languages|Nuristani]], [[Pashai]], [[Brahui]], etc.)}}
+]]
+
+{{columns|width=50%
+|col1=
+(1) Based on official census numbers from the 1960s to the 1980s, as well as information found in mainly scholarly sources, the [[Encyclopædia Iranica]]&lt;ref name=&quot;Iranica2&quot;&gt;L. Dupree, ''&quot;Af&lt;u&gt;gh&lt;/u&gt;ānistān: (iv.) ethnocgraphy&quot;'', in Encyclopædia Iranica, Online Edition 2006, ([http://www.iranica.com/newsite/articles/v1f5/v1f5a040a.html LINK]).&lt;/ref&gt; gives the following list:
+* 39.4% Pashtun
+* 33.7% Tajik, [[Farsiwan]], and [[Qizilbash|Qezelbash]]
+* 8.0% Hazara
+* 8.0% Uzbek
+* 4.1% Aimak
+* 3.3% Turkmen
+* 1.6% Baloch
+* 1.9% other
+|col2=
+(2) An approximate distribution of ethnic groups based on the [[CIA World Factbook]]&lt;ref name=&quot;CIA&quot;/&gt; is as following:
+*Pashtun: 42%
+*Tajik: 27%
+*Hazara: 9%
+*Uzbek: 9%
+*Aimak: 4%
+*Turkmen: 3%
+*[[Baloch]]: 2%
+*Other: 4%
+}}
+{{columns|width=50%
+|col1=
+(3) According to a representative survey, named ''&quot;A survey of the Afghan people - Afghanistan in 2006&quot;'', a combined project of ''[[The Asia Foundation]]'', the [[India]]n ''Centre for the Study of Developing Societies'' (CSDS) and the ''Afghan Center for Socio-economic and Opinion Research'' (ACSOR), the distribution of the ethnic groups is:&lt;ref name=&quot;survey&quot;&gt;''&quot;A survey of the Afghan people - Afghanistan in 2006&quot;'', ''The Asia Foundation'', technical assistance by the ''Centre for the Study of Developing Societies'' (CSDS; India) and ''Afghan Center for Socio-economic and Opinion Research'' (ACSOR), Kabul, 2006, [http://www.asiafoundation.org/pdf/AG-survey06.pdf PDF].&lt;/ref&gt;
+* 40.9% Pashtun
+* 37.1% Tajik
+* 9.2% Hazara
+* 9.2% Uzbek
+* 1.7% Turkmen
+* 0.5% Baloch
+* 0.1% Aimak
+* 1.3% other
+|col2=
+(4) According to another representative survey, named ''&quot;Afghanistan: Where Things Stand&quot;'', a combined effort by the American broadcasting channel [[ABC News]], the British [[BBC]], and the German [[ARD (broadcaster)|ARD]] (from the years 2004 to 2009), and released on February 9th 2009, the ethnic composition of the country is (average numbers):&lt;ref name=&quot;ABCBBCARD&quot;&gt;[http://abcnews.go.com/images/PollingUnit/1083a1Afghanistan2009.pdf ABC NEWS/BBC/ARD POLL – AFGHANISTAN: WHERE THINGS STAND], February 9th, 2009, pp. 38-40.&lt;/ref&gt;
+
+* 41% Pashtun
+* 38% Tajik
+* 10% Hazara
+* 6% Uzbek
+* 2% Turkmen
+* 1% Nuristani
+* 1% Baloch
+* 1% other
+}}
+
+===Languages===
+{{main|Languages of Afghanistan|Persian language|Pashto language}}
+The most common languages spoken in Afghanistan are [[Dari (Eastern Persian)|Eastern Persian]] (also known as Dari; roughly 50%) and Pashto (roughly 35%). Both are [[Indo-European languages]] from the [[Iranian languages]] sub-family, and the [[official languages]] of the country. [[Hazaragi]], spoken by the Hazara minority, is a distinct dialect of Persian. Other languages spoken include the [[Turkic languages]] [[Uzbek language|Uzbek]] and [[Turkmen language|Turkmen]] (ca. 9% combined), as well as 30 minor languages, primarily [[Balochi language|Balochi]], [[Nuristani languages|Nuristani]], [[Pashai]], [[Brahui language|Brahui]], [[Pamir languages|Pamiri languages]], [[Hindko language|Hindko]], etc. (ca. 4% combined). [[Bilingualism]] is common.
+
+According to the Encyclopædia Iranica,&lt;ref&gt;[http://www.iranica.com/newsite/articles/v1f5/v1f5a040a.html &quot;Af&lt;u&gt;gh&lt;/u&gt;ānistān: (v.) languages&quot;] by L. Dupree, ''Encyclopædia Iranica'' Online Edition 2006.&lt;/ref&gt; the Persian language is the most widely used language of the country, spoken by around 80% of the population, while Pashto is spoken and understood by around 50% of the population. According to ''&quot;A survey of the Afghan people - Afghanistan in 2006&quot;'',&lt;ref name=&quot;survey&quot; /&gt; Persian is the first language of 49% of the population, while additional 37% speak the language as a second language (combined 86%). Pashto is the first language of 40% of the population, while additional 27% know the language (combined 67%). Uzbek is spoken or understood by 6% of the population, Turkmen by 3%. According to the survey ''&quot;Afghanistan: Where Things Stand&quot;'' (avarege numbers from 2005-2009), 69% of the interviewed people preferred Persian, while 31% spoke Pashto.&lt;ref name=&quot;ABCBBCARD&quot; /&gt;
+
+==Culture==
+{{main|Culture of Afghanistan}}
+Afghans display pride in their religion, country, ancestry, and above all, their independence. Like other highlanders, Afghans are regarded with mingled apprehension and condescension, for their high regard for personal honor, for their [[clan]] loyalty and for their readiness to carry and use arms to settle disputes.&lt;ref name=&quot;Heathcote&quot;&gt;Heathcote, Tony (1980, 2003) &quot;The Afghan Wars 1839–1919&quot;, Sellmount Staplehurst.&lt;/ref&gt; As clan warfare and internecine feuding has been one of their chief occupations since time immemorial, this individualistic trait has made it difficult for foreign invaders to hold the region.
+
+Afghanistan has a complex history that has survived either in its current cultures or in the form of various languages and monuments. However, many of the country's historic monuments have been damaged in recent wars.&lt;ref&gt;G.V. Brandolini. ''Afghanistan [[cultural heritage]]''. Orizzonte terra, [[Bergamo]]. [[2007]]. p. 64.&lt;/ref&gt; The two famous statues of Buddha in the Bamyan Province were destroyed by the Taliban, who regarded them as [[Idolatry|idolatrous]]. Other famous sites include the cities of [[Kandahar]], [[Herat]], Ghazni and Balkh. The Minaret of Jam, in the [[Hari River, Afghanistan|Hari River]] valley, is a [[World Heritage Site|UNESCO World Heritage site]]. A cloak reputedly worn by [[Muhammad]] is stored inside the famous [[Khalka Sharifa]] in Kandahar City.{{fact|date=July 2009}}
+
+[[Buzkashi]] is a national sport in Afghanistan. It is similar to [[polo]] and played by horsemen in two teams, each trying to grab and hold a [[goat]] carcass. [[Afghan hound]]s (a type of running [[dog]]) also originated in Afghanistan.
+
+Although literacy levels are very low, classic [[Persian literature|Persian poetry]] plays a very important role in the Afghan culture. Poetry has always been one of the major educational pillars in [[Iran]] and Afghanistan, to the level that it has integrated itself into culture. Persian culture has, and continues to, exert a great influence over Afghan culture. Private poetry competition events known as “musha’era” are quite common even among ordinary people. Almost every homeowner owns one or more poetry collections of some sort, even if they are not read often.
+
+The eastern dialects of the Persian language are popularly known as &quot;Dari&quot;. The name itself derives from &quot;Pārsī-e Darbārī&quot;, meaning ''Persian of the royal courts''. The ancient term ''Darī'' &amp;ndash; one of the original names of the Persian language &amp;ndash; was revived in the Afghan constitution of 1964, and was intended &quot;to signify that Afghans consider their country the cradle of the language. Hence, the name ''Fārsī'', the language of [[Fars Province|Fārs]], is strictly avoided.&quot;&lt;ref&gt;[http://www.iranica.com/newsite/search/searchpdf.isc?ReqStrPDFPath=/home/iranica/public_html/newsite/pdfarticles/v1_articles/afghanistan/literature&amp;OptStrLogFile=/home/iranica/public_html/newsite/logs/pdfdownload.html &quot;Modern literature of Afghanistan&quot;] by R. Farhādī, ''Encyclopaedia Iranica'', xii, Online Edition.&lt;/ref&gt; 
+[[File:Afghan girls in traditional clothes.jpg|thumb|300px|Girls in Kabul, wearing their traditional clothes, sing at a celebration of International Women's Day in 2002.]]
+Many of the famous [[List of Persian poets and authors|Persian poets]] of the tenth to fifteenth centuries stem from Khorasan where is now known as Afghanistan. They were mostly also scholars in many disciplines like languages, natural sciences, medicine, religion and astronomy. 
+*[[Jalal ad-Din Muhammad Rumi|Mawlānā Rumi]], who was born and educated in Balkh in the thirteenth century and moved to [[Konya]] in modern-day [[Turkey]]
+*[[Rabi'a Balkhi]] (the first poetess in the History of Persian Poetry, tenth century, native of Balkh)
+*[[Abu Mansur Daqiqi|Daqiqi Balkhi]] (tenth century, native of Balkh)
+*[[Farrukhi Sistani]] (tenth century, the [[Ghaznavids]] royal poet)
+*[[Unsuri|Unsuri Balkhi]] (a tenth/eleventh century poet, native of Balkh)
+*[[Khwaja Abdullah Ansari]] (eleventh century, from Herat)
+*[[Nasir Khusraw]] (eleventh century, from Qubadyan near Balkh)
+*[[Anvari]] (twelfth century, lived and died in Balkh)
+*[[Sanaayi|Sanā'ī Ghaznawi]] (twelfth century, native of Ghazni) 	 
+*[[Jami|Jāmī of Herāt]] (fifteenth century, native of Herat in western Afghanistan), and his nephew Abdullah Hatifi Herawi, a well-known poet
+*[[Alisher Navoi|Alī Sher Navā'ī]] (fifteenth century, Herat).
+
+Most of these individuals were of Persian ([[Tājik people|Tājīk]]) ethnicity who still form the second-largest ethnic group in Afghanistan. Also, some of the contemporary Persian language poets and writers, who are relatively well-known in Persian-speaking world, include [[Khalilullah Khalili]],&lt;ref&gt;[http://www.afghanmagazine.com/arts/khalili/khalili.html Afghanmagazine.com - Ustad Khalilullah Khalili - 1997].&lt;/ref&gt; Sufi Ghulam Nabi Ashqari,&lt;ref&gt;[http://www.afghanmagazine.com/jan2000/music/kharaabat/ Afghanmagazine.com - Kharaabat - by Yousef Kohzad - 2000].&lt;/ref&gt; Sarwar Joya, [[Parwin Pazwak]] and others. In 2003, Khaled Hosseini published The [[Kite Runner]] which though fiction, captured much of the history, politics and culture experienced in Afghanistan from the 1930s to present day.
+
+In addition to poets and authors, numerous [[List of Iranian scientists and scholars|Persian scientists]] were born or worked in the region of present-day Afghanistan. Most notable was [[Avicenna]] (Abu Alī Hussein ibn Sīnā) whose father hailed from Balkh. Ibn Sīnā, who travelled to [[Isfahan (city)|Isfahan]] later in life to establish a medical school there, is known by some scholars as &quot;the father of modern medicine&quot;. George Sarton called ibn Sīnā &quot;the most famous scientist of Islam and one of the most famous of all races, places, and times.&quot; His most famous works are ''The Book of Healing'' and ''The Canon of Medicine'', also known as the Qanun. Ibn Sīnā's story even found way to the contemporary English literature through [[Noah Gordon]]'s ''[[The Physician]]'', now published in many languages. Moreover, according to [[Ibn al-Nadim]], [[Al-Farabi]], a well-known philosopher and scientist, was from the Faryab Province of Afghanistan.
+
+Before the Taliban gained power, the city of Kabul was home to many musicians who were masters of both traditional and modern Afghan music, especially during the [[Nauroz]]-celebration. Kabul in the middle part of the twentieth century has been likened to [[Vienna]] during the eighteenth and nineteenth centuries. 
+
+The tribal system, which orders the life of most people outside metropolitan areas, is potent in political terms. Men feel a fierce loyalty to their own tribe, such that, if called upon, they would assemble in arms under the tribal chiefs and local clan leaders. In theory, under Islamic law, every believer has an obligation to bear arms at the ruler's call.
+
+Heathcote considers the tribal system to be the best way of organizing large groups of people in a country that is geographically 
+difficult, and in a society that, from a materialistic point of view, has an uncomplicated lifestyle.&lt;ref name=&quot;Heathcote&quot;/&gt;
+
+===Religions===
+{{main|Religion in Afghanistan}}
+Religiously, Afghans are over 99% [[Muslims]]: approximately 74-80% [[Sunni]] and 19-25% [[Shi'a Islam|Shi'a]]&lt;ref name=&quot;CIA&quot; /&gt;&lt;ref name=&quot;BritannicaPDF&quot;&gt;Encyclopædia Britannica - ''Afghanistan''...[http://www.britannica.com/wdpdf/Afghanistan.pdf Link (PDF)]&lt;/ref&gt;&lt;ref&gt;Goring, R. (ed): &quot;Larousse Dictionary of Beliefs &amp; Religions&quot; (Larousse: 1994) pp. 581–58, Table: ''&quot;Population Distribution of Major Beliefs&quot;'', ISBN 0-7523-0000-8, Note: ''&quot;... Figures have been compiled from the most accurate recent available information and are in most cases correct to the nearest 1% ...&quot;''&lt;/ref&gt; (estimates vary). Up until the mid-1980s, there were about 30,000 to 150,000 [[Hinduism in Afghanistan|Hindu]]s and [[Sikhs]] living in different cities, mostly in [[Jalalabad]], [[Kabul]], and [[Kandahar]].&lt;ref&gt;[http://www.hinduismtoday.com/archives/1994/4/1994-4-02.shtml Hinduism Today: Hindus Abandon Afghanistan].&lt;/ref&gt;&lt;ref&gt;[http://news.bbc.co.uk/1/hi/world/south_asia/3138282.stm BBC South Asia: Sikhs struggle in Afghanistan].&lt;/ref&gt;
+
+There was a small [[Jew]]ish community in Afghanistan (''see [[Bukharan Jews]]'') who fled the country after the 1979 Soviet invasion, and only one individual, [[Zablon Simintov]], remains today.&lt;ref&gt;[http://www.washingtonpost.com/wp-dyn/articles/A39702-2005Jan26.html Washingtonpost.com - Afghan Jew Becomes Country's One and Only - N.C. Aizenman].&lt;/ref&gt;
+
+==Economy==
+{{main|Economy of Afghanistan}}
+Afghanistan is a member of the [[South Asian Association for Regional Cooperation|South Asian Association for Regional Cooperation (SAARC)]], [[Economic Cooperation Organization|Economic Cooperation Organization (ECO)]] and the [[Economy of the OIC|Organization of the Islamic Conference (OIC)]]. It is an impoverished country, one of the world's poorest and least developed. Two-thirds of the population lives on fewer than 2 [[US Dollar|US]] dollars a day. Its economy has suffered greatly from the 1979 Soviet invasion and subsequent conflicts, while severe drought added to the nation's difficulties in 1998–2001.&lt;ref&gt;{{cite web|url=http://www.voanews.com/english/archive/2005-03/2005-03-28-voa53.cfm|title=Poor Afghanistan|last=Morales|first=Victor|publisher=Voice of America|date=2005-03-28|accessdate=2006-09-10}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://news.bbc.co.uk/2/hi/south_asia/3582023.stm|last=North|first=Andrew|title=Why Afghanistan wants $27.6bn|publisher=BBC News|date=2004-03-30|accessdate=2006-09-10}}&lt;/ref&gt; According to the World Bank, &quot;economic growth has been strong and has generated better livelihoods&quot; since 2001.&lt;ref&gt;http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/EXTSAREGTOPPOVRED/0,,contentMDK:20574056~menuPK:493447~pagePK:34004173~piPK:34003707~theSitePK:493441,00.html&lt;/ref&gt;
+
+The economically active population in 2002 was about 11 million (out of a total of an estimated 29 million). As of 2005, the official [[unemployment]] rate is at 40%.&lt;ref name=&quot;factbook econ&quot;&gt;[https://www.cia.gov/library/publications/the-world-factbook/geos/AF.html CIA - The World Factbook - Afghanistan].&lt;/ref&gt; The number of non-skilled young people is estimated at 3 million, which is likely to increase by some 300,000 per annum.&lt;ref name=&quot;Fujimura&quot;&gt;[http://www.adbi.org/research-policy-brief/2004/10/15/698.afghan.economy.after.election/ Fujimura, Manabu (2004) &quot;Afghan Economy After the Election&quot;, Asian Development Bank Institute].&lt;/ref&gt;
+
+The nation's economy began to improve since 2002 due to the infusion of multi-billion [[US dollar]]s in international assistance and investments, as well as remittances from expats.&lt;ref name=&quot;PAN5&quot;&gt;Pajhwok Afghan News, [http://www.pajhwok.com/viewstory.asp?lng=eng&amp;id=44281 Afghanistan receives $3.3b remittances from expats], Oct. 19, 2007.&lt;/ref&gt; It is also due to dramatic improvements in agricultural production and the end of a four-year drought in most of the country.
+
+The real value of ''non-drug'' GDP increased by 29% in 2002, 16% in 2003, 8% in 2004 and 14% in 2005.&lt;ref&gt;[http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/SOUTHASIAEXT/EXTSARREGTOPMACECOGRO/0,,contentMDK:20592478~menuPK:579404~pagePK:34004173~piPK:34003707~theSitePK:579398,00.html ''Macroeconomics &amp; Economic Growth in South Asia''], The World Bank.&lt;/ref&gt; As much as one-third of Afghanistan's [[Gross domestic product|GDP]] comes from growing poppy and illicit drugs including [[opium]] and its two derivatives, [[morphine]] and [[heroin]], as well as [[hashish]] production.&lt;ref name=&quot;CIA&quot;/&gt; [[Opium production in Afghanistan]] has soared to a new record in 2007, with an increase on last year of more than a third, the United Nations has said.&lt;ref&gt;[http://www.abc.net.au/news/stories/2007/08/28/2016978.htm Afghan opium production at record high].&lt;/ref&gt; Some 3.3 million Afghans are now involved in producing opium.&lt;ref&gt;[http://www.guardian.co.uk/afghanistan/story/0,,2157313,00.html UN horrified by surge in opium trade in Helmand].&lt;/ref&gt; In a recent article in the [[Washington Quarterly]], Peter van Ham and Jorrit Kamminga argue that the international community should establish a pilot project and investigate a licensing scheme to start the production of medicines such as morphine and codeine from poppy crops to help it escape the economic dependence on opium.&lt;ref&gt;[http://www.twq.com/07winter/index.cfm?id=234 Poppies for Peace: Reforming Afghanistan’s Opium Industry].&lt;/ref&gt;
+
+According to a 2004 report by the [[Asian Development Bank]], the present reconstruction effort is two-pronged: first it focuses on rebuilding critical physical infrastructure, and second, on building modern public sector institutions from the remnants of Soviet style planning to ones that promote market-led development.&lt;ref name=&quot;Fujimura&quot;/&gt; In 2006, two U.S. companies, Black &amp; Veatch and the [[Louis Berger Group]], have won a US 1.4 billion dollar contract to rebuild roads, power lines and water supply systems of Afghanistan.&lt;ref&gt;[http://www.kansascity.com/mld/kansascity/15556499.htm?template=contentModules/printstory.jsp &quot;Midday Business Report: Black &amp; Veatch unit gains piece of Afghan contract&quot;], ''The Kansas City Star''.&lt;/ref&gt;
+
+One of the main drivers for the current economic recovery is the return of over 4 million [[refugee]]s from neighbouring countries and the [[Western world|West]], who brought with them fresh energy, entrepreneurship and wealth-creating skills as well as much needed funds to start up businesses. What is also helping is the estimated US 2–3 billion dollars in international assistance every year, the partial recovery of the agricultural sector, and the reestablishment of market institutions. Private developments are also beginning to get underway. In 2006, a Dubai-based Afghan family opened a $25 million [[Coca Cola]] bottling plant in Afghanistan.&lt;ref&gt;[http://www.contracostatimes.com/mld/cctimes/business/15498245.htm &quot;Coca-Cola opens plant in Afghanistan&quot;], ''Contra Costa Times''.&lt;/ref&gt;
+[[File:Nomadic Kuchi people.jpg|upright=1.4|thumb|170px|[[Kuchi people|Kuchi]] nomads migrate through the [[Panjshir Valley]] in Afghanistan. The population of [[nomad]]s in Afghanistan was estimated at about 1-2 million people in 1979.]]
+While the country's current account deficit is largely financed with the donor money, only a small portion &amp;ndash; about 15% &amp;ndash; is provided directly to the government budget. The rest is provided to non-budgetary expenditure and donor-designated projects through the [[United Nations]] system and [[non-governmental organization]]s. The government had a central budget of only $350 million in 2003 and an estimated $550 million in 2004. The country's foreign exchange reserves totals about $500 million. Revenue is mostly generated through customs, as income and corporate tax bases are negligible.
+
+Inflation had been a major problem until 2002. However, the depreciation of the Afghani in 2002 after the introduction of the new notes (which replaced 1,000 old Afghani by 1 new Afghani) coupled with the relative stability compared to previous periods has helped prices to stabilize and even decrease between December 2002 and February 2003, reflecting the turnaround appreciation of the new Afghani currency. Since then, the index has indicated stability, with a moderate increase toward late 2003.&lt;ref name=&quot;Fujimura&quot;/&gt;
+
+The Afghan government and international donors seem to remain committed to improving access to basic necessities, infrastructure development, education, housing and economic reform. The central government is also focusing on improved revenue collection and public sector expenditure discipline. The rebuilding of the financial sector seems to have been so far successful. Money can now be transferred in and out of the country via official banking channels. Since 2003, over sixteen new banks have opened in the country, including [[Afghanistan International Bank]], [[Kabul Bank]], [[Azizi Bank]], [[Standard Chartered Bank]], [[First Micro Finance Bank]], and others. A new law on private investment provides three to seven-year [[tax holiday]]s to eligible companies and a four-year exemption from exports [[tariff]]s and duties.
+
+Some private investment projects, backed with national support, are also beginning to pick up steam in Afghanistan. An initial concept design called the City of Light Development, envisioned by Dr. [[Hisham N. Ashkouri]], Principal of ARCADD, Inc. for the development and the implementation of a privately based investment enterprise has been proposed for multi-function commercial, historic and cultural development within the limits of the Old City of Kabul along the Southern side of the Kabul River and along Jade Meywand Avenue,&lt;ref&gt;[http://www.cityoflight-kabul.com/p11.htm Kabul - City of Light Project].&lt;/ref&gt; revitalizing some of the most commercial and historic districts in the City of Kabul, which contains numerous historic mosques and shrines as well as viable commercial activities among war damaged buildings. Also incorporated in the design is a new complex for the [[Afghan National Museum]].
+
+According to the U.S. Geological Survey and the Afghan Ministry of Mines and Industry, Afghanistan may be possessing up to {{convert|36|Tcuft|km3}} of [[natural gas]], {{convert|3.6|Goilbbl|m3}} of [[petroleum]] and up to {{convert|1325|Moilbbl|m3}} of [[natural gas liquids]]. This could mark the turning point in Afghanistan’s reconstruction efforts. Energy exports could generate the revenue that Afghan officials need to modernize the country’s infrastructure and expand economic opportunities for the beleaguered and fractious population.&lt;ref name=&quot;Eurasianet&quot;/&gt; Other reports show that the country has huge amounts of gold, copper, coal, [[iron ore]] and other [[minerals]].&lt;ref name=&quot;AfghanMinerals&quot;/&gt;&lt;ref name=&quot;Pajhwok&quot;/&gt;&lt;ref&gt;Pajhwok Afghan News, [http://www.pajhwok.com/viewstory.asp?lng=eng&amp;id=45504 Afghanistan has huge mineral resources: survey], November 14, 2007.&lt;/ref&gt; The government of Afghanistan is in the process of extracting and exporting its copper reserves, which will be earning $1.2 billion US dollars in [[royalties]] and taxes every year for the next 30 years. It will also provide permanent labor to 3,000 of its citizens.&lt;ref&gt;Pajhwok Afghan News, [http://www.pajhwok.com/viewstory.asp?lng=eng&amp;id=45842 Chinese company wins bidding for Ainak copper extraction], November 20, 2007.&lt;/ref&gt;
+Afghanistan has a particularly high level of [[corruption]]. 
+{{seealso|Opium Production in Afghanistan}}
+
+==Infrastructure==
+===Transport===
+[[File:Ariana Afghan A310-300 F-GEMO.jpg|thumb|An Ariana Afghan Airlines aircraft flying over Frankfurt Airport]]
+{{main|Transport in Afghanistan}}
+[[Ariana Afghan Airlines]] is the national airlines carrier, with domestic flights between Kabul, Kandahar, Herat and Mazar-e Sharif. International flights include to [[Dubai]], [[Frankfurt]], [[Istanbul]] and a number of other destinations.&lt;ref&gt;http://flyariana.com/schedules.php#&lt;/ref&gt; There are also limited domestic and international flight services available from [[Kam Air]], [[Pamir Airways]] and [[Safi Airways]]. 
+
+The country has limited rail service with Turkmenistan. There are two [[railway]] projects currently in progress, one is between Herat and the Iranian city [[Mashad]] while another is between Kandahar and [[Quetta]] in Pakistan. Most people who travel from one city to another use bus services. Automobiles have recently become more widely available, with [[Toyota]], [[Nissan]] and [[Hyundai]] dealerships in Kabul. A large number of second-hand vehicles are also arriving from the [[UAE]]. Nearly all highways and roads are being rebuilt in the country.
+
+===Communications and technology===
+{{main|Communications in Afghanistan}}
+Telecommunication services in the country are provided by [[Afghan Wireless]], [[Etisalat]], [[Roshan (telco)|Roshan]], [[Areeba]] and [[Afghan Telecom]]. In 2006, the Afghan Ministry of Communications signed a [[US Dollar|US$]]64.5 million agreement with [[ZTE Corporation]] for the establishment of a countrywide fibre optic cable network. This will improve telephone, internet, television and radio broadcast services throughout the country.&lt;ref&gt;[http://www.pajhwok.com/viewstory.asp?lng=eng&amp;id=26882 ''Ministry signs contract with Chinese company''], Pajhwok Afghan News.&lt;/ref&gt; Around 500,000 (1.5% of the population) had internet access by the end of 2008.&lt;ref&gt;ITU statistics.&lt;/ref&gt;
+
+Television and radio broadcastings are available in most parts of the country, with local and international channels or stations.
+
+The nation's post service is also operating. Package delivery services such as [[FedEx]], [[DHL]] and others are also available.
+
+==Television==
+{{main|List of TV Channels in Afghanistan}}
+
+==Media==
+{{main|Media of Afghanistan}}
+The media was tightly controlled under the [[Taliban]] and other periods in its history, and was relatively free in others. Under the Taliban, television was shut down in 1996, and print media were forbidden to publish commentary, photos or readers letters.&lt;ref name=dart&gt;Dartnell, M. Y. ''Insurgency Online: Web Activism and Global Conflict.'' University of Toronto Press, 2006. ISBN 978-0802085535.&lt;/ref&gt; The only radio station broadcast religious programmes and [[propaganda]], and aired no music.&lt;ref name=dart/&gt; 
+
+After the overthrow of the Taliban in 2001, press restrictions were gradually relaxed and private media diversified. [[Freedom of expression]] and the press is promoted in the 2004 constitution and [[censorship]] is banned, though [[defamation|defaming]] individuals or producing material contrary to the principles of [[Islam]] is prohibited. In 2008, [[Reporters Without Borders]] listed the media environment as 156 out of 173, with 1st being most free.&lt;ref name=rwb&gt;[http://www.rsf.org/article.php3?id_article=29031 Press Freedom 2008 Index], ''Reporters Without Borders''.&lt;/ref&gt; 400 publications are now registered and 60 radio stations, a major source of information, currently exist.&lt;ref name=fh&gt;[http://www.freedomhouse.org/template.cfm?page=251&amp;year=2008 Afghanistan Press Report 2008], ''Freedom House''.&lt;/ref&gt; Foreign radio stations, such as the [[BBC World Service]], also broadcast into the country.
+
+==Education==
+{{main|Education in Afghanistan}} 
+As of 2006 more than four million male and female students were enrolled in schools throughout the country. However, there are still significant obstacles to education in Afghanistan, stemming from lack of funding, unsafe school buildings and cultural norms. A lack of women teachers is an issue that concerns some Afghan parents, especially in more conservative areas. Some parents will not allow their daughters to be taught by men.&lt;ref name=&quot;asmp&quot;&gt;Mojumdar,
+Aunohita: &quot;Afghan Schools' Money Problems&quot;, BBC News, 2007. [http://news.bbc.co.uk/1/hi/world/south_asia/6533379.stm].&lt;/ref&gt;
+
+Literacy of the entire population is estimated (as of 1999) at 36%, the male literacy rate is 51% and female literacy is 21%. Up to now there are 9,500 schools in the country.
+
+Another aspect of education that is rapidly changing in Afghanistan is the face of [[higher education]]. Following the fall of the Taliban, [[Kabul University]] was reopened to both male and female students. In 2006, the [[American University of Afghanistan]] also opened its doors, with the aim of providing a world-class, English-language, co-educational learning environment in Afghanistan. The university accepts students from Afghanistan and the neighboring countries. Construction work will soon start at the new site selected for [[University of Balkh]] in Mazari Sharif. The new building for the university, including the building for the Engineering Department, would be constructed at &lt;span style=&quot;white-space:nowrap&quot;&gt;600&amp;nbsp;acres&amp;nbsp;(2.4&amp;nbsp;km²)&lt;/span&gt; of land at the cost of 250 million US dollars.&lt;ref&gt;[http://www.pajhwok.com/viewstory.asp?lng=eng&amp;id=28303 ''Pakistan grants $10m for Balkh University''], Pajhwok Afghan News.&lt;/ref&gt;
+
+A new military school is in function to properly train and educate Afghan soldiers.
+
+==Health==
+Before the start of the Afghan wars in 1978, Afghanistan had an improving health care system and a semi-modernized health care system in cities like Kabul. Ibn Sina Hospital in Kabul and Ali Abad Hospital in Kabul were two of the leading health institutions in Central Asia at the time.&lt;ref name=&quot;reuters.com&quot;&gt;http://www.reuters.com/article/healthNews/idUSISL1059520080506&lt;/ref&gt; Following the Soviet invasion and the civil war that followed, the health care system was limited only to urban areas and was eventually destroyed. The Taliban made some improvements, but health care was not available for women during their six year rule.&lt;ref name=&quot;reuters.com&quot;/&gt; Following the establishment of the Islamic Republic in 2002, the health system began to improve dramatically in Afghanistan due to international aid and all institutions accepted women for the first time since 1996. Non-governmental charities such as [[Mahboba's promise]] assist orphans in association with governmental structures.&lt;ref&gt;Virginia Haussegger ''Mahooba's Promise'' ABC TV 7.30 Report. 2009. http://www.abc.net.au/7.30/content/2009/s2615472.htm (last accessed 15 July 2009)&lt;/ref&gt; According to [[Reuters]], &quot;Afghanistan's healthcare system is widely believed to be one of the country's success stories since reconstruction began.&quot; &lt;ref name=&quot;reuters.com&quot;/&gt; The Afghan government estimates that by the year 2020, [[infant mortality]] will fall to 400 from 1,600 for every 100,000 live births.&lt;ref name=&quot;reuters.com&quot;/&gt; An estimated 80,000 Afghans have lost limbs, mainly as a result of landmines.&lt;ref&gt;[http://www.guardian.co.uk/world/2008/feb/13/afghanistan Afghanistan's refugee crisis 'ignored']. The Guardian. February 13, 2008.&lt;/ref&gt;
+
+==Images of Afghanistan==
+{{commons|Afghanistan}}
+&lt;center&gt;
+&lt;gallery&gt;
+File:Afghanistan passo del salang hindukush.jpg|[[Kotal-e Salang]] mountain pass in northern Afghanistan.
+File:Band_e_Paneer.jpg|Lake [[Band-e-Amir]] National Park in Bamyan
+File:Northwestern Afghanistan.jpg|Northwestern Afghanistan
+File:Mazar-e sharif - Steve Evans.jpg|[[Mazari Sharif|Blue Mosque in Mazari Sharif]].
+&lt;!—Please note that Wikipedia is not an image repository, so consider adding new images at commons.wikimedia.org/wiki/Afghanistan. The gallery tag is not a tool to shoehorn images into an article.--&gt;
+&lt;/gallery&gt;
+&lt;/center&gt;
+
+==Notes==
+{|
+|-
+|valign=&quot;top&quot;|&lt;small&gt;a.{{note_label|crown|alternatives|none}}&lt;/small&gt;
+|valign=&quot;top&quot;|Other terms that can be used as demonyms are '''Afghani'''&lt;ref&gt;Dictionary.com. [[The American Heritage Dictionary of the English Language]], Fourth Edition. Houghton Mifflin Company, 2004. [http://dictionary.reference.com/browse/afghani LINK] (accessed: November 13, 2007).&lt;/ref&gt; and '''Afghanistani'''.&lt;ref&gt;Dictionary.com. [[WordNet|WordNet 3.0]]. [[Princeton University]]. [http://dictionary.reference.com/browse/afghanistani LINK] (accessed: November 13, 2007).&lt;/ref&gt;
+|}
+
+==See also==
+{{portal|SAARC|Logo of SAARC.svg}}
+{{main|Outline of Afghanistan}}
+*[[List of Afghanistan-related topics]]
+
+==References==
+{{Reflist|2}}
+
+==Bibliography==
+&lt;div class=&quot;references-small&quot;&gt;
+{{columns|width=50%
+|col1=
+*Dupree, Nancy Hatch (1977). ''An Historical Guide to Afghanistan''. 2nd Edition. Revised and Enlarged. Afghan Tourist Organization.
+*Fowler, Corinne. Chasing Tales: Travel writing, journalism and the history of British ideas about Afghanistan, 2007 (forthcoming), Rodopi, Amsterdam and New York.
+*Ghobar, Mir Gholam Mohammad. Afghanistan in the Course of History, 1999, All Prints Inc. [http://www.cpol.net/history/]
+*Griffiths, John C. 1981. ''Afghanistan: A History of Conflict''. André Deutsch, London. Updated edition, 2001. Andre Deutsch Ltd, 2002, ISBN 0-233-05053-1.
+*Levi, Peter. 1972. ''The Light Garden of the Angel King: Journeys in Afghanistan''. Collins, 1972, ISBN 0-00-211042-3. Bobbs-Merrill Company, 1973, Indianapolis/New York, ISBN 0-672-51252-1.
+*[[William Moorcroft (traveller)|Moorcroft, William]] and [[Trebeck, George]]. 1841. ''Travels in the Himalayan Provinces of Hindustan and the Panjab; in Ladakh and Kashmir, in Peshawar, Kabul, Kunduz, and Bokhara... from 1819 to 1825'', Vol. II. Reprint: New Delhi, Sagar Publications, 1971. Oxford University Press, 1979, ISBN 0-19-577199-0. 
+|col2=
+*Rashid, Ahmed (2000) &quot;Taliban - Militant Islam, Oil and Fundamentalism in Central Asia&quot;, Yale University Press
+*[[Olaf Caroe|Caroe, Olaf]]. 1958. ''The Pathans'' (on the ethnic origin of Afghans).
+*Shahrani, M. Nazif. (1979) ''The Kirghiz and Wakhi of Afghanistan: Adaptation to Closed Frontiers and War''. University of Washington Press. 1st palang|faack edition with new preface and epilogue (2002). ISBN 0-295-98262-4. 
+*Toynbee, Arnold J. 1961. ''Between Oxus and Jumna''. Oxford University Press, London. ISBN B0006DBR44.
+*Wood, John. 1872. ''A Journey to the Source of the River Oxus''. New Edition, edited by his son, with an essay on the &quot;Geography of the Valley of the Oxus&quot; by Henry Yule. John Murray, London. Gregg Division McGraw-Hill, 1971, ISBN 0-576-03322-7.
+*Heathcote, T.A. The Afghan Wars 1839–1999, 1980,2003, Spellmount Staplehurst.
+*Rall, Ted. 2002. &quot;To Afghanistan and Back: A Graphic Travelogue&quot; New York: NBM Publishing.
+*Vogelsang, Willem. 2002. ''The Afghans''. Blackwell Publishers. Oxford. ISBN 0631198415.
+}}
+&lt;/div&gt;
+
+==External links==
+{{sisterlinks|Afghanistan|s=Wikisource:Afghanistan}}
+&lt;div style=&quot;font-size:95%;&quot;&gt;
+
+; General information
+*{{CIA World Factbook link|af|Afghanistan}}
+*[http://ucblibraries.colorado.edu/govpubs/for/afghanistan.htm Afghanistan] from ''UCB Libraries GovPubs''
+*{{dmoz|Regional/Asia/Afghanistan}}
+*{{wikiatlas|Afghanistan}}
+*{{wikitravel}}
+
+; Government
+*[http://www.president.gov.af/ Islamic Republic of Afghanistan: Office of the President]
+*[http://www.ands.gov.af/ Afghanistan National Development Strategy (ANDS)]
+*[http://www.aisa.org.af/ Afghanistan Investment Support Agency (AISA)]
+*[https://www.cia.gov/library/publications/world-leaders-1/world-leaders-a/afghanistan.html Chief of State and Cabinet Members]
+
+; The Present Afghan Conflict
+*[http://www.icosgroup.net/documents/Struggle_for_Kabul_ICOS.pdf/ &quot;Struggle for Kabul: The Taliban Advance.&quot; Icos report, December 2008] 
+*[http://www.csis.org/component/option,com_csis_pubs/task,view/id,3740/type,1/ &quot;Breaking point: measuring progress in Afghanistan.&quot; Seema Patel and Steven Ross. Center for Strategic &amp; International Studies (CSIS), February, 2007.]
+*[http://www.newleftreview.org/?page=article&amp;view=2713/ Ali, Tariq. &quot;Afghanistan: Mirage of the good war&quot; ''New Left Review'' (50), March-April 2008.]
+*[http://www.acp-cpa.ca/en/BringTheTroopsHomeNow.pdf/ Canadian Peace Alliance. ''Bring the troops home now: Why a military mission will not bring peace to Afghanistan''. (February 2007)] 
+*[http://www.peacefultomorrows.org/article.php?id=914/ Families for Peaceful Tomorrows. ''Afghanistan: Ending a Failed Military Strategy.'']
+*[http://www.stratfor.com/weekly/20090126_strategic_divergence_war_against_taliban_and_war_against_al_qaeda/ Friedman, George. &quot;Strategic Divergence: The War Against the Taliban and the War Against Al Qaeda.&quot; Stratfor Global Intelligence. January 2009.]
+*[http://www.tni.org/detail_page.phtml?&amp;publish=Y&amp;int02=&amp;pub_niv=&amp;workgroup=&amp;text06=&amp;text03=&amp;keywords=&amp;lang=en&amp;text00=&amp;text10=drugsconflict-docs_afghanistan&amp;menu=11d Transnational Institute TNI on drugs and conflict in Afghanistan]
+*[[Rory Stewart]] on Afghanistan, [http://frontlineclub.com/events/2009/03/insight-with-rory-stewart-observations-on-the-war-on-terror.html London Frontline Club, 11 March 2009]
+
+; Media
+*[http://www.aopnews.com/ Afghan Online Press]
+*[http://www.bakhtarnews.com.af/?Lang=E Bakhtar News Agency] 
+*[http://www.kabulpress.org/indexkabul.htm KabulPress.org]
+
+; Digital Library
+* [http://afghanistandl.nyu.edu/index.html Afghanistan Digital Library]
+
+; Other
+*[http://numismondo.com/pm/afg Afghanistan's Paper Money]
+*[http://www.wipo.int/about-ip/en/ipworldwide/pdf/af.pdf World Intellectual Property Handbook: Afghanistan]
+*[http://www.afghan-web.com/language/ A Look at the Languages Spoken in Afghanistan]
+*[http://www.afghanistan-photos.com Old photos of Afghanistan]
+*[http://www.travelthewholeworld.com/afghanistan.html Over 125 recent travel photos from Afghanistan]
+
+&lt;/div&gt;
+
+&lt;/br&gt;
+{{Template group
+|list=
+{{Afghanistan topics}}
+{{Provinces of Afghanistan}}
+}}
+{{Template group
+|title=Geographic locale
+|list=
+{{Countries of Central Asia}}
+{{Countries and Territories of South Asia}}
+{{Countries and territories of the Middle East}}
+{{Countries of Asia}}
+}}
+{{Template group
+|title=International membership
+|list=
+{{Economic Cooperation Organization}}
+{{Islamic republics}}
+{{Persian literature}}
+{{South Asian Association for Regional Cooperation (SAARC)|state=collapsed}}
+}}
+{{Template group
+|title=Languages
+|list=
+{{Iranian-speaking regions}}
+}}
+{{Cold War}}
+{{War on Terror}}
+
+&lt;!--Categories--&gt;
+[[Category:Afghanistan| ]]
+[[Category:Iranian Plateau]]
+[[Category:Islamic republics]]
+[[Category:Landlocked countries]]
+[[Category:Least Developed Countries]]
+[[Category:Organisation of the Islamic Conference members]]
+[[Category:Middle Eastern countries]]
+[[Category:Persian-speaking countries and territories]]
+[[Category:South Asian Association for Regional Cooperation member states]]
+[[Category:Territories under military occupation]]
+[[Category:States and territories established in 1919]]
+
+{{Link FA|no}}
+{{Link FA|te}}
+{{Link FA|ur}}
+&lt;!--Other languages--&gt;
+
+[[af:Afghanistan]]
+[[als:Afghanistan]]
+[[ar:أفغانستان]]
+[[an:Afganistán]]
+[[frp:Afganistan]]
+[[as:আফগানিস্তান]]
+[[ast:Afganistán]]
+[[az:Əfqanıstan]]
+[[bn:আফগানিস্তান]]
+[[zh-min-nan:Afghanistan]]
+[[be:Афганістан]]
+[[be-x-old:Аўганістан]]
+[[bcl:Apganistan]]
+[[bo:ཨ་ཧྥུའུ་རྒན་སི་ཐན།]]
+[[bs:Afganistan]]
+[[br:Afghanistan]]
+[[bg:Афганистан]]
+[[ca:Afganistan]]
+[[cv:Афганистан]]
+[[ceb:Afghanistan]]
+[[cs:Afghánistán]]
+[[cbk-zam:Afghanistan]]
+[[cy:Afghanistan]]
+[[da:Afghanistan]]
+[[pdc:Afganischtaan]]
+[[de:Afghanistan]]
+[[dv:އަފްޣާނިސްތާން]]
+[[dsb:Afghanistan]]
+[[dz:ཨཕ་ག་ནིསི་ཏཱན་]]
+[[et:Afganistan]]
+[[el:Αφγανιστάν]]
+[[es:Afganistán]]
+[[eo:Afganujo]]
+[[eu:Afganistan]]
+[[fa:افغانستان]]
+[[hif:Afghanistan]]
+[[fo:Afghanistan]]
+[[fr:Afghanistan]]
+[[fy:Afganistan]]
+[[fur:Afghanistan]]
+[[ga:An Afganastáin]]
+[[gv:Yn Afghanistaan]]
+[[gd:Afganastan]]
+[[gl:Afganistán - افغانستان]]
+[[gu:અફઘાનિસ્તાન]]
+[[got:𐌰𐍆𐌲𐌰𐌽𐌹𐍃𐍄𐌰𐌽]]
+[[hak:Â-fu-hon]]
+[[ko:아프가니스탄]]
+[[haw:‘Apekanikana]]
+[[hy:Աֆղանստան]]
+[[hi:अफ़ग़ानिस्तान]]
+[[hsb:Afghanistan]]
+[[hr:Afganistan]]
+[[io:Afganistan]]
+[[ilo:Afganistan]]
+[[bpy:আফগানিস্তান]]
+[[id:Afganistan]]
+[[ia:Afghanistan]]
+[[ie:Afghanistan]]
+[[os:Афгъанистан]]
+[[is:Afganistan]]
+[[it:Afghanistan]]
+[[he:אפגניסטן]]
+[[jv:Afganistan]]
+[[kn:ಅಫ್ಘಾನಿಸ್ತಾನ]]
+[[pam:Afghanistan]]
+[[ka:ავღანეთი]]
+[[csb:Afganistón]]
+[[kk:Ауғанстан]]
+[[kw:Afghanistan]]
+[[ky:Афганистан]]
+[[sw:Afghanistan]]
+[[ht:Afganistan]]
+[[ku:Afxanistan]]
+[[la:Afgania]]
+[[lv:Afganistāna]]
+[[lb:Afghanistan]]
+[[lt:Afganistanas]]
+[[lij:Afghanistan]]
+[[li:Afganistan]]
+[[lmo:Afghanistan]]
+[[hu:Afganisztán]]
+[[mk:Авганистан]]
+[[mg:Afghanistan]]
+[[ml:അഫ്ഘാനിസ്ഥാന്‍]]
+[[mt:Afganistan]]
+[[mr:अफगाणिस्तान]]
+[[arz:افغانيستان]]
+[[ms:Afghanistan]]
+[[mdf:Афганистан]]
+[[mn:Афганистан]]
+[[nah:Afganistan]]
+[[na:Afganistan]]
+[[nl:Afghanistan]]
+[[new:अफगानिस्तान]]
+[[ja:アフガニスタン]]
+[[pih:Afganistaan]]
+[[no:Afghanistan]]
+[[nn:Afghanistan]]
+[[nov:Afganistan]]
+[[oc:Afganistan]]
+[[uz:Afgʻoniston]]
+[[pag:Afghanistan]]
+[[pap:Afganistán]]
+[[ps:افغانستان]]
+[[pms:Afgànistan]]
+[[nds:Afghanistan]]
+[[pl:Afganistan]]
+[[pt:Afeganistão]]
+[[crh:Afğanistan]]
+[[ro:Afganistan]]
+[[rm:Afganistan]]
+[[qu:Afgansuyu]]
+[[ru:Афганистан]]
+[[sah:Афганистан]]
+[[se:Afghanistan]]
+[[sa:अफगानस्थान]]
+[[stq:Afghanistan]]
+[[sq:Afganistani]]
+[[scn:Afganistàn]]
+[[simple:Afghanistan]]
+[[sd:افغانستان]]
+[[ss:I-Afugani]]
+[[sk:Afganistan]]
+[[sl:Afganistan]]
+[[szl:Afgańistan]]
+[[sr:Авганистан]]
+[[sh:Afganistan]]
+[[su:Apganistan]]
+[[fi:Afganistan]]
+[[sv:Afghanistan]]
+[[tl:Apganistan]]
+[[ta:ஆப்கானிஸ்தான்]]
+[[te:ఆఫ్ఘనిస్తాన్]]
+[[tet:Afeganistaun]]
+[[th:ประเทศอัฟกานิสถาน]]
+[[tg:Афғонистон]]
+[[tr:Afganistan]]
+[[tk:Owganystan]]
+[[udm:Афганистан]]
+[[uk:Афганістан]]
+[[ur:افغانستان]]
+[[ug:ئافغانىستان]]
+[[vec:Afganistan]]
+[[vi:Afghanistan]]
+[[vo:Lafganistän]]
+[[fiu-vro:Afganistan]]
+[[zh-classical:阿富汗]]
+[[war:Afganistan]]
+[[wo:Afganistaan]]
+[[wuu:阿富汗]]
+[[yi:אפגאניסטאן]]
+[[yo:Afghanistan]]
+[[zh-yue:阿富汗]]
+[[diq:Efğanıstan]]
+[[zea:Afghanistan]]
+[[bat-smg:Afganėstans]]
+[[zh:阿富汗]]

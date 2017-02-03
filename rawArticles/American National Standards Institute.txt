@@ -1,0 +1,135 @@
+      {{Redirect|ANSI}}
+[[Image:ANSI logo.GIF|thumb|right|200px|[[Logo]] of the American National Standards Institute.]]
+The '''American National Standards Institute''' or '''ANSI''' ({{pronEng|ˈænsiː}}) is a private [[non-profit organization]] that oversees the development of voluntary consensus standards for products, services, processes, systems, and personnel in the United States. The organization also coordinates [[United States|U.S.]] standards with international standards so that American products can be used worldwide.  For example, standards make sure that people who own cameras can find the film they need for that camera anywhere around the globe. 
+
+ANSI accredits standards that are developed by representatives of standards developing organizations, government agencies, consumer groups, companies, and others. These standards ensure that the characteristics and performance of products are consistent, that people use the same definitions and terms, and that products are tested the same way. ANSI also accredits organizations that carry out product or personnel certification in accordance with requirements defined in international standards. 
+
+The organization's headquarters are in [[Washington, DC]]. ANSI's operations office is located in [[New York City]].
+
+== History ==
+
+ANSI was originally formed in 1916, when five engineering societies and three government agencies founded the American Engineering Standards Committee (AESC).  In 1928, the AESC became the American Standards Association (ASA).  In 1966, the ASA was reorganized and became the United States of America Standards Institute (USASI).  The present name was adopted in 1969.
+
+Prior to 1916, these five engineering societies,
+the [[American Institute of Electrical Engineers]] (AIEE, now [[IEEE]]),
+[[American Society of Mechanical Engineers]] ([[ASME]]),
+[[American Society of Civil  Engineers]] ([[ASCE]]),
+the [[American_Institute_of_Mining,_Metallurgical,_and_Petroleum_Engineers|American Institute of Mining and Metallurgical Engineers]] (now [[AIME]]),
+and the [[ASTM International|American Society for Testing Materials]] (now [[ASTM International]]),
+had been members of the United Engineering Society (UES).
+At the behest of the AIEE, they invited the U.S. government Departments of War, Navy and Commerce to join in founding a national standards organization.
+
+According to Paul G. Agnew, the first permanent secretary and head of staff in 1919, AESC started as an ambitious program and little else.  Staff for the first year consisted of one executive, Clifford B. LePage, who was on loan from a founding member, ASME.  An annual budget of $7,500 was provided by the founding bodies.
+
+In 1931, the organization (renamed ASA in 1928) became affiliated with the U.S. National Committee of the [[International Electrotechnical Commission]] ([[IEC]]), which had been formed in 1904 to develop electrical and electronics standards.http://www.iec.ch/
+
+==Members==
+ANSI's membership comprises government agencies, organizations, corporations, academic and international bodies, and individuals. In total, the Institute represents the interests of more than 125,000 companies and 3.5 million professionals.&lt;Roster of Members: 2006-2007. Published by ANSI, September 1, 2007.&gt;
+
+==Process==
+Though ANSI itself does not develop standards, the Institute facilitates the development of American National Standards, also known as ANS, by accrediting the procedures of standards developing organizations. ANSI accreditation signifies that the procedures used by standards setting organizations meet the Institute's requirements for openness, balance, consensus, and due process.
+
+Voluntary consensus standards quicken the market acceptance of products while making clear how to improve the safety of those products for the protection of consumers. There are approximately 10,500 American National Standards that carry the ANSI designation.
+
+The American National Standards process involves:
+* consensus by a group that is open to representatives from all interested parties
+* broad-based public review and comment on draft standards
+* consideration of and response to comments
+* incorporation of submitted changes that meet the same consensus requirements into a draft standard
+* availability of an appeal by any participant alleging that these principles were not respected during the standards-development process.
+
+==International activities==
+In addition to facilitating the formation of standards in the U.S., ANSI promotes the use of U.S. standards internationally, advocates U.S. policy and technical positions in international and regional standards organizations and encourages the adoption of international standards as national standards where appropriate.
+
+The Institute is the official U.S. representative to the two major international standards organizations, the [[International Organization for Standardization]] (ISO) and the [[International Electrotechnical Commission]] (IEC), via the U.S. National Committee (USNC). ANSI participates in almost the entire technical program of both the ISO and the IEC, and administers many key committees and subgroups. In many instances, U.S. standards are taken forward to ISO and IEC, through ANSI or the USNC, where they are adopted in whole or in part as international standards.
+
+==Examples==
+The Institute administers five standards panels:
+* The ANSI Biofuels Standards Panel (ANSI-BSP)
+* The [[Healthcare Information Technology Standards Panel]]
+* The ANSI Homeland Security Standards Panel
+* The ANSI Nanotechnology Standards Panel
+* The Identity Theft Prevention and Identity Management Standards Panel
+
+Each of the panels works to identify, coordinate, and harmonize voluntary standards relevant to these areas. 
+
+'''American National Standards include:'''
+* The '''ASA''' (American Standards Association) photographic exposure system became the basis for the ISO [[film speed]] system, currently used worldwide (ISO 5800:1987).
+
+* A standard for the set of values used to represent characters in digital computers.  The ANSI code standard extended the previously created [[ASCII]] seven bit code standard (ASA X3.4-1963), with additional codes for European alphabets (see also [[Extended Binary Coded Decimal Interchange Code]] or EBCDIC).  In [[Microsoft Windows]], the phrase &quot;ANSI&quot; refers to the [[Windows code page|Windows ANSI code page]]s (even though they are not ANSI standards&lt;ref name=&quot;&quot;ms&quot; glossary&quot;&gt;[http://www.microsoft.com/globaldev/reference/glossary.mspx Microsoft Glossary]&lt;/ref&gt;). Most of these are fixed width, though some characters for [[ideographic language]]s are variable width. Since these characters are based on a draft of the [[ISO-8859]] series, some of Microsoft's symbols are visually very similar to the ISO symbols, leading many to falsely assume that they are identical.
+
+* The first computer [[programming language]] standard was &quot;American Standard [[Fortran]]&quot; (informally known as &quot;FORTRAN 66&quot;), approved in March 1966 and published as ASA X3.9-1966.
+
+* The original standard implementation of the programming language [[C (computer language)|C]] was standardized as ANSI X3.159-1989, becoming the well-known [[ANSI C]].
+
+* The ANSI-NSF International standards used for commercial kitchens, such as restaurants, cafeterias, delis, etc.
+
+* The ANSI/APSP (Association of Pool &amp; Spa Professionals) standards used for pools, spas, hot tubs, barriers, and suction entrapment avoidance.
+
+* The ANS for [[eye protection]] is Z87.1, which gives a specific impact resistance rating to the eyewear. This standard is commonly used for shop glasses, shooting glasses, and many other examples of protective eyewear.
+
+*The [[Paper size#ANSI paper sizes|ANSI paper sizes]] (ANSI/ASME Y14.1).
+
+* In 2008 ANSI, in [http://www.citationtechnologies.com/alliances/ansi partnership] with [[Citation Technologies]], created the first dynamic, online web library for ISO14000 standards. &lt;ref name=iPackages&gt;[http://ansi.org/news_publications/news_story.aspx?menuid=7&amp;articleid=1892 ANSI ISO14000 Press Release]&lt;/ref&gt;
+
+* On June 23, 2009 ANSI announced a product and services agreement with [[Citation Technologies]] to deliver all ISO Standards on a web-based platform. Through the ANSI-Citation partnership, 17,765 International Standards developed by more than 3,000 ISO technical bodies will be made available on the citation® platform, arming subscribers with powerful search tools and collaboration, notification, and change-management functionality. &lt;ref name=ANSI Press Release 07.23.09&gt;[http://www.ansi.org/news_publications/news_story.aspx?menuid=7&amp;articleid=2261 ANSI Press Release 07.23.09]&lt;/ref&gt;
+
+==See also==
+*[[ASCII]]
+*[[FORTRAN]]
+*[[ANSI C]]
+*[[ANSI ASC X9]]
+*[[ANSI escape code]]
+*[[ANSI-SPARC]] Architecture
+* [[National Institute of Standards and Technology]]
+*[[Institute of Nuclear Materials Management]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.ansi.org/ American National Standards Institute] official Web site
+* [http://webstore.ansi.org/ American National Standards Institute Webstore] - Online Library
+* [http://www.ansi.org/about_ansi/introduction/introduction.aspx?menuid=1  ANSI Overview]
+* [http://www.ansi.org/about_ansi/introduction/history.aspx?menuid=1 ANSI Historical Overview]
+* [https://iso14000.ansi.org/ ANSI iPackages Portals &amp; WebStore] - ISO14000 online portals
+
+[[Category:ISO member bodies]]
+[[Category:Organizations based in the United States]]
+[[Category:Standards organizations]]
+[[Category:ANSI standards]]
+
+[[ar:المعهد القومي الأمريكي للتنميط]]
+[[zh-min-nan:ANSI]]
+[[bs:ANSI]]
+[[br:ANSI]]
+[[cs:American National Standards Institute]]
+[[de:American National Standards Institute]]
+[[et:ANSI]]
+[[es:Instituto Nacional Estadounidense de Estándares]]
+[[fa:مؤسسه ملی استاندارد آمریکا]]
+[[fr:American National Standards Institute]]
+[[ga:ANSI]]
+[[gl:American National Standards Institute]]
+[[ko:ANSI]]
+[[it:American National Standards Institute]]
+[[he:מכון התקנים האמריקני]]
+[[lv:ANSI]]
+[[lb:American National Standards Institute]]
+[[hu:ANSI]]
+[[nl:American National Standards Institute]]
+[[ja:ANSI]]
+[[no:American National Standards Institute]]
+[[nn:American National Standards Institute]]
+[[pl:American National Standards Institute]]
+[[pt:American National Standards Institute]]
+[[ru:Американский национальный институт стандартов]]
+[[sk:American National Standards Institute]]
+[[sl:ANSI]]
+[[sr:Амерички национални завод за стандардизацију]]
+[[sv:Ansi]]
+[[th:สถาบันมาตรฐานแห่งชาติของสหรัฐอเมริกา]]
+[[vi:ANSI]]
+[[tr:ANSI]]
+[[uk:Американський національний інститут стандартів]]
+[[zh:美國國家標準協會]]

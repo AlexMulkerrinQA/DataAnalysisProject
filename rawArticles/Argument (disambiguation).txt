@@ -1,0 +1,64 @@
+      {{wiktionarypar|argument}}
+* In [[logic]], an [[Argument (logic)|argument]] is a set of one or more meaningful declarative sentences (or &quot;propositions&quot;) known as the premises along with another meaningful declarative sentence (or &quot;proposition&quot;) known as the conclusion
+* In maths and other subjects an argument can be a [[parameter]]: mathematical functions typically can have one or more variables and zero or more parameters. The two are often distinguished by being grouped separately in the list of '''arguments''' that the function
+* In general parlance, an '''argument''' is a discussion involving conflicting points of view
+
+== General types of argument ==
+*[[Argument form]], the logical structure of an argument
+* [[Argument map]], a method of displaying an informal argument
+* [[Argumentation theory]], the science and theory of civil debates
+* [[Argument (logic)]], the development of logics of (non-demonstrative) argument
+* [[deductive argument]], if valid, the conclusion follows by necessity
+* [[inductive argument]], if strong, the conclusion is, at best, probably true
+* [[defeasible reasoning]], if arguable, the conclusion is defeasibly justified
+* &quot;Informal argument&quot;, in [[Informal logic]] is one presented in ordinary language
+* [[oral argument]], a verbal presentation to a judge by a lawyer
+* [[heuristic argument]], a proof or demonstration relying on experimental results, or one which is not fully rigorous
+* argument of a [[Function (mathematics)]], A specific input in a function is called an argument of the function
+* argument of a predicate, in  [[First-order logic]] a specific input in a predicate is called an argument of the predicate
+
+== Specific arguments ==
+*[[ontological argument]], a proof by intuition or reason for the existence of God
+* [[political argument]], the use of logic rather than propaganda in promoting political ideas
+* [[practical arguments]], the structure of a persuasive argument
+* [[javelin argument]], a cosmological reasoning about the infinite size of the universe
+
+== Mathematics, science and linguistics ==
+* In mathematics, science (including computer science), linguistics and engineering, an '''argument''' is, generally speaking, an independent variable or '''input to a function'''
+* the [[Arg (mathematics)]] φ=Arg(''z'') of a [[complex number]] represented in [[complex number#Polar form|polar coordinates]]
+*[[argument principle]], a theorem in complex analysis about meromorphic functions inside and on a closed contour
+* [[verb argument]], a phrase in a sentence that qualifies a verb
+* Specific types of proofs:
+** [[Cantor's diagonal argument]], a type of proof over an infinite domain, used to demonstrate that two sets have different cardinalities
+** [[probabilistic method|probabilistic argument]], a type of proof using [[probability theory]]
+* [[argument (computer science)]], an input to a subprogram or subroutine
+** [[command-line argument]], an input from a command line interface to a program
+** [[default argument]], an actual parameter to a program that is used when no other actual parameter is provided
+
+== Other ==
+* ''[[The Argument]]'', a 2001 album by Fugazi
+* [[argument (literature)]], the brief summary at the beginning of a section of a poem
+* [[Closing argument]], in common wealth systems also called a summation, is the final presentation by an attorney in court
+* [[grand argument story]], a type of story that is intended to be conceptually complete
+* [[Distinction without a difference]]
+* [[The Argument Sketch]], from Monty Python's Flying Circus
+* [[Toulmin Model]], the model of an argument
+* [[Argumentative]], a type of evidentiary objection to a question for a witness during a trial
+* [[Argument (ship)]], an Australian ship sunk in 1809
+
+{{disambig}}
+[[da:Argument]]
+[[de:Argument (Begriffsklärung)]]
+[[et:Argument (täpsustus)]]
+[[fr:Argument]]
+[[hr:Argument (razdvojba)]]
+[[io:Argumento]]
+[[id:Argumen]]
+[[ia:Argumento (disambiguation)]]
+[[nl:Argument]]
+[[pl:Argument]]
+[[pt:Argumento (desambiguação)]]
+[[ru:Аргумент]]
+[[sk:Argument]]
+[[sr:Аргумент]]
+[[sv:Argument]]

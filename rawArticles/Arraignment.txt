@@ -1,0 +1,22 @@
+      {{Unreferenced|date=July 2007}}
+{{CrimPro-I}}
+'''Arraignment''' is a formal reading of a [[crime|criminal]] [[complaint]] in the presence of the [[defendant]] to inform the defendant of the charges against him or her. In response to arraignment, the accused is expected to enter a [[plea]]. Acceptable pleas vary among jurisdictions, but they generally include &quot;guilty&quot;, &quot;not guilty&quot;, and the [[peremptory pleas]] (or pleas in bar) setting out reasons why a trial cannot proceed. Pleas of &quot;[[nolo contendere]]&quot; (no contest) and the &quot;[[Alford plea]]&quot; are allowed in some circumstances. 
+
+In England, Wales, and Northern Ireland, arraignment is the first of eleven stages in a criminal trial, and involves the [[court clerk|clerk]] of the [[court]] reading out the [[indictment]]. The defendant is asked whether he or she pleads guilty or not guilty to each individual charge. 
+
+==Guilty and not guilty pleas==
+If the defendant pleads guilty, an [[preliminary hearing|evidentiary hearing]] usually follows. The court is not required to accept a guilty plea. During the hearing, the judge will assess the offense, [[mitigating factor]]s, and the defendant's character, and pass [[Sentence (law)|sentence]]. If the defendant pleads [[not guilty]], a date will be set for a [[preliminary hearing]] or a [[Jury trial|trial]].
+
+In the past, a defendant who refused to plead (or &quot;stood mute&quot;) would be subject to [[Crushing|peine forte et dure]] ([[Law French]] for &quot;strong and hard punishment&quot;). Today in common law jurisdictions, defendants who refuse to enter a plea will have a plea of not guilty entered for them on their behalf.
+
+==Federal rules of criminal procedure==
+Under the ''[[federal rules of criminal procedure]]'', &quot;arraignment shall...[consist of an] open...reading [of] the [[indictment]]...to the defendant...and calling on him to plead thereto. He shall be given a copy of the indictment...before he is called upon to plead.&quot;
+
+
+{{law-term-stub}}
+
+[[Category:Legal terms]]
+[[Category:Prosecution]]
+
+[[id:Arraignment]]
+[[ja:罪状認否]]

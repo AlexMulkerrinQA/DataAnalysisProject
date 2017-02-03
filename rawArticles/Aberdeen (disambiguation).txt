@@ -1,0 +1,144 @@
+      {{wiktionary|Aberdeen}}
+
+'''[[Aberdeen]]''' is a city in Scotland, {{pron-en|æbərˈdiːn}}, with the stress on the ''deen.'' In the USA, cities named after Aberdeen are {{pron-en|ˈæbərdiːn}}, with the stress on the ''Ab.''
+
+==Aberdeen, Scotland==
+Aberdeen, Scotland, is home of:
+&lt;!--* [[Aberdeen Alternative Festival]]
+* [[Aberdeen Airport]]
+* [[Aberdeen Art Gallery]]
+* [[Aberdeen Arts Centre]]
+* [[Aberdeen Beach and Queens Links]]
+* [[Aberdeen Castle]]
+* [[Aberdeen Citizen]], free newspaper
+* [[Aberdeen College]]
+* [[Aberdeen Crossrail]], proposed railway
+* [[Aberdeen Cup]], annual tennis tournament between England and Scotland
+* [[Aberdeen Exhibition and Conference Centre]]--&gt;
+* [[Aberdeen F.C.]]
+* [[Aberdeen Grammar School]]
+** [[Aberdeen GSFP RFC]], Former Pupils Rugby Football Club
+&lt;!--* [[Aberdeen International Football Festival]]
+* [[Aberdeen International Youth Festival]]
+* [[Aberdeen Journals]], newspaper publisher
+* [[Aberdeen Maritime Museum]]--&gt;&lt;!--blanked out as no one would type in just 'Aberdeen' looking for them, per [[MOS:D]]--&gt;
+* [[Aberdeen (HM Prison)]]
+* [[Aberdeen railway station]]
+* [[Aberdeen Regional Airport]]
+* [[University of Aberdeen]]
+
+==Africa==
+;Sierra Leone
+* [[Aberdeen, Sierra Leone]]
+
+;South Africa
+* [[Aberdeen, Eastern Cape]]
+
+==Asia==
+;Hong Kong
+* [[Aberdeen Channel]]
+* [[Aberdeen (Hong Kong)]]
+;Sri Lanka
+* [[Aberdeen, Sri Lanka]]
+
+==Australia==
+* [[Aberdeen, New South Wales]]
+** [[Aberdeen railway station, New South Wales]]
+* [[Aberdeen, Tasmania]]
+
+==Europe==
+* [[Aberdeen (UK Parliament constituency)]] 1832-1885
+* [[Aberdeen Burghs (UK Parliament constituency)]] 1801-1832
+* [[Aberdeen Central (Scottish Parliament constituency)]]
+* [[Aberdeen Central (UK Parliament constituency)]]
+
+==North America==
+;Canada
+* [[Aberdeen, New Brunswick]]
+* [[Aberdeen, Nova Scotia]], part of the Municipality of Inverness County, Nova Scotia
+* [[New Aberdeen, Nova Scotia]], part of Glace Bay, Nova Scotia
+&lt;!--* [[Aberdeen Bay, Nunavut]]--&gt;
+* [[Aberdeen Lake (Nunavut)]]
+&lt;!--* [[Aberdeen Township, Ontario]]--&gt;
+* [[Macdonald, Meredith and Aberdeen Additional, Ontario]]
+* Aberdeen Township, Quebec, until 1960 part of Sheen-Esher-Aberdeen-et-Malakoff, now part of [[Rapides-des-Joachims, Quebec]]
+* [[Aberdeen, Saskatchewan]]
+* [[Aberdeen No. 373, Saskatchewan]]
+* [[Aberdeen, Abbotsford]] a neighbourhood of the [[Abbotsford, British Columbia|City of Abbotsford]], [[British Columbia]]
+* [[Aberdeen (Kamloops)]] an area in the [[Kamloops, British Columbia|City of Kamloops]], [[British Columbia]]
+* [[Aberdeen, Grey County, Ontario]]
+* [[Aberdeen, Prescott and Russell County, Ontario]]
+;United States of America
+* [[Aberdeen, Arkansas]]
+* [[Aberdeen, California]]
+* [[Aberdeen, Florida]]
+* [[Aberdeen, Georgia]]
+* [[Aberdeen, Idaho]]
+* [[Aberdeen, Indiana]]
+* [[Aberdeen, Kentucky]]
+&lt;!--* [[Aberdeen, Massachusetts]]--&gt;
+* [[Aberdeen, Maryland]]
+** [[Aberdeen High School (Aberdeen, Maryland)]]
+** [[Aberdeen (Amtrak station)]]
+** [[Aberdeen IronBirds]], baseball team
+* [[Aberdeen, Mississippi]]
+** [[Aberdeen Lake (Mississippi)]]
+** [[Aberdeen Lock and Dam]]
+* [[Aberdeen, Montana]]
+* [[Aberdeen Township, New Jersey]]
+* [[Aberdeen, North Carolina]]
+* [[Aberdeen, Ohio]]
+** [[Aberdeen Mound]], near Aberdeen, Ohio
+* [[Aberdeen, Pennsylvania]]
+* [[Aberdeen, South Dakota]]
+* [[Aberdeen, Texas]]
+* [[Aberdeen Gardens (Hampton, Virginia)]]
+* [[Aberdeen, Washington]]
+** [[Aberdeen High School (Aberdeen, Washington)]]
+* [[Aberdeen Gardens, Washington]]
+* [[Aberdeen, West Virginia]]
+
+==Other==
+* [[Aberdeen (band)]], an American rock band
+* [[Aberdeen (film)]], a film (2000) directed by Hans Petter Moland, starring Stellan Skarsgård and Lena Headey
+&lt;!--* [[Aberdeen Act]], 1845, Parliament of the United Kingdom
+* Aberdeen Angus also known as [[Angus cattle]]
+* [[Aberdeen Angus Steak Houses]], London
+* [[Aberdeen Arsenal]], baseball team, Maryland, USA
+* [[Aberdeen Asset Management]], an international investment management group based in Aberdeen, Scotland
+* [[Aberdeen Avenue (Hamilton, Ontario)]]
+* [[Aberdeen Bestiary]], 12th century bestiary in Aberdeen University
+* [[Aberdeen Breviary]], 16th century Catholic collection
+* [[Aberdeen Centre]], an Asian-themed shopping mall in Richmond, British Columbia, Canada--&gt;&lt;!--blanked out per [[MOS:D]], not known simply as 'Aberdeen'--&gt;
+** [[Aberdeen Station (Richmond)]], a future rapid transit station serving the mall
+&lt;!--* [[Aberdeen Chronograph]], instrument for measuring ordnance muzzle velocity and striking power
+* [[Aberdeen City (band)]], an American rock band
+* [[Aberdeen Cultural Centre]], a center for the arts in Moncton, New Brunswick, Canada--&gt;
+* [[Aberdeen Group]], an IT-consulting firm
+* [[Aberdeen LLC]], a server and storage server computer system manufacturer
+&lt;!--* [[Aberdeen Medico-Chirurgical Society]]
+* [[Aberdeen Proving Ground]], a US Army installation in Maryland, United States of America--&gt;&lt;!--blanked out per [[MOS:D]], not known simply as 'Aberdeen'--&gt;
+
+{{disambig}}
+[[Category:Place name disambiguation pages]]
+
+[[af:Aberdeen (dubbelsinnig)]]
+[[bg:Абърдийн (пояснение)]]
+[[cs:Aberdeen]]
+[[de:Aberdeen (Begriffsklärung)]]
+[[et:Aberdeen (täpsustus)]]
+[[es:Aberdeen]]
+[[fa:ابردین]]
+[[fr:Aberdeen (homonymie)]]
+[[gl:Aberdeen]]
+[[it:Aberdeen (disambigua)]]
+[[he:אברדין]]
+[[nl:Aberdeen (doorverwijspagina)]]
+[[ja:アバディーン (曖昧さ回避)]]
+[[pl:Aberdeen (ujednoznacznienie)]]
+[[pt:Aberdeen]]
+[[ru:Абердин (значения)]]
+[[sk:Aberdeen]]
+[[fi:Aberdeen (täsmennyssivu)]]
+[[sv:Aberdeen (olika betydelser)]]
+[[vo:Aberdeen]]

@@ -1,0 +1,892 @@
+      {{pp-move-indef}}
+{{otheruses}}
+{{Infobox Continent
+|image               = [[File:Asia (orthographic projection).svg|200px]]
+|area                = 44,579,000 km&lt;sup&gt;2&lt;/sup&gt; (17,212,000 sq mi)
+|population          = 3,879,000,000 ([[List of continents by population|1&lt;sup&gt;st&lt;/sup&gt;]])&lt;ref&gt;[http://www.worldatlas.com/geoquiz/thelist.htm List of continents by population]&lt;/ref&gt;
+|density             = 89/km&lt;sup&gt;2&lt;/sup&gt; (226/sq mi)
+|demonym             = [[Asian]]
+|countries           = 47
+|list_countries      = List of Asian countries
+|dependencies        = 
+ {{Collapsible list
+   | title       = {{voidd}}
+   | frame_style = border: none; padding: 0;
+   | list_style  = display: none;
+   | 1 = [[Akrotiri and Dhekelia]] | 2 = [[British Indian Ocean Territory]] | 3 = [[Christmas Island]] | 4 = [[Cocos (Keeling) Islands]]
+ }}
+|unrecognized        =
+ {{Collapsible list
+   | title       = {{voidd}}
+   | frame_style = border: none; padding: 0;
+   | list_style  = display: none;
+   | 1 = [[Abkhazia]] | 2 = [[Gaza Strip|Gaza Strip (Palestine)]] | 3 = [[Nagorno-Karabakh]] | 4 = [[South Ossetia]] | 5 = [[Republic of China|Taiwan]]
+   | 6 = [[Turkish Republic of Northern Cyprus]] | 7 = [[West Bank|West Bank (Palestine)]]
+ }}
+|languages           = [[Languages of Asia|List of languages]]
+|time                = [[UTC+2]] to [[UTC+12]]
+|internet            = [[.asia]]
+|cities              = 
+ {{Collapsible list
+   | title       = {{voidd}}
+   | frame_style = border: none; padding: 0;
+   | list_style  = display: none;
+   | 1 = [[Tokyo]] | 2 = [[Seoul]] | 3 = [[Mumbai]] | 4 = [[Jakarta]] | 5 = [[Osaka]]
+   | 6 = [[Shanghai]] | 7 = [[Manila]] | 8 = [[Hong Kong]] | 9 = [[Tehran]] | 10 = [[Kolkata]]
+   | 11 = [[Beijing]] | 12 = [[Hanoi]] | 13 = [[Dubai]]
+ }}
+}}
+
+'''Asia''' is the world's largest and most populous [[continent]]. It covers 8.6% of the [[Earth]]'s total surface area (or 29.9% of its land area) and with approximately 4 billion people, it accounts for 60% of the world's current [[human population]]. It is located chiefly in the [[Eastern Hemisphere|eastern]] and [[northern hemisphere]]s.
+
+Asia is traditionally defined as part of the [[landmass]] of [[Eurasia]]—with the western portion of the latter occupied by [[Europe]]—lying east of the [[Suez Canal]], [[east]] of the [[Ural Mountains]], and south of the [[Caucasus Mountains]] and the [[Caspian Sea|Caspian]] and [[Black Sea]]s. It is bounded on the east by the [[Pacific Ocean]], on the south by the [[Indian Ocean]], and on the north by the [[Arctic Ocean]]. Given its size and diversity, Asia—a [[toponymy|toponym]] dating back to [[classical antiquity]]—is more a [[human geography|cultural concept]] incorporating a number of [[region]]s and peoples than a [[physical geography|homogeneous physical entity]]&lt;ref&gt;&quot;[http://www.britannica.com/eb/article-9110518/Asia Asia]&quot;. ''[[Encyclopædia Britannica]]''. 2006. Chicago: Encyclopædia Britannica, Inc.&lt;/ref&gt;&lt;ref name=McG-H&gt;&quot;[http://www.answers.com/topic/asia-2010#Science_and_Technology_Encyclopedia Asia]&quot;. ''[[McGraw-Hill Encyclopedia of Science and Technology]].'' 2006. New York: McGraw-Hill Inc.&lt;/ref&gt; (see ''[[Subregions of Asia]]'', ''[[Asian people]]'').
+
+The wealth of Asia differs widely between, and within, states. This is due to its vast size, and huge range of different cultures, environments, historical ties and government systems. In terms of nominal GDP, [[Japan]] has the largest economy on the continent and the second largest in the world. In [[purchasing power parity]] term, however, the [[People's Republic of China]] has the largest economy in Asia and the second largest in the world.
+
+==Etymology==
+The word ''Asia'' originated from the [[Greek language|Greek]] word &quot;Ἀσία&quot;, first attributed to [[Herodotus]] (about 440 BC) in reference to [[Anatolia]] or, for the purposes of describing the Persian Wars, to the Persian Empire, in contrast to [[Greece]] and [[Egypt]]. Herodotus comments that he is puzzled as to why three women's names are used to describe one enormous and substantial land mass ([[Europa (mythology)|Europa]], [[Asia (mythology)|Asia]], and [[Libya (mythology)|Libya]], referring to Africa), stating that most Greeks assumed that Asia was named after the wife of [[Prometheus]] but that the Lydians say it was named after Asias, son of Cotys who passed the name on to a tribe in Sardis.
+
+Even before Herodotus, [[Homer]] knew of a Trojan ally named [[Asios Hyrtakides|Asios]] and elsewhere he describes a marsh as ασιος (Iliad 2, 461). The [[Greek language]] term may be derived from [[Assuwa]], a 14th century BC confederation of states in Western [[Anatolia]]. Hittite ''assu-''—&quot;good&quot; is probably an element in that name.
+
+Alternatively, the [[etymology]] of the term may be from the [[Akkadian language|Akkadian]] word ''{{Unicode|(w)aṣû(m)}}'', which means &quot;to go outside&quot; or &quot;to ascend&quot;, referring to the direction of the [[sun]] at sunrise in the [[Middle East]], and also likely connected with the Phoenician word ''asa'' meaning east. This may be contrasted to a similar etymology proposed for ''Europe'', as being from Akkadian ''erēbu(m)'' &quot;to enter&quot; or &quot;set&quot; (of the sun). However, this etymology is considered doubtful, because it does not explain how the term &quot;Asia&quot; first came to be associated with Anatolia, which is ''west'' of the Semitic-speaking areas, unless they refer to the viewpoint of a [[Phoenicia]]n sailor sailing through the straits between the [[Mediterranean Sea]] and the Black Sea.
+
+==Definition and boundaries==
+===Physical geography===
+:''See also: [[Geography of Asia]], [[transcontinental nation#Countries in both Asia and Europe|Countries in both Asia and Europe]], [[Copenhagen criteria#Geographic criteria for the definition of Europe|Geographic criteria for the definition of Europe]]
+[[File:Asia-map.png|thumb|[[Physical map (cartography)|Physical map]] of Asia, excluding [[Southwest Asia]]]]
+[[File:two-point-equidistant-asia.jpg|thumb|[[Two-point equidistant projection]] of Asia]]
+
+Medieval [[Europe]]ans considered Asia as a continent – a distinct landmass. The European concept of the three continents in the [[Old World]] goes back to [[Classical Antiquity]], but during the Middle Ages was notably due to [[Isidore of Sevilla]] (see [[T and O map]]). The demarcation between Asia and Africa (to the southwest) is the [[Isthmus]] of Suez and the [[Red Sea]]. The boundary between Asia and Europe is conventionally considered to run through the [[Dardanelles]], the [[Sea of Marmara]], the [[Bosporus]], the Black Sea, the Caucasus Mountains, the Caspian Sea, the [[Ural River]] to its source, and the Ural Mountains to the [[Kara Sea]] near Kara, Russia. While this interpretation of tripartite continents (i.e., of Asia, Europe, and Africa) remains common in modernity, discovery of the extent of Africa and Asia have made this definition somewhat anachronistic. This is especially true in the case of Asia, which would have several [[subregions of Asia|regions]] that would be considered distinct landmasses if these criteria were used (for example, [[South Asia|Southern Asia]] and [[East Asia|Eastern Asia]]).
+
+In the far northeast of Asia, [[Siberia]] is separated from North America by the [[Bering Strait]]. Asia is bounded on the south by the [[Indian Ocean]] (specifically, from west to east, the [[Gulf of Aden]], [[Arabian Sea]], and [[Bay of Bengal]]); on the east by the waters of the [[Pacific Ocean]] (including, counterclockwise, the [[South China Sea]], [[East China Sea]], [[Yellow Sea]], [[Sea of Japan]], [[Sea of Okhotsk]], and [[Bering Sea]]); and on the north by the [[Arctic Ocean]]. Australia (or [[Oceania]]) is to the southeast.
+
+Some geographers do not consider Asia and Europe to be separate continents,&lt;ref&gt;&quot;[http://encarta.msn.com/encyclopedia_761574726/Asia.html Asia].&quot; ''[[Encarta|MSN Encarta Encyclopedia]]''. 2007.&lt;/ref&gt; as there is no logical physical separation between them.&lt;ref name=McG-H /&gt; For example, Sir Barry Cunliffe, the emeritus professor of European archeology at Oxford, argues that Europe has been geographically and culturally merely “the western excrescence of the continent of Asia.”&lt;ref&gt;{{cite web|url=http://www.theatlantic.com/doc/200812/editors-choice |title=Geography Is Destiny - The Atlantic (December 2008) |publisher=The Atlantic |date=2008-12-01 |accessdate=2009-04-20}}&lt;/ref&gt; Geographically, Asia is the major eastern constituent of the continent of [[Eurasia]] – with Europe being a northwestern [[peninsula]] of the landmass – or of [[Afro-Eurasia]]: geologically, Asia, Europe, and Africa comprise a single continuous landmass (save the Suez Canal) and share a common [[continental shelf]]. Almost all of Europe and most of Asia sit atop the [[Eurasian Plate]], adjoined on the south by the [[Arabian Plate|Arabian]] and [[Indian Plate]]s, and with the easternmost part of Siberia (east of the [[Cherskiy Range]]) on the [[North American Plate]].
+
+In geography, there are two schools of thought. One school follows historical convention and treats Europe and Asia as different continents, categorizing [[subregion]]s within them for more detailed analysis. The other school equates the word &quot;continent&quot; with a geographical region when referring to Europe, and use the term &quot;region&quot; to describe Asia in terms of physiography. Since, in linguistic terms, &quot;continent&quot; implies a distinct landmass, it is becoming increasingly common to substitute the term &quot;region&quot; for &quot;continent&quot; to avoid the problem of disambiguation altogether.
+
+Given the scope and diversity of the landmass, it is sometimes not even clear exactly what &quot;Asia&quot; consists of. Some definitions exclude [[Turkey]], the Middle East, [[Central Asia]], and Russia while only considering the Far East, Southeast Asia and the Indian subcontinent to compose Asia,&lt;ref&gt;Welty, Paul Thomas. ''The Asians Their Evolving Heritage,'' 6th ed., p. 21. New York: Harper &amp; Row Publishers, 1984. ISBN 0-06-047001-1.&lt;/ref&gt;&lt;ref&gt;World University Service of Canada. Asia-WUSC WorldWide. 2006. October 7, 2006. &lt;http://www.wusc.ca/expertise/worldwide/asia/&gt;.&lt;/ref&gt; especially in the [[United States]] after [[World War II]].&lt;ref&gt;Menon, Sridevi. Duke University. &quot;Where is West Asia in Asian America?Asia and the Politics of Space in Asian America.&quot; 2004. April 26, 2007. page 71 [http://socialtext.dukejournals.org/cgi/reprint/24/1_86/55.pdf]&lt;/ref&gt; The term is sometimes used more strictly in reference to the [[Asia-Pacific]] region, which does not include the Middle East or Russia,&lt;ref&gt;BBC News 2006. September 9, 2006. &lt;http://news.bbc.co.uk/&gt;.&lt;/ref&gt; but does include islands in the Pacific Ocean—a number of which may also be considered part of [[Australasia]] or [[Oceania]], although Pacific Islanders are commonly not considered Asian.&lt;ref&gt;American Heritage Book of English Usage. Asian. 1996. September 29, 2006. &lt;http://www.bartleby.com/64/C006/007.html&gt;.&lt;/ref&gt;
+
+===Political geography===
+{{Asia.png|8000px|float=left}}
+{{-}}
+
+Asian population
+
+==Territories and regions==
+{{seealso|List of Asian countries by population}}
+&lt;!--{{editnote | NOTE: The countries in this table are categorized according to the scheme for geographic subregions used by the United Nations etc., and data included are per sources in cross-referenced articles. Where they differ, provisos are clearly indicated. If you have arguments or evidence to the contrary, please provide them on the talk page and await until the consensus supports making proposed edits. Thank you!}}--&gt;
+
+[[File:Location-Asia-UNsubregions.png|left|thumb|225px|[[Subregion]]s of Asia:
+{{legend|#0000E0|[[North Asia|Northern Asia]]}}
+{{legend|#E000E0|[[Central Asia]]}}
+{{legend|#00E000|[[Southwest Asia|Western Asia]]}}
+{{legend|#E00000|[[South Asia|Southern Asia]]}}
+{{legend|#FFFF20|[[East Asia|Eastern Asia]]}}
+{{legend|#FFC000|[[Southeast Asia|Southeastern Asia]]}}]]
+&lt;div style=&quot;clear:both&quot;/&gt;
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;border:1px solid #aaa; border-collapse:collapse;&quot;
+|- style=&quot;background:#ececec;&quot;
+! Name of [[subregion|region]]&lt;ref&gt;&amp;nbsp;&amp;nbsp;Continental regions as per [[Media:United Nations geographical subregions.png|UN categorisations (map)]], except 12. Depending on definitions, various territories cited below (notes 6, 11-13, 15, 17-19, 21-23) may be in [[Transcontinental nation|one or both of]] Asia and Europe, Africa, or [[Oceania]].&lt;br /&gt;&lt;/ref&gt; and&lt;br /&gt;territory, with [[flag]]
+! [[List of countries by area|Area]]&lt;br /&gt;(km²)
+! [[List of countries by population|Population]]&lt;br /&gt;(1 July 2008 est.)
+! [[List of countries by population density|Population density]]&lt;br /&gt;(per km²)
+! [[Capital (political)|Capital]]
+|-
+| colspan=5 style=&quot;background:#eee;&quot; | '''[[Central Asia]]:'''
+|-
+| {{flag|Kazakhstan}}&lt;ref&gt;&amp;nbsp;&amp;nbsp;[[Kazakhstan]] is sometimes considered a transcontinental country in Central Asia and Eastern Europe; population and area figures are for Asian portion only.&lt;br /&gt;&lt;/ref&gt;
+| align=&quot;right&quot; | 2,724,927
+| align=&quot;right&quot; | 15,666,533
+| align=&quot;right&quot; | 5.7
+| [[Astana]]
+|-
+| {{flag|Kyrgyzstan}}
+| align=&quot;right&quot; | 198,500
+| align=&quot;right&quot; | 5,356,869
+| align=&quot;right&quot; | 24.3
+| [[Bishkek]]
+|-
+| {{flag|Tajikistan}}
+| align=&quot;right&quot; | 143,100
+| align=&quot;right&quot; | 7,211,884
+| align=&quot;right&quot; | 47.0
+| [[Dushanbe]]
+|-
+| {{flag|Turkmenistan}}
+| align=&quot;right&quot; | 488,100
+| align=&quot;right&quot; | 5,179,573
+| align=&quot;right&quot; | 9.6
+| [[Ashgabat]]
+|-
+| {{flag|Uzbekistan}}
+| align=&quot;right&quot; | 447,400
+| align=&quot;right&quot; | 28,268,441
+| align=&quot;right&quot; | 57.1
+| [[Tashkent]]
+|-
+| colspan=5 style=&quot;background:#eee;&quot; | '''[[East Asia|Eastern Asia]]:'''
+|-
+| {{flag|China}}&lt;ref&gt;&amp;nbsp;&amp;nbsp;The [[Sovereign state|state]] &quot;[[People's Republic of China]]&quot; is commonly known as simply &quot;China&quot;, which is subsumed by the [[China|eponymous entity and civilization (China)]]. Figures given are for [[mainland China]] only, and do not include [[Hong Kong]], [[Macau]], and [[Taiwan]].&lt;br /&gt;&lt;/ref&gt;
+| align=&quot;right&quot; | 9,584,492
+| align=&quot;right&quot; | 1,322,044,605
+| align=&quot;right&quot; | 134.0
+| [[Beijing]]
+|-
+| {{flag|Hong Kong}}&lt;ref&gt;&amp;nbsp;&amp;nbsp;[[Hong Kong]] is a [[Special Administrative Region]] (SAR) of the People's Republic of China.&lt;br /&gt;&lt;/ref&gt;
+| align=&quot;right&quot; | 1,092
+| align=&quot;right&quot; | 7,903,334
+| align=&quot;right&quot; | 6,688.0
+| —
+|-
+| {{flag|Macau}}&lt;ref&gt;&amp;nbsp;&amp;nbsp;[[Macau]] is a [[Special Administrative Region]] (SAR) of the People's Republic of China.&lt;br /&gt;&lt;/ref&gt;
+| align=&quot;right&quot; | 25
+| align=&quot;right&quot; | 460,823
+| align=&quot;right&quot; | 18,473.3
+| —
+|-
+| {{flag|Japan}}
+| align=&quot;right&quot; | 377,835
+| align=&quot;right&quot; | 127,288,628
+| align=&quot;right&quot; | 336.1
+| [[Tokyo]]
+|-
+| {{flag|Taiwan|Taiwan)}}&lt;ref&gt;&amp;nbsp;&amp;nbsp;Figures are for [[Taiwan Area|the area]] under the ''de facto'' control of the [[Republic of China]] (ROC) government, commonly referred to as [[Taiwan]]. Claimed in whole by the PRC; see [[political status of Taiwan]].&lt;br /&gt;&lt;/ref&gt;
+| align=&quot;right&quot; | 35,980
+| align=&quot;right&quot; | 22,920,946
+| align=&quot;right&quot; | 626.7
+| [[Taipei]]
+|-
+| {{flag|North Korea}}
+| align=&quot;right&quot; | 120,540
+| align=&quot;right&quot; | 23,479,095
+| align=&quot;right&quot; | 184.4
+| [[Pyongyang]]
+|-
+| {{flag|South Korea}}
+| align=&quot;right&quot; | 98,480
+| align=&quot;right&quot; | 49,232,844
+| align=&quot;right&quot; | 490.7
+| [[Seoul]]
+|-
+| {{flag|Mongolia}}
+| align=&quot;right&quot; | 1,565,000
+| align=&quot;right&quot; | 2,996,082
+| align=&quot;right&quot; | 1.7
+| [[Ulaan Baatar]]
+|-
+| colspan=5 style=&quot;background:#eee;&quot; | '''[[North Asia|Northern Asia]]:'''
+|-
+| {{flag|Russia}}&lt;ref&gt;&amp;nbsp;&amp;nbsp;Russia is considered a [[transcontinental country]] in Eastern Europe and Northern Asia; population and area figures are for the entire state.&lt;br /&gt;&lt;/ref&gt;
+| align=&quot;right&quot; | 17,075,400
+| align=&quot;right&quot; | 142,200,000
+| align=&quot;right&quot; | 26.8
+| [[Moscow]]
+|-
+| colspan=5 style=&quot;background:#eee;&quot; | '''[[Southeast Asia|Southeastern Asia]]:'''&lt;ref name=&quot;ccau&quot;&gt;Excludes [[Christmas Island]] and [[Cocos (Keeling) Islands]] ([[States and territories of Australia|Australian external territories]] in the [[Indian Ocean]] southwest of [[Indonesia]]).&lt;br /&gt;&lt;/ref&gt;
+|-
+| {{flag|Brunei}}
+| align=&quot;right&quot; | 5,770
+| align=&quot;right&quot; | 381,371
+| align=&quot;right&quot; | 66.1
+| [[Bandar Seri Begawan]]
+|-
+| {{flag|Burma|name=Burma (Myanmar)}}
+| align=&quot;right&quot; | 676,578
+| align=&quot;right&quot; | 47,758,224
+| align=&quot;right&quot; | 70.3
+| [[Naypyidaw]]&lt;ref&gt;&amp;nbsp;&amp;nbsp;The administrative capital of [[Burma (Myanmar)]] was officially moved from [[Yangon|Yangon (Rangoon)]] to a militarised greenfield just west of [[Pyinmana]] on 6 November 2005.&lt;/ref&gt;
+|-
+| {{flag|Cambodia}}&lt;ref&gt;[http://www.stat.go.jp/english/info/meetings/cambodia/pdf/pre_rep1.pdf General Population Census of Cambodia 2008 - Provisional population totals, National Institute of Statistics, Ministry of Planning, released 3rd September, 2008]&lt;/ref&gt;
+| align=&quot;right&quot; | 181,035
+| align=&quot;right&quot; | 13,388,910
+| align=&quot;right&quot; | 74
+| [[Phnom Penh]]
+|-
+| {{flag|East Timor|name=East Timor (Timor-Leste)}}&lt;ref&gt;&amp;nbsp;&amp;nbsp;[[East Timor]] is often considered a transcontinental country in Southeastern Asia and [[Oceania]].&lt;br /&gt;&lt;/ref&gt;
+| align=&quot;right&quot; | 15,007
+| align=&quot;right&quot; | 1,108,777
+| align=&quot;right&quot; | 73.8
+| [[Dili]]
+|-
+| {{flag|Indonesia}}&lt;ref&gt;&amp;nbsp;&amp;nbsp;[[Indonesia]] is often considered a transcontinental country in Southeastern Asia and [[Oceania]]; figures do not include [[Irian Jaya]] and [[Maluku Islands]], frequently reckoned in Oceania ([[Melanesia]]/[[Australasia]]).&lt;br /&gt;&lt;/ref&gt;
+| align=&quot;right&quot; | 1,919,440
+| align=&quot;right&quot; | 230,512,000
+| align=&quot;right&quot; | 120.1
+| [[Jakarta]]
+|-
+| {{flag|Laos}}
+| align=&quot;right&quot; | 236,800
+| align=&quot;right&quot; | 6,677,534
+| align=&quot;right&quot; | 28.2
+| [[Vientiane]]
+|-
+| {{flag|Malaysia}}
+| align=&quot;right&quot; | 329,847
+| align=&quot;right&quot; | 27,780,000
+| align=&quot;right&quot; | 84.2
+| [[Kuala Lumpur]]
+|-
+| {{flag|Philippines}}
+| align=&quot;right&quot; | 300,000
+| align=&quot;right&quot; | 92,681,453
+| align=&quot;right&quot; | 308.9
+| [[Manila]]
+|-
+| {{flag|Singapore}}
+| align=&quot;right&quot; | 704
+| align=&quot;right&quot; | 4,608,167
+| align=&quot;right&quot; | 6,545.7
+| [[Singapore]]
+|-
+| {{flag|Thailand}}
+| align=&quot;right&quot; | 514,000
+| align=&quot;right&quot; | 65,493,298
+| align=&quot;right&quot; | 127.4
+| [[Bangkok]]
+|-
+| {{flag|Vietnam}}
+| align=&quot;right&quot; | 331,690
+| align=&quot;right&quot; | 86,116,559
+| align=&quot;right&quot; | 259.6
+| [[Hanoi]]
+|-
+| colspan=5 style=&quot;background:#eee;&quot; | '''[[South Asia|Southern Asia]]:'''
+|-
+| {{flag|Afghanistan}}
+| align=&quot;right&quot; | 647,500
+| align=&quot;right&quot; | 32,738,775
+| align=&quot;right&quot; | 42.9
+| [[Kabul]]
+|-
+| {{flag|Bangladesh}}
+| align=&quot;right&quot; | 147,570
+| align=&quot;right&quot; | 153,546,901
+| align=&quot;right&quot; | 1040.5
+| [[Dhaka]]
+|-
+| {{flag|Bhutan}}
+| align=&quot;right&quot; | 38,394
+| align=&quot;right&quot; | 682,321
+| align=&quot;right&quot; | 17.8
+| [[Thimphu]]
+|-
+| {{flag|India}}&lt;ref&gt;&amp;nbsp;&amp;nbsp;Includes [[Jammu and Kashmir]], a contested territory among India, [[Pakistan]], and the [[People's Republic of China|PRC]].&lt;br /&gt;&lt;/ref&gt;
+| align=&quot;right&quot; | 3,287,263
+| align=&quot;right&quot; | 1,147,995,226
+| align=&quot;right&quot; | 349.2
+| [[New Delhi]]
+|-
+| {{flag|Maldives}}
+| align=&quot;right&quot; | 300
+| align=&quot;right&quot; | 379,174
+| align=&quot;right&quot; | 1,263.3
+| [[Malé]]
+|-
+| {{flag|Nepal}}
+| align=&quot;right&quot; | 147,181
+| align=&quot;right&quot; | 29,519,114
+| align=&quot;right&quot; | 200.5
+| [[Kathmandu]]
+|-
+| {{flag|Pakistan}}
+| align=&quot;right&quot; | 803,940
+| align=&quot;right&quot; | 167,762,049
+| align=&quot;right&quot; | 208.7
+| [[Islamabad]]
+|-
+| {{flag|Sri Lanka}}
+| align=&quot;right&quot; | 65,610
+| align=&quot;right&quot; | 21,128,773
+| align=&quot;right&quot; | 322.0
+| [[Sri Jayawardenapura-Kotte]]
+|-
+| colspan=5 style=&quot;background:#eee;&quot; | '''[[Southwest Asia|Western Asia]]:'''
+|-
+| {{flag|Armenia}}&lt;ref&gt;&amp;nbsp;&amp;nbsp;[[Armenia]] is sometimes considered a transcontinental country: physiographically in [[Western Asia]], it has historical and sociopolitical connections with Europe.&lt;br /&gt;&lt;/ref&gt;
+| align=&quot;right&quot; | 29,800
+| align=&quot;right&quot; | 2,968,586
+| align=&quot;right&quot; | 111.7
+| [[Yerevan]]
+|-
+| {{flag|Azerbaijan}}&lt;ref&gt;&amp;nbsp;&amp;nbsp;[[Azerbaijan]] is often considered a transcontinental country in Western Asia and Eastern Europe; population and area figures are for Asian portion only. Figures include [[Nakhchivan]], an autonomous [[exclave]] of Azerbaijan bordered by [[Armenia]], [[Iran]], and [[Turkey]].&lt;br /&gt;&lt;/ref&gt;
+| align=&quot;right&quot; | 46,870
+| align=&quot;right&quot; | 3,845,127
+| align=&quot;right&quot; | 82.0
+| [[Baku]]
+|-
+| {{flag|Bahrain}}
+| align=&quot;right&quot; | 665
+| align=&quot;right&quot; | 718,306
+| align=&quot;right&quot; | 987.1
+| [[Manama]]
+|-
+| {{flag|Cyprus}}&lt;ref&gt;&amp;nbsp;&amp;nbsp;The island of [[Cyprus]] is sometimes considered a transcontinental territory: in the Eastern Basin of the [[Mediterranean Sea]] south of [[Turkey]], it has historical and socio-political connections with Europe. However, the [[U.N.]] considers Cyprus to be in Western Asia, while the [[C.I.A.]] considers it to be in the [[Middle East]].&lt;br /&gt;&lt;/ref&gt;
+| align=&quot;right&quot; | 9,250
+| align=&quot;right&quot; | 792,604
+| align=&quot;right&quot; | 83.9
+| [[Nicosia]]
+|-
+| {{flag|Georgia}}&lt;ref&gt;&amp;nbsp;&amp;nbsp;[[Georgia (country)|Georgia]] is often considered a transcontinental country in Western Asia and Eastern Europe; population and area figures are for Asian portion only.&lt;br /&gt;&lt;/ref&gt;
+| align=&quot;right&quot; | 20,460
+| align=&quot;right&quot; | 4,630,841
+| align=&quot;right&quot; | 99.3
+| [[Tbilisi]]
+|-
+| {{flag|Iraq}}
+| align=&quot;right&quot; | 437,072
+| align=&quot;right&quot; | 28,221,181
+| align=&quot;right&quot; | 54.9
+| [[Baghdad]]
+|-
+| {{flag|Iran}}&lt;!--{{editnote | NOTE: Do not alter or move this entry without discussion -- in the UN scheme for countries/regions (used in the table), Iran is in Southern Asia, not Western Asia.}}--&gt;
+| align=&quot;right&quot; | 1,648,195
+| align=&quot;right&quot; | 70,472,846
+| align=&quot;right&quot; | 42.8
+| [[Tehran]]
+|-
+| {{flag|Israel}}
+| align=&quot;right&quot; | 20,770
+| align=&quot;right&quot; | 7,112,359
+| align=&quot;right&quot; | 290.3
+| [[Jerusalem]]&lt;ref&gt;In 1980, [[Jerusalem]] was proclaimed Israel's united capital, following its annexation of Arab-dominant [[East Jerusalem]] during the [[Six-Day War|1967 Six-Day War]]. The [[United Nations]] and many countries do not recognize this claim, with most countries maintaining embassies in [[Tel Aviv]] instead.&lt;/ref&gt;
+|-
+| {{flag|Jordan}}
+| align=&quot;right&quot; | 92,300
+| align=&quot;right&quot; | 6,198,677
+| align=&quot;right&quot; | 57.5
+| [[Amman]]
+|-
+| {{flag|Kuwait}}
+| align=&quot;right&quot; | 17,820
+| align=&quot;right&quot; | 2,596,561
+| align=&quot;right&quot; | 118.5
+| [[Kuwait City]]
+|-
+| {{flag|Lebanon}}
+| align=&quot;right&quot; | 10,452
+| align=&quot;right&quot; | 3,971,941
+| align=&quot;right&quot; | 353.6
+| [[Beirut]]
+|-
+| {{flag|Oman}}
+| align=&quot;right&quot; | 212,460
+| align=&quot;right&quot; | 3,311,640
+| align=&quot;right&quot; | 12.8
+| [[Muscat, Oman|Muscat]]
+|-
+| {{flag|Palestine}}
+| align=&quot;right&quot; |  6,257
+| align=&quot;right&quot; |  4,277,000
+| align=&quot;right&quot; |  683.5
+| [[Ramallah]]
+|-
+| {{flag|Qatar}}
+| align=&quot;right&quot; | 11,437
+| align=&quot;right&quot; | 928,635
+| align=&quot;right&quot; | 69.4
+| [[Doha]]
+|-
+| {{flag|Saudi Arabia}}
+| align=&quot;right&quot; | 1,960,582
+| align=&quot;right&quot; | 23,513,330
+| align=&quot;right&quot; | 12.0
+| [[Riyadh]]
+|-
+| {{flag|Syria}}
+| align=&quot;right&quot; | 185,180
+| align=&quot;right&quot; | 19,747,586
+| align=&quot;right&quot; | 92.6
+| [[Damascus]]
+|-
+| {{flag|Turkey}}&lt;ref&gt;&amp;nbsp;&amp;nbsp;[[Turkey]] is generally considered a transcontinental country in Western Asia and Southern Europe; population and area figures are for Asian portion only, excluding all of [[Istanbul Province|Istanbul]].&lt;/small&gt;&lt;br /&gt;&lt;/ref&gt;
+| align=&quot;right&quot; | 756,768
+| align=&quot;right&quot; | 71,892,807
+| align=&quot;right&quot; | 76.5
+| [[Ankara]]
+|-
+| {{flag|United Arab Emirates}}
+| align=&quot;right&quot; | 82,880
+| align=&quot;right&quot; | 4,621,399
+| align=&quot;right&quot; | 29.5
+| [[Abu Dhabi]]
+|-
+| {{flag|Yemen}}
+| align=&quot;right&quot; | 527,970
+| align=&quot;right&quot; | 23,013,376
+| align=&quot;right&quot; | 35.4
+| [[Sanaá]]
+|- style=&quot;font-weight:bold;&quot;
+| Total
+| align=&quot;right&quot; | 43,810,582
+| align=&quot;right&quot; | 4,162,966,086
+| align=&quot;right&quot; | 89.07
+|}
+
+:''Note'': Part of [[Egypt]] ([[Sinai Peninsula]]) is geographically in Western Asia
+
+===Country name changes===
+Various Asian countries have undergone name changes during the previous century as the result of consolidations, [[secession]]s, territories gaining [[sovereignty]], and [[regime change]]s.
+
+{|class=&quot;wikitable sortable&quot; border=&quot;1&quot; style=&quot;font-size: 90%&quot;
+|-
+! Previous Name !! Year !! Current Name
+|-
+| [[Dominion of India]], ''formerly [[British India]]''
+| 1950
+| [[Republic of India]]
+|-
+| [[East Bengal]] province
+| 1905-1911 and 1947-1955&lt;br /&gt;1955-1971&lt;br /&gt;1971
+| [[East Pakistan]] state &lt;br /&gt; [[Bangladesh]], People's Republic of
+|-
+
+| [[Democratic Kampuchea]]
+| 1975
+| [[Cambodia]], Kingdom of
+|-
+| [[Empire of Great Qing of China]]
+| 1912&lt;br /&gt;1949
+| [[Republic of China|China]], Republic of&lt;br /&gt;China, People's Republic of
+|-
+| [[Portuguese Timor]]
+| 1975&lt;br /&gt;2002
+| [[Timor Timur]] (province of Indonesia) &lt;br /&gt;[[East Timor]], Democratic Republic of
+|-
+| [[Dutch East Indies]]
+| 1949
+| [[Indonesia]], Republic of
+|-
+| [[Persian Empire]]
+| 1935&lt;br /&gt;1979
+| [[Iran]], Republic of&lt;br /&gt;[[Iran]], Islamic Republic of
+|-
+| [[Transjordan]]
+| 1946
+| [[Jordan]], Kingdom of
+|-
+| [[Kirghiz SSR]] (USSR)
+| 1991
+| Kyrgyzstan, Republic
+|-
+| [[Federation of Malaya|Malaya]], [[North Borneo]], [[Sarawak]] and [[Singapore]]
+| 1963&lt;br /&gt;1965
+| [[Malaysia]] (including [[Singapore]])&lt;br /&gt;[[Malaysia]] and [[Singapore]]
+|-
+| [[Burma]]
+| 1989
+| [[Myanmar]], Union of
+|-
+| [[Muscat, Oman|Muscat]]
+| 1971
+| [[Oman]], Sultanate of
+|-
+| [[Dominion of Pakistan]]
+| 1947-1956&lt;br /&gt;1956-1970&lt;br /&gt;1971  
+| [[West Pakistan]], Islamic State of&lt;br/&gt;[[Pakistan]], Islamic Republic of
+|-
+| [[Spanish East Indies]], [[Philippine Islands]], [[Las Islas Filipinas]]
+| 1965
+| [[Philippines]], Republic of the
+|-
+| [[Hejaz]]-[[Nejd]], The Kingdom of
+| 1932
+| [[Saudi Arabia]], Kingdom of
+|-
+| [[Aden]]
+| 1970
+| [[South Yemen]], People's Republic of
+|-
+| [[Ceylon]]
+| 1972
+| [[Sri Lanka]], Democratic Socialist Republic of
+|-
+| [[Tajik Soviet Socialist Republic|Tajik SSR]] (USSR)
+| 1991
+| [[Tajikistan]], Republic of
+|-
+| [[Siam]]
+| 1939
+| [[Thailand]], Kingdom of
+|-
+| [[Ottoman Empire]]
+| 1923
+| [[Turkey]], Republic of
+|-
+| [[Turkmen SSR]] (USSR)
+| 1991
+| [[Turkmenistan]]
+|-
+| [[Trucial Oman]] &amp; [[Trucial States]]
+| 1971
+| [[United Arab Emirates]]
+|-
+| [[French Indo-China]]
+| 1949
+| [[Cambodia]], [[Laos]] and [[Vietnam]]
+|-
+| [[Yemen]], People's Democratic &amp; [[Southern Yemen]]
+| 1990
+| [[Yemen]], Republic of
+|}
+
+==Economy==
+{{update}}
+{| class=&quot;wikitable&quot; border=&quot;1&quot; style=&quot;width:300px;margin-left:1.5em; float:right;&quot;
+|+ &lt;big&gt;'''Economy of Asia'''&lt;/big&gt;&lt;br /&gt;&lt;small&gt;During 2003 unless otherwise stated&lt;/small&gt;
+|-
+|Population:
+| 3,958,768,100 (2006 Estimate)
+|-
+|[[Gross domestic product|GDP]] ([[List of countries by GDP (PPP)|PPP]]):
+|[[US$]]18.077 trillion
+|-
+|[[Gross domestic product|GDP]] ([[List of countries by GDP|Currency]]):
+| $8.782 trillion
+|-
+|GDP/capita ([[List of countries by GDP (PPP) per capita|PPP]]):
+| $4,518
+|-
+|GDP/capita ([[List of countries by GDP (Nominal) per capita|Currency]]):
+| $2,143
+|-
+| [[Millionaire]]s:
+| 2.0 million (0.05%)
+|-
+| align=&quot;center&quot; colspan=&quot;2&quot; | &lt;small&gt;Most numbers are from the [[UNDP]] from 2002, some numbers exclude certain countries for lack of information.&lt;/small&gt;
+|-
+| align=&quot;center&quot; colspan=&quot;2&quot; | {{World economy infobox footer}}
+|}
+{{main|Economy of Asia}}
+{{see also|List of regions by past GDP (PPP)}}
+
+Asia has the third largest [[Real versus nominal value (economics)|nominal]] GDP of all continents, after North America and Europe, but the largest when measured in [[Purchasing power parity|PPP]]. As of 2007, the largest national economy within Asia, in terms of [[gross domestic product]] (GDP), is that of [[Economy of China|China]] followed by that of [[Japan]], [[India]], [[South Korea]] and [[Indonesia]]. However, in nominal (exchange value) terms, they rank as follows: Japan, China, India, South Korea, [[Saudi Arabia]], [[Republic of China|Taiwan]], [[Indonesia]]. Since the 1960s, South Korea had maintained the highest economic growth rate in Asia, nicknamed as an [[Four Asian Tigers|Asian tiger]], becoming a [[newly industrialized country]] in the 1980s and a [[developed country]] by the 21st century. In the late 1990s and early 2000s, the economies of the PRC&lt;ref&gt;[http://papers.ssrn.com/sol3/papers.cfm?abstract_id=916768 Five Years of China's WTO Membership. EU and US Perspectives on China's Compliance with Transparency Commitments and the Transitional Review Mechanism], Legal Issues of Economic Integration, Kluwer Law International, Volume 33, Number 3, pp. 263-304, 2006. by [http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=629289 Paolo Farah]&lt;/ref&gt; and India have been growing rapidly, both with an average annual growth rate of more than 8%. Other recent very high growth nations in Asia include [[Malaysia]], the [[Philippines]], [[Pakistan]], [[Vietnam]], [[Mongolia]], [[Uzbekistan]] and mineral-rich nations such as [[Kazakhstan]], [[Turkmenistan]], [[Iran]], [[Brunei]], [[United Arab Emirates]], [[Qatar]], [[Kuwait]], [[Saudi Arabia]], [[Bahrain]], and [[Oman]].
+
+During the [[1st millennium]], India had the largest GDP at approximately 30% of the global GDP. By 1500 China had surpassed India; however, over the next four centuries the two were to alternate between 1st and 2nd largest GDP, until the [[British Empire]] (excluding [[British India|India]]) overtook them both in the mid-19th century. Japan has had for only several dacades after WW2 the largest economy in Asia and second-largest of any single nation in the world, after surpassing the [[Soviet Union]] (measured in net material product) in 1986 and Germany in 1968. (NB: A number of supernational economies are larger, such as the [[European Union]] (EU), the [[North American Free Trade Agreement]] (NAFTA) or [[APEC]]). In the late 1980s and early 1990s, Japan's GDP was almost as large (current exchange rate method) as that of the rest of Asia combined. In 1995, Japan's economy nearly equalled that of the USA to tie as the largest economy in the world for a day, after the Japanese currency reached a record high of 79 [[Japanese yen|yen]]/[[US dollar|dollar]]. Economic growth in Asia since [[World War II]] to the 1990s had been concentrated in Japan as well as the four regions of South Korea, Taiwan, Hong Kong and Singapore located in the [[Pacific Rim]], known as the [[Four Asian Tigers|Asian tigers]], which have now all received developed country status, having the highest [[GDP per capita]] in Asia.&lt;ref&gt;[http://www.emergingdragon.com/ Rise of Japan and 4 Asian Tigers from emergingdragon.com]&lt;/ref&gt;
+
+It is forecasted that the [[People's Republic of China]] will surpass [[Japan]] to have the largest nominal and PPP-adjusted GDP in Asia within a decade. [[India]] is also forecast to overtake Japan in terms of Nominal GDP by 2020.&lt;ref&gt;{{cite web|url=http://www.cbcglobal.org/index.php?option=com_content&amp;task=view&amp;id=84&amp;Itemid=507|title=Commonwealth Business Council-Asia|dateformat=mdy|accessdate=April 12 2007}}&lt;/ref&gt; In terms of GDP per capita, both nominal and PPP-adjusted, South Korea will become the second wealthiest country in Asia by 2025, overtaking Germany, the United Kingdom and France. By 2050, according to a 2006 report by Price Waterhouse Cooper, China will have the largest economy in the world (43% greater than the United States when PPP adjusted, although perhaps smaller than the United States in nominal terms).&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/business/4770590.stm|title=China to dwarf G7 states by 2050|dateformat=mdy|accessdate=November 19 2008}}&lt;/ref&gt;
+
+===Trade blocs===
+* [[Asia-Pacific Economic Cooperation]]
+* [[Asia-Europe Meeting|Asia-Europe Economic Meeting]]
+* [[Association of Southeast Asian Nations]]
+* [[Gulf Cooperation Council]]
+* [[Closer Economic Partnership Arrangement]]
+* [[Commonwealth of Independent States]]
+* [[South Asian Association for Regional Cooperation]]
+
+===Natural resources===
+Asia is the largest continent in the [[world]] by a considerable margin, and it is rich in natural resources, such as [[petroleum]], [[forest]]s, fish, water, rice, copper, and silver.
+
+===Manufacturing===
+Manufacturing in Asia has traditionally been strongest in East and Southeast Asia, particularly in mainland [[China]], [[Taiwan]], [[South Korea]], [[Japan]], [[India]] and [[Singapore]]. [[Japan]] and [[South Korea]] continue to dominate in the area of [[multinational corporations]], but increasingly mainland [[China]], and [[India]] are making significant inroads. Many companies from Europe, North America, South Korea and Japan have operations in Asia's developing countries to take advantage of its abundant supply of cheap labour and relatively developed infrastructure.
+
+===Financial and other services===
+Asia has four main financial centres: [[Tokyo]], [[Hong Kong]], [[Singapore]], [[Shanghai]]. [[Call centre]]s and [[business process outsourcing]] (BPOs) are becoming major employers in India, Pakistan and the Philippines due to the availability of a large pool of highly-skilled, [[Anglophone|English-speaking]] workers. The increased use of [[outsourcing]] has assisted the rise of India and the China as financial centres. Due to its large and extremely competitive [[information technology]] industry, India has become a major hub for outsourcing.
+
+==Early history==
+{{main|History of Asia}}
+[[File:Asien Bd1.jpg|300px|thumb|Map of Asia in [[1890]]]]
+[[File:Asia 1892 amer ency brit.jpg|thumb|250px|Map of Asia, 1892]]
+The history of Asia can be seen as the distinct histories of several peripheral coastal regions: [[East Asia]], [[South Asia]], [[Southeast Asia]] and the [[Middle East]], linked by the interior mass of the [[Central Asia]]n [[steppes]].
+
+The coastal periphery was home to some of the world's earliest known civilizations, each of them developing around fertile river valleys. The civilizations in [[Mesopotamia]], the [[Indus Valley]], and the [[Huanghe River|Huanghe]] shared many similarities. These civilizations may well have exchanged technologies and ideas such as [[mathematics]] and the wheel. Other innovations, such as writing, seem to have been developed individually in each area. Cities, states, and empires developed in these lowlands.
+
+The central steppe region had long been inhabited by horse-mounted nomads who could reach all areas of Asia from the steppes. The earliest postulated expansion out of the steppe is that of the [[Indo-Europeans]], who spread their languages into the Middle East, South Asia, and the borders of China, where the [[Tocharians]] resided. The northernmost part of Asia, including much of [[Siberia]], was largely inaccessible to the steppe nomads, owing to the dense forests, climate, and [[tundra]]. These areas remained very sparsely populated.
+
+The center and the peripheries were mostly kept separated by mountains and deserts. The [[Caucasus]] and [[Himalaya]] mountains and the [[Karakum Desert|Karakum]] and [[Gobi Desert|Gobi]] deserts formed barriers that the steppe horsemen could cross only with difficulty. While the urban city dwellers were more advanced technologically and socially, in many cases they could do little in a military aspect to defend against the mounted hordes of the steppe. However, the lowlands did not have enough open grasslands to support a large horsebound force; for this and other reasons, the nomads who conquered states in China, India, and the Middle East often found themselves adapting to the local, more affluent societies.
+
+==Languages and literature==
+{{main|Languages of Asia}}
+Asia is home to several [[language family|language families]] and many [[language isolate]]s. Most Asian countries have more than one language that is natively spoken. For instance, according to [[Ethnologue]], more than 600 languages are spoken in Indonesia, more than 800 languages spoken in India, and more than 100 are spoken in the Philippines. China has many languages and dialects in different provinces.
+
+===Nobel prizes===
+[[File:Tagore3.jpg|thumb|Rabindranath Tagore|[[Rabindranath Tagore]], the first Asian [[Nobel Prize|Nobel laureate]]]]
+[[File:CVRaman.jpg|thumb|Sir C.V.Raman|[[C. V. Raman]], the first Asian [[Nobel Prize|Nobel laureate]] in Sciences]]
+
+The [[polymath]] [[Rabindranath Tagore]], a [[Bengali literature|Bengali]] poet, [[drama]]tist, and writer from [[Santiniketan]], now in [[West Bengal]], India, became in 1913 the first Asian [[Nobel Prize|Nobel laureate]]. He won his [[Nobel Prize in Literature]] for notable impact his prose works and poetic thought had on [[English literature|English]], [[French literature|French]], and other national literatures of Europe and the [[Americas]]. He is also the writer of the national anthems of Bangladesh and India.
+
+Tagore is said to have named another Bengali Indian Nobel prize winner, the 1998 laureate in Economics, [[Amartya Sen]]. Sen's work has centered around global issues including famine, welfare, and third-world development. Amartya Sen was Master of Trinity College, Cambridge University, UK, from 1998-2004, becoming the first Asian to head an 'Oxbridge' College.
+
+Other Asian writers who won Nobel Prizes include [[Yasunari Kawabata]] (Japan, 1966), [[Kenzaburō Ōe]] (Japan, 1994), [[Gao Xingjian]] (People's Republic of China, 2000) and [[Orhan Pamuk]] (Turkey, 2006).
+
+Also, [[Mother Teresa]] of India and [[Shirin Ebadi]] of Iran were awarded the Nobel Peace Prize for their significant and pioneering efforts for democracy and human rights, especially for the rights of women and children. Ebadi is the first Iranian and the first Muslim woman to receive the prize. Another Nobel Peace Prize winner is [[Aung San Suu Kyi]] from [[Burma]] for her peaceful and non-violent struggle under a military dictatorship in Burma. She is a nonviolent pro-democracy activist and leader of the National League for Democracy in Burma(Myanmar), and a noted prisoner of conscience. She is a [[Buddhist]] and was awarded the Nobel Peace Prize in 1991.
+
+Sir [[C. V. Raman|C.V.Raman]] is the first Asian to get a Nobel prize in Sciences. He won the [[Nobel Prize in Physics]] &quot;for his work on the scattering of light and for the discovery of the [[Raman scattering|effect named after him]]&quot;.
+
+Other Asian Nobel Prize winners include [[Subrahmanyan Chandrasekhar]], [[Abdus Salam]], [[Shmuel Yosef Agnon]], [[Robert Aumann]], [[Menachem Begin]], [[Aaron Ciechanover]], [[Avram Hershko]], [[Daniel Kahneman]], [[Shimon Peres]], [[Yitzhak Rabin]], [[Yaser Arafat]], [[Jose Ramos Horta]] and Bishop [[Carlos Filipe Ximenes Belo]] of [[Timor Leste]] and [[Kim Dae-jung]]. Most of the said awardees are from [[Israel]] except for Chandrasekhar and Raman (India), Salam (Pakistan), Arafat (Palestinian Territories), and Kim (South Korea).
+
+In 2006, Dr. [[Mohammad Yunus]] of Bangladesh was awarded the Nobel Peace Prize for the establishment of [[Grameen Bank]], a community development bank that lends money to poor people, especially women in Bangladesh. Dr. Yunus received his Ph.D. in economics from Vanderbilt University, United States. He is internationally known for the concept of micro credit which allows poor and destitutes with little or no collateral to borrow money. The borrowers typically pay back money within the specified period and the incidence of default is very low.
+
+The Dalai Lama has received numerous awards over his spiritual and political career.[129] On 22 June 2006, he became one of only four people ever to be recognized with Honorary Citizenship by the Governor General of Canada. On 28 May 2005, he received the Christmas Humphreys Award from the Buddhist Society in the United Kingdom. Most notable was the Nobel Peace Prize, presented in Oslo on 10 December 1989
+
+==Beliefs==
+===Mythology===
+{{See also|List of Asian mythology}}
+Asian mythology is diverse. The story is first found in [[Mesopotamian mythology]], in the ''[[Epic of Gilgamesh]]''. [[Hindu mythology]] tells about an [[avatar]] of [[Vishnu|God Vishnu]] in the form of a [[Matsya|fish]] who warned [[Manu (Hinduism)|Manu]] of a terrible flood. In ancient [[Chinese mythology]], [[Shan Hai Jing]], the Chinese ruler [[King Yu of Xia of China|Da Yu]], had to spend 10 years to control a deluge which swept out most of ancient China and was aided by the goddess [[Nüwa]] who literally fixed the broken sky through which huge rains were pouring.
+
+===Religions===
+{{see also|Eastern philosophy|Religion in Asia}}
+Asian philosophical traditions cover a large spectrum of philosophical thoughts and writings. [[Indian philosophy]] includes [[Hindu philosophy]] and [[Buddhist philosophy]]. They include elements of nonmaterial pursuits, whereas another school of thought from India, [[Cārvāka]], preached the enjoyment of material world. [[Christianity]] is also present in most Asian countries.
+
+====Abrahamic====
+The [[Abrahamic religion]]s of [[Judaism]], [[Christianity]] and [[Islam]] originated in [[West Asia]]. Judaism, the oldest of the Abrahamic faiths, is practiced primarily in Israel (which has the second largest [[Jewish]] population in the world), though small communities exist in other countries, such as the [[Bene Israel]] in India. In the Philippines and [[East Timor]], [[Roman Catholicism]] is the predominant religion; it was introduced by the [[Spain|Spaniards]] and the [[Portugal|Portuguese]], respectively. In [[Armenia]], [[Eastern Orthodoxy]] is the predominant religion. Various [[Christian]] [[Christian denomination|denomination]]s have adherents in portions of the Middle East, as well as China and India. The world's largest Muslim community (within the bounds of one nation) is in Indonesia. [[South Asia]] (mainly [[Pakistan]], India and [[Bangladesh]]) holds 30% of Muslims. There are also significant Muslim populations in China, [[Iran]], [[Malaysia]], southern [[Philippines]], Russia and most of West Asia and [[Central Asia]].
+
+====Dharmic &amp; Taoist====
+The [[religions]] of [[Hinduism]], [[Buddhism]], [[Jainism]] and [[Sikhism]] originated in India, South Asia. In East Asia, particularly in China and Japan, [[Confucianism]], [[Taoism]] and [[Zen|Zen Buddhism]] took shape.
+
+==See also==
+{{portal}}
+{{commons|Asia}}
+{{main|Outline of Asia}}
+{{columns-list|2
+|
+* [[Asian Century]]
+* [[Asian Currency Unit]]
+* [[Asian cuisine]]
+* [[Asian dance]]
+* [[Asian furniture]]
+* [[Assuwa]]
+* [[Eastern world]]
+* [[Near East]]
+* [[Middle East]]
+* [[Far East]]
+* [[Flags of Asia]]
+* [[Geography of Asia]]
+* [[Fauna of Asia]]
+* [[List of Asian countries]]
+* [[List of cities in Asia]]
+* [[Pan-Asianism]]
+* [[The Orient]]
+}}
+
+==References==
+{{reflist|2}}
+* &quot;Asia&quot;. ''[http://www.columbiagazetteer.org/ The Columbia Gazetteer of the World Online]''. 2005. New York: Columbia University Press.
+* World Conflicts: Asia and the Middle East ''[https://salempress.com/store/samples/world_conflicts_asia/world_conflicts_asia.htm]''. Edited by Carl L. Bankston III. New York: Salem Press.
+
+==Further reading==
+'''Reference works'''
+* Higham, Charles. ''Encyclopedia of Ancient Asian Civilizations''. Facts on File library of world history. New York: Facts On File, 2004.
+* Kapadia, Feroz, and Mandira Mukherjee. ''Encyclopaedia of Asian Culture and Society.'' New Delhi: Anmol Publications, 1999.
+* Levinson, David, and Karen Christensen. ''Encyclopedia of Modern Asia''. New York: Charles Scribner's Sons, 2002.
+* Kamal,Niraj. &quot;Arise Asia: Respond to White Peril&quot;. New Delhi:Wordsmith,2002, ISBN 81-87412-08-9
+
+==External links==
+* [http://eusoils.jrc.it/esdb_archive/EuDASM/EUDASM.htm (European Digital Archive on the Soil Maps of the World - EuDASM)]
+* [http://www.lib.utexas.edu/maps/asia.html Map Asia]
+* [http://maps.bpl.org/tag/location:Asia/ Maps of Asia from the Norman B. Leventhal Map Center at the Boston Public Library]
+* Philp Bowring, &quot;What is Asia?&quot; (Columbia University Asia For Educators), [http://afe.easia.columbia.edu/geography/geo_whatis.html]
+* Niraj Kumar, 'Asia's Swan song&quot;[www.ariseasia.blogspot.com]
+{{Template group
+|list =
+{{Asia topics}}
+{{Countries of Asia}}
+{{Continents of the world}}
+{{Regions of the world}}
+}}
+
+[[Category:Asia|Asia]]
+[[Category:Continents]]
+
+&lt;!--Interwikis--&gt;
+
+[[af:Asië]]
+[[ak:Ehyia]]
+[[als:Asien]]
+[[am:እስያ]]
+[[ang:Asia]]
+[[ar:آسيا]]
+[[an:Asia]]
+[[arc:ܐܣܝܐ (ܝܒܫܬܐ)]]
+[[roa-rup:Asia]]
+[[frp:Asia]]
+[[as:এছিয়া]]
+[[ast:Asia]]
+[[gn:Asia]]
+[[az:Asiya]]
+[[bn:এশিয়া]]
+[[zh-min-nan:A-chiu]]
+[[be:Азія]]
+[[be-x-old:Азія]]
+[[bcl:Asya]]
+[[bar:Asien]]
+[[bo:ཨེ་ཤེ་ཡ།]]
+[[bs:Azija]]
+[[br:Azia]]
+[[bg:Азия]]
+[[ca:Àsia]]
+[[cv:Ази]]
+[[ceb:Asya]]
+[[cs:Asie]]
+[[cbk-zam:Asia]]
+[[ny:Asia]]
+[[cy:Asia]]
+[[da:Asien]]
+[[pdc:Asie]]
+[[de:Asien]]
+[[dsb:Azija]]
+[[et:Aasia]]
+[[el:Ασία]]
+[[es:Asia]]
+[[eo:Azio]]
+[[ext:Ásia]]
+[[eu:Asia]]
+[[fa:آسیا]]
+[[hif:Asia]]
+[[fo:Asia]]
+[[fr:Asie]]
+[[fy:Aazje]]
+[[fur:Asie]]
+[[ga:An Áise]]
+[[gv:Yn Aishey]]
+[[gd:Àisia]]
+[[gl:Asia]]
+[[gan:亞洲]]
+[[glk:آسیا]]
+[[gu:એશિયા]]
+[[got:𐌰𐍃𐌹𐌰]]
+[[hak:Â-chû]]
+[[ko:아시아]]
+[[ha:Asiya]]
+[[haw:‘Ākia]]
+[[hy:Ասիա]]
+[[hi:एशिया]]
+[[hsb:Azija]]
+[[hr:Azija]]
+[[io:Azia]]
+[[ig:Asia]]
+[[ilo:Asia]]
+[[bpy:এশিয়া]]
+[[id:Asia]]
+[[ia:Asia]]
+[[ie:Asia]]
+[[iu:ᐊᓰᐊ/asiia]]
+[[os:Ази]]
+[[zu:IAshiya]]
+[[is:Asía]]
+[[it:Asia]]
+[[he:אסיה]]
+[[jv:Asia]]
+[[kl:Asia]]
+[[kn:ಏಷ್ಯಾ]]
+[[pam:Asia]]
+[[ka:აზია]]
+[[csb:Azëjô]]
+[[kk:Азия]]
+[[kw:Asi]]
+[[ky:Азия]]
+[[sw:Asia]]
+[[ht:Azi]]
+[[ku:Asya]]
+[[lad:Asia]]
+[[lo:ອາຊີ]]
+[[la:Asia]]
+[[lv:Āzija]]
+[[lb:Asien]]
+[[lt:Azija]]
+[[lij:Asia]]
+[[li:Azië]]
+[[ln:Azía]]
+[[jbo:zdotu'a]]
+[[lmo:Asia]]
+[[hu:Ázsia]]
+[[mk:Азија]]
+[[mg:Azia]]
+[[ml:ഏഷ്യ]]
+[[mt:Asja]]
+[[mr:आशिया]]
+[[arz:آسيا]]
+[[mzn:آسیا]]
+[[ms:Asia]]
+[[cdo:Ā-ciŭ]]
+[[mn:Ази]]
+[[my:အာရှ]]
+[[nah:Asia]]
+[[na:Eija]]
+[[nl:Azië]]
+[[nds-nl:Azie]]
+[[cr:Asia]]
+[[ne:एशिया]]
+[[new:एसिया]]
+[[ja:アジア]]
+[[nap:Asia]]
+[[pih:Asya]]
+[[no:Asia]]
+[[nn:Asia]]
+[[nrm:Âsie]]
+[[nov:Asia]]
+[[oc:Asia]]
+[[mhr:Азий]]
+[[or:ଏସିଯା]]
+[[om:Asia]]
+[[ng:Asia]]
+[[uz:Osiyo]]
+[[pag:Asia]]
+[[pap:Asia]]
+[[ps:آسيا]]
+[[km:អាស៊ី]]
+[[pms:Asia]]
+[[tpi:Esia]]
+[[nds:Asien]]
+[[pl:Azja]]
+[[pnt:Ασίαν]]
+[[pt:Ásia]]
+[[kaa:Aziya]]
+[[crh:Asiya]]
+[[ksh:Aasije]]
+[[ro:Asia]]
+[[rm:Asia]]
+[[qu:Asya]]
+[[ru:Азия]]
+[[sah:Азия]]
+[[se:Ásia]]
+[[sm:Asia]]
+[[sa:एशिया]]
+[[za:Yacouh]]
+[[sco:Asie]]
+[[stq:Asien]]
+[[sq:Azia]]
+[[scn:Asia]]
+[[si:ආසියාව]]
+[[simple:Asia]]
+[[sd:ايشيا]]
+[[sk:Ázia]]
+[[cu:Асі́ꙗ]]
+[[sl:Azija]]
+[[szl:Azyjo]]
+[[so:Aasiya]]
+[[srn:Asi (doti)]]
+[[sr:Азија]]
+[[sh:Azija]]
+[[su:Asia]]
+[[fi:Aasia]]
+[[sv:Asien]]
+[[tl:Asya]]
+[[ta:ஆசியா]]
+[[kab:Asya]]
+[[tt:Aziə]]
+[[te:ఆసియా]]
+[[tet:Ázia]]
+[[th:ทวีปเอเชีย]]
+[[tg:Осиё]]
+[[chr:ᎠᏏᎠ]]
+[[tr:Asya]]
+[[tk:Aziýa]]
+[[udm:Азия]]
+[[uk:Азія]]
+[[ur:ایشیاء]]
+[[ug:ئاسىيا]]
+[[vec:Axia]]
+[[vi:Châu Á]]
+[[vo:Siyop]]
+[[fiu-vro:Aasia]]
+[[zh-classical:亞細亞洲]]
+[[war:Asya]]
+[[wo:Asi]]
+[[wuu:亚洲]]
+[[ts:Asia]]
+[[yi:אזיע]]
+[[zh-yue:亞洲]]
+[[diq:Asya]]
+[[bat-smg:Azėjė]]
+[[zh:亚洲]]

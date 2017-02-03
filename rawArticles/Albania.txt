@@ -1,0 +1,866 @@
+      : ''This article is about the [[country]] in southern Europe. For a topic outline on this subject, see [[List of basic Albania topics]]. For other uses, see [[Albania (disambiguation)]].''
+{{Infobox Country
+|native_name = ''Republika e Shqipërisë''
+|conventional_long_name = Republic of Albania
+|common_name = Albania
+|national_motto = &lt;div style=&quot;line-height:125%;&quot;&gt; '' Ti Shqipëri Më Jep Nder, Më Jep Emrin Shqipëtar '' &lt;br /&gt;(&lt;small&gt;''You Albania Give Me Honor, You Give Me The Name Albanian){{Citation needed|date=June 2009}}
+|national_anthem = ''[[Himni i Flamurit]]''&lt;br /&gt;&lt;small&gt;(&quot;Anthem of the Flag&quot;)&lt;/small&gt;
+|national_anthem = ''[[Himni i Flamurit]]''&lt;br /&gt;&lt;small&gt;(&quot;Anthem of the Flag&quot;)&lt;/small&gt;
+|image_flag = Flag of Albania.svg
+|image_coat = Albania state emblem.svg
+|symbol_type = Coat of arms
+|image_map = Albanialocation.png
+|map_caption = {{map caption|location_color=green|region=[[Europe]]|region_color=dark grey|legend=Location Albania Europe.png}}
+|official_languages = [[Albanian language|Albanian]]&lt;sup&gt;1&lt;/sup&gt;
+|capital = [[Tirana]]
+|latd=41 |latm=20 |latNS=N |longd=19 |longm=48 |longEW=E
+|largest_city = [[Tirana]]
+|government_type = [[Parliamentary republic]]
+|leader_title1 = [[List of heads of state of Albania|President]]
+|leader_name1 = [[Bamir Topi]]
+|leader_title2 = [[List of Prime Ministers of Albania|Prime Minister]]
+|leader_name2 = [[Sali Berisha]]
+|area_rank = 139th
+|area_magnitude = 1 E10
+|area_km2 = 28748
+|area_sq_mi = 11100 &lt;!--Do not remove per [[WP:MOSNUM]]--&gt;
+|percent_water = 4.7
+|population_estimate = 3,639,453&lt;ref name=instat/&gt;
+|population_estimate_year = 2009
+|population_estimate_rank = 130th
+|population_census =
+|population_census_year =
+|population_density_km2 = 126.6
+|population_density_sq_mi = 327.8 &lt;!--Do not remove per [[WP:MOSNUM]]--&gt;
+|population_density_rank = 63
+|GDP_PPP_year = 2008
+|GDP_PPP = $21.828 billion&lt;ref name=imf2&gt;{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2009/01/weodata/weorept.aspx?sy=2006&amp;ey=2009&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=914&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=&amp;pr1.x=84&amp;pr1.y=4 |title=Albania|publisher=International Monetary Fund|accessdate=2009-04-22}}&lt;/ref&gt;
+|GDP_PPP_rank = 110th
+|GDP_PPP_per_capita = $6,859&lt;ref name=imf2/&gt;
+|GDP_PPP_per_capita_rank = 97th
+|GDP_nominal_year = 2008
+|GDP_nominal = $12.964 billion&lt;ref name=imf2/&gt;
+|GDP_nominal_per_capita = $4,073&lt;ref name=imf2/&gt;
+|Gini = 26.7
+|Gini_year = 2005
+|Gini_category = &lt;span style=&quot;color:#090;&quot;&gt;low&lt;/span&gt;
+|HDI_year = 2007
+|HDI = {{increase}} 0.807
+|HDI_rank = 69th
+|HDI_category = &lt;span style=&quot;color:#090;&quot;&gt;high&lt;/span&gt;
+|sovereignty_type = [[Independence]]
+|sovereignty_type = [[Independence]]
+|established_event1 = from the [[Ottoman Empire]]
+|established_date1 = [[28 November]] [[1912]]
+|established_event2 =  
+|established_date2 =  
+|currency = [[Albanian lek|Lek]]
+|currency_code = ALL
+|country_code = AL
+|time_zone = [[Central European Time|CET]]
+|utc_offset = +1
+|time_zone_DST = [[Central European Summer Time|CEST]]
+|utc_offset_DST = +2
+|demonym = Albanian
+|drives_on = right
+|cctld = [[.al]]
+|calling_code = 355
+|footnote1 = [[Greek language|Greek]], [[Macedonian language|Macedonian]] and other regional languages are government-recognized minority languages.
+}}
+'''Albania''' {{Audio-IPA|en-us-Albania.ogg|/ælˈbeɪniə/}} ([[Albanian language|Albanian]]: ''Shqipëri/Shqipëria'', [[Gheg Albanian]]: ''Shqipnia''), officially the '''Republic of Albania''' (Albanian: ''Republika e Shqipërisë'', {{pronounced|ɾɛpuˈblika ɛ ʃcipəˈɾiːs}}), is a country in [[Balkans|South Eastern Europe]]. It is bordered by [[Montenegro]] to the north, [[Kosovo]] to the northeast, [[Republic of Macedonia|Macedonia]] to the east and [[Third Hellenic Republic|Greece]] to the south-east. It has a coast on the [[Adriatic Sea]] to the west, and on the [[Ionian Sea]] to the southwest. It is less than {{convert|72|km|mi|abbr=on|lk=off}} from [[Italy]], across the [[Strait of Otranto]] which links the [[Adriatic Sea]] to the [[Ionian Sea]]. 
+
+Albania is a member of the [[United Nations]], [[NATO]], the [[Organization for Security and Co-operation in Europe]], [[Council of Europe]], [[World Trade Organisation]], and one of the founding members of the [[Union for the Mediterranean]]. Albania has been a [[Accession of Albania to the European Union|potential candidate for accession to the European Union]] since January 2003, and it formally applied for [[EU member states|EU membership]] on 28 April 2009.&lt;ref&gt;[http://news.bbc.co.uk/2/hi/europe/8023127.stm Albania applies for EU membership], BBC News, 28 April 2009. Retrieved on 29 April 2009&lt;/ref&gt; 
+
+Albania is a [[parliamentary democracy]] and a [[transition economy]]. The Albanian [[capital]], [[Tirana]], is home to approximately 895,000 of the country's 3.6 million people, and it is also the financial capital of the country.&lt;ref name=pop2007&gt;[http://www.tirana.gov.al/common/images/Viti%202007.pdf Population stats] from tirana.gov.al {{sq icon}}&lt;/ref&gt; [[Free-market]] reforms have opened the country to foreign investment, especially in the development of [[energy]] and transportation infrastructure.&lt;ref&gt;Reports: Poverty Decreases In Albania After Years Of Growth.Dow Jones Newswires, 201-938-5500.http://www.nasdaq.com/aspx/stock-market-news-story.aspx?storyid=200904231403dowjonesdjonline000935&amp;title=reports-poverty-decreases-in-albania-after-years-of-growth&lt;/ref&gt;&lt;ref&gt;Albania plans to build three hydropower plants.People's Daily &lt;/ref&gt;&lt;ref&gt;Strong GDP growth reduces poverty in Albania-study.Reuters.http://www.forbes.com/feeds/afx/2009/04/23/afx6330798.html&lt;/ref&gt;
+
+==Etymology==
+
+{{Main|Albania (toponym)}}
+
+''Albania'' is the [[Medieval Latin]] name of the country which is called ''Shqipëri'' by its inhabitants. In [[Medieval Greek]], the country's name is ''Albania'' besides variants ''Albaētia'', ''Arbanētia''.&lt;ref&gt;[[OED]]&lt;/ref&gt;
+The ultimate origin of the root ''Alb-'' has been traced to an [[Illyrian language|Illyrian]] (''alb'' &quot;white&quot;).&lt;ref&gt;Indogermanisches etymologisches Wörterbuch (Indo-European Etymological Dictionary) 1959 p. 30-31&lt;/ref&gt; In the 2nd century BC, [[Polybius]]'s ''History of the World'' mentions a tribe named ''Arbon'' in present-day central Albania. The people who lived there were called ''Albanoí'' and ''Arbanitai''.&lt;ref name=&quot;chekrezi&quot;&gt;Constantine A. Chekrezi. ''Albania Past and Present''. New York: The Macmillan Company, 1919. p. 116.&lt;/ref&gt;
+
+Another suggestion is derivation from the [[Illyrian]] tribe of the Albani [[record]]ed by [[Ptolemy]], the [[geographer]] and [[astronomer]] from [[Alexandria]] who drafted a map of remarkable significance for the history of [[Illyria]]. This map shows the city of [[Albanopolis]] (located Northeast of Durrës) which was later called Albanon and Arbanon.&lt;ref name=&quot;chekrezi&quot;/&gt;&lt;ref&gt;{{Barrington|49 &amp; notes}}&lt;/ref&gt;
+
+In his ''History'' written in 1079-1080, [[Byzantine]] historian [[Michael Attaliates]] was the first to refer to ''Albanoi'' as having taken part in a revolt against [[Constantinople]] in 1043 and to the ''Arbanitai'' as subjects of the duke of [[Dyrrachium]].&lt;ref&gt;Robert Elsei. ''The Albanian lexicon of Arnold von Harff, Earliest reference to the existence of the Albanian language'', p. 113-122.&lt;/ref&gt; During the [[Middle Ages]], the Albanians called their country ''Arbër'' or ''Arbën'' and referred to themselves as [[Arbëresh]] or ''Arbnesh''.&lt;ref&gt;http://www.pinocacozza.it/ {{it icon}}{{sq icon}}&lt;/ref&gt;&lt;ref&gt;http://www.radio-arberesh.eu/ {{it icon}}&lt;/ref&gt; As early as the 16th century,{{Citation needed|date=October 2008}} a new name for their home evolved among Albanian people: ''Shqipëria'', popularly interpreted as &quot;Land of the Eagles&quot; or &quot;Land of the Mountain Eagle&quot; hence the two-headed bird on the national flag,&lt;ref&gt;Kristo Frasheri. ''History of Albania (A Brief Overview)''. Tirana, 1964.&lt;/ref&gt; though most likely the origin lies in [[Skanderbeg]]'s use of the [[Byzantine]] double-headed eagle on his seals.&lt;ref&gt;{{cite web|url=http://www.fotw.us/flags/al.html#ori|title=Flags Of The World, Albania}}&lt;/ref&gt;&lt;ref&gt;Albanian Etymological Dictionary by Vladimir E. Orel, Brill 1998&lt;/ref&gt;
+
+==History==
+
+{{Main|History of Albania}}
+
+===Prehistory===
+
+{{Main|Prehistoric Balkans|Illyria}}
+
+{{History of Albania}}
+
+[[Image:Butrint, Albania.jpg|thumb|300|left|[[Butrint]], [[UNESCO]] World Heritage Site.]]
+The area of today's Albania has been populated since [[prehistoric]] times. In antiquity, much of it was settled by the ancient [[Illyrians]], ancestors of [[Albanians]].&lt;ref&gt;{{cite web|title=Albania|publisher=Encyclopedia Britannica|url=http://www.britannica.com/eb/article-42640/Albania#476150.hook|accessdate=2005-09-30}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url= http://lcweb2.loc.gov/frd/cs/altoc.html |title= A Country Study: Albania |accessdate=2008-04-26 |work= Library of Congress}}&lt;/ref&gt;.&lt;ref&gt;Constantine A. C., and Charles, D. ''Albania Past and Present''. Columbia University, p. 10. April, 1919.&lt;/ref&gt; Surrounded by powerful, warring empires, Albania has experienced considerable violence and competition for control throughout its history. [[Greeks]], [[Ancient Rome|Romans]], [[Serbians]], [[Venice|Venetians]] and [[Ottomans]] swept through, leaving their cultural mark as well as their ruins.
+
+Archaeological research shows that Albania has been populated since the [[Paleolithic Age]] ([[Stone Age]]). The first areas settled were those with favourable climatic and geographic conditions. In Albania, the earliest settlements have been discovered in the Gajtan cavern ([[Shkodra]]), in [[Konispol]], at [[Mount Dajti]], and at [[Saranda]]. Fragments of [[Cyclopean]] structures, were discovered at Krecunica, Arinishta, and other sites in the district of [[Gjirokastra]]. The walls, partly Cyclopean, of an ancient city (perhaps Byllis) are visible at Gradishti on the picturesque Viosa River. Few traces remain of the once celebrated Dyrrhachium (today [[Durrës]]).
+
+The rediscovered city of [[Butrint]] is probably more significant today than it was when [[Julius Caesar]] used it as a provisions depot for his troops during his campaigns in the 1st century BC. At that time, it was considered to be an unimportant outpost, overshadowed by the Greek [[colonies]], [[Apollonia, Illyria|Apollonia]] and [[Durrës]].&lt;ref&gt;An Inventory of Archaic and [[Classical]] Poleis by Mogens Herman, ISBN 0198140991, 2004, page 343, &quot;Bouthroton (Bouthrotios)&quot;&lt;/ref&gt;
+
+Formal investigation and recording of Albania's archaeological monuments began with [[Francois Pouqueville]], who was [[Napoleon I of France|Napoleon's]] consul-general to Ali Pasha's [[court]], and Martin Leake, who was the British agent there. A French mission, led by Len Rey, worked throughout Albania from 1924 to 1938 and published its results in ''Cahiers d'Archéologie, d'art et d'Histoire en Albanie et dans les Balkans'' (Notes of [[Archaeology]], Art, and History in Albania and in the Balkans).
+
+[[Archaeologists]] today are finding remains from all periods, from the [[Stone Age]] to the early [[Christian]] era.
+
+Another project that produced [[prehistoric]] finds, though unexpectedly, was done in the valley of [[Kryegjata]], close to the present-day city of [[Fier]] and in the area of [[Apollonia, Illyria|Apollonia]]. This excavation, a collaboration between the [[University of Cincinnati]] and archaeologists from the Institute of Archeology in Albania, was originally a mission to learn about the Greek colony of [[Apollonia, Illyria|Apollonia]]. Instead, they found [[evidence]] of a much older settlement.&lt;ref&gt;Diane Michelle Fox. ''Under Albanian Soil - A brief history of archaeological activity, both past and present, in Albania.'' 12 August 2004.[http://www.archaeology.org/online/features/albania/]&lt;/ref&gt;
+
+In 2000, the Albanian government established [[Butrint National Park]], which draws about 70,000 visitors annually and is Albania's second [[World Heritage site]].
+
+In 2003, a [[synagogue]] dating from the 5th or 6th century AD was uncovered in [[Saranda]], a coastal town opposite [[Corfu]]. It was the first time remains of an early [[synagogue]] have been found in that area. The history of its excavation is also noteworthy. The team found exceptional mosaics depicting items associated with [[Jewish]] [[holiday]]s, including a menorah, ram's horn, and citron tree. Mosaics in the basilica of the synagogue show the facade of what resembles a [[Torah]], animals, trees, and other biblical symbols. The structure measures 20 by 24 meters and was probably last used in the 6th century AD as a [[church]].
+
+===The Illyrians===
+
+[[Image:IllyrianwarriorsMaybeScordisci.gif|thumb|left|Illyrian warriors of the 2nd century BC.]]
+
+The territory of Albania in antiquity was mainly inhabited by [[Illyrians]],&lt;ref&gt;{{cite web|url=http://www.state.gov/r/pa/ei/bgn/3235.htm|title=Bureau of European and Eurasian Affairs September 2007}}&lt;/ref&gt; who, like other [[Balkan]] peoples, were subdivided into tribes and clans.&lt;ref&gt;{{cite web|url=http://www.britannica.com/eb/article-9052237/Messapic-language|title=Encyclopedia Britannica - Messapic language}}&lt;/ref&gt;
+
+Roughly parallel with the rise of Greek colonies, Illyrian tribes began to evolve politically from relatively small and simple entities into larger and more complex ones. At first they formed temporary alliances with one another for defensive or offensive purposes, then federations and, still later, [[kingdoms]].
+
+The most important of these kingdoms, which flourished from the 5th to the 2nd century BC, were those of the [http://en.wikipedia.org/wiki/Taulantii#Enchelei Enchelei],&lt;ref&gt;Wilkes, J. J. The Illyrians, 1992,ISBN 0631198075,Page 96,&quot;...&amp;nbsp;25 Enchelei&lt;/ref&gt; the [http://en.wikipedia.org/wiki/Taulantii#Taulanti Taulanti]&lt;ref&gt;Appian, ''The Foreign Wars, III, 1.2''&lt;/ref&gt; and the [http://en.wikipedia.org/wiki/Taulantii#Ardiaei Ardiaei].
+
+The kingdom, became known by King [[Bardyllis]] (385-358 B.C.) in the 4th century BC when he conquered a good part of [[Macedonia (region)|Macedonia]], but he was defeated as a result of the attacks made by [[Philip II of Macedon]], father of [[Alexander the Great]].
+The Illyrian Kingdom reached the zenith of its expansion and development when King [[Agron (king)|Agron]] (250-230 B.C.), one of the most prominent of the Illyrian kings, managed to unite many Illyrian tribes into one Illyrian kingdom. The [[Illyria]]n kingdom under his leadership controlled a wide territory extending from the general area of modern-day Northern Albania and eventually much of the eastern Adriatic coastline. [[Shkodra]] was its capital, just as the city is now the most important urban center of northern Albania. 
+Under Agron the Illyrian Kingdom centered at Scodra stretched from Dalmatia in the north down to the coast opposite to the heel of Italy.&lt;ref name=&quot;ReferenceA&quot;&gt;A History of the Roman World, 753 to 146 BC By Howard Hayes Scullard Edition: 5 Published by Routledge, 2003 ISBN 0415305047, 9780415305044&lt;/ref&gt;. After his death in 230 BC the following Queen [[Teuta]] (230-228 B.C.) captured Corcyra and forced Epirotes to alliance with Illyrians&lt;ref&gt;The Illyrians By John Wilkes Edition: illustrated, reprint Published by Wiley-Blackwell, 1996 ISBN 0631198075, 9780631198079(page 159)&lt;/ref&gt; thus extending their sphere of control to the Corinthian Gulf.&lt;ref name=&quot;ReferenceA&quot;/&gt;. Later on in 229 BC Queen [[Teuta]] clashed with Romans initiating this way the [[Illyrian Wars]] which brought the Illyrian Kingdom to an end in 168 B.C. when King [[Gentius]] was defeated by a Roman army besieging Scodra.
+
+===Roman and Byzantine Empire===
+
+[[Image:Via Egnatia-en.jpg|thumb|left|Route of the [[Via Egnatia]]]]
+
+The lands comprising modern-day Albania were occupied by the Romans in 165 BC and incorporated into the empire as part of the province of [[Illyricum (Roman province)|Illyricum]]. The western part of [[Via Egnatia]], was inside modern Albania. [[Illyricum]] was later divided into the provinces of [[Dalmatia]] and [[Pannonia]].
+
+When the [[Roman Empire]] divided into east and west in 395, the territories of modern Albania became part of the [[Byzantine Empire]]. Starting in the first decades under Byzantine rule (until 461), Illyria suffered the devastation of raids by [[Visigoths]], [[Huns]], and [[Ostrogoths]]. Not long after these barbarian invaders swept through the Balkans, the Slavs appeared. In the course of several centuries, under the impact of Roman, Byzantine, and Slavic cultures, the tribes of southern Illyria underwent a transformation, and a transition occurred from the old Illyrian population to a new Albanian one.{{Citation needed|date=December 2008}}
+
+The territory of what is now Albania would remain under Byzantine rule until the fourteenth century AD when the Ottoman Turks began to make incursions into the Empire. The Ottomans captured Constantinople in 1453 and by 1460 most former Byzantine territories were in the hands of the Turks.
+
+===Medieval era===
+
+[[File:Durrës, Pinargenti.jpg|thumb|[[Durrës]] in 1573.]]
+
+The new administrative system of the themes, or military provinces created by the [[Byzantine Empire]], contributed to the eventual rise of feudalism in Albania, as peasant soldiers who served military lords became serfs on their landed estates. Among the leading families of the Albanian feudal nobility were the Thopia, Shpata, Muzaka, Araniti, Dukagjini, and Kastrioti. The first three of these rose to become rulers of principalities that were practically independent of Byzantium.
+
+===Ottoman era===
+
+[[Image:Assault on Turkish encampment.jpg|left|thumb|Engraving of an Albanian assault on a Turkish camp.]]
+
+In the [[Middle Ages]], the name ''Arberia'' (see ''[[Origin and history of the name Albania]]'') began to be increasingly applied to the region now comprising the nation of Albania.
+Beginning with late 14th century the Ottoman Turks expanded their empire from [[Anatolia]] to the Balkans. By the 15th century, the Turks had brought under subjection nearly all of the Balkan Peninsula except for a small coastal strip which is included in present-day Albania. The Albanians' resistance to the Turks in the mid-15th century won them acclaim all over Christian Europe. Albania became a symbol of resistance to the Ottoman Turks but suffered an almost continuous state of warfare.&lt;ref&gt;Library of Congress Country Study &lt;http://lcweb2.loc.gov/frd/cs/altoc.html&gt; of Albania &lt;/ref&gt;
+[[Image:Gjergj Kastrioti.JPG|thumb|upright|Portrait of Skanderbeg in the [[Uffizi]], [[Florence]].]]
+One of the most successful resistance against the invading [[Ottomans]], was led by [[Skanderbeg|Gjergj Kastrioti Skanderbeg]] from 1443 to 1468. Under a red flag bearing Skanderbeg's heraldic emblem, an Albanian force of about 30,000 men held off brutal Ottoman campaigns against their lands for twenty-four years.The leadership of Skanderbeg was invincible, and even [[Mehmet II]], the Conqueror, was beaten by the Albanian prince at [[Kruja]] in 1466. Skanderbeg then re-embraced Roman [[Catholicism]] and declared a holy war against the Turks.&lt;ref&gt;Library of Congress Country Study &lt;http://lcweb2.loc.gov/frd/cs/altoc.html&gt; of Albania &lt;/ref&gt; Thrice the Albanians overcame sieges of Krujë (see [[Siege of Krujë]]). Skanderbeg was unable to receive any help from the new crusade promised by the popes, and he died in 1468 leaving no worthy successor.
+
+After the death of Skanderbeg, resistance continued until 1478, although with only moderate success. The loyalties and alliances created and nurtured by Skanderbeg faltered and fell apart, and the Ottomans conquered the territory of Albania shortly after the fall of [[Kruje]]'s castle. Albania then became part of the [[Ottoman Empire]]. Following this, many Albanians fled to neighboring [[Italy]], mostly to [[Calabria]] and [[Sicily]].  The majority of the Albanian population converted to [[Islam]] during this time. During this period there were numerous uprising beginning with the son and nephew of Skanderbeg in 1500 AD, during the [[Ottoman–Venetian Wars]], [[Ottoman–Habsburg wars]], against [[Tanzimat]] reforms and during [[National Renaissance of Albania]] (1831-1912). This period also saw the rising of [[Great Albanian Pashaliks]] and Albanians were also an important part of the Ottoman army and Ottoman administration like the case of [[Köprülü family]]. Albania would remain a part of the Ottoman Empire as the provinces of [[Shkodër Province, Ottoman Empire|Shkodra]], [[Monastir Province, Ottoman Empire|Manastir]] and [[Ioannina Province, Ottoman Empire|Yanya]] until 1912.
+
+===Independence and recent history===
+
+During the fifteenth century Albania enjoyed a brief period of independence under the legendary hero, [[Skanderbeg]]. Aside from this exception, the country did not enjoy independence until the twentieth century. After five hundred years of Ottoman domination, an independent Albania was proclaimed on the 28 November 1912.
+
+====1913 to 1928====
+
+The initial sparks of the first [[Balkan Wars|Balkan War in 1912]] were ignited by the Albanian uprising between 1908-10{{Citation needed|date=July 2009}} which were directed at opposing the Young Turk policies of consolidation of the Ottoman Empire. Following the eventual weakening of the Ottoman Empire in the Balkans, [[Serbia]], [[Greece]], and [[Bulgaria]] declared war and sought to aggrandize their respective boundaries on the remaining territories of the Empire. Albania was thus invaded by Serbia in the North and Greece in the south, restricting the country to only a patch of land around the southern coastal city of Vlora. In 1912 Albania, still under foreign occupation declared its independence and with the aid of Austria-Hungary, the Great Powers drew its present borders leaving more than half of the Albanian population outside the new country. 
+
+The border between Albania and its neighbors was delineated in 1913 following the dissolution of most of the Ottoman Empire's territories in the Balkans. The delineation of the new state's borders left a significant number of Albanian communities outside Albania. This population was largely divided between Montenegro and Serbia (which then included what is now the Republic of Macedonia). A substantial number of Albanians thus found themselves under Serbian rule. On the other hand an uprising in the country's south by local Greeks, led to the formation of an [[Autonomous Republic of Northern Epirus|autonomous region]] inside its borders (1914). After a period of political instability caused during the [[World War I]], the country adopted a republican form of government in 1920.&lt;ref&gt; {{cite book
+ |last=Young
+ |first= Antonia
+ |title=Albania
+ |publisher=Clio Press
+ |year=1997|isbn =1851092609}}&lt;/ref&gt;
+
+====1928 to 1946====
+
+[[Image:King Zog.jpg|thumb|left|130px|[[Zog of Albania|Ahmet Muhtar Bey Zogolli]]]]
+Starting in 1928, but especially during the [[Great Depression]], the government [[King_Zog#Relations_with_Italy|King Zog]], almost completely dependent on Mussolini, began to cede Albania's sovereignty to Italy. By 1939 the [[Italians]] invaded the country.
+
+Despite some strong resistance, especially at [[Durrës]], Italy invaded Albania on 7 April 1939 and took control of the country, with Mussolini proclaiming [[Victor Emmanuel III of Italy|Italy's figurehead King]] as King of Albania. Albania was one of the first countries occupied by the [[Axis Powers]] in [[World War II]].&lt;ref&gt;The Balkans by Misha Glenny page 418&lt;/ref&gt; As [[Adolf Hitler|Hitler]] began his aggressions, the Italian [[Fascist]] dictator [[Benito Mussolini]] decided to occupy Albania as a means to compete with Hitler's territorial gains. Mussolini and the Italian Fascists saw Albania as a historical part of the [[Roman Empire]] and the occupation was intended to fulfill Mussolini's dream of creating an [[Italian Empire]]. During Italian occupation, the Albanian population was subject to a policy of forced [[Italianization]] by the Kingdom's Italian governors in which the use of the Albanian language was discouraged in schools while the Italian language was promoted, and colonization of Albania by Italians was encouraged. 
+
+Mussolini, in October 1940, used his Albanian base to launch an attack on Greece, which led to the defeat of the Italian forces and a Greek occupation of southern Albania. However, Hitler in his preparations for the [[Operation Barbarossa|invasion of Russia]], decided to attack Greece in December 1940 to prevent a British attack on his southern flank and the Greek surrender returned Albania to Italian control.&lt;ref&gt;{{cite journal |last=Creveld |first=Martin van|authorlink= |coauthors= |year=1972 |month=July-October |title=In the Shadow of Barbarossa: Germany and Albania, January-March 1941  |journal= |volume=7 |issue=3/4 |pages=22–230|id= |url=http://links.jstor.org/sici?sici=0022-0094(197207%2F10)7%3A3%2F4%3C221%3AITSOBG%3E2.0.CO%3B2-E |accessdate=2007-09-12 |quote=}}&lt;/ref&gt;
+
+[[Image:Albania bunkers.jpg|thumb|right|Albanian bunkers built during Hoxha regime to prevent possible external invasions]]
+
+During [[Military history of Albania during World War II|World War II]], the [[Albanian Communist Party|Party of Labor]] was created on 8 November 1941. With the intention to organize a [[Albanian National Liberation Front|partisan resistance]] they called a general conference in Pezë on 16 September 1942 where the Albanian National Liberation Front was created as a result. The Front included nationalist groups, but it was dominated by communist partisans. 
+
+In December 1942 other Albanian nationalist were organized under [[Visar Kola]]. Albanians fought against the Italians while during German occupation Balli Kombëtar allied himself with the Germans and clashed with Albanian communists, which continued their fight against Germans and Balli Kombëtar in the same time. 
+
+With the Mussolini's government collapsing with the Allied invasion, Germany occupied Albania in September 1943, dropping paratroopers into Tirana before the Albanian guerrillas could take the capital. The German army soon drove the guerrillas into the hills and to the south. Berlin subsequently announced it would recognize the independence of a neutral Albania and organized an Albanian government, police, and military. Many Balli Kombëtar units cooperated with the Germans against the communists, and several Balli Kombëtar leaders held positions in the German-sponsored regime. 
+
+The partisans entirely liberated Albania from German occupation on November 28, 1944. The Albanian partisans also liberated Kosovo, part of Montenegro, and southern Bosnia &amp; Herzegovina. By November [[1944]] they had thrown the Germans out, the only East European nation to do so without the assistance of [[Soviet]] troops. [[Enver Hoxha]] became the leader of the country by virtue of his position as secretary general of the [[Albanian Communist Party]].
+
+&lt;!-- Deleted image removed: [[Image:Tirana, Albania 1944-11-20.jpg|thumb|[[Tirana]] liberated 17 November 1944 by Albanian partisans]] --&gt;
+
+Albania was one of the European countries occupied by the Axis powers that ended World War II with a larger Jewish population than before the War.&lt;ref&gt;Sarner. ''Rescue in Albania: One Hundred Percent of Jews in Albania Rescued from the Holocaust'', 1997.&lt;/ref&gt;&lt;ref&gt;&quot;Muslim Family Who Hid 26 Jews in Albania from the Nazis Honored by ADL&quot; [http://www.adl.org/PresRele/HolNa_52/4963_52.htm Anti-Defamation League]&lt;/ref&gt;&lt;ref&gt;Escape Through the Balkans: the Autobiography of Irene Grunbaum (University of Nebraska Press, 1996)&lt;/ref&gt; Only one Jewish family was deported and killed during the Nazi occupation of Albania.&lt;ref name = &quot;yadvashem-Albania&quot;&gt;[http://www1.yadvashem.org/odot_pdf/Microsoft%20Word%20-%205725.pdf Shoah Research Center - Albania.]&lt;/ref&gt; Some 1,200 Jewish residents and refugees from other [[Balkan]] countries were hidden by Albanian families during World War II, according to official records.&lt;ref&gt;Israeli Historians Study How Albanian Jews Escaped Holocaust http://www.foxnews.com/story/0,2933,356717,00.html&lt;/ref&gt;
+
+====Post-World War II====
+
+[[Image:Brosen tirana hoxha mausol.jpg|thumb|left|Enver Hoxha mausolé]]
+
+[[File:Tirana Square 1988.jpg|thumb|right|Tirana's Square in 1988]]
+
+Albania allied with the USSR, and then broke with the USSR in 1960 over [[de-Stalinization]]. A strong political alliance with China followed, leading to several billion dollars in aid, which was curtailed after 1974. China cut off aid in 1978 when Albania attacked its policies after the death of Chinese ruler [[Mao Zedong]]. Large-scale purges of officials occurred during the 1970s.
+
+[[Enver Hoxha]], who ruled Albania for four decades with an iron fist, died 11 April 1985. Eventually the new regime introduced some liberalization, including measures in 1990 providing for freedom to travel abroad. Efforts were begun to improve ties with the outside world. March 1991 elections left the former Communists in power, but a general strike and urban opposition led to the formation of a coalition cabinet including non-Communists.&lt;ref&gt;Albania. World Almanac &amp; Book of Facts, 2008, p467-545, (AN 28820955)&lt;/ref&gt;
+
+Albania's former Communists were routed in elections March 1992, amid economic collapse and social unrest. Sali Berisha was elected as the first non-Communist president since World War II. The next crisis occurred in 1997, during his presidency, as [[1997 rebellion in Albania|riots ravaged the country]]. The State Institutions collapsed and an [[EU]] military mission lead by [[Italy]] was sent to stabilize the country. In summer 1997 Berisha was defeated in elections, winning just 25 seats from 155 available. 
+He returned in power leading a coalition in the elections of 3 July 2005, ending 8 years of Socialist Party rule. In 2009, Albania, along with [[Croatia]], joined [[NATO]].
+
+==Government and politics==
+
+{{Main|Politics of Albania}}
+
+{{Politics of Albania}}
+
+[[Image:Bush - Berisha 20070610-1 p061007cg-0198-515h.jpg|thumb|left|Albania's Prime Minister [[Sali Berisha]] with then U.S. President [[George W. Bush]] in [[Tirana]], June 2007.]]
+The Albanian republic is a parliamentary democracy established under a constitution renewed in 1998. Elections are now held every four years to a unicameral 140-seat chamber, the People's Assembly. In June 2002, a compromise candidate, [[Alfred Moisiu]], former [[Army General]], was elected to succeed President [[Rexhep Meidani]]. Parliamentary elections in July 2005 brought [[Sali Berisha]], as leader of the Democratic Party, back to power. The Euro-Atlantic integration of Albania has been the ultimate goal of the post-communist governments. Albania's [[European Union|EU]] membership bid has been set as a priority by the European Commission.
+
+Albania, along with Croatia, received in 3 April 2008 an invitation to join [[NATO]]. Albania and Croatia joined NATO on 2 April 2009 becoming the 27th and 28th members of the alliance.&lt;ref&gt;BBC News. [http://news.bbc.co.uk/2/hi/europe/7977332.stm &quot;Nato welcomes Albania and Croatia&quot;], &quot;[[BBC News]]&quot;, 2009-04-02. Retrieved on 2009-04-02.&lt;/ref&gt; 
+
+The workforce of Albania has continued to migrate to Greece, Italy, Germany, other parts of Europe, and North America. However, the migration flux is slowly decreasing, as more and more opportunities are emerging in Albania itself as its economy steadily develops.
+
+===Executive branch===
+
+The head of state in Albania is the [[List of Presidents of Albania|President]] of the Republic. The President is elected to a 5-year term by the [[Assembly of Albania|Assembly of the Republic of Albania]] by secret ballot, requiring a 50%+1 majority of the votes of all deputies. The next election will run in the year 2012. The current President of the Republic is [[Bamir Topi]].
+
+The President has the power to guarantee observation of the constitution and all laws, act as commander in chief of the armed forces, exercise the duties of the [[Assembly of Albania|Assembly of the Republic of Albania]] when the Assembly is not in session, and appoint the Chairman of the Council of Ministers ([[Prime Minister]]).
+
+Executive power rests with the Council of Ministers (cabinet). The Chairman of the Council (Prime Minister) is appointed by the President; ministers are nominated by the President on the basis of the Prime Minister's recommendation. The People's Assembly must give final approval of the composition of the Council. The Council is responsible for carrying out both foreign and domestic policies. It directs and controls the activities of the ministries and other state organs.
+
+{| class=&quot;wikitable&quot;
+!align=left|[[List of Presidents of Albania|President]]
+|[[Bamir Topi]]|| ||20 July 2007
+|-
+!align=left|[[List of Prime Ministers of Albania|Prime Minister]]
+|[[Sali Berisha]]||[[Democratic Party of Albania|PD]]||3 September 2005
+|}
+
+===Legislative branch===
+
+The [[Assembly of Albania|Assembly of the Republic of Albania]] (''Kuvendi i Republikës së Shqipërisë'') is the lawmaking body in Albania. There are 140 deputies in the Assembly, which are elected though a [[party-list proportional representation]] system. The President of the Assembly (or Speaker) has two deputies and chairs the Assembly. There are 15 permanent commissions, or committees. Parliamentary elections are held at least every 4 years.
+
+The Assembly has the power to decide the direction of domestic and foreign policy; approve or amend the constitution; declare war on another state; ratify or annul international treaties; elect the President of the Republic, the Supreme Court, and the Attorney General and his or her deputies; and control the activity of state radio and television, state news agency, and other official information media.
+
+==Geography==
+
+{{Main|Geography of Albania}}
+
+[[Image:Albania space.jpg|thumb|left|Satellite image of Albania.]]
+
+[[Image:Himarë-Albania6.JPG|thumb|Coastline in [[Himarë]]]]
+
+[[Image:Ksamilislets.jpg|thumb|[[Ksamil]], Little Islands]]
+
+Albania has a total area of 28,748 square [[kilometers]]. Its coastline is 362 kilometers long and extends along the [[Adriatic Sea|Adriatic]] and [[Ionian Sea]]s. The lowlands of the west face the Adriatic Sea. The 70% of the country that is mountainous is rugged and often inaccessible from the outside. The highest mountain is [[Mount Korab|Korab]] situated in the district of Dibra, reaching up to {{convert|2753|m|ft|abbr=off|lk=off}}. The country has a [[continental climate]] at its high altitude regions with cold winters and hot summers. Besides the capital city of [[Tirana]], which has 800,000 inhabitants, the principal cities are [[Durrës]], [[Elbasan]], [[Shkodër, Albania|Shkodër]], [[Gjirokastër]], [[Vlorë]], [[Korçë]] and [[Kukës]]. In Albanian grammar, a word can have indefinite and definite forms, and this also applies to city names: both ''Tiranë'' and ''Tirana'', ''Shkodër'' and ''Shkodra'' are used.
+
+The three largest and deepest tectonic lakes of the [[Balkan Peninsula]] are partly located in Albania. [[Lake Shkodër]] in the country's northwest has a surface which can vary between {{convert|370|km2|sqmi|abbr=on|lk=off}} and 530&amp;nbsp;km&lt;sup&gt;2&lt;/sup&gt;, out of which one third belongs to Albania and rest to Montenegro. The Albanian shoreline of the lake is {{convert|57|km|0|abbr=on}}. [[Ohrid Lake]] is situated in the country's southeast and is shared between Albania and Republic of Macedonia. It has a maximal depth of 289 meters and a variety of unique flora and fauna can be found there, including “living fossils” and many endemic species. Because of its natural and historical value, Ohrid Lake is under the protection of [[UNESCO]]. 
+
+Over a third of the territory of Albania – about 10,000 square kilometers (2.5 million acres) – is forested and the country was very rich in flora. About 3.000 different species of plants grow in Albania, many of which are used for medicinal purposes. [[Phytogeography|Phytogeographically]], Albania belongs to the [[Boreal Kingdom]] and is shared between the Adriatic and East Mediterranean provinces of the [[Mediterranean Region]] and the Illyrian province of the [[Circumboreal Region]]. According to the [[World Wide Fund for Nature]] and Digital Map of European Ecological Regions by the [[European Environment Agency]], the territory of Albania can be subdivided into three [[ecoregion]]s: the [[Illyrian deciduous forests]], [[Pindus Mountains mixed forests]] and [[Dinaric Mountains mixed forests]]. The forests are home to a wide range of mammals, including [[wolves]], [[bear]]s, [[wild boar]]s, and [[chamois]]. [[Lynx]], [[wildcat]]s, [[pine marten]]s and [[polecat]]s are rare, but survive in some parts of the country.
+
+==Climate==
+
+[[Image:Coastline in Albania.jpg|thumb|left|Coastline near [[Sarandë]]]]
+
+[[Image:Albania pasture.jpg|thumb|left|Albanian landscape]]
+
+[[Image:KorabMountain2.jpg|thumb|right|148px|Korab chains.]]
+
+[[Image:Ksrbay.jpg|thumb|right|[[Sarandë]] bay]]
+
+With its coastline facing the Adriatic and Ionian seas, its highlands backed upon the elevated Balkan landmass, and the entire country lying at a latitude subject to a variety of weather patterns during the winter and summer seasons, Albania has a high number of climatic regions for so small an area. The coastal lowlands have typically Mediterranean weather; the highlands have a Mediterranean continental climate. In both the lowlands and the interior, the weather varies markedly from north to south.
+
+The lowlands have mild winters, averaging about 7 °C. Summer temperatures average 24 °C. In the southern lowlands, temperatures average about 5 °C higher throughout the year. The difference is greater than 5°C during the summer and somewhat less during the winter. 
+
+Inland temperatures are affected more by differences in elevation than by latitude or any other factor. Low winter temperatures in the mountains are caused by the continental air mass that dominates the weather in [[Eastern Europe]] and the [[Balkan]]s. Northerly and northeasterly winds blow much of the time. Average summer temperatures are lower than in the coastal areas and much lower at higher elevations, but daily fluctuations are greater. Daytime maximum temperatures in the interior basins and [[river valley]]s are very high, but the nights are almost always cool. 
+
+Average [[precipitation (meteorology)|precipitation]] is heavy, a result of the convergence of the prevailing airflow from the [[Mediterranean Sea]] and the continental air mass. Because they usually meet at the point where the terrain rises, the heaviest rain falls in the central uplands. Vertical currents initiated when the Mediterranean air is uplifted also cause frequent thunderstorms. Many of these storms are accompanied by high local winds and torrential downpours. 
+
+When the continental air mass is weak, Mediterranean winds drop their moisture farther inland. When there is a dominant continental air mass, cold air spills onto the lowland areas, which occurs most frequently in the winter. Because the season's lower temperatures damage olive trees and citrus fruits, groves and orchards are restricted to sheltered places with southern and western exposures, even in areas with high average winter temperatures. 
+
+Lowland rainfall averages from 1,000 millimeters to more than 1,500 millimeters annually, with the higher levels in the north. Nearly 95% of the rain falls in the winter. 
+
+Rainfall in the upland mountain ranges is heavier. Adequate records are not available, and estimates vary widely, but annual averages are probably about 1,800 millimeters and are as high as 2,550 millimeters in some northern areas. The seasonal variation is not quite as great in the coastal area. 
+
+The higher inland mountains receive less precipitation than the intermediate uplands. Terrain differences cause wide local variations, but the seasonal distribution is the most consistent of any area.
+
+==Economy==
+
+{{POV|date=July 2009}}
+
+{{Main|Economy of Albania}}
+
+[[Image:Durrës Albania 5.jpg|thumb|right|[[Durrës]]]]
+
+Albania remains a poor country by Eastern European standards.&lt;ref&gt;http://www.dfat.gov.au/GEO/albania/country_brief.html&lt;/ref&gt; Its GDP per capita (expressed in PPS – [[Purchasing power parity|Purchasing Power Standards]]) stood at 25 percent of the EU average in 2008.&lt;ref&gt;{{cite web|url=http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/2-25062009-BP/EN/2-25062009-BP-EN.PDF|title=Albania's GDP per capita in PPS (2008)|publisher=Eurostat|accessdate=2009-06-25}}&lt;/ref&gt; Still, Albania has shown potential for economic growth, as more and more businesses relocate there and consumer goods are becoming available from emerging market traders as part of the current massive global cost-cutting exercise. Albania and Cyprus are the only countries in Europe that recorded economic growth in the first quarter of 2009. In its latest report, the IMF said Albania and Cyprus recorded increases of 0.4% and 0.3%, respectively.&lt;ref&gt;Business: Albania, Cyprus register economic growth http://www.setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/roundup/2009/05/15/roundup-bs-03&lt;/ref&gt;&lt;ref&gt;Strong economic growth potential puts Albania and Panama top of long term investment list http://www.propertywire.com/news/related-stories/albania-panama-long-term-investment-200807201344.html&lt;/ref&gt; 
+
+Albania, once an energy exporter now relies on hydroelectric power to fill 53 percent of its demand, with imports supplying the rest.{{Citation needed|date=July 2009}} But the government's goal for a planned nuclear power plant is to make the country an energy power.{{Citation needed|date=July 2009}} Albania and Croatia plan to jointly build a nuclear power plant at Lake [[Shkoder]], close to the border with Montenegro, a plan that has gathered criticism from the latter due to seismicity in the area.&lt;ref&gt;[http://www.balkaninsight.com/en/main/news/18259/ Albania, Croatia plan nuclear power plant.]&lt;/ref&gt;.
+
+==Transport==
+
+{{Main|Transport in Albania}}
+
+In the early 1990s, the rock-strewn roadways, unstable rail lines, and obsolete telephone network crisscrossing Albania represented the remnants of the marked improvements that were made after [[World War II]].  [[Enver Hoxha]]'s xenophobia and lust for control had kept Albania isolated, however, as the communications revolution transformed the wider world into a global village. Even internal travel amounted to something of a luxury for many Albanians during communism's ascendancy. 
+
+===Highways===
+
+[[File:SH2 Tiranë-Durrës.jpg|right|thumb|SH 2 Highway ([[Tirana]]-[[Durrës]])]]
+
+[[File:Tirana's Overpass From Durres (1).JPG|left|thumb|SH 2 - Tirana's Overpass from Durrës]]
+
+Currently the major cities of the country are linked with first class national roads. There is a four lane highway connecting the city of Durrës with Tirana and the city of Durrës with the city of Lushnje. Albania is partaking in the construction of what it sees as three major corridors of transportation. The major priority as of present is the construction of the four lane Durrës-Pristina highway which will link [[Kosovo]] with Albania's Adriatic coast. The portion of the highway which links Albania's north east border with Kosovo was completed in June 2009&lt;ref&gt;http://www.nce.co.uk/news/transport/albania-motorway-making-the-first-move/5203302.article#&lt;/ref&gt;, as a result, cutting the time it takes to get from Kosovo to Durrës from six hours to two. The second priority is the construction of European corridor 8 linking Albania with the Republic of Macedonia and Greece. The third priority for the government is the construction of the north-south axis of the country; it is sometimes referred to as the [[Adriatic–Ionian motorway]] as it is part of a larger regional highway connecting Croatia with Greece along the Adriatic and Ionian coasts. By the end of the decade it is expected that the majority of the sections of these three corridors will have been built. When all three corridors are completed Albania will have an estimated 759 kilometers of highway linking it with its neighbors.
+
+=== Airways ===
+
+[[Image:Rinas-Airport-New-Terminal.jpg|thumb|right|[[Tirana International Airport Nënë Tereza]]]]
+
+In 1977 Albania's government signed an agreement with Greece, opening the country's first air links with non-communist Europe. As a result, [[Olympic Airlines|Olympic Airways]] was the first non-communist airline to fly into Albania. By 1991 [[Tirana]] had air links with many major European cities, including [[Paris]], [[Rome]], [[Zürich]], [[Vienna]], and [[Budapest]].  Tirana was served by a small airport, [[Tirana International Airport Nënë Tereza]], located twenty-eight kilometers from the capital at the village of [[Rinas]]. Albania had no regular domestic air service.  A Franco-Albanian joint venture launched Albania's first private airline, [[Ada Air]], in 1991.  The company offered flights in a thirty-six-passenger airplane four days each week between Tirana and [[Bari]], [[Italy]], and a charter service for domestic and international destinations.
+
+As of 2007 Albania has one international airport: [[Tirana International Airport Nënë Tereza]]. The airport is linked to 29 destinations by 14 airlines. It has seen a dramatic rise in terms of passenger numbers and aircraft movements since the early 1990s. In December 2007 it served over 1 million passengers and had 43 landings and takeoffs per day.
+
+[[Image:Albanian railway.jpg|thumb|left|Train in Durrës-Tiräna line]]
+
+===Railway===
+
+The railway system was extensively promoted by the [[totalitarian]] regime of [[Enver Hoxha]], during which time the use of private transport was effectively prohibited. Since the collapse of the former regime, there has been a considerable increase in [[car]] ownership and [[bus]] usage. Whilst some of the country's roads are still in a very poor condition, there have been other developments (such as the construction of a [[motorway]] between Tirana and Durrës) which have taken much traffic away from the railways.
+The [[railway]]s in Albania are administered by the national railway company ''[[Hekurudha Shqiptare]]'' (HSH) (which means ''Albanian Railways''). It operates a {{RailGauge|1435}} gauge (standard gauge) rail system in Albania. All trains are hauled by [[Czech Republic|Czech]]-built [[ČKD]] diesel-electric locomotives.
+
+Durrës - Kukes - Morine Highway Albania to Kosovo
+PostAuthorIcon Author: freshpropertyblog
+
+There has been much discussion, debate and interest in this small 170&amp;nbsp;km section of Albanian highway, which will hopefully create a new, super-fast connection between Durrës on the Adriatic coast to Morine at the border of Kosovo.
+
+The current drive time between Kukes and Durrës is 6–7 hours, but once the new highway is completed the drive time will only be 2 hours.  The expected completion is the end of 2009.  The whole road will be around 250&amp;nbsp;km, when completed to Pristina.
+
+The objective for constructing the road, according to the transport ministry, is to reduce transport costs and accidents, and improve traffic flow.  It is the biggest, most expensive infrastructure project undertaken in Albania.
+
+There has been much controversy and scandal surrounding this project as well, due to the spiralling cost of construction leading to various corruption allegations.  Originally the highway was forecast to cost around EUR400 million, and now the cost appears to have breached EUR800 million.  Although the exact cost for the total highway has yet to be confirmed by the government.
+
+Despite everything, the new road with be amazing, and once the Kosovo side meets up, it will be a fast and pleasant drive for many Kosovan businessmen and Kosovan tourists in the summers!  It’s just a pity construction has taken so long to start on the Kosovo side.  The Morine to Pristina section is expected to start construction Spring 2009.
+
+Currently there is a display in Tirana’s centre on Bvld Deshmoret e Kombit:
+
+==Religion==
+
+[[Image:Kchurch.jpg|thumb|right|Church in Sarande]]
+
+[[Image:Labova e Kryqit3.jpg|thumb|right|Church of Virgin Mary. It was built in the 10th century.]]
+
+{{Main|Religion in Albania}}
+
+{{See also|Freedom of religion in Albania}}
+
+Although most Albanians still associate themselves with religious groups like Muslims and Christians, a majority do not participate in religious services. According to the latest statistics and to the USA Government data, most of Albanians today are non religious:&lt;ref&gt;http://www.scribd.com/doc/15738681/Feja-ne-Shqiperi1&lt;/ref&gt;
+
+* 70,12% - [[Atheist]], [[agnostic]]
+* 10.33% - [[Orthodox Christians]]
+* 9.43% - [[Muslims]] ([[Sunni]])
+* 8.09% - [[Roman Catholics]]
+* 1.27% - [[Bektashi]]
+* 0.6% - Christian [[Protestants]]
+* 0.1% - [[Evangelist]]
+* 0.6% - Others
+
+After independence (1912) from the Ottoman Empire, the Albanian republican, monarchic and later communist regimes followed a systematic policy of separating religion from official functions and cultural life. Albania never had an official state religion either as a republic or as a kingdom.[51] In the 20th century, the clergy of all faiths was weakened under the monarchy, and ultimately eradicated during the 1940s and 1950s, under the state policy of obliterating all organized religion from Albanian territories.
+
+Christianity spread in urban centers in the region of Albania during the later period of the Roman Empire. It had to compete up to the Middle Ages with native Illyrian paganism and culture. The steady growth of the Christian community in Dyrrhachium (the Roman name for Epidamnus) led to the creation of a local bishopric in 58 AD. Later, episcopal seats were established in Apollonia, Buthrotum (modern Butrint), and Scodra (modern Shkodra).
+
+After the division of the Roman Empire in 395, Albania fell administratively under the umbrella of the Eastern Roman Empire, but its Christians remained ecclesiastically dependent on Rome. Six centuries later, as a result of the final schism of 1054 between the Western and Eastern churches, the Christians in southern Albania came under the jurisdiction of the Ecumenical Patriarch in Constantinople, and those in the north under the purview of the Pope in Rome.
+
+The Communist regime that took control of Albania after World War II suppressed religious observance and institutions and entirely banned religion to the point where Albania was officially declared to be the world's first atheist state. Religious freedom has returned to Albania since the regime's change in 1992. Albanian Muslim (65-70%) are found throughout the country whereas Orthodox Christians (20-25%) are concentrated in the south and Roman Catholics (10%) are found in the north of the country. No reliable data are available on active participation in formal religious services, and estimates range from 25% to 40%.[50]
+
+==Demographics==
+
+{{Main|Demographics of Albania}}
+
+[[Image:Tirana Skanderbeg Square.jpg|thumb|left|[[Tirana]], Albania's capital and largest city.]]
+
+[[Image:Berat.jpg|thumb|left|[[Berat]]]]
+
+[[Image:Ethnic composition of Albania, municipality data of 1989 census.gif|thumb|110px|right|Ethnic composition of Albania]]
+
+Albania has one of the highest life expectancy in the world with 77.43 years. The Albanian population is considered a very young population, with an average age of 28.9 years .&lt;ref&gt;[http://www.instat.gov.al/graphics/doc/downloads/publikime/femrameshkuj2006.pdf Women,Men and shefit's in Albania 2006], Instat, Tirana, 2007&lt;/ref&gt; After 1990 the Albanian population has
+faced new phenomena like migration, which greatly affected the distribution by districts and prefectures. Districts in the North have seen a decreasing population, while [[Tirana]] and [[Durrës]] districts have increased their population.{{Citation needed|date=March 2009}} Albania's population was 3,152,600 on 1 January 2007 and 3,170,048 on 1 January 2008.&lt;ref name=instat&gt;{{cite web|url=http://www.instat.gov.al/|title=Albania National Institute of Statistics official web site}}&lt;/ref&gt; Alternative sources estimate the population in July 2009 at 3,639,453 with an annual growth rate of 0.546%.&lt;ref name=cia&gt;[https://www.cia.gov/library/publications/the-world-factbook/geos/AL.html ''CIA World Factbook'': Albania]&lt;/ref&gt; Albania is a largely ethnically homogeneous country with only small minorities.&lt;ref&gt;{{cite web|url=http://www.watsoninstitute.org/bjwa/archive/11.1/Essays/Barjarba.pdf|author=Kosta Barjarba|title=Migration and Ethnicity in Albania: Synergies and Interdependencies|format=PDF}}&lt;/ref&gt; The largest majority of the population is ethnically [[Albanians|Albanian]] (98.6%). Minorities include [[Greeks]] 1.17% and others 0.23% ([[Vlachs]], [[Macedonians (ethnic group)|Macedonians]], [[Romani people|Roma]], [[Bulgarians]], [[Egyptians (Balkans)|Balkan Egyptians]], [[Serbs]]).&lt;ref&gt;[http://www.state.gov/r/pa/ei/bgn/3235.htm Albania], U.S. Department of State Bureau of European and Eurasian Affairs, Background Note November 2008. Retrieved on 14 May 2009&lt;/ref&gt;  The size of the Greek minority is contentious, with the Albanian government claiming it is only 60,000, while the Greek government typically claims 300,000.  Most Western sources put the size of the Greek minority at around ~2% of the population &lt;ref&gt;[http://books.google.com/books?id=kqCnCOgGc5AC&amp;pg=PA68&amp;dq=greek+minority+albania&amp;lr=&amp;as_drrb_is=q&amp;as_minm_is=0&amp;as_miny_is=&amp;as_maxm_is=0&amp;as_maxy_is=&amp;as_brr=0 ''Eastern Europe at the end of the 20th century'', Ian Jeffries, p. 69]&lt;/ref&gt;&lt;ref&gt;[http://books.google.com/books?lr=&amp;hl=el&amp;id=OU1oAAAAMAAJ&amp;dq=Pettifer+The+Greeks%3A+The+Land+and+the+People+since+the+War&amp;q=200000&amp;pgis=1#search_anchor The Greeks: the land and people since the war.] James Pettifer. Penguin, 2000. ISBN 0140288996&lt;/ref&gt;.
+The dominant language is [[Albanian language|Albanian]], with two main dialects, [[Gheg]] and [[Tosk]]. Many Albanians are also fluent in [[English language|English]], [[Italian language|Italian]], [[Greek language|Greek]], or [[German language|German]].
+
+==Culture==
+
+{{Albanians}}
+
+{{Main|Culture of Albania}}
+
+===Music and folklore===
+
+[[Image:A traditional male folk group from Skrapar.JPG|thumb|left|A traditional male folk group from Skrapar]]
+
+Albanian folk music falls into three sylistic groups, with other important [[music area]]s around [[Shkodër]] and [[Tirana]]; the major groupings are the [[Gheg]]s of the north and southern Labs and [[Tosk]]s. The northern and southern traditions are contrasted by the &quot;rugged and heroic&quot; tone of the north and the &quot;relaxed, gentle and exceptionally beautiful&quot; form of the south. These disparate styles are unified by &quot;the intensity that both performers and listeners give to their music as a medium for patriotic expression and as a vehicle carrying the narrative of [[oral history]]&quot;, as well as certain characteristics like the use of obscure rhythms such as 3/8, 5/8 and 10/8.&lt;ref&gt;Arbatsky, Yuri, cited in Koco with the footnote ''Translated and published by Filip Fishta in Shkolla Kombëtare (The National School; No.1, May 1939), 19, and quoted from his Preface to [[Pjetër Dungu]]'s Lyra Shqiptare (see note 2).''&lt;/ref&gt; The first compilation of Albanian folk music was made by [[Pjetër Dungu]] in 1940.
+
+Albanian folk songs can be divided into major groups, the heroic epics of the north, and the sweetly melodic [[lullaby|lullabies]], love songs, [[wedding music]], [[work song]]s and other kinds of song. The music of various festivals and holidays is also an important part of Albanian folk song, especially those that celebrate St. Lazarus Day (''the llazore''), which inaugurates the springtime. Lullabies and [[lament]]s are very important kinds of Albanian folk song, and are generally performed by solo women.&lt;ref name=&quot;koco&quot;&gt;{{cite web|title=Albanian Music|work=Eno Koco at the University of Leeds|url=http://www.leeds.ac.uk/music/staff/ek/|dateformat=mdy |accessdate=August 28 2005}}&lt;/ref&gt;
+
+===Albanian language and literature===
+
+{{Main|Albanian language}}
+
+{{Main|Albanian literature}}
+
+{{See also|List of Albanian writers}}
+
+Albanian was proven to be an [[Indo-European language]] in 1854 by the German [[Comparative linguistics|philologist]] [[Franz Bopp]]. The Albanian language comprises its own branch of the Indo-European language family.
+
+Some scholars believe that Albanian derives from [[Illyrian language|Illyrian]]&lt;ref&gt;Encyclopedia of Indo-European Culture By J. P. Mallory, Douglas Q. Adams Edition: illustrated Published by Taylor &amp; Francis, 1997 ISBN 1884964982, 9781884964985 (''&quot;Although there are some lexical items that appear to be shared between Romanian (and by extension Dacian) and Albanian, by far the strongest connections can be argued between Albanian and Illyrian.&quot;'' page 11)
+Concise Encyclopedia of Languages of the World By Keith Brown, Sarah Ogilvie Contributor Keith Brown, Sarah Ogilvie Edition: illustrated Published by Elsevier, 2008 ISBN 0080877745, 9780080877747 (''&quot;Albanian constitutes a single branch of the Indo-Europian family of languages. It is often held to be related to Illyrian, a poorly attested language spoken in the Western Balkans in classical times&quot;'' page 22)&lt;/ref&gt; while others,&lt;ref&gt;{{cite web|url=http://linguistlist.org/forms/langs/LLDescription.cfm?code=txh|title=The Thracian language|publisher=The Linguist List|accessdate=2008-01-27|quote=An ancient language of Southern Balkans, belonging to the Satem group of Indo-European. This language is the most likely ancestor of modern Albanian (which is also a Satem language), though the evidence is scanty. 1st Millennium BC - 500 AD.}}&lt;/ref&gt; claim that it derives from [[Dacian language|Daco]]-[[Thracian language|Thracian]]. (Illyrian and Daco-Thracian, however, might have been closely related languages; see [[Thraco-Illyrian]].)
+
+Establishing longer relations, Albanian is often compared to Balto-Slavic on the one hand and Germanic on the other, both of which share a number of [[isogloss]]es with Albanian. Moreover, Albanian has undergone a vowel shift in which stressed, long ''o'' has fallen to ''a'', much like in the former and opposite the latter. Likewise, Albanian has taken the old relative ''jos'' and innovatively used it exclusively to qualify adjectives, much in the way Balto-Slavic has used this word to provide the definite ending of adjectives.
+
+The cultural resistance was first of all expressed through the elaboration of the [[Albanian language]] in the area of church texts and publications, mainly of the [[Roman Catholic Church|Catholic]] confessional region in the North, but also of the [[Eastern Orthodox Church|Orthodox]] in the South. The [[Protestant]] reforms invigorated hopes for the development of the local language and literary tradition when cleric [[Gjon Buzuku]] brought into the Albanian language the [[Catholic liturgy]], trying to do for the Albanian language what [[Martin Luther|Luther]] did for [[German language|German]].
+
+[[Image:Meshari.jpg|thumb|left|Excerpt from ''[[Meshari]]'' by [[Gjon Buzuku]]]]
+
+''[[Meshari]]'' (The Missal) by [[Gjon Buzuku]], published by him in 1555, is considered to date as the first literary work of written Albanian. The refined level of the language and the stabilised orthography must be a result of an earlier tradition of writing Albanian, a tradition that is not known. But there are some fragmented evidence, dating earlier than Buzuku, which indicate that Albanian was written at least since 14th century AD. The first known evidence dates from 1332 AD and deals with the French Dominican [[Guillelmus Adae]], [[Archbishop]] of [[Antivari]], who in a report in Latin writes that Albanians use Latin letters in their books although their language is quite different from Latin. Of special importance in supporting this are: a baptizing formula (''Unte paghesont premenit Atit et Birit et spertit senit'') of 1462, written in Albanian within a text in Latin by the [[bishop]] of [[Durrës]], [[Pal Engjëlli]]; a glossary with Albanian words of 1497 by [[Arnold von Harff]], a German who had travelled through Albania, and a 15th century fragment from the [[Bible]] from the [[Gospel of Matthew]], also in Albanian, but in Greek letters.
+[[Image:Tirana Museum 1988.jpg|thumb|right|National Museum of Albania, featuring Albanian wars from [[Illyrians|Illyrian]] times to World War II.]]
+
+Albanian writings of these centuries must not have been religious texts only, but historical chronicles too. They are mentioned by the humanist [[Marin Barleti]], who, in his book ''Rrethimi i Shkodrës'' (The Siege of Shkodër) (1504), confirms that he leafed through such chronicles written in the language of the people (''in vernacula lingua''). Despite the obstacles generated by the [[Counter-Reformation]] which was opposed to the development of national languages in Christian [[liturgy]]{{Citation needed|date=June 2007}}, this process went on uninterrupted. During the 16th to 17th centuries, the [[catechism]] ''E mbësuame krishterë'' (Christian Teachings) (1592) by [[Lekë Matrënga]], ''Doktrina e krishterë'' (The Christian Doctrine) (1618) and ''Rituale romanum'' (1621) by [[Pjetër Budi]], the first writer of original Albanian [[prose]] and [[poetry]], an [[Remorse|apology]] for George Castriot (1636) by [[Frang Bardhi]], who also published a dictionary and [[folklore]] creations, the theological-philosophical treaty ''Cuneus Prophetarum'' (The Band of Prophets) (1685) by [[Pjetër Bogdani]], the most universal personality of Albanian [[Middle Ages]], were published in [[Albanian language|Albanian]]. The most famous Albanian writer is probably [[Ismail Kadare]].
+
+==Education==
+
+Before the Communist rule, Albania’s illiteracy rate was as high as 85%. Schools were scarce between [[WWI]] and [[WWII]]. When the Communist Rule over took the country in 1944, the regime wanted to “wipe-out” illiteracy. The regulations became so strict that anyone between the ages of 12 and 40 who could not read or write was mandated to attend classes to learn. Since these times of struggle the country’s literacy rate has improved remarkably.&lt;ref&gt;Zickel, Iwaskiw, 1994&lt;/ref&gt; Today the overall literacy rate in Albania is 98.7%, the male literacy rate is 99.2% and female literacy rate is 98.3%.&lt;ref name=cia/&gt; Since the rather large population movements in the 1990’s to urban areas, education has moved as well. Thousands of teachers moved to urban areas to follow students.
+
+==Administrative divisions==
+
+[[Image:AlbaniaNumberedPrefectures.png|thumb|Counties of Albania]]
+
+{{Main|Counties of Albania|Districts of Albania|Municipalities of Albania}}
+
+Albania is divided into 12 administrative divisions called ([[Albanian language|Albanian]]: official ''qark''/''qarku'', but often ''prefekturë''/''prefektura'') Counties, 36 districts and 351 municipalities. Each region has its Regional Council and is composed of a number of Municipalities and Communes, which are the first level of local governance responsible for local needs and law enforcement.
+
+{| class=&quot;wikitable&quot; border=&quot;1&quot;
+|-
+! !! [[Counties of Albania|County]]
+! Capital
+! [[Districts of Albania|Districts]]
+! [[Municipalities of Albania|Municipalities]]
+! [[List of cities in Albania|Cities]]
+! Villages
+|-
+| 1 || [[Berat County|Berat]]
+| [[Berat]]
+| [[Berat District|Berat]]&lt;br /&gt;[[Kuçovë District|Kuçovë]]&lt;br /&gt;[[Skrapar District|Skrapar]]
+| 12&lt;br /&gt;2&lt;br /&gt;10
+| 2&lt;br /&gt;1&lt;br /&gt;2
+| 122&lt;br /&gt;17&lt;br /&gt;103
+|-
+| 2 || [[Dibër County|Dibër]]
+| [[Peshkopi]]
+| [[Bulqizë District|Bulqizë]]&lt;br /&gt;[[Dibër District|Dibër]]&lt;br /&gt;[[Mat District|Mat]]
+| 8&lt;br /&gt;15&lt;br /&gt;12
+| 2&lt;br /&gt;1&lt;br /&gt;3
+| 103&lt;br /&gt;141&lt;br /&gt;76
+|-
+| 3 || [[Durrës County|Durrës]]
+| [[Durrës]]
+| [[Durrës District|Durrës]]&lt;br /&gt;[[Krujë District|Krujë]]
+| 10&lt;br /&gt;7
+| 4&lt;br /&gt;2
+| 61&lt;br /&gt;43
+|-
+| 4 || [[Elbasan County|Elbasan]]
+| [[Elbasan]]
+| [[Elbasan District|Elbasan]]&lt;br /&gt;[[Gramsh District|Gramsh]]&lt;br /&gt;[[Librazhd District|Librazhd]]&lt;br /&gt;[[Peqin District|Peqin]]
+| 24&lt;br /&gt;10&lt;br /&gt;10&lt;br /&gt;6
+| 2&lt;br /&gt;1&lt;br /&gt;2&lt;br /&gt;1
+| 176&lt;br /&gt;95&lt;br /&gt;75&lt;br /&gt;49
+|-
+| 5 || [[Fier County|Fier]]
+| [[Fier]]
+| [[Fier District|Fier]]&lt;br /&gt;[[Lushnjë District|Lushnjë]]&lt;br /&gt;[[Mallakastër District|Mallakastër]]
+| 17&lt;br /&gt;16&lt;br /&gt;9
+| 3&lt;br /&gt;2&lt;br /&gt;1
+| 117&lt;br /&gt;121&lt;br /&gt;40
+|-
+| 6 || [[Gjirokastër County|Gjirokastër]]
+| [[Gjirokastër]]
+| [[Gjirokastër District|Gjirokastër]]&lt;br /&gt;[[Përmet District|Përmet]]&lt;br /&gt;[[Tepelenë District|Tepelenë]]
+| 13&lt;br /&gt;9&lt;br /&gt;10
+| 2&lt;br /&gt;2&lt;br /&gt;2
+| 95&lt;br /&gt;97&lt;br /&gt;77
+|-
+| 7 || [[Korçë County|Korçë]]
+| [[Korçë]]
+| [[Devoll District|Devoll]]&lt;br /&gt;[[Kolonjë District|Kolonjë]]&lt;br /&gt;[[Korçë District|Korçë]]&lt;br /&gt;[[Pogradec District|Pogradec]]
+| 5&lt;br /&gt;8&lt;br /&gt;17&lt;br /&gt;8
+| 1&lt;br /&gt;2&lt;br /&gt;2&lt;br /&gt;1
+| 44&lt;br /&gt;76&lt;br /&gt;155&lt;br /&gt;72
+|-
+| 8 || [[Kukës County|Kukës]]
+| [[Kukës]]
+| [[Has District|Has]]&lt;br /&gt;[[Kukës District|Kukës]]&lt;br /&gt;[[Tropojë District|Tropojë]]
+| 4&lt;br /&gt;15&lt;br /&gt;8
+| 1&lt;br /&gt;1&lt;br /&gt;3
+| 30&lt;br /&gt;90&lt;br /&gt;68
+|-
+| 9 || [[Lezhë County|Lezhë]]
+| [[Lezhë]]
+| [[Kurbin District|Kurbin]]&lt;br /&gt;[[Lezhë District|Lezhë]]&lt;br /&gt;[[Mirditë District|Mirditë]]
+| 4&lt;br /&gt;10&lt;br /&gt;7
+| 3&lt;br /&gt;2&lt;br /&gt;4
+| 28&lt;br /&gt;63&lt;br /&gt;70
+|-
+| 10 || [[Shkodër County|Shkodër]]
+| [[Shkodër, Albania|Shkodër]]
+| [[Malësi e Madhe District|Malësi e Madhe]]&lt;br /&gt;[[Pukë District|Pukë]]&lt;br /&gt;[[Shkodër District|Shkodër]]
+| 6&lt;br /&gt;10&lt;br /&gt;18
+| 2&lt;br /&gt;2&lt;br /&gt;2
+| 56&lt;br /&gt;75&lt;br /&gt;139
+|-
+| 11 || [[Tirana County|Tirana]]
+| [[Tirana]]
+| [[Kavajë District|Kavajë]]&lt;br /&gt;[[Tirana District|Tirana]]
+| 10&lt;br /&gt;18
+| 2&lt;br /&gt;3
+| 65&lt;br /&gt;155
+|-
+| 12 || [[Vlorë County|Vlorë]]
+| [[Vlorë]]
+| [[Delvinë District|Delvinë]]&lt;br /&gt;[[Sarandë District|Sarandë]]&lt;br /&gt;[[Vlorë District|Vlorë]]
+| 4&lt;br /&gt;9&lt;br /&gt;13
+| 1&lt;br /&gt;2&lt;br /&gt;4
+| 38&lt;br /&gt;62&lt;br /&gt;99
+|}
+
+==Sport==
+
+[[Association football|Football (soccer)]] is the most popular sport in Albania, both at a participatory and spectator level. The sport is governed by the [[Football Association of Albania]] ([[Albanian language|Albanian]]: ''Federata Shqiptare e Futbollit'', F.SH.F.).
+
+* [[Albania national football team]]
+* [[Albania national basketball team]]
+* [[Albania national futsal team]]
+* [[Albania national under-21 football team]]
+
+==Entertainment==
+
+{{Main|RTSH}}
+
+Radio Televizioni Shqiptar, ([[RTSH]]), is Albania's leading television network. RTSH runs a national [[television]] station ''TVSH'', (standing for ''Televizioni Shqiptar''), and two national radio stations, using the name ''Radio Tirana''. An international service broadcasts radio programmes in Albanian and seven other languages via [[medium wave]] (AM) and [[short wave]] (SW).&lt;ref&gt;[http://picasaweb.google.es/ec2adn/RadioTiranaBroadcastingSchedules/photo#5187887711939456834 radiotirana.org website] {{en icon}}&lt;/ref&gt; The international service has used the theme from the song &quot;Keputa një gjethe dafine&quot; as its [[signature tune]]. Since 1999, RTSH has been a member of the [[European Broadcasting Union]]. Since 1993, RTSH has also run an international television service via [[satellite]], aimed at [[Albanian language]] communities in [[Kosovo]], [[Republic of Macedonia|Macedonia]], [[Montenegro]] and [[Greece]], plus the Albanian [[diaspora]] in the rest of [[Europe]].
+
+According the National Council of Radio and Television Albania has an estimated 257 media outlets, including 66 radio stations and 65 television stations, with 3 national and 62 local stations.
+
+==Health==
+
+Albania has free nationalized healthcare. Major hospitals are in [[Tirana]] and [[Durrës]]. The medical school, Faculty of Medicine at Tirana University, is in Tirana. There are also nursing schools in many other cities.
+
+The diseases of the circulation system occupy the first place and deaths due to neoplasm diseases occupy the second place based on death’s form in the structure of general mortality.
+
+==Cuisine==
+
+{{Main|Albanian cuisine}}
+
+The cuisine of Albania- as with most [[Mediterranean]] and [[Balkans|Balkan]] nations, is strongly influenced by its long history. At different times, the territory of Albania has been occupied by [[Greece]], [[Italy]] and the [[Ottoman Turk]]s, and each group has left its mark on Albanian cuisine. The main meal of the [[Albanians]] is lunch, and it is usually accompanied by a [[salad]] of fresh [[vegetables]], such as [[tomato]]es, [[cucumber]]s, green [[bell pepper|peppers]], and [[olive]]s with [[olive oil]], [[vinegar]] and [[salt]]. Lunch also includes a main dish of vegetables and meat. Seafood specialties are also common in the coastal areas of [[Durrës]], [[Vlorë]] and [[Sarandë]]. It has long been Albanian tradition that the coordinator of a social gathering, also known as Papi Muejer, purchase the first round at a local bar for all those in attendance.
+
+==Armed forces==
+
+{{Main|Military of Albania|}}
+
+[[Image:Patrol Boat Iliria.jpg|thumb|Damen Stan Type 4207 [[Patrol Boat]].]]
+[[Image:RRB COY.jpg|thumb|left|Military personnel from the 1st [[Infantry]] Company of the [[Rapid Reaction Brigade]].]]
+{{See also|Albanian Air Force|Albanian Naval Defense Forces|Albanian Joint Forces Command|Albanian Logistic Support Command}}
+
+The [[Military of Albania|Albanian Armed Forces]] (''Forcat e Armatosura të Shqipërisë'') first formed after independence in 1912. Today it is made up of the [[General Staff]] Headquarters, the [[Albanian Joint Forces Command]], the [[Albanian Support Command]] and the [[Albanian Training and Doctrine Command]]. One of the most important conditions to fulfill due to [[NATO]] integration, was the increasing of the military budget. According to Government of Albania plans, military expenditure will reach 2% of [[GDP]] in 2008 (already approved by the parliament on the budget of 2008 - for the defense 2.01% of GDP). Since February 2008, Albania participates officially in NATO's [[Operation Active Endeavor]] in the [[Mediterranean Sea]]&lt;ref&gt;[[NATO]], [http://www.nato.int/issues/active_endeavour/index.html]&lt;/ref&gt; and received a NATO membership invitation on 3 April 2008.&lt;ref&gt;{{cite web|title=Albania membership Nato|publisher=NATO|url=http://www.nato.int/issues/nato_albania/evolution.html}}&lt;/ref&gt; Albania became a full member of NATO on 1 April 2009.
+
+==Human rights in Albania==
+
+{{Main|Human rights in Albania}}
+
+===LGBT rights in Albania===
+
+{{Main|LGBT rights in Albania}}
+
+==International rankings==
+
+{{Main|International rankings of Albania}}
+
+'''Demographic'''
+
+* [[List of countries by population|Population]] ranked 133 out of 221 countries
+* [[CIA World Factbook]]: [[List of countries by life expectancy|Life expectancy]] ranked 50 out of 221 countries
+* CIA World Factbook 2008: [[List of countries by infant mortality rate|infant mortality rate]] ranked 112 highest [[infant mortality]] rate out of 222 countries
+* [[United Nations Development Programme]]: [[List of countries by literacy rate|literacy rate]] ranked 45 out of 177 countries
+
+'''Environmental'''
+
+* [[Yale University]]: [[Environmental Sustainability Index]] 2005, ranked 24 out of 146 countries
+
+'''Economic'''
+
+* ''[[The Wall Street Journal]]'' and the [[Heritage Foundation]]: [[Index of Economic Freedom]] 2006, ranked 52 out of 157 countries
+* [[International Monetary Fund]]: [[List of countries by GDP (nominal) per capita|GDP (nominal) per capita]] 2006, ranked 95 out of 182 countries
+* [[International Monetary Fund]]: [[List of countries by GDP (nominal)|GDP (nominal)]] 2006, ranked 111 out of 181 countries
+* [[World Economic Forum]]: [[Global Competitiveness Index]] 2006-2007, ranked 98 out of 125 countries
+* [[World Bank]]: [[Ease of Doing Business Index]] 2008 report, ranked 136 out of 178 countries
+* [[United Nations]]: [[List of countries by Human Development Index|Human Development Index]] 2006, ranked 73 out of 177 countries
+* [[List of countries by foreign exchange reserves|Foreign exchange reserves]] as of December 2007 ranked 112 out of 156 countries
+
+==See also==
+
+{{portal|Albania|Flag of Albania.svg}}
+
+{{Main|Outline of Albania}}
+
+* [[Index of Albania-related articles]]
+* [[List of Albanians]]
+* [[List of Albanian writers]]
+* [[List of Albanian-Americans]]
+* [[International rankings of Albania]]
+
+{{Albania topics|state=expanded}}
+
+==Notes and references==
+
+'''Notes:'''
+{| class=&quot;references-small&quot; style=&quot;margin-left:13px; line-height:150%&quot;
+|align=&quot;right&quot; valign=&quot;top&quot;|a.&amp;nbsp;&amp;nbsp;
+|{{note|status}}{{Kosovo-note}}
+|}
+
+'''References:'''
+
+{{reflist|2}}
+
+==External links==
+
+{{sisterlinks}}
+
+;Government
+* [http://www.president.al Presidency of Albania]
+* [http://www.keshilliministrave.al The Albanian Government] (''Council of Ministers'')
+* [http://www.parlament.al The Albanian Parliament]
+* [http://www.gjk.gov.al The Albanian Constitutional Court]
+* [http://www.instat.gov.al Albanian Institute of Statistics]
+* [https://www.cia.gov/library/publications/world-leaders-1/world-leaders-a/albania.html Chief of State and Cabinet Members]
+;General information
+* {{CIA World Factbook link|al|Albania}}
+* [http://www.state.gov/p/eur/ci/al/ Albania] information from the [[United States Department of State]]
+* [http://ucblibraries.colorado.edu/govpubs/for/albania.htm Albania] from ''UCB Libraries GovPubs''
+* {{dmoz|Regional/Europe/Albania}}
+
+{{wikiatlas|Albania}}
+
+;Tourism
+* [http://www.albaniantourism.com/ National Tourism Organization] Official website for travel &amp; tourism information
+* {{wikitravel}}
+* [http://albaniaonline.org/ Tourism, history]
+* [http://www.trekinu.com/viewtrek.aspx?trkid=i02ivoat68cl6qy Travel album], with photos and maps
+* [http://www.bunkertrails.org/maps.php Various Topographic Map Collections of Albania] (updated 18 January 2009)
+* [http://www.bunkertrails.org/wiki/index.php?title=Albania_Geopolitical_Mapset GPS Basemap for Albania]
+* [http://www.vivalbania.net/ING/index.htm VIVAlbania, hospitality and ecotourism in Albania]
+* [http://www.guidetoalbania.com Guide To Albania (with pictures)]
+* [http://www.infoalb.net Website of the National Tourist Organisation of Albania]
+
+;Other
+* [http://libraries.theeuropeanlibrary.org/Albania/treasures_en.xml Treasure of the national library of Albania]
+* [http://www.allcountries.eu/albania.htm Information on Albania]
+* [http://www.scribd.com/doc/11444724/Books-about-Albania-and-the-Albanian-people Books about Albania and the Albanian people] ''(scribd.com)'' Reference of books (and some journal articles) about Albania and the Albanian people; their history, language, origin, culture, literature, etc. Public domain books, fully accessible online.
+* [http://eisenhower.archives.gov/Research/Subject_Guides/PDFs/Albania.pdf Guide to materials pertaining to Albania at the Eisenhower Presidential Library]
+* [http://www.dfat.gov.au/GEO/albania/country_brief.html Albania Country Brief DFAT]
+
+{{Albania topics}}
+
+{{Template group
+|title = [[Image:Gnome-globe.svg|22px]]&amp;nbsp;Geographic locale
+|list =
+{{Balkan Countries}}
+{{Countries of Europe}}
+{{Countries and territories bordering the Mediterranean Sea}}
+}}
+{{Template group
+|title = Within Albania
+|list =
+{{World Heritage Sites in Albania}}
+{{Cities in Albania}}
+}}
+{{Template group
+|title = International membership
+|list =
+{{North Atlantic Treaty Organisation (NATO)}}
+{{Council of Europe}}
+{{EU countries and candidates}}
+{{Central European Free Trade Agreement (CEFTA)}}
+{{Organization of the Black Sea Economic Cooperation (BSEC)}}
+{{La Francophonie|state=collapsed}}
+{{Organization of the Islamic Conference (OIC)|state=collapsed}}
+}}
+
+[[Category:Albania| ]]
+[[Category:Republics]]
+[[Category:Organisation of the Islamic Conference members]]
+[[Category:States and territories established in 1912]]
+
+&lt;!--Interwikis--&gt;
+
+[[af:Albanië]]
+[[als:Albanien]]
+[[am:አልባኒያ]]
+[[ang:Albania]]
+[[ar:ألبانيا]]
+[[an:Albania]]
+[[arc:ܐܠܒܢܝܐ]]
+[[roa-rup:Arbinishia]]
+[[frp:Albanie]]
+[[ast:Albania]]
+[[gn:Avaña]]
+[[az:Albaniya]]
+[[bn:আলবেনিয়া]]
+[[zh-min-nan:Shqipëria]]
+[[be:Албанія]]
+[[be-x-old:Альбанія]]
+[[bcl:Albanya]]
+[[bar:Albanien]]
+[[bo:ཨར་པ་ཉི་ཡ།]]
+[[bs:Albanija]]
+[[br:Albania]]
+[[bg:Албания]]
+[[ca:Albània]]
+[[cv:Албани]]
+[[ceb:Albanya]]
+[[cs:Albánie]]
+[[co:Albania]]
+[[cy:Albania]]
+[[da:Albanien]]
+[[pdc:Albaani]]
+[[de:Albanien]]
+[[dsb:Albańska]]
+[[dz:ཨལ་བཱ་ནི་ཡ།]]
+[[et:Albaania]]
+[[el:Αλβανία]]
+[[eml:Albanî]]
+[[es:Albania]]
+[[eo:Albanio]]
+[[ext:Albánia]]
+[[eu:Albania]]
+[[ee:Albania]]
+[[fa:آلبانی]]
+[[hif:Albania]]
+[[fo:Albania]]
+[[fr:Albanie]]
+[[fy:Albaanje]]
+[[fur:Albanie]]
+[[ga:An Albáin]]
+[[gv:Yn Albaan]]
+[[gd:Albàinia]]
+[[gl:Albania - Shqipëria]]
+[[xal:Арнаутн Орн Нутг]]
+[[ko:알바니아]]
+[[haw:‘Alepania]]
+[[hy:Ալբանիա]]
+[[hi:अल्बानिया]]
+[[hsb:Albanska]]
+[[hr:Albanija]]
+[[io:Albania]]
+[[ilo:Albania]]
+[[bpy:আলবেনিয়া]]
+[[id:Albania]]
+[[ia:Albania]]
+[[ie:Albania]]
+[[os:Албани]]
+[[is:Albanía]]
+[[it:Albania]]
+[[he:אלבניה]]
+[[jv:Albania]]
+[[kn:ಅಲ್ಬೇನಿಯ]]
+[[pam:Albania]]
+[[ka:ალბანეთი]]
+[[csb:Albańskô]]
+[[kk:Албания]]
+[[kw:Albani]]
+[[ky:Албания]]
+[[sw:Albania]]
+[[kv:Албания]]
+[[kg:Albania]]
+[[ht:Albani]]
+[[ku:Albanya]]
+[[lad:אלבאניה]]
+[[la:Albania]]
+[[lv:Albānija]]
+[[lb:Albanien]]
+[[lt:Albanija]]
+[[lij:Albania]]
+[[li:Albanië]]
+[[ln:Albania]]
+[[lmo:Albania]]
+[[hu:Albánia]]
+[[mk:Албанија]]
+[[mg:Albania]]
+[[ml:അല്‍ബേനിയ]]
+[[mt:Albanija]]
+[[mr:आल्बेनिया]]
+[[arz:ألبانيا]]
+[[mzn:آلباني]]
+[[ms:Albania]]
+[[mn:Албани]]
+[[nah:Albania]]
+[[na:Albania]]
+[[nl:Albanië]]
+[[ne:अल्बानिया]]
+[[ja:アルバニア]]
+[[ce:Албани]]
+[[pih:Elbanya]]
+[[no:Albania]]
+[[nn:Albania]]
+[[nov:Albania]]
+[[oc:Albania]]
+[[uz:Albaniya]]
+[[ps:البانيا]]
+[[km:អាល់បានី]]
+[[pms:Albanìa]]
+[[tpi:Albenia]]
+[[nds:Albanien]]
+[[pl:Albania]]
+[[pnt:Αλβανία]]
+[[pt:Albânia]]
+[[crh:Arnavutlıq]]
+[[ro:Albania]]
+[[rmy:Shkiperiya]]
+[[rm:Albania]]
+[[qu:Albanya]]
+[[ru:Албания]]
+[[sah:Албания]]
+[[se:Albánia]]
+[[sa:अल्बानिया]]
+[[sc:Albania]]
+[[sco:Albanie]]
+[[stq:Albanien]]
+[[sq:Shqipëria]]
+[[scn:Albanìa]]
+[[simple:Albania]]
+[[ss:I-Alibheniya]]
+[[sk:Albánsko]]
+[[sl:Albanija]]
+[[szl:Albańijo]]
+[[srn:Albanikondre]]
+[[sr:Албанија]]
+[[sh:Albanija]]
+[[su:Albania]]
+[[fi:Albania]]
+[[sv:Albanien]]
+[[tl:Albanya]]
+[[ta:அல்பேனியா]]
+[[tt:Албания]]
+[[te:అల్బేనియా]]
+[[tet:Albánia]]
+[[th:ประเทศแอลเบเนีย]]
+[[tg:Албания]]
+[[chr:ᎠᎸᏇᏂᏯ]]
+[[tr:Arnavutluk]]
+[[udm:Албания]]
+[[uk:Албанія]]
+[[ur:البانیا]]
+[[ug:ئالبانىيە]]
+[[vec:Albania]]
+[[vi:Albania]]
+[[vo:Lalbanän]]
+[[fiu-vro:Albaania]]
+[[war:Albanya]]
+[[wo:Albaani]]
+[[wuu:阿尔巴尼亚]]
+[[yi:אלבאניע]]
+[[yo:Albania]]
+[[zh-yue:阿爾巴尼亞]]
+[[diq:Arnawutiye]]
+[[zea:Albanië]]
+[[bat-smg:Albanėjė]]
+[[zh:阿尔巴尼亚]]

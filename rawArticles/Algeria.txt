@@ -1,0 +1,576 @@
+      {{pp-move-indef}}
+{{Infobox Country
+|native_name={{lang|ar|الجمهورية الجزائرية الديمقراطية الشعبية}} {{spaces|2}}{{resize|75%|([[Arabic language|Arabic]])}}&lt;br/&gt;''al Jumhuriyya al Jazaa'iriyya al Demoqratiyya ash Sha'biyya'' {{spaces|2}}{{resize|75%|([[Arabic]])}}&lt;br/&gt;''Tagduda tamegdayt taɣerfant tazzayrit'' {{spaces|2}}{{resize|75%|([[Kabyle]])}}&lt;br/&gt;''République algérienne démocratique et populaire'' {{spaces|2}}{{resize|75%|([[French language|French]])}}&lt;br/&gt;
+|conventional_long_name=People's Democratic Republic of Algeria
+|common_name=Algeria
+|national_anthem=[[Kassaman]]''{{spaces|2}}&lt;small&gt;(Arabic)&lt;br/&gt;''The Pledge''&lt;/small&gt;
+|national_motto=&lt;big&gt;بالشعب وللشعب&lt;/big&gt;{{spaces|2}}&lt;small&gt;([[Arabic language|Arabic]])&lt;br/&gt;&quot;By the people and for the people&quot;&lt;/small&gt;&lt;ref name=&quot;CONST-AR&quot;&gt;[http://www.el-mouradia.dz/arabe/symbole/textes/constitution96.htm Constitution of Algeria] (1996), Art. 11 [ar]&lt;/ref&gt;&lt;ref name=&quot;CONST-EN&quot;&gt;[http://www.apn-dz.org/apn/english/constitution96/titre_01.htm Constitution of Algeria] (1996), Art. 11 [en]&lt;/ref&gt;
+|image_flag=Flag of Algeria.svg
+|image_coat=Coat of arms of Algeria.svg
+|symbol_type=Emblem
+|image_map=LocationAlgeria.svg
+|official_languages=[[Arabic language|Arabic]]
+|regional_languages=[[Tamazight language|Tamazight]] (National languages) &lt;br /&gt; &lt;!-- Vandals have changed real encyclopedic material into nonsense, please change it. (The [[zolo ancata language|zolo ancata]] variety is official in [[Kabyhia]])--&gt; [[French language|French]] is very widely spoken but not recognized.
+|capital=[[Algiers]]
+|latd=36 |latm=42 |latNS=N |longd=3 |longm=13 |longEW=E
+|largest_city=capital
+|government_type=[[Semi-presidential republic]]
+|leader_title1=[[President of Algeria|President]]
+|leader_name1=[[Abdelaziz Bouteflika]]
+|leader_title2=[[Prime Minister of Algeria|Prime Minister]]
+|leader_name2=[[Ahmed Ouyahia]]
+|sovereignty_type=[[History of Algeria|Establishment]]
+|established_event1=[[Hammadid]] dynasty
+|established_date1=from&amp;nbsp;1014
+|established_event2=[[Ottoman Empire|Ottoman]]&amp;nbsp;rule
+|established_date2=from&amp;nbsp;1516
+|established_event3=[[French colonial empires|French]]&amp;nbsp;rule
+|established_date3=from&amp;nbsp;1830
+|established_event4=Independence from [[France]]
+|established_date4=5 July 1962
+|area_rank=11th
+|area_magnitude=1 E12
+|area_km2=2381741
+|area_sq_mi=919595 &lt;!--Do not remove per [[WP:MOSNUM]]--&gt;
+|percent_water=negligible
+|population_estimate=34,895,000&lt;ref name=unpop&gt;{{cite paper | url=http://www.un.org/esa/population/publications/wpp2008/wpp2008_text_tables.pdf | title=World Population Prospects, Table A.1| version=2008 revision  | format=.PDF | publisher=United Nations | author=Department of Economic and Social Affairs
+Population Division | date=2009 | accessdate= 2009-03-12}}&lt;/ref&gt;
+|population_estimate_year=2009
+|population_census=29,100,867
+|population_census_year=1998
+|population_density_km2=14.6
+|population_density_sq_mi=37.9 &lt;!--Do not remove per [[WP:MOSNUM]]--&gt;
+|population_density_rank=196th
+|GDP_PPP_year=2008
+|GDP_PPP=$233.098 billion&lt;ref name=imf2&gt;{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2009/01/weodata/weorept.aspx?sy=2006&amp;ey=2009&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=612&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=&amp;pr.x=35&amp;pr.y=17 |title=Algeria|publisher=International Monetary Fund|accessdate=2009-04-22}}&lt;/ref&gt;
+|GDP_PPP_rank=38th
+|GDP_PPP_per_capita=$6,698&lt;ref name=imf2/&gt;
+|GDP_PPP_per_capita_rank=88th
+|GDP_nominal=$159.669 billion&lt;ref name=imf2/&gt;
+|GDP_nominal_rank=48th
+|GDP_nominal_year=2008
+|GDP_nominal_per_capita=$4,588&lt;ref name=imf2/&gt;
+|GDP_nominal_per_capita_rank=84th
+|HDI_year=2007
+|HDI={{increase}} 0.733
+|HDI_rank=104th
+|HDI_category=&lt;span style=&quot;color:#fc0;&quot;&gt;medium&lt;/span&gt;
+|Gini=35.3
+|Gini_year=1995
+|Gini_category=&lt;span style=&quot;color:#fc0;&quot;&gt;medium&lt;/span&gt;
+|currency=[[Algerian dinar]]
+|currency_code=DZD
+|time_zone=[[Central European Time|CET]]
+|utc_offset=+1
+|time_zone_DST=not observed
+|utc_offset_DST=
+|demonym=Algerian
+|drives_on=right 
+|cctld=[[.dz]]
+|calling_code=213
+}}
+
+'''Algeria''' ({{lang|ar|[[Formal Arabic]]: الجزائر}}, ''al-Jazā’ir''; [[Berber languages|Berber]]: Dzayer; [[French language|French]]: Algérie), officially the '''People's Democratic Republic of Algeria''', is a [[country]] located in [[North Africa]]. It is the largest country on the Mediterranean sea, the second largest on the African continent&lt;ref name=&quot;cia&quot;/&gt; and the eleventh-largest country in the world in terms of land area.&lt;ref&gt;Encarta MSN&lt;/ref&gt; It is bordered by [[Tunisia]] in the northeast, [[Libya]] in the east, [[Niger]] in the southeast, [[Mali]] and [[Mauritania]] in the southwest, a few kilometers of the Moroccan-controlled [[Western Sahara]] in the southwest, [[Morocco]] in the west and northwest, and the [[Mediterranean Sea]] in the north. Its size is almost 2,400,000&amp;nbsp;km&lt;sup&gt;2&lt;/sup&gt; with an estimated population near to 35,000,000. The capital of Algeria is [[Algiers]]. 
+
+Algeria is a member of the [[United Nations]], [[African Union]], [[OPEC]] and the [[Arab League]]. It also contributed towards the creation of the [[Maghreb Union]].
+
+==Etymology ==
+''Al-jazā’ir'' is itself a truncated form of the city's older name of jazā’ir banī mazghanā, the Arabic for &quot;the islands of (the Berber tribe) Ait Mazghanna&quot;, as used by early medieval geographers such as [[al-Idrisi]] and [[Yaqut al-Hamawi]].
+
+In Classical times northern Algeria was known as [[Numidia]], which included parts of modern day Morocco.
+
+==History ==
+{{main|History of Algeria}}
+
+===Ancient history ===
+[[Image:Roman Arch of Trajan at Thamugadi (Timgad), Algeria 04966r.jpg|thumb|left|Roman arch of Trajan at Thamugadi (Timgad), Algeria]]
+[[Berber people|Berbers]] have inhabited Algeria since at least [[10,000 BC]]&lt;ref&gt;http://tripatlas.com/Algeria&lt;/ref&gt;&lt;ref&gt;http://www.arab-index.net/CountryInfo.aspx?ID=21&lt;/ref&gt;&lt;ref&gt;http://www.africa-investor.com/article.asp?id=5197&lt;/ref&gt;&lt;ref&gt;http://www.grconsultants.org/Country/Algeria_Expat_Relocation_Mobility_Management_GRC_2009.pdf&lt;/ref&gt;&lt;ref&gt;http://www.sheppardsoftware.com/Africaweb/snapshot/Algeria.htm&lt;/ref&gt;&lt;ref&gt;http://en.allexperts.com/e/a/al/algeria.htm&lt;/ref&gt;&lt;ref&gt;http://www.alvoyages.com/articles/africa/algeria.html&lt;/ref&gt;; after 1000 BC, the [[Carthage|Carthaginians]] began establishing settlements along the coast. The Berbers seized the opportunity offered by the [[Punic Wars]] to become independent of Carthage, and Berber kingdoms began to emerge, most notably Numidia. In 200 BC, however, they were once again taken over, this time by the [[Roman Republic]]. When the [[Western Roman Empire]] collapsed, Berbers became independent again in many areas, while the [[Vandals]] took control over other parts, where they remained until expelled by the generals of the [[List of Byzantine Emperors|Byzantine Emperor]], [[Justinian I]]. The [[Byzantine Empire]] then retained a precarious grip on the east of the country until the coming of the Arabs in the eighth century.
+
+===Middle Ages ===
+The two branches, [[Sanhadja]] and [[Zanata]], were also divided into tribes, with each [[Maghreb]] region made up of several tribes.&lt;ref name=&quot;William MacGuckin&quot;&gt;Histoire des Berbères et des dynasties musulmanes de l'Afrique Septentrionale De Ibn Khaldūn, William MacGuckin&lt;/ref&gt;&lt;ref&gt;{{cite book|url=http://books.google.fr/books?id=H3RBAAAAIAAJ&amp;pg=PR2&amp;dq=in+khaldoun#PPR15,M1 |title=Histoire des Berbères et des dynasties musulmanes de l'Afrique Septentrionale Par Ibn Khaldūn, William MacGuckin Slane |language=French |pages=XV |publisher=|date=|accessdate=2009-02-28}}&lt;/ref&gt; Several Berber dynasties emerged during the Middle Ages.&lt;ref name=&quot;William MacGuckin&quot;/&gt;&lt;ref&gt;{{cite web|url=http://books.google.fr/books?id=H3RBAAAAIAAJ&amp;pg=PR115&amp;dq=ibn+khaldoun#PPR10,M1 |title=Histoire des Berbères et des dynasties musulmanes de l'Afrique Septentrionale Par Ibn Khaldūn, William MacGuckin Slane |language=French |pages=X |publisher=|date=|accessdate=2009-02-28}}&lt;/ref&gt;
+
+===Arrival of Islam ===
+[[Image:Grande mosquée d'Alger.jpg|thumb|left|Great Mosque of Algiers]] 
+After the waves of Muslim Arab armies that conquered Algeria from its former Berber rulers and the rule of the Umayyid Arab Dynasty fell, numerous dynasties emerged thereafter. Amongst those dynasties are the [Almohads], [Almoravids], Fatimids of Egypt and Abdelwadids. Having converted the [[Kutama]] of [[Kabylie]] to its cause, the [[Shia Islam|Shia]] [[Fatimid]]s overthrew the [[Rustamid]]s, and conquered Egypt, leaving Algeria and Tunisia to their Zirid vassals. When the latter rebelled, the Shia Fatimids sent in the [[Banu Hilal]], a populous Arab tribe, to weaken them. This continued the influx of Arabs into the region since numerous other tribes then migrated with the Banu Hilal such as Banu Sulaym, Banu Muqal, Banu Jashm, Banu Khalt, and others.&lt;ref&gt;History of Ibn Khaldun&lt;/ref&gt;
+
+===Ottoman rule===
+{{Unbalanced|date=July 2009}}
+In the beginning of the 16th century, after the completion of the [[Reconquista]], the [[Spanish Empire]] attacked the Algerian coastal area and committed many massacres against the civilian population (“about 4000 in Oran and 4100 in Béjaïa). They took control of [[Mers El Kébir]] in 1505, [[Oran]] in 1509, [[Béjaïa]] in 1510, Tenes, Mostaganem, Cherchell and Dellys in 1511, and finally Algiers in 1512.
+On 15 January 1510 the King of Algiers, Samis El Phillipe, was forced into submission to the king of Spain; the Spanish Empire turned the Algerian population to subservients. King El Phillipe called for help from the [[corsairs]] Barberous brothers [[Hayreddin Barbarossa]] and [[Oruç Reis]] who previously helped [[Andalousia]]n Muslims and Jews to escape from the Spanish oppression in [[1492]].
+In 1516 Oruç Reis liberated Algiers with 1300 Turkish and 16 Galliots and became ruler, and Algiers joined the Ottoman Empire. After his death in 1518, his brother [[Hayreddin Barbarossa]] succeeded him, the Sultan [[Selim I]] sent him 6000 soldiers and 2000 janissary with which he liberated most of the Algerian territory taken by the Spanish, from Annaba to Mostaganem. Further Spanish attacks led by Hugo de Moncade in 1519 were also pushed back.
+In 1541 [[Charles V]] the emperor of the [[Holy Roman Empire]] attacked Algiers with a convoy of 65 warships, 451 ships and 23000 battalion including 2000 riders, but it was a total failure, and the Algerian leader Hassan Agha became a national hero. Algiers then became a great military power.
+
+Algeria was made part of the [[Ottoman Empire]] by [[Barbaros Hayreddin Pasa]] and his brother Aruj in 1517. They established Algeria's modern boundaries in the north and made its coast a base for the [[Barbary pirate|Ottoman corsairs]]; their [[privateer]]ing peaking in Algiers in the 1600s. Piracy on [[United States|American]] vessels in the Mediterranean resulted in the [[First Barbary War|First]] (1801–1805) and [[Second Barbary War]]s (1815) with the United States. The pirates forced the people on the ships they captured into [[slavery]]; additionally when the pirates attacked coastal villages in southern and Western Europe the inhabitants were forced into [[Arab slave trade|slavery]].&lt;ref&gt;[http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/history/American_and_Military/Barbary_Pirates/Britannica_1911*.html Barbary Pirates — Encyclopaedia Britannica, 1911]&lt;/ref&gt;
+[[Image:MoorishAmbassador to Elizabeth I.jpg|thumb|The Moorish ambassador of the Barbary States to the Court of Queen [[Elizabeth I of England]].]]
+The Barbary pirates, also sometimes called [[History of the Turkish Navy#Famous admirals|Ottoman corsairs]] or the Marine Jihad (الجهاد البحري), were Muslim pirates and privateers that operated from North Africa, from the time of the [[Crusades]] until the early 19th century. Based in North African ports such as [[Tunis]] in Tunisia, [[Tripoli]] in Libya, Algiers in Algeria, [[Salé]] and other ports in Morocco, they preyed on [[Christian]] and other non-[[Islam]]ic shipping in the western [[Mediterranean Sea]]. Their stronghold was along the stretch of northern Africa known as the [[Barbary Coast]] (a medieval term for the [[Maghreb]] after its [[Berber people|Berber]] inhabitants), but their predation was said to extend throughout the Mediterranean, south along [[West Africa]]'s Atlantic seaboard, and into the [[Atlantic Ocean|North Atlantic]] as far north as [[Iceland]] and the United States. They often made raids, called ''[[Razzia]]s'', on European coastal towns to capture Christian slaves to sell at [[Islam and slavery#Oriental slave trade|slave markets]] in places such as [[Turkey]], [[Egypt]], [[Iran]], Algeria and Morocco.&lt;ref&gt;{{cite web |url=http://www.bbc.co.uk/history/british/empire_seapower/white_slaves_02.shtml |title=British Slaves on the Barbary Coast}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.city-journal.org/html/17_2_urbanities-thomas_jefferson.html |title=Jefferson Versus the Muslim Pirates by Christopher Hitchens, City Journal Spring 2007}}&lt;/ref&gt; According to Robert Davis, from the 16th to 19th century, pirates captured 1 million to 1.25 million [[Europe]]ans as slaves. These slaves were captured mainly from seaside villages in [[Italy]], [[Spain]] and [[Portugal]], and from farther places like [[France]] or [[England]], [[Ireland]], the [[Netherlands]], [[Germany]], [[Poland]], [[Russia]], [[Scandinavia]] and even [[Iceland]], [[India]], [[Southeast Asia]] and North America.
+
+The impact of these [[List of Ottoman sieges and landings|attacks]] was devastating – France, England, and [[Spain]] each lost thousands of ships, and long stretches of coast in Spain and Italy were almost completely abandoned by their inhabitants. Pirate raids discouraged settlement along the coast until the 19th century.
+[[Image:Barbarossa Hayreddin Pasha.jpg|left|thumb|[[Barbarossa Hayreddin Pasha]].]]
+The most famous corsairs were the Ottoman ''[[Barbarossa]]'' (&quot;Redbeard&quot;) brothers — [[Hayreddin Barbarossa|Hayreddin (Hızır)]] and his older brother Oruç Reis — who took control of Algiers in the early 16th century and turned it into the centre of Mediterranean piracy and privateering for three centuries, as well as establishing the [[Ottoman Empire]]'s presence in North Africa which lasted four centuries. Other famous Ottoman privateer-admirals included [[Turgut Reis]] (known as [[Dragut]] in the West), [[Kurtoğlu Muslihiddin Reis|Kurtoğlu]] (known as [[Kurtoğlu Muslihiddin Reis|Curtogoli]] in the West), [[Kemal Reis]], [[Salih Reis]], [[Nemdil Reis]] and [[Murat Reis the Older|Koca Murat Reis]]. Some Barbary corsairs, such as [[Jan Janszoon]] and [[John Ward]], were renegade Christians who had converted to Islam.
+
+In 1544, Hayreddin captured the island of [[Ischia]], taking 4,000 prisoners, and enslaved some 9,000 inhabitants of [[Lipari]], almost the entire population.&lt;ref&gt;{{cite web |url=http://www.iht.com/articles/2003/09/26/trsic_ed3_.php |title=The mysteries and majesties of the Aeolian Islands}}&lt;/ref&gt; In 1551, [[Turgut Reis]] enslaved the entire population of the Maltese island [[Gozo]], between 5,000 and 6,000, sending them to Libya. In 1554, pirates sacked [[Vieste]] in southern Italy and took an estimated 7,000 slaves.&lt;ref&gt;{{cite web |url=http://www.centrovacanzeoriente.it/cvoriente/en/dintorni.jsp |title=Vieste}}&lt;/ref&gt; In 1555, Turgut Reis sacked [[Bastia]], [[Corsica]], taking 6000 prisoners. In 1558, Barbary corsairs captured the town of [[Ciutadella]] (Minorca), destroyed it, slaughtered the inhabitants and took 3,000 survivors to [[Istanbul]] as slaves.&lt;ref&gt;{{cite web |url=http://www.holidays2menorca.com/history.php |title=History of Menorca}}&lt;/ref&gt; In 1563, Turgut Reis landed on the shores of the province of [[Granada]], Spain, and captured coastal settlements in the area, such as [[Almuñécar]], along with 4,000 prisoners. Barbary pirates often attacked the [[Balearic Islands]], and in response many coastal watchtowers and fortified [[church (building)|churches]] were erected. The threat was so severe that the island of [[Formentera]] became uninhabited.&lt;ref&gt;{{cite web |url=http://researchnews.osu.edu/archive/whtslav.htm |title=''When Europeans were slaves: Research suggests white slavery was much more common than previously believed''}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.elbacomunico.com/inglese/pirates.htm |title=Watch-towers and fortified towns}}&lt;/ref&gt;
+
+From 1609 to 1616, [[England]] lost 466 merchant ships to Barbary pirates.&lt;ref&gt;Rees Davies, [http://www.bbc.co.uk/history/british/empire_seapower/white_slaves_01.shtml British Slaves on the Barbary Coast], [[BBC]], 1 July 2003&lt;/ref&gt; In the 19th century, Barbary pirates would capture ships and enslave the crew. Latterly American ships were attacked. During this period, the pirates forged affiliations with Caribbean powers, paying a &quot;license tax&quot; in exchange for safe harbor of their vessels.&lt;ref&gt;Mackie, Erin Skye, Welcome the Outlaw: Pirates, Maroons, and Caribbean Countercultures Cultural Critique - 59, Winter 2005, pp. 24–62&lt;/ref&gt; One American slave reported that the Algerians had enslaved 130 American seamen in the Mediterranean and Atlantic from 1785 to 1793.&lt;ref&gt;{{cite web |url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/history/American_and_Military/Barbary_Pirates/Britannica_1911*.html |title=Barbary Pirates - Encyclopedia Britannica}}&lt;/ref&gt;
+
+===French rule===
+{{main|French rule in Algeria}}
+ [[Image:Constantine Algerien 002.jpg|thumb|left|250px|Constantine, Algeria 1840]]
+On the pretext of a slight to their consul, the French invaded Algiers in 1830.&lt;ref&gt;{{cite book |author=Alistair Horne, |title=A Savage War of Peace: Algeria 1954–1962 (New York Review Books Classics) |publisher=NYRB Classics |location=1755 Broadway, New York, NY 10019 |year=2006 |pages=29–30 |isbn=1-59017-218-3}}&lt;/ref&gt; The conquest of Algeria by the French was long and particularly violent, and it resulted in the disappearance of about a third of the Algerian population.&lt;ref&gt;{{fr icon}} - [http://gallica.bnf.fr/ark:/12148/bpt6k103772b http://gallica.bnf.fr/], La démographie figurée de l'Algérie, op.cit., p.260 et 261.&lt;/ref&gt;
+
+Between 1830 and 1847 50,000 French people had emigrated to Algeria,&lt;ref&gt;'France - Republic, Monarchy, and Empire' By Keith Randell&lt;/ref&gt; but the conquest was slow due to intense resistance from such people as [[Emir Abdelkader]], [[Ahmed Bey]] and [[Lalla Fatma N'Soumer|Fatma N'Soumer]]. Indeed, the conquest was not technically complete until the early 1900s when the last [[Tuareg]] were conquered by General Guilain P. Denoeux.
+
+[[Image:Mairie d oran.JPG|thumb|300px|Oran, Algeria]]
+Meanwhile, however, the French made Algeria an integral part of France, a status that would end only with the collapse of the [[French Fourth Republic|Fourth Republic]] in 1958. Tens of thousands of settlers from France, Spain, [[Italy]], and [[Malta]] moved in to farm the Algerian coastal plain and occupied significant parts of Algeria's cities. These settlers benefited from the French government's confiscation of communal land, and the application of modern agricultural techniques that increased the amount of arable land.&lt;ref&gt;{{cite book |author=Alistair Horne, |title=A Savage War of Peace: Algeria 1954–1962 (New York Review Books Classics) |publisher=NYRB Classics |location=1755 Broadway, New York, NY 10019 |year=2006 |isbn=1-59017-218-3 |oclc=|doi=|page=32}}&lt;/ref&gt; Algeria's social fabric suffered during the occupation: literacy plummeted,&lt;ref&gt;{{cite web|url=http://www.country-data.com/cgi-bin/query/r-365.html |title=Country Data |publisher=Country-data.com |date=|accessdate=2008-11-24}}&lt;/ref&gt; while land development uprooted much of the population.
+
+Starting from the end of the 19th century, people of European descent in Algeria (or natives like [[Spanish people]] in [[Oran]]), as well as the native Algerian [[Jew]]s (typically [[Sephardic]] in origin), became full French citizens. After Algeria's 1962 independence, they were called ''[[pied-noir|Pieds-Noirs]]''; (&quot;Pieds Noirs&quot; meaning &quot;black feet&quot;, referring to the black shoes the Europeans wore on their feet). In contrast, the vast majority of [[Muslim]] Algerians (even veterans of the French army) received neither French citizenship nor the right to vote.&lt;ref&gt;http://www.scribd.com/doc/292797/Algeria&lt;/ref&gt;
+
+===Post-independence===
+In 1954, the [[National Liberation Front (Algeria)|National Liberation Front]] (FLN) launched the [[Algerian War of Independence]] which was a [[guerrilla warfare|guerrilla]] campaign. By the end of the war, newly elected [[President of France|President]] [[Charles de Gaulle]], understanding that the age of empires was ending, held a [[referendum|plebiscite]], offering Algerians three options. In a famous speech (4 June 1958 in Algiers) de Gaulle proclaimed in front of a vast crowd of Pieds-Noirs &quot;Je vous ai compris&quot; (I have understood you). Most Pieds-noirs then believed that de Gaulle meant that Algeria would remain French. The poll resulted in a landslide vote for complete independence from France. Over one million people, 10% of the population, then fled the country for France and in just a few months in mid-1962. These included most of the 1,025,000 ''Pieds-Noirs'', as well as 81,000 ''[[Harki]]s'' (pro-French Algerians serving in the French Army). In the days preceding the bloody conflict, a group of Algerian Rebels opened fire on a marketplace in Oran killing numerous innocent civilians, mostly women. 
+
+[[Image:Algeri04.jpg|thumb|upright|Cosmopolitan Algiers]]
+Algeria's first president was the FLN leader [[Ahmed Ben Bella]]. He was overthrown by his former ally and defence minister, [[Houari Boumédienne]] in 1965. Under Ben Bella the government had already become increasingly [[socialism|socialist]] and [[Authoritarianism|authoritarian]], and this trend continued throughout Boumédienne's government. However, Boumédienne relied much more heavily on the army, and reduced the sole legal party to a merely symbolic role. [[Agriculture]] was [[collective farming|collectivised]], and a massive [[industrialization]] drive launched. [[Oil]] extraction facilities were nationalized. This was especially beneficial to the leadership after the [[1973 oil crisis]]. However, the Algerian economy became increasingly dependent on oil which led to hardship when the price collapsed during the [[1980s oil glut]].
+
+In foreign policy, while Algeria shares much of its history and cultural heritage with neighbouring Morocco, the two countries have had somewhat hostile relations with each other ever since Algeria's independence. Reasons for this include Morocco's disputed claim to [[Greater Morocco|portions of western Algeria]] (which led to the [[Sand War]] in 1963), Algeria's support for the [[Polisario Front]] for its right to [[self-determination]], and Algeria's hosting of [[Sahrawi]] refugees within its borders in the city of [[Tindouf]].
+
+Within Algeria, dissent was rarely tolerated, and the state's control over the [[Mass media|media]] and the outlawing of political parties other than the FLN was cemented in the repressive constitution of 1976.
+
+Boumédienne died in 1978, but the rule of his successor, [[Chadli Bendjedid]], was little more open. The state took on a strongly [[bureaucratic]] character and [[Political corruption|corruption]] was widespread.
+
+The modernization drive brought considerable [[demography|demographic]] changes to Algeria. Village traditions underwent significant change as [[urbanization]] increased. New industries emerged and agricultural employment was substantially reduced. [[Education]] was extended nationwide, raising the [[literacy]] rate from less than 10% to over 60%. There was a dramatic increase in the [[fertility rate]] to 7–8 children per mother.
+
+Therefore by 1980, there was a very youthful population and a housing crisis. The new generation struggled to relate to the cultural obsession with the war years and two conflicting protest movements developed: communists, including Berber identity movements; and Islamic 'intégristes'. Both groups protested against [[one-party rule]] but also clashed with each other in universities and on the streets during the 1980s. Mass protests from both camps in autumn 1988 forced Bendjedid to concede the end of one-party rule. Elections were planned to happen in 1991.
+In December 1991, the [[Islamic Salvation Front]] won the [[Algerian National Assembly elections, 1991|first round]] of the country's first multi-party elections. The military then intervened and cancelled the second round. It forced then-president Bendjedid to resign and banned all political parties based on religion (including the Islamic Salvation Front). A political conflict ensued, leading Algeria into the violent [[Algerian Civil War]].
+More than 160,000 people were killed between 17 January 1992 and June 2002. Most of the deaths were between militants and government troops, but a great number of civilians were also killed. The question of who was responsible for these deaths was controversial at the time amongst academic observers; many were claimed by the [[Armed Islamic Group]]. Though many of these massacres were carried out by Islamic extremists, the Algerian regime also used the army and foreign mercenaries to conduct attacks on men, women and children and then proceeded to blame the attacks upon various Islamic groups within the country.&lt;ref&gt;[http://www.khilafah.com/kcom/analysis/africa/an-overview-of-recent-events-in-algeria.html Khilafah - An overview of recent events in Algeria]{{Dead link|date=November 2008}}&lt;/ref&gt;
+[[Image:Algiers coast.jpg|thumb|left|240px|Algiers]]
+Elections resumed in 1995, and after 1998, the war waned. On 27 April 1999, after a series of short-term leaders representing the [[military]], [[Abdelaziz Bouteflika]], the current president, was elected.&lt;ref&gt;[http://www.arab.de/arabinfo/algehis.htm Arabic German Consulting] www.Arab.de . Retrieved 4 April 2006.&lt;/ref&gt;
+
+By 2002, the main guerrilla groups had either been destroyed or surrendered, taking advantage of an [[amnesty]] program, though sporadic fighting continued in some areas (See [[Islamic insurgency in Algeria (2002–present)]]).
+
+The issue of [[Amazigh languages]] and identity increased in significance, particularly after the extensive [[Kabyle people|Kabyle]] protests of 2001 and the near-total boycott of local elections in [[Kabylie]]. The government responded with concessions including naming of Tamazight (Berber) as a national language and teaching it in schools.
+
+Much of Algeria is now recovering and developing into an [[emerging economy]]. The high prices of oil and [[gas]] are being used by the new government to improve the country's [[infrastructure]] and especially improve [[industry]] and agricultural land. Recently, overseas investment in Algeria has increased.{{Citation needed|date=January 2008}}
+
+==Geography==
+{{main|Geography of Algeria}}
+[[Image:Algeria Topography.png|thumb|300px|Topographic map of Algeria]]
+Most of the coastal area is hilly, sometimes even mountainous, and there are a few natural [[harbour]]s. The area from the coast to the [[Tell Atlas]] is fertile. South of the Tell Atlas is a [[steppe]] landscape, which ends with the [[Saharan Atlas]]; further south, there is the [[Sahara]] desert. The [[Ahaggar Mountains]] ({{lang-ar|جبال هقار}}), also known as the Hoggar, are a highland region in central Sahara, southern Algeria. They are located about {{convert|1500|km|0|abbr=on}} south of the capital, Algiers and just west of [[Tamanghasset]]. 
+
+Algiers, [[Oran]], [[Constantine, Algeria|Constantine]], and [[Annaba]] are Algeria's main cities.
+
+===Tropic of Cancer in the torrid zone===
+In this region even in winter, midday desert temperatures can be very hot. After sunset, however, the clear, dry air permits rapid loss of heat, and the nights are cool to chilly. Enormous daily ranges in temperature are recorded.
+
+The highest temperature recorded in [[Tiguentour]] is 140.9 °F (60.5 °C) and is probably the highest reliable temperature ever recorded in Algeria under standard conditions.{{Citation needed|date=March 2009}}
+
+Rainfall is fairly abundant along the coastal part of the Tell Atlas, ranging from 400 to {{convert|670|mm|0|abbr=on}} annually, the amount of precipitation increasing from west to east. [[Precipitation (meteorology)|Precipitation]] is heaviest in the northern part of eastern Algeria, where it reaches as much as {{convert|1000|mm|0|abbr=on}} in some years. Farther inland, the rainfall is less plentiful. [[Prevailing winds]] that are easterly and north-easterly in summer change to westerly and northerly in winter and carry with them a general increase in precipitation from September through December, a decrease in the late winter and spring months, and a near absence of rainfall during the summer months. Algeria also has [[Erg (landform)|ergs]], or sand dunes between mountains, which in the summer time when winds are heavy and gusty, temperatures can get up to {{convert|110|°F|°C|abbr=on}}.
+
+==Politics ==
+{{main|Politics of Algeria}}
+ [[Image:President-abdelaziz-bouteflika.JPG|thumb|150px|Abdelaziz Bouteflika, President of Algeria]]
+The head of state is the [[President of Algeria]], who is elected for a five-year term. The president, as of a constitutional amendment passed by the Parliament on November 11, 2008, is not limited to any term length.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/africa/7724635.stm |title=BBC NEWS &amp;#124; Africa &amp;#124; Algeria deputies scrap term limit |publisher=News.bbc.co.uk |date=November 12, 2008 |accessdate=2008-11-24}}&lt;/ref&gt; Algeria has universal [[suffrage]] at 18 years of age.&lt;ref name=cia/&gt; The President is the head of the Council of Ministers and of the High Security Council. He appoints the [[Prime Minister of Algeria|Prime Minister]] who is also the head of government. The Prime Minister appoints the Council of Ministers.
+
+The Algerian [[parliament]] is [[bicameral]], consisting of a lower chamber, the ''National People's Assembly (APN)'', with 380 members; and an upper chamber, the ''Council Of Nation'', with 144 members. The APN is elected every five years.
+
+Under the 1976 [[constitution]] (as modified 1979, and amended in 1988, 1989, and 1996) Algeria is a multi-party state. The Ministry of the Interior must approve all parties. To date, Algeria has had more than 40 legal political parties. According to the constitution, no political association may be formed if it is &quot;based on differences in religion, language, race, gender or region.&quot;
+
+==Foreign relations and military==
+{{main|Foreign relations of Algeria|Military of Algeria}}
+ [[Image:ANP.gif|50px|left]]
+ [[Image:Corvette algérienne.jpg|thumb|''Djebel Chenoua'' class corvette ''El Kirch'' (353) built by ECRN in [[Mers-el-Kebir]] and operated by the Algerian National Navy]]
+The military of Algeria consists of the [[People's National Army]] (ANP), the [[Algerian National Navy]] (MRA), and the [[Algerian Air Force]] (QJJ), plus the Territorial Air Defense Force.&lt;ref name=&quot;cia&quot;/&gt; It is the direct successor of the [[Armée de Libération Nationale]] (ALN), the armed wing of the nationalist National Liberation Front, which fought French colonial [[military occupation|occupation]] during the Algerian War of Independence (1954–62). The commander-in-chief of the military is the president, who is also Minister of National Defense. Total personnel includes 147,000 active, 150,000 reserve, and 187,000 paramilitary staff (2008 estimate).&lt;ref name=IISS_TMB&gt;{{cite book |title=The Military Balance 2008 |author=Hackett, James (ed.)|others=International Institute for Strategic Studies |date=5 February 2008|publisher=Europa |isbn=978-1857434613| url=http://www.zawya.com/printstory.cfm?storyid=v51n20-1TS05&amp;l=134200080519|accessdate=2008-07-16}} &lt;/ref&gt; Service in the military is compulsory for men aged 19–30, for a total of eighteen months (six training and twelve in civil projects).&lt;ref name=&quot;cia&quot;/&gt; The total military expenditure in 2006 was estimated variously at 2.7% of GDP (3,096 million),&lt;ref name=IISS_TMB/&gt; or 3.3% of GDP.&lt;ref name=&quot;cia&quot;/&gt;
+
+Algeria is a leading military power in North Africa and has its force oriented toward its western (Morocco) and eastern (Libya) borders. Its primary military supplier has been the former [[Soviet Union]], which has sold various types of sophisticated equipment under military trade agreements, and the [[People's Republic of China]]. Algeria has attempted, in recent years, to diversify its sources of military material. Military forces are supplemented by a 70,000-member [[gendarmerie]] or rural police force under the control of the president and 30,000-member ''Sûreté nationale'' or metropolitan [[police]] force under the Ministry of the Interior. 
+
+In 2007, the Algerian Air Force signed a deal with Russia to purchase 49 [[MiG-29]]SMT and 6 MiG-29UBT at an estimated $1.5 Billion. They also agreed to return old [[fixed-wing aircraft|aircraft]] purchased from the [[Former USSR]]. Russia is also building two [[Kilo class submarine|636-type]] diesel [[submarines]] for Algeria.&lt;ref&gt;{{cite web| url=http://www.breitbart.com/article.php?id=070614062644.0d1z4l69&amp;show_article=1| title=Venezuela's Chavez to finalise Russian submarines deal&quot;| publisher=Breitbart| date=[[2007-06-14]]| accessdate=2008-07-16}}&lt;/ref&gt;
+
+==Maghreb Union==
+Tensions between Algeria and Morocco in relation to the [[Western Sahara]] have put great obstacles in the way of tightening the [[Maghreb Union]] and the yearned ''Great Maghreb Sultanate'', which was nominally established in 1989 but carried little practical weight with its coastal neighbors.&lt;ref&gt;[http://www.arabicnews.com/ansub/Daily/Day/990219/1999021906.html Bin Ali calls for reactivating Arab Maghreb Union, Tunisia-Maghreb, Politics, 19 February 1999] www.arabicnews.com . Retrieved 4 April 2006.&lt;/ref&gt;
+
+==Provinces and districts ==
+{{main|Provinces of Algeria|Districts of Algeria|Municipalities of Algeria}}
+[[Image:Algeria wilayas.png|thumb|250px|left|Map of the provinces of Algeria numbered according to the official order]]
+Algeria is divided into 48 [[provinces of Algeria|provinces]] (''[[wilaya]]s''), 553 [[districts of Algeria|districts]] (''[[daïra]]s'') and 1,541 [[Municipalities of Algeria|municipalities]] (''[[baladiyah]]s''). Each province, district, and municipality is named after its [[Capital (political)|seat]], which is mostly also the largest city.
+According to the Algerian constitution, a province is ''a territorial collectivity enjoying some economic freedom''. The [[People's Provincial Assembly]] is the political entity governing a province, which has a &quot;president&quot;, who is elected by the members of the assembly. They are in turn elected on [[universal suffrage]] every five years. The &quot;[[Wāli#Algerian term|Wali]]&quot; ([[Prefect]] or [[governor]]) directs each province. This person is chosen by the Algerian President to handle the PPA's decisions.
+
+The administrative divisions have changed several times since independence. When introducing new provinces, the numbers of old provinces are kept, hence the non-alphabetical order. With their official numbers, currently (since 1983) they are:&lt;ref name=cia/&gt; 
+{| border=&quot;0&quot;
+|-
+|
+&lt;br/&gt;&lt;small&gt;1&lt;/small&gt; [[Adrar Province|Adrar]]
+&lt;br/&gt;&lt;small&gt;2&lt;/small&gt; [[Chlef Province|Chlef]]
+&lt;br/&gt;&lt;small&gt;3&lt;/small&gt; [[Laghouat Province|Laghouat]]
+&lt;br/&gt;&lt;small&gt;4&lt;/small&gt; [[Oum el-Bouaghi Province|Oum el-Bouaghi]]
+&lt;br/&gt;&lt;small&gt;5&lt;/small&gt; [[Batna Province|Batna]]
+&lt;br/&gt;&lt;small&gt;6&lt;/small&gt; [[Béjaïa Province|Béjaïa]]
+&lt;br/&gt;&lt;small&gt;7&lt;/small&gt; [[Biskra Province|Biskra]]
+&lt;br/&gt;&lt;small&gt;8&lt;/small&gt; [[Béchar Province|Béchar]]
+&lt;br/&gt;&lt;small&gt;9&lt;/small&gt; [[Blida Province|Blida]]
+&lt;br/&gt;&lt;small&gt;10&lt;/small&gt; [[Bouira Province|Bouira]]
+&lt;br/&gt;&lt;small&gt;11&lt;/small&gt; [[Tamanghasset Province|Tamanghasset]]
+&lt;br/&gt;&lt;small&gt;12&lt;/small&gt; [[Tébessa Province|Tébessa]]
+|
+&lt;br/&gt;&lt;small&gt;13&lt;/small&gt; [[Tlemcen Province|Tlemcen]]
+&lt;br/&gt;&lt;small&gt;14&lt;/small&gt; [[Tiaret Province|Tiaret]]
+&lt;br/&gt;&lt;small&gt;15&lt;/small&gt; [[Tizi Ouzou Province|Tizi Ouzou]]
+&lt;br/&gt;&lt;small&gt;16&lt;/small&gt; [[Algiers Province|Algiers]]
+&lt;br/&gt;&lt;small&gt;17&lt;/small&gt; [[Djelfa Province|Djelfa]]
+&lt;br/&gt;&lt;small&gt;18&lt;/small&gt; [[Jijel Province|Jijel]]
+&lt;br/&gt;&lt;small&gt;19&lt;/small&gt; [[Sétif Province|Sétif]]
+&lt;br/&gt;&lt;small&gt;20&lt;/small&gt; [[Saïda Province|Saïda]]
+&lt;br/&gt;&lt;small&gt;21&lt;/small&gt; [[Skikda Province|Skikda]]
+&lt;br/&gt;&lt;small&gt;22&lt;/small&gt; [[Sidi Bel Abbes Province|Sidi Bel Abbes]]
+&lt;br/&gt;&lt;small&gt;23&lt;/small&gt; [[Annaba Province|Annaba]]
+&lt;br/&gt;&lt;small&gt;24&lt;/small&gt; [[Guelma Province|Guelma]]
+|
+&lt;br/&gt;&lt;small&gt;25&lt;/small&gt; [[Constantine Province|Constantine]]
+&lt;br/&gt;&lt;small&gt;26&lt;/small&gt; [[Médéa Province|Médéa]]
+&lt;br/&gt;&lt;small&gt;27&lt;/small&gt; [[Mostaganem Province|Mostaganem]]
+&lt;br/&gt;&lt;small&gt;28&lt;/small&gt; [[M'Sila Province|M'Sila]]
+&lt;br/&gt;&lt;small&gt;29&lt;/small&gt; [[Mascara Province|Mascara]]
+&lt;br/&gt;&lt;small&gt;30&lt;/small&gt; [[Ouargla Province|Ouargla]]
+&lt;br/&gt;&lt;small&gt;31&lt;/small&gt; [[Oran Province|Oran]]
+&lt;br/&gt;&lt;small&gt;32&lt;/small&gt; [[El Bayadh Province|El Bayadh]]
+&lt;br/&gt;&lt;small&gt;33&lt;/small&gt; [[Illizi Province|Illizi]]
+&lt;br/&gt;&lt;small&gt;34&lt;/small&gt; [[Bordj Bou Arréridj Province|Bordj Bou Arréridj]]
+&lt;br/&gt;&lt;small&gt;35&lt;/small&gt; [[Boumerdès Province|Boumerdès]]
+&lt;br/&gt;&lt;small&gt;36&lt;/small&gt; [[El Tarf Province|El Tarf]]
+|
+&lt;br/&gt;&lt;small&gt;37&lt;/small&gt; [[Tindouf Province|Tindouf]]
+&lt;br/&gt;&lt;small&gt;38&lt;/small&gt; [[Tissemsilt Province|Tissemsilt]]
+&lt;br/&gt;&lt;small&gt;39&lt;/small&gt; [[El Oued Province|El Oued]]
+&lt;br/&gt;&lt;small&gt;40&lt;/small&gt; [[Khenchela Province|Khenchela]]
+&lt;br/&gt;&lt;small&gt;41&lt;/small&gt; [[Souk LA3RAYA Province|Souk Ahras]]
+&lt;br/&gt;&lt;small&gt;42&lt;/small&gt; [[Tipasa Province|Tipasa]]
+&lt;br/&gt;&lt;small&gt;43&lt;/small&gt; [[Mila Province|Mila]]
+&lt;br/&gt;&lt;small&gt;44&lt;/small&gt; [[Aïn Defla Province|Aïn Defla]]
+&lt;br/&gt;&lt;small&gt;45&lt;/small&gt; [[Naama Province|Naama]]
+&lt;br/&gt;&lt;small&gt;46&lt;/small&gt; [[Aïn Témouchent Province|Aïn Témouchent]]
+&lt;br/&gt;&lt;small&gt;47&lt;/small&gt; [[Ghardaïa Province|Ghardaïa]]
+&lt;br/&gt;&lt;small&gt;48&lt;/small&gt; [[Relizane Province|Relizane]]
+|}
+
+==Economy ==
+{{main|Economy of Algeria}}
+ [[Image:Ministerefinacealger.jpg|thumb|Ministry of Finance of Algeria]]
+The fossil fuels energy sector is the backbone of Algeria's economy, accounting for roughly 60% of budget revenues, 30% of [[Gross domestic product|GDP]], and over 95% of export earnings. The country ranks fourteenth in [[petroleum]] reserves, containing {{convert|11.8|Goilbbl|m3}} of proven oil reserves with estimates suggesting that the actual amount is even more. The U.S. [[Energy Information Administration]] reported that in 2005, Algeria had 160 trillion cubic feet (Tcf) of proven [[natural gas]] reserves (4,502 billion cubic metres)&lt;ref name=&quot;ciawfb&quot;&gt;[https://www.cia.gov/library/publications/the-world-factbook/rankorder/2179rank.html Retrieved 16 March 2009.]&lt;/ref&gt;, the eighth largest in the world.&lt;ref name=&quot;eia&quot;&gt;[http://www.eia.doe.gov/emeu/cabs/algeria.html Algeria Country Analysis Brief], EIA, March 2005. Retrieved 18 January 2007.&lt;/ref&gt;
+Algeria’s financial and economic indicators improved during the mid-1990s, in part because of policy reforms supported by the [[International Monetary Fund]] (IMF) and [[debt]] rescheduling from the [[Paris Club]]. Algeria’s finances in 2000 and 2001 benefited from an increase in [[oil]] prices and the government’s tight fiscal policy, leading to a large increase in the trade surplus, record highs in foreign exchange reserves, and reduction in [[foreign debt]].
+
+The government's continued efforts to diversify the economy by attracting foreign and domestic [[investment]] outside the energy sector have had little success in reducing high [[unemployment]] and improving living standards, however. In 2001, the government signed an Association Treaty with the [[European Union]] that will eventually lower tariffs and increase trade. In March 2006, Russia agreed to erase $4.74 billion of Algeria's [[Soviet Union|Soviet]]-era debt&lt;ref&gt;{{cite web|url=http://www.brtsis.com/ |title=Brtsis, brief on Russian defence, trade, security and energy |publisher=Brtsis.com |date=|accessdate=2008-11-24}}&lt;/ref&gt; during a visit by [[President of Russia|President]] [[Vladimir Putin]] to the country, the first by a Russian leader in half a century. In return, president [[Bouteflika]] agreed to buy $7.5 billion worth of combat planes, air-defense systems and other arms from Russia, according to the head of Russia's state arms exporter [[Rosoboronexport]].&lt;ref&gt; {{cite news |title=Russia agrees Algeria arms deal, writes off debt |publisher=Reuters |date=11 March 2006 |url=http://za.today.reuters.com/news/NewsArticle.aspx?type=businessNews&amp;storyID=2006-03-11T082958Z_01_BAN130523_RTRIDST_0_OZABS-ECONOMY-RUSSIA-ALGERIA-20060311.XML}}&lt;/ref&gt;&lt;ref&gt;{{fr icon}} {{cite news |title=La Russie efface la dette algérienne |publisher=Radio France International |date=10 March 2006 |url=http://www.rfi.fr/actufr/articles/075/article_42379.asp}}&lt;/ref&gt;
+
+Algeria also decided in 2006 to pay off its full $8bn (£4.3bn) debt to the [[Paris Club]] group of rich creditor nations before schedule. This will reduce the Algerian foreign debt to less than $5bn in the end of 2006. The [[Paris Club]] said the move reflected Algeria's economic recovery in recent years.
+
+==Agriculture ==
+Algeria has always been noted for the fertility of its soil. 25% of Algerians are employed in the agricultural sector.&lt;ref&gt;{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/AG.html |title=CIA factbook |publisher=Cia.gov |date=|accessdate=2008-11-24}}&lt;/ref&gt; 
+
+A considerable amount of [[cotton]] was grown at the time for the United States' [[American Civil War|Civil War]], but the industry declined afterwards. In the early years of the twentieth century efforts to extend the cultivation of the plant were renewed. A small amount of [[cotton]] is also grown in the southern oases. Large quantities of dwarf palm are cultivated for the leaves, the fibers of which resemble [[Mane (horse)|horsehair]]. The [[olive]] (both for its fruit and oil) and [[tobacco]] are cultivated with great success. 
+
+More than 7,500,000 acres (30,000&amp;nbsp;km&lt;sup&gt;2&lt;/sup&gt;) are devoted to the cultivation of [[cereal grain]]s. The [[Tell Atlas]] is the grain-growing land. During the time of French rule its productivity was increased substantially by the sinking of [[Artesian aquifer|artesian wells]] in districts which only required water to make them fertile. Of the crops raised, [[wheat]], [[barley]] and [[oat]]s are the principal cereals. A great variety of [[vegetable]]s and [[fruit]]s, especially [[citrus]] products, are exported. Algeria also exports [[fig]]s, [[date (fruit)|dates]], [[esparto|esparto grass]], and [[cork (material)|cork]]. It is the largest [[oat]] market in Africa. 
+
+Algeria is known for Bertolli's [[olive oil]] spread, although the spread has an Italian background.
+
+==Demographics ==
+{{main|Demographics of Algeria}}
+ [[Image:Algeria demography.png|thumb|Demographics of Algeria, Data of [[FAO]], year 2005; number of inhabitants in thousands.]]
+[[File:Mosquée-Constantine.jpg|thumb|The Islamic university inlcluding the Mosque of [[Emir Abdelkader]] in [[Constantine, Algeria|Constantine]]]]
+The population of Algeria is 35,190,000 (jan 2009 est.).&lt;ref name=cia/&gt;
+About 70% of Algerians live in the northern, coastal area; the minority who inhabit the [[Sahara]] are mainly concentrated in [[oasis|oases]], although some 1.5 million remain [[nomad]]ic or partly nomadic. Almost 30% of Algerians are under 15. Algeria has the fourth lowest [[List of countries and territories by fertility rate|fertility rate]] in the [[Greater Middle East]] after [[Cyprus]], [[Tunisia]], and [[Turkey]].
+
+99% of Algerians are classified ethnically as [[Berber people|Berber]] or [[Arab]] by unofficial sources and according to their native language, whether it is a predominantly Arab dialect or a predominantly Berber dialect (because all Algerian dialects are in fact an Arabic-Berber mix, none is pure Arabic or pure Berber), but this doesn't really reflect the real ancestry of Algerians, which is mostly a mixed ancestry made of Berber and different European and Middle Eastern populations that have invaded northwest Africa at different periods of history and mixed with its inhabitants; these groups include Arabs, Turks, Vandals, Phenicians, Romans, Greeks, Egyptians. Thusly, the spoken language bares no indication of the true ancestry of those who speak it.
+
+Europeans account for less than 1% of the population, inhabiting almost exclusively the largest metropolitan areas. However, during the colonial period there was a large (15.2% in 1962) European population, consisting primarily of [[French people]], in addition to [[Spaniards]] in the west of the country, [[Italians]] and [[Maltese people|Maltese]] in the east, and other Europeans in smaller numbers. Known as ''[[Pied-noir|pieds-noirs]]'', European colonists were concentrated on the coast and formed a majority of the population of [[Oran]] (60%) and important proportions in other large cities like [[Algiers]] and [[Annaba]]. Almost all of this population left during or immediately after the country's independence from France.
+
+Housing and medicine continue to be pressing problems in Algeria. Failing infrastructure and the continued influx of people from rural to urban areas has overtaxed both systems. According to the [[UNDP]], Algeria has one of the world's highest per housing unit occupancy rates for housing, and government officials have publicly stated that the country has an immediate shortfall of 1.5 million housing units.{{Citation needed|date=February 2008}}
+
+Women make up 70 percent of Algeria's lawyers and 60 percent of its judges. Women dominate medicine. Increasingly, women are contributing more to household income than men. Sixty percent of university students are women, according to university researchers.&lt;ref&gt;{{cite news|last=Slackman |first=Michael |url=http://www.nytimes.com/2007/05/26/world/africa/26algeria.html |title=A Quiet Revolution in Algeria: Gains by Women - New York Times |doi=Algeria |publisher=Nytimes.com |date=May 26, 2007 |accessdate=2008-11-24}}&lt;/ref&gt;
+
+It is estimated that 95,700 [[refugees]] and [[Right of asylum|asylum]]-seekers have sought refuge in Algeria. This includes roughly 90,000 from Morocco and 4,100 from former [[Palestine]].&lt;ref&gt;[U.S. Committee for Refugees and Immigrants. &quot;World Refugee Survey 2008.&quot; Available Online at: http://www.refugees.org/countryreports.aspx?id=2116. pp.34]&lt;/ref&gt; There are currently 35,000 [[Overseas Chinese|Chinese]] migrant workers in Algeria.&lt;ref&gt;[http://www.alertnet.org/thenews/newsdesk/L465838.htm Chinese, Algerians fight in Algiers - witnesses]. Reuters. August 4, 2009.&lt;/ref&gt;
+
+===Ethnic groups ===
+Ethnic composition of Algeria is mixed Arab and [[Berber people|Berber]]. No official figures can be given, because Algerian law forbids population censuses based on ethnic, religious and linguistic criteria. The Algerian representative for Human Rights, M. Semichi mentioned in 1993 that there were 13-14 million Berbers in Algeria, which would amount to nearly 60% (of a population estimated at that moment as 23 million);&lt;ref&gt;[http://www.unhchr.ch/tbs/doc.nsf/(Symbol)/CERD.C.SR.962.Fr?Opendocument United Nations, CERD, 1993]&lt;/ref&gt; he speaks about 7 million people in Kabylie, &quot;8-9 million in the Aurès, in the east of the country&quot; and 1 million in the south. The Aurès region has around 3 million or, if defined very broadly, up to 5 million inhabitants.&lt;ref&gt;[http://www.statoids.com/udz.html Official Algerian figures by Province]&lt;/ref&gt; 
+
+The Berber people, identified as speakers of a [[Berber language]], are divided into several groups, [[Kabyle people|Kabyle]] in the mountainous north-central area, [[Chaoui]] in the eastern [[Atlas Mountains]], [[Mozabite]]s in the [[M'zab]] valley, and [[Tuareg]] in the far south, while the Arab Algerians make up the rest of the country.
+
+===Languages ===
+{{main|Languages of Algeria}}
+[[Image:Kabylia-3lingual sign.jpg|thumb|180px|Trilingual welcome sign in the Isser Municipality (Boumerdès), written in [[Arabic language|Arabic]], [[Amazigh language|Amazigh]] ([[Tifinagh]]), and French, typical of Berber cities. Most of Algeria uses only Arabic and French signs.]]
+
+Arabic is spoken as a native language by 60% of the population; of these, over 65% speak [[Algerian Arabic]] and around 11% [[Hassaniya]].&lt;ref name=tlfq&gt;{{fr icon}} - [http://www.tlfq.ulaval.ca/AXL/AFRIQUE/algerie-1demo.htm http://www.tlfq.ulaval.ca/AXL/], [[Jacques Leclerc (linguiste)|Jacques Leclerc]], L’aménagement linguistique dans le monde. CIRAL (Centre international de recherche en aménagement linguistique)&lt;/ref&gt; Algerian Arabic is spoken as a second language by many Berbers. However, in the media and on official occasions the spoken language is [[Standard Arabic]].
+
+The Berbers (or [[Imazighen]]) speak one of the various dialects of [[Tamazight]] and add up to around 45% of the population.&lt;ref name=&quot;tlfq&quot;/&gt; Arabic remains Algeria's only [[official language]], although Tamazight has recently been recognized as a [[national language]].&lt;ref&gt;{{fr icon}} - [http://www.apn-dz.org/apn/french/constitution96/loi02_03.htm « Loi n° 02-03 portant révision constitutionnelle »], adopted on 10 April 2002.&lt;/ref&gt; 
+
+French is still the most widely studied [[foreign language]] in the country, and many Algerians speak it fluently, though it is usually not spoken in daily circumstances. Since [[independence]], the government has pursued a policy of linguistic Arabization of [[education]] and bureaucracy, with some success, although many [[university]] courses continue to be taught in French. Recently, schools have started to incorporate French into the curriculum as early as children start to learn Arabic. French is also used in media and commerce.
+
+===Religion===
+{{main|Religion in Algeria}}
+[[Image:NOTRE DAME D'AFRIQUE.ALGER.jpg|thumb|left|[[Notre Dame d'Afrique]] (Our Lady of Africa) - a Roman Catholic church that is the basilica of Algiers]]
+[[Islam]] is the predominant religion, followed by more than 95 percent of the country's population. This figure includes all these born in families considered of Muslim descent.
+Officially Algerians are Muslims at nearly 100%, however atheists or other kinds of non-believers are not counted in the statistics. 
+Nearly all Algerians belong to the Sunni Islam, with the exception of some 200,000 ibadis in the M'zab Valley in the region of [[Ghardaia]].&lt;ref&gt;[http://www.angelfire.com/az/rescon/mgcibadi.html Ibadis and Kharijis]&lt;/ref&gt;
+ 
+There are also some 400,000 [[Christian]]s in the country, among whom 40,000 [[Catholics]] and 230,000 to 350,000 [[Protestants]], according to the [[Protestant Church of Algeria]]'s leader Mustapha Krim. &lt;ref&gt;[http://www.topchretien.com/topinfo/view/40011/lalgerie-malmene-ses-chretiens.html Top Chrétien]&lt;/ref&gt;&lt;ref&gt;[http://www.vodeo.tv/4-33-5995-le-reveil-des-chretiens-d-algerie.html Vodeo TV]&lt;/ref&gt; 
+
+Algeria had an important Jewish community until the 1960s, but there is no active Jewish community today, although a very small number of [[Jew]]s continue to live in Algiers. &lt;ref&gt;[http://www.state.gov/g/drl/rls/irf/2007/90207.htm U.S. Department of State]&lt;/ref&gt;
+
+==Education ==
+{{main|Education in Algeria|List of universities in Algeria}}
+[[Image:Tasdawit n Bgayet 01.jpg|thumb|300px|Béjaïa University]]
+Education is officially compulsory for children between the ages of 6 and 15. In the year 1997, there was an outstanding amount of teachers and students in primary schools. 
+
+In Algeria there are 43 universities, 10 colleges, and 7 institutes for higher learning. The University of Algiers (founded in 1909) has about 267,142 students.&lt;ref&gt;{{cite web|url=http://www.nationsencyclopedia.com/Africa/Algeria-EDUCATION.html |title=Algeria - Education |publisher=Nationsencyclopedia.com |date=|accessdate=2008-11-24}}&lt;/ref&gt; The Algerian school system is structured into Basic, General Secondary, and Technical Secondary levels:
+; Basic: Ecole fondamentale (Fundamental School)&lt;br/&gt;Length of program: 9 years&lt;br/&gt;Age range: 6 to 15&lt;br/&gt;Certificate/diploma awarded: Brevet d'Enseignement Moyen B.E.M. 
+; General Secondary: Lycée d'Enseignement général (School of General Teaching), lycées polyvalents (General-Purpose School) &lt;br/&gt;Length of program: 3 years&lt;br/&gt;Age range: 15 to 18&lt;br/&gt;Certificate/diploma awarded: Baccalauréat de l'Enseignement secondaire &lt;br /&gt;(Bachelor's Degree of Secondary School)
+; Technical Secondary: Lycées d'Enseignement technique (Technical School)&lt;br/&gt;Length of program: 3 years&lt;br/&gt;Certificate/diploma awarded: Baccalauréat technique (Technical Bachelor's Degree)
+
+==Culture and Sports==
+{{main|Culture of Algeria|List of Algerian writers}}
+[[Image:Monument of the Martyrs 01 Algiers.jpg|thumb|left|The Monument of the Martyrs (Maqam a'chaheed) in Algiers]]
+[[Image:Khaled NYC Concert Feb 8 2002.jpg|thumb|200px|[[Cheb Khaled]]]]
+Modern Algerian literature, split between Arabic and French, has been strongly influenced by the country's recent history. [[List of Algerian writers|Famous novelists]] of the twentieth century include [[Mohammed Dib]], [[Albert Camus]], and [[Kateb Yacine]], while [[Assia Djebar]] is widely translated. Among the important novelists of the 1980s were [[Rachid Mimouni]], later vice-president of Amnesty International, and [[Tahar Djaout]], murdered by an [[Islamist]] group in 1993 for his secularist views.&lt;ref&gt;[http://www.frenchpubagency.com/?fuseaction=people.main&amp;pid=517 Tahar Djaout] French Publishers' Agency and France Edition, Inc. . Retrieved 4 April 2006.&lt;/ref&gt; 
+In philosophy and the humanities, [[Jacques Derrida]], the father of [[deconstruction]], was born in [[El Biar]] in Algiers; [[Malek Bennabi]] and [[Frantz Fanon]] are noted for their thoughts on [[decolonization]]; [[Augustine of Hippo]] was born in [[Tagaste]] (modern-day [[Souk Ahras]]); and [[Ibn Khaldun]], though born in [[Tunis]], wrote the [[Muqaddima]] while staying in Algeria.
+Algerian culture has been strongly influenced by [[Islam in Algeria|Islam]], the main religion. The works of the [[Sanusi]] family in pre-colonial times, and of Emir [[Abdelkader]] and Sheikh [[Ben Badis]] in colonial times, are widely noted. The Latin author [[Apuleius]] was born in [[Madaurus]] (Mdaourouch), in what later became Algeria.
+
+In painting, [[Mohammed Khadda]]&lt;ref&gt;[http://www.khadda.com/ Mohammed Khadda] official site. Retrieved 4 April 2006.&lt;/ref&gt; and [[M'Hamed Issiakhem]] have been notable in recent years.
+
+[[Image:Karim Ziani 3.jpg|thumb|200px|[[Karim Ziani]]]]
+The most popular sports in the country are [[Association football|football]], athletics and handball. One of the biggest events in Algerian sports was the 1982 national football team's defeat of [[West Germany]] in [[Gijon, Spain]] by a goal from [[Lakhdar Belloumi]]. But because of conflicts, and the poor conditions in Algeria through the 1990s and continuing in some areas of the country today many athletes have left Algeria for countries they could earn more in, usually France. Retired football great [[Zinedine Zidane]] as well as young prodigies [[Karim Benzema]], [[Hatem Ben Arfa]] and [[Samir Nasri]] are all second-generation Algerian immigrants but born in France.
+In athletics, Algeria has produced several world champions including [[Noureddine Morceli]], [[Hassiba Boulmerka]], [[Jabir-Said Guerni]], and [[Benida Berrah]]. 
+
+==Landscapes and monuments of Algeria ==
+&lt;center&gt;
+&lt;gallery&gt;
+Image:Chrea-Algeria.jpg |Mountain of [[Chréa]] near the city of [[Blida]] (north).
+Image:Alger-night.jpg | street of Zighout Youcef in Algiers (north)
+
+Image:Timgad10.JPG | Roman ruins of [[Timgad]] (north-eastern)
+Image:Oran - Algeria.jpg | Place of 1 November in the city of Oran(north-western)
+
+Image:Bejaïa-littoral.JPG | Tichy's beach in [[Bejaïa]] (north).
+Image:Pont suspendu-constantine-Algeria.jpg| Hanging bridge of the city of [[Constantine, Algeria|Constantine]] 
+Image:Algérie-El Kantara.jpg | El-Kantara in [[Biskra]] (south).
+
+&lt;/gallery&gt;
+&lt;/center&gt;
+
+==UNESCO World Heritage Sites in Algeria==
+There are several [[UNESCO]] [[World Heritage Sites]] in Algeria including [[Al Qal'a of Beni Hammad]], the first capital of the [[Hammadid]] empire; [[Tipasa]], a Phoenician and later Roman town; and [[Djémila]] and [[Timgad]], both [[Ancient Rome|Roman]] ruins; [[M'Zab Valley]], a limestone valley containing a large urbanized [[oasis]]; also the [[Casbah]] of Algiers is an important citadel. The only natural [[World Heritage Sites]] is the [[Tassili n'Ajjer]], a mountain range.
+
+==See also==
+{{portal|Algeria|Flag_of Algeria.svg}}
+{{main|Outline of Algeria|Index of Algeria-related articles}}
+
+==References==
+{{reflist|2}}
+
+==Bibliography==
+* Ageron, Charles-Robert (1991). ''Modern Algeria. A History from 1830 to the Present''. Translated from French and edited by Michael Brett. London: Hurst. ISBN 086543266X.
+* Aghrout, Ahmed and Bougherira, Redha M. (2004). ''Algeria in Transition: Reforms and Development Prospects''. Routledge. ISBN 041534848X
+* Bennoune, Mahfoud (1988). ''The Making of Contemporary Algeria: Colonial Upheavals and Post-Independence Development, 1830–1987''. Cambridge U.K.: Cambridge University Press. ISBN 0521301505.
+* [[Frantz Fanon|Fanon, Frantz]] (1966). ''The Wretched of the Earth''. Grove Press. ASIN B0007FW4AW, ISBN 0802141323 (2005 paperback).
+* [[Alistair Horne|Horne, Alistair]] (1977). ''A Savage War of Peace: Algeria 1954–1962''. Viking Adult. ISBN 0670619647, ISBN 1-59017-218-3 (2006 reprint)
+* Roberts, Hugh (2003). ''The Battlefield: Algeria, 1988–2002. Studies in a Broken Polity''. London: Verso. ISBN 185984684X.
+* Ruedy, John (1992). ''Modern Algeria: The Origins and Development of a Nation''. Bloomington: Indiana University Press. ISBN 0253349982.
+* Stora, Benjamin (2001). ''Algeria, 1830–2000. A Short History''. Ithaca, NY: Cornell University Press. ISBN 0801437156.
+
+==External links==
+{{sisterlinks|Algeria}}
+;Government
+*[http://www.el-mouradia.dz El Mouradia official presidential site] (in French and Arabic)
+*[http://www.apn-dz.org/apn/english/index.htm National People's Assembly] official parliamentary site
+*[https://www.cia.gov/library/publications/world-leaders-1/world-leaders-a/algeria.html Chief of State and Cabinet Members]
+;General information
+*{{CIA World Factbook link|ag|Algeria}}
+*[http://ucblibraries.colorado.edu/govpubs/for/algeria.htm Algeria] from ''UCB Libraries GovPubs''
+*{{dmoz|Regional/Africa/Algeria}}
+*{{wikiatlas|Algeria}}
+*{{wikitravel}}
+*[http://www.matet.dz/ Ministère de l'Aménagement du Territoire, de l'Environnement et du Tourisme ]
+*[http://www.africa.it/algeria/mappa.asp Map of Algeria]
+
+{{Template group
+|list =
+{{Algeria topics}}
+}}
+{{Template group
+|title=Geographic locale
+|list =
+{{Countries of North Africa}}
+{{Countries and territories bordering the Mediterranean Sea}}
+{{Countries and territories of the Middle East}}
+}}
+{{Template group
+|title=International membership
+|list =
+{{Member_states_of_the_Arab_Maghreb_Union}}
+{{Arab League}}
+{{African Union (AU)}}
+{{Organization of the Islamic Conference (OIC)|state=collapsed}}
+{{G15 nations}}
+}}
+{{Template group
+|title=Languages
+|list =
+{{Afro-Asiatic-speaking nations}}
+}}
+
+[[Category:Algeria| ]]
+[[Category:Arabic-speaking countries]]
+[[Category:African Union member states]]
+[[Category:Arab League member states]]
+[[Category:G15 nations]]
+[[Category:Organisation of the Islamic Conference members]]
+[[Category:OPEC member states]]
+[[Category:Requests for audio pronunciation (Arabic)]]
+[[Category:Requests for audio pronunciation (Berber)]]
+[[Category:States and territories established in 1962]]
+
+[[af:Algerië]]
+[[als:Algerien]]
+[[am:አልጄሪያ]]
+[[ang:Algeria]]
+[[ar:الجزائر]]
+[[an:Alcheria]]
+[[arc:ܓܙܐܝܪ]]
+[[frp:Alg·èrie]]
+[[ast:Arxelia]]
+[[az:Əlcəzair]]
+[[bm:Aljeri]]
+[[bn:আলজেরিয়া]]
+[[zh-min-nan:Algeria]]
+[[be:Алжыр]]
+[[bcl:Algerya]]
+[[bo:ཨར་གེ་རི་ཡ]]
+[[bs:Alžir]]
+[[br:Aljeria]]
+[[bg:Алжир]]
+[[ca:Algèria]]
+[[cv:Алжир (патшалăх)]]
+[[ceb:Algeria]]
+[[cs:Alžírsko]]
+[[cy:Algeria]]
+[[da:Algeriet]]
+[[pdc:Altschieri]]
+[[de:Algerien]]
+[[dv:ޖަޒާއިރު]]
+[[dsb:Algeriska]]
+[[dz:ཨལ་ཇི་རི་ཡ།]]
+[[et:Alžeeria]]
+[[el:Αλγερία]]
+[[es:Argelia]]
+[[eo:Alĝerio]]
+[[ext:Argélia]]
+[[eu:Aljeria]]
+[[fa:الجزایر]]
+[[hif:Algeria]]
+[[fr:Algérie]]
+[[fy:Algerije]]
+[[ga:An Ailgéir]]
+[[gv:Yn Algear]]
+[[gd:Aildiria]]
+[[gl:Alxeria - الجزائر]]
+[[ko:알제리]]
+[[ha:Aljeriya]]
+[[haw:‘Alekelia]]
+[[hi:अल्जीरिया]]
+[[hsb:Algeriska]]
+[[hr:Alžir]]
+[[io:Aljeria]]
+[[bpy:আলজেরিয়া]]
+[[id:Aljazair]]
+[[ia:Algeria]]
+[[ie:Algeria]]
+[[os:Алжир]]
+[[is:Alsír]]
+[[it:Algeria]]
+[[he:אלג'יריה]]
+[[jv:Aljazair]]
+[[kn:ಅಲ್ಜೀರಿಯ]]
+[[pam:Algeria]]
+[[ka:ალჟირი]]
+[[kw:Aljeri]]
+[[ky:Алжир]]
+[[sw:Algeria]]
+[[kg:Djazairia]]
+[[ht:Aljeri]]
+[[ku:Alcerya]]
+[[lad:Arjelia]]
+[[la:Algerium]]
+[[lv:Alžīrija]]
+[[lb:Algerien]]
+[[lt:Alžyras]]
+[[lij:Algeïa]]
+[[li:Algerieë]]
+[[ln:Aljeria]]
+[[jbo:jexygu'e]]
+[[lmo:Algeria]]
+[[hu:Algéria]]
+[[mk:Алжир]]
+[[mg:Aljeria]]
+[[ml:അള്‍ജീറിയ]]
+[[mt:Alġerija]]
+[[mr:अल्जीरिया]]
+[[arz:الجزاير]]
+[[mzn:الجزایر]]
+[[ms:Algeria]]
+[[nah:Argelia]]
+[[na:Algeria]]
+[[nl:Algerije]]
+[[ja:アルジェリア]]
+[[pih:Algeria]]
+[[no:Algerie]]
+[[nn:Algerie]]
+[[nov:Algeria]]
+[[oc:Argeria]]
+[[uz:Jazoir]]
+[[ps:الجېريا]]
+[[pms:Algerìa]]
+[[nds:Algerien]]
+[[pl:Algieria]]
+[[pt:Argélia]]
+[[crh:Cezair]]
+[[ro:Algeria]]
+[[rm:Algeria]]
+[[qu:Alhirya]]
+[[ru:Алжир]]
+[[sah:Алжир]]
+[[se:Algeria]]
+[[sm:Algeria]]
+[[sa:अल्जीरिया]]
+[[sc:Algerìa]]
+[[stq:Algerien]]
+[[sq:Algjeria]]
+[[scn:Algirìa]]
+[[simple:Algeria]]
+[[sk:Alžírsko]]
+[[sl:Alžirija]]
+[[szl:Algeryjo]]
+[[so:Aljeeriya]]
+[[sr:Алжир]]
+[[sh:Alžir]]
+[[fi:Algeria]]
+[[sv:Algeriet]]
+[[tl:Alherya]]
+[[ta:அல்சீரியா]]
+[[kab:Dzayer]]
+[[te:అల్జీరియా]]
+[[th:ประเทศแอลจีเรีย]]
+[[tg:Алҷазоир]]
+[[tr:Cezayir]]
+[[uk:Алжир]]
+[[ur:الجزائر]]
+[[ug:ئالجىرىيە]]
+[[vec:Algeria]]
+[[vi:Algérie]]
+[[vo:Laljerän]]
+[[fiu-vro:Alžeeriä]]
+[[wa:Aldjereye]]
+[[war:Alherya]]
+[[wo:Alseeri]]
+[[wuu:阿尔及利亚]]
+[[ts:Algeria]]
+[[yi:אלזשעריע]]
+[[yo:Algeria]]
+[[zh-yue:阿爾及利亞]]
+[[diq:Cezayir]]
+[[zea:Alherije]]
+[[bat-smg:Alžīrs]]
+[[zh:阿尔及利亚]]

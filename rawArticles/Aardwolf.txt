@@ -1,0 +1,99 @@
+      {{otheruses}}
+{{taxobox
+| name = Aardwolf
+| fossil_range = [[Pleistocene]] - Recent
+| status = LC | status_system = IUCN3.1
+| status_ref = &lt;ref name=&quot;IUCN&quot;&gt;{{IUCN2008|assessors=Anderson, M. &amp; Mills, G.|year=2008|id=18372|title=Proteles cristatus|downloaded=22 March 2009}} Database entry includes a brief justification of why this species is of least concern&lt;/ref&gt;
+| image = Proteles cristatus1.jpg
+| image_width = 300px
+| image_caption = Aardwolf
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| ordo = [[Carnivora]]
+| familia = [[Hyaenidae]]
+| subfamilia = '''Protelinae'''
+| subfamilia_authority = Flower, 1869
+| genus = '''''Proteles'''''
+| genus_authority = [[Isidore Geoffroy Saint-Hilaire |I. Geoffroy Saint-Hilaire]], 1824  
+| species = '''''P. cristata'''''
+| binomial = ''Proteles cristata''
+| binomial_authority = [[Anders Sparrman|Sparrman]], 1783
+| range_map = Leefgebied aardwolf.JPG
+| range_map_width = 300px
+| range_map_caption = Aardwolf range
+}}
+
+The '''aardwolf''' (''Proteles cristata'') is a small, [[Entomophagy|insectivorous]] [[hyena]]-like [[mammal]], native to [[East Africa|Eastern]] and [[Southern Africa]]. The name means &quot;earth wolf&quot; in [[Afrikaans]]/[[Dutch language|Dutch]].&lt;ref name=&quot;enc_bri&quot;&gt;{{cite encyclopedia|title= Aardwolf (Proteles cristatus)|encyclopedia= [[Encyclopaedia Britannica]]|publisher= Encyclopaedia Britannica Online|date= 2007}}&lt;/ref&gt; It is also called &quot;maanhaar-jackal&quot; and &quot;protelid&quot;. Unlike other hyenas, the diet of the aardwolf almost completely consists of [[termite]]s, other insect larvae and carrion.&lt;ref name=&quot;wff&quot;&gt;{{cite book| last = | first = | coauthors = | title = Wildlife Fact File| publisher = [[IMP Publishing Ltd]]| date =1994| pages = Group 1, Card 144| isbn = 08-50-04-0016| nopp = true }}&lt;/ref&gt;
+
+The aardwolf is the only surviving species of the subfamily '''Protelinae'''. Two subspecies are recognized: ''Proteles cristatus cristatus'' of [[Southern Africa]], and ''Proteles cristatus septentrionalis'' of [[East Africa|eastern]] and northeastern Africa.&lt;ref name=&quot;eb&quot;&gt; [http://search.eb.com/eb/article-9003205 &quot;aardwolf.&quot;] ''[[Encyclopædia Britannica]]''. 8 Jan. 2007&lt;/ref&gt;&lt;ref&gt;[http://www4.ncsu.edu/~jkim2/MolEvo/Spring2006/hyaenidae.pdf Molecular systematics of the Hyaenidae]&lt;/ref&gt; It is usually placed in the Hyaenidae, though formerly separated into a monotypic family, '''Protelidae'''. The aardwolf lives in the scrublands of eastern and southern Africa. These are the areas of land covered with stunted trees or shrubs. The aardwolf hides in a burrow during the day and comes out at night to search for food. It is related to hyenas, but unlike its relatives, it does not hunt large prey. This unusual animal is a mass killer-of insects. It feeds mainly on termites and can eat more than 200,000 in a single night, using its long, sticky tongue to collect them.
+
+==Physical characteristics==
+The aardwolf looks most like the [[Striped Hyena]], but is significantly smaller with a more slender [[muzzle]], sharper [[ear]]s utilized in the hunt for harvester termites, black vertical stripes on a coat of yellowish fur, and a long, distinct [[mane]] down the middle line of the neck and back, which is raised during a confrontation to make the aardwolf's size appear bigger. It is 55&amp;ndash;80 cm long, excluding its bushy 20&amp;ndash;30 cm tail, stands about 40&amp;ndash;50 cm at the shoulder, and weighs between 9 and 14 kg.&lt;ref name=&quot;wff&quot;&gt;{{cite book| last = | first = | coauthors = | title = Wildlife Fact File| publisher = [[IMP Publishing Ltd]]| date =1994| pages = Group 1, Card 144| isbn = 08-50-04-0016| nopp = true }}&lt;/ref&gt; Its front feet have 5 toes, unlike other hyenas which have four toes.&lt;ref name=&quot;eb&quot;&gt; [http://search.eb.com/eb/article-9003205 &quot;aardwolf.&quot;] ''[[Encyclopædia Britannica]]''. 8 Jan. 2007&lt;/ref&gt; Its teeth and skull are similar to that of the hyena, although the cheek teeth are specialised for eating insects, and its tongue for licking them up.&lt;ref name=&quot;eb&quot;/&gt; As the aardwolf ages, it will normally lose some of its teeth, though this has little impact on their feeding habits due to the soft nature of the insects they consume.&lt;ref name=&quot;wff&quot; /&gt; It has two glands at the rear that secrete a musky fluid for marking territory and communicating with other aardwolves.
+
+==Distribution and habitat==
+The aardwolf lives on open, dry plains and [[bushland]], while avoiding mountainous areas. Due to its specific food requirements, the animal is only found in regions where termites of the family [[Hodotermitidae]] occur. Termites of this family depend on dead and withered grass and are most populous in heavily grazed [[grassland]]s and [[savannah]]s, including [[arable land|farmland]]. For most of the year, aardwolves spend time in shared territories consisting of up to a dozen dens which are occupied for six weeks at a time. &lt;ref name=&quot;wff&quot; /&gt;
+
+There are two distinct populations: one in Southern Africa, and another in East and Northeast Africa. The species does not occur in the intermediary [[miombo]] forests.
+
+==Behavior==
+[[Image:Aardwolf.jpg|thumb|left|Aardwolf from the zoo in [[San Antonio]], [[Texas]]]]
+Aardwolves are shy and [[nocturnal animal|nocturnal]], sleeping in underground burrows by day.&lt;ref name=&quot;eb&quot;/&gt; They usually use existing burrows of [[aardvark]]s, [[Old World porcupine]]s or [[springhare]]s, despite being capable of creating their own. By night, an aardwolf can consume up to 200,000 harvester [[termites]] using its sticky, long tongue.&lt;ref name=&quot;wff&quot; /&gt; They take special care not to destroy the termite mound or consume the entire colony, which ensures that the termites can rebuild and provide a continuous supply of food. They will often memorise and return to nests to save the trouble of finding a new one. They are also known to feed on other insects, larvae, and eggs, and occasionally small [[mammals]] and [[birds]]. Unlike other [[hyena]]s, aardwolves do not scavenge or kill larger animals.
+
+The adult aardwolf is primarily solitary while foraging for food, necessary because of the scarcity and homogeneous distribution of their insect prey. They have often been mistaken for solitary animals. In fact, they live as monogamous pairs, with their young, defending the same territory.&lt;ref&gt;Koehler, C., Richardson, P., (1990) Proteles cristatus. Mammalian Species, 363: 1-6.&lt;/ref&gt; Young aardwolves generally achieve [[sexual maturity]] after two years, and the [[breeding season]] varies depending on their location, but normally takes place during the autumn or spring. During the breeding season, unpaired male aardwolves will search their own territory as well as others' for a female to mate with. Dominant males will also mate opportunistically with the females of less dominant neighboring aardwolves. This can often result in conflict between two male aardwolves when one has wandered into another's territory. [[Gestation]] lasts between 90 and 110 days, producing one to five [[cubs]] (most often two or three) during the rainy season, when termites are active.&lt;ref name=&quot;eb&quot;/&gt; The first six to eight weeks are spent in the [[den]] with the mother. After three months, they begin supervised foraging and by four months are normally independent. However, they will often use the same den as their mother until the next breeding season. They can achieve a [[life expectancy|lifespan]] of up to 15 years when in [[captivity (animal)|captivity]].
+
+==Interaction with humans==
+The aardwolf has taken advantage of the development of [[agriculture]] in the continent.{{Fact|date=February 2007}} They are often considered useful, non-dangerous animals by farmers. However, in some areas the aardwolf is hunted for its fur. Encounters with [[dog]]s are another threat.
+
+&lt;gallery&gt;
+Image:Aardwolf (Harvard University).JPG|''Proteles cristatus''
+Image:Aardwolf.png|Illustration of ''Proteles cristatus''
+&lt;/gallery&gt;
+
+==References==
+{{Wikisource1911Enc|Aard-wolf}}
+{{reflist}}
+
+==External links==
+{{commons|Proteles cristatus}}
+{{wikispecies|Proteles cristatus}}
+* [http://animaldiversity.ummz.umich.edu/site/accounts/information/Proteles_cristatus.html Animal Diversity Web]
+* [http://www.hyaenidae.org/the-hyaenidae/aardwolf-proteles-cristatus.html IUCN Hyaenidae Specialist Group Aardwolf pages on hyaenidae.org]
+
+{{Carnivora|F.}}
+
+[[Category:Hyenas]]
+[[Category:Mammals of Africa]]
+[[Category:Mammals of Kenya]]
+[[Category:Myrmecophagous mammals]]
+[[Category:Words of Afrikaans origin]]
+
+[[af:Aardwolf]]
+[[ar:ذئب الأرض]]
+[[br:Protel]]
+[[bg:Земен вълк]]
+[[cs:Hyenka hřivnatá]]
+[[da:Jordulv]]
+[[de:Erdwolf]]
+[[es:Proteles cristatus]]
+[[eo:Protelo]]
+[[fr:Protèle]]
+[[ko:땅늑대]]
+[[it:Proteles cristatus]]
+[[he:צבועון]]
+[[ka:მიწის მგელი]]
+[[lt:Urvinė hiena]]
+[[hu:Cibethiéna]]
+[[nl:Aardwolf]]
+[[ja:アードウルフ]]
+[[no:Jordulv]]
+[[pl:Protel]]
+[[pt:Lobo-da-terra]]
+[[ru:Земляной волк]]
+[[scn:Proteles]]
+[[si:අ'ආඩ්වුල්ෆ්]]
+[[fi:Maasusi]]
+[[sv:Jordvarg]]
+[[ur:کرم خور لگڑبھگا]]
+[[yo:Aardwolf]]
+[[zh:土狼]]

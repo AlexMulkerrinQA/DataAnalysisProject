@@ -1,0 +1,338 @@
+      {{Otheruses}}
+[[Image:Boulier1.JPG|right|thumb|A Chinese abacus]]
+[[Image:Gregor Reisch, Margarita Philosophica, 1508 (1230x1615).png|right|thumb|250px|'''Calculating-Table by Gregor Reisch: Margarita Philosophica, 1508'''.  The woodcut shows ''Arithmetica'' instructing an [[algorism|algorist]] and an abacist (inaccurately represented as [[Boethius]] and [[Pythagoras]]).  There was keen competition beween the two from the introduction of the ''[[The Compendious Book on Calculation by Completion and Balancing|Algebra]]'' into Europe in the 12th century until its triumph in the 16th.&lt;ref&gt;Carl B. Boyer, ''A History of Mathematics'', pp252-253, Wiley, 1991.&lt;/ref&gt;]]
+An '''abacus''', also called a '''counting frame''', is a calculating tool used primarily in parts of Asia for performing [[arithmetic]] processes. Today, abacuses are often constructed as a bamboo frame with beads sliding on wires, but originally they were beans or stones moved in grooves in sand or on tablets of wood, stone, or metal. The abacus was in use centuries before the adoption of the written modern numeral system and is still widely used by merchants, traders and clerks in [[Asia]], [[Africa]], and elsewhere.
+
+The user of an abacus who slides the beads of the abacus by hand is called an abacist.&lt;ref&gt; &quot;abacist&quot;, &quot;abacus&quot;, in Merriam-Webster's Third New International Dictionary Unabridged, 2000, Version 2.5.&lt;/ref&gt;
+
+==Etymology==
+The use of the word ''abacus'' dates before 1387 AD, when a [[Middle English]] work borrowed the word from [[Latin]] to describe a sandboard abacus. The Latin word came from ''abakos'', the [[Greek language|Greek]] [[Genitive case|genitive form]] of ''abax'' (&quot;calculating-table&quot;), from [[Hebrew language|Hebrew]] ''āvāq''{{Failed verification|date=July 2009}} (אבק), &quot;dust&quot;.&lt;ref name=&quot;Etymology&quot;&gt;{{Cite web|url=http://www.etymonline.com/index.php?l=a|title=Online Etymology Dictionary|accessdate=2008-05-09|author=Douglas Harper}}&lt;/ref&gt; The preferred plural of ''abacus'' is a subject of disagreement, but both ''abacuses'',&lt;ref&gt;[[#Reference-OED-abacus|Oxford English Dictionary 1989]]&lt;/ref&gt; and ''abaci''&lt;ref&gt;[[#CITEREF2003|Merriam-Webster's 2003]]&lt;/ref&gt; are in use.
+
+==Mesopotamian abacus==
+The period 2700–2300 BC saw the first appearance of the [[Sumer]]ian abacus, a table of successive columns which delimited the successive orders of magnitude of their [[sexagesimal]] number system.&lt;ref&gt;{{Harvcolnb|Ifrah|2001|p=11}}&lt;/ref&gt;
+
+[[Babylon]]ians may have used the abacus for the operations of [[addition]] and [[subtraction]].  However, this primitive device proved difficult to use for more complex calculations.&lt;ref&gt;{{Harvcolnb|Carruccio|2006|p=14}}&lt;/ref&gt;  Some scholars point to a character from the Babylonian [[cuneiform]] which may have been derived from a representation of the abacus.&lt;ref&gt;{{Harvcolnb|Crump|1992|p=188}}&lt;/ref&gt;
+
+==Egyptian abacus==
+The use of the abacus in [[Ancient Egypt]] is mentioned by the Greek historian [[Herodotus]], who writes that the manner of this disk's usage by the Egyptians was opposite in direction when compared with the Greek method.  Archaeologists have found ancient disks of various sizes that are thought to have been used as counters.  However, wall depictions of this instrument have not been discovered, casting some doubt over the extent to which this instrument was used.&lt;ref name=Smith1&gt;{{Harvcolnb|Smith|1958|p=160}}&lt;/ref&gt;
+
+==Iranian Persian abacus==
+During the [[Achaemenid Persian Empire]], around 600 BC, Iranians first began to use the abacus.&lt;ref&gt;[http://www.historyforkids.org/learn/westasia/science/math.htm West Asian Mathematics - History for Kids!&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; Under [[Parthian]] and [[Sassanian]] [[Iran]]ian empires, scholars concentrated on exchanging knowledge and inventions by the countries around them – [[India]], [[China]], and the [[Roman Empire]], when it is thought to be expanded over the other countries.
+
+==Greek abacus==
+The earliest archaeological evidence for the use of the Greek abacus dates to the 5th century BC.&lt;ref&gt;{{Harvcolnb|Ifrah|2001|p=15}}&lt;/ref&gt; The Greek abacus was a table of wood or marble, pre-set with small counters in wood or metal for mathematical calculations. This Greek abacus saw use in Achaemenid Persia, the Etruscan civilization, Ancient Rome and, until the French Revolution, the Western Christian world. 
+
+A tablet found on the Greek island [[Salamis Island|Salamis]] in 1846 AD dates back to 300 BC, making it the oldest counting board discovered so far. It is a slab of white marble 149&amp;nbsp;cm long, 75&amp;nbsp;cm wide, and 4.5&amp;nbsp;cm thick, on which are 5 groups of markings. In the center of the tablet is a set of 5 parallel lines equally divided by a vertical line, capped with a semicircle at the intersection of the bottom-most horizontal line and the single vertical line.  Below these lines is a wide space with a horizontal crack dividing it.  Below this crack is another group of eleven parallel lines, again divided into two sections by a line perpendicular to them, but with the semicircle at the top of the intersection; the third, sixth and ninth of these lines are marked with a cross where they intersect with the vertical line.
+
+==Roman abacus==
+{{Main|Roman abacus}}
+[[Image:RomanAbacusRecon.jpg|right|thumb|250px|Copy of a Roman Abacus]] 
+ &lt;!-- This image is a 2004 photograph of the Mainz reconstruction/copy of the
+ original in the Paris Library.  It gives a much clearer picture that the
+ device is not beads on wires than the drawing used in this entry earlier.
+ If we are only allowed one image then this is the better to use.
+ [[User:Mfc|mfc]] --&gt;
+The normal method of calculation in ancient Rome, as in Greece, was by moving counters on a smooth table.  Originally pebbles, [[calculi]], were used.  Later, and in medieval Europe, [[jeton]]s were manufactured.  Marked lines indicated units, fives, tens etc. as in the [[Roman numeral]] system.  This system of 'counter casting' continued into the late Roman empire and in medieval Europe, and persisted in limited use into the nineteenth century.&lt;ref&gt;Pullan, page18&lt;/ref&gt;
+
+Writing in the 1st century BC, Horace refers to the wax abacus, a board covered with a thin layer of black wax on which columns and figures were inscribed using a stylus.&lt;ref name=rome&gt;{{Harvcolnb|Ifrah|2001|p=18}}&lt;/ref&gt;
+
+One example of archaeological evidence of the [[Roman abacus]], shown here in reconstruction, dates to the 1st century AD.  It has eight long grooves containing up to five beads in each and eight shorter grooves having either one or no beads in each. The groove marked I indicates units, X tens, and so on up to millions.  The beads in the shorter grooves denote fives – five units, five tens etc., essentially in a [[bi-quinary coded decimal]] system, obviously related to the [[Roman numerals]].  The short grooves on the right may have been used for marking Roman ounces.
+
+==Chinese abacus==
+{{Main|Suanpan}} 
+[[Image:abacus 6.png|thumb|Suanpan (the number represented in the picture is 6,302,715,408)]]
+The earliest known written documentation of the Chinese abacus dates to the 14th century AD.&lt;ref&gt;{{Harvcolnb|Ifrah|2001|p=418}}&lt;/ref&gt;
+
+The top of the abacus is called the heaven and the bottom is called the earth.&lt;ref name=&quot;thocp&quot;&gt;[http://www.thocp.net/hardware/abacus.html abacus&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+The Chinese abacus, known as the ''suànpán''(算盤, lit. &quot;Counting tray&quot;),  is typically 20&amp;nbsp;cm tall and comes in various widths depending on the operator.  It usually has more than seven rods.  There are two beads on each rod in the upper deck and five beads each in the bottom for both [[decimal]] and [[hexadecimal]] computation. Modern abacuses have one bead on the top deck and four beads on the bottom deck. The beads are usually rounded and made of a [[hardwood]].  The beads are counted by moving them up or down towards the beam.  If you move them toward the beam, you count their value. If you move away, you don't count their value.{{Citation needed|date=September 2008}} The suanpan can be reset to the starting position instantly by a quick jerk along the horizontal axis to spin all the beads away from the horizontal beam at the center. 
+
+Suanpans can be used for functions other than counting.  Unlike the simple counting board used in elementary schools, very efficient suanpan techniques have been developed to do [[multiplication]], [[division (mathematics)|division]], [[addition]], [[subtraction]], [[square root]] and [[cube root]] operations at high speed. There are schools teaching students how to use it.
+
+In the famous long scroll ''[[Along the River During the Qingming Festival]]'' painted by [[Zhang Zeduan]] (1085–1145 AD) during the [[Song Dynasty]] (960–1297 AD), a suanpan is clearly seen lying beside an account book and doctor's prescriptions on the counter of an [[apothecary]]'s (Feibao).
+
+The similarity of the [[Roman abacus]] to the Chinese one suggests that one could have inspired the other, as there is some evidence of a trade relationship between the [[Roman Empire]] and China.  However, no direct connection can be demonstrated, and the similarity of the abaci may be coincidental, both ultimately arising from counting with five fingers per hand.  Where the Roman model (like most modern [[#Japanese abacus|Japanese]]) has 4 plus 1 bead per decimal place, the standard suanpan has 5 plus 2, allowing use with a [[hexadecimal]] numeral system.  Instead of running on wires as in the Chinese and Japanese models, the beads of Roman model run in grooves, presumably making arithmetic calculations much slower. 
+
+Another possible source of the suanpan is Chinese [[counting rods]], which operated with a [[decimal system]] but lacked the concept of [[0 (number)|zero]] as a place holder.  The zero was probably introduced to the Chinese in the [[Tang Dynasty]] (618-907 AD) when travel in the [[Indian Ocean]] and the [[Middle East]] would have provided direct contact with [[India]], allowing them to acquire the concept of zero and the [[decimal point]] from Indian merchants and mathematicians.
+
+==Indian abacus==
+First century sources, such as the ''Abhidharmakosa'' describe the knowledge and use of abacus in [[India]].&lt;ref&gt;{{Harvcolnb|Stearns|2001|p=44}}&lt;/ref&gt;  Around the 5th century, Indian clerks were already finding new ways of recording the contents of the Abacus.&lt;ref&gt;{{Harvcolnb|Körner|Langer|1996|p=232}}&lt;/ref&gt; Hindu texts used the term ''shunya'' (zero) to indicate the empty column on the abacus..&lt;ref&gt;{{Harvcolnb|Mollin|1998|p=3}}&lt;/ref&gt;
+
+==Japanese abacus==
+{{Main|Soroban}}
+[[Image:Soroban.JPG|thumb|right|400px|Japanese soroban]]
+In Japanese, the abacus is called ''[[soroban]]'' ({{lang|ja|算盤, そろばん}}, lit. &quot;Counting tray&quot;), imported from China around 1600.&lt;ref name=&quot;fernandes&quot;&gt;{{cite web | url = http://www.ee.ryerson.ca/~elf/abacus/history.html | title = The Abacus: A Brief History | first = Luis | last = Fernandes }}&lt;/ref&gt; The 1/4 abacus appeared circa 1930, and it is preferred and still manufactured in Japan today even with the proliferation, practicality, and affordability of pocket [[electronic calculator]]s. The use of the soroban is still taught in Japanese [[primary school]]s as a part of [[mathematics]].
+
+==Korean abacus==
+The Chinese abacus migrated from China to [[Korea]] around the year 1400 AD.&lt;ref name=&quot;thocp&quot;/&gt; Koreans call it ''jupan'' (주판), ''supan'' (수판) or ''jusan'' (주산).&lt;ref&gt;[http://enc.daum.net/dic100/contents.do?query1=b19j3727a 주판 : Daum 백과사전&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+==Native American abaci==
+[[Image:Quipu.png|thumb|100px|Representation of an [[Inca]] [[quipu]]]]
+[[Image:Yupana 1.GIF|thumb|180px|left|A yupana as used by the Incas.]]
+
+Some sources mention the use of an abacus called a ''nepohualtzintzin'' in ancient Mayan culture.  This Mesoamerican abacus used a 5-digit base-20 system.&lt;ref&gt;http://www.inaoep.mx/iberamia2004/nepo_eng.htm&lt;/ref&gt;
+The word Nepohualtzintzin comes from the Nahuatl and it is formed by the roots; Ne - personal -; pohual or pohualli - the account -; and tzintzin - small similar elements. And its complete meaning is taken as: counting with small similar elements by somebody. Its use was taught in the &quot;Kalmekak&quot; to the &quot;temalpouhkeh&quot;, who were students dedicated to take the accounts of skies, from childhood. Unfortunately the Nepohualtzintzin and its teaching were among the victims of the conquering destruction, when a diabolic origin was attributed to them after observing the tremendous properties of representation, precision and speed of calculations.  But now we know with certainty that it is a concrete example of the great scientific and technological development that the majority of the native cultures already had in those times.
+
+This arithmetic tool is based on the vigesimal system (base 20). &lt;ref&gt;http://www.tux.org/~bagleyd/java/AbacusAppMA.html&lt;/ref&gt; For the aztec the count by 20s was completely natural, since the use of &quot;huaraches&quot; (native sandals) allowed them to also use the toes for their calculations. In this way, the amount of 20 meant to them a complete human being. The Nepohualtzintzin is divided in two main parts separated by a bar or intermediate cord. In the left part there are four beads, which in the first row have unitary values (1, 2, 3, and 4), and in the right side there are three beads with values of 5, 10, and 15 respectively. In order to know the value of the respective beads of the upper rows, it is enough to multiply by 20 (by each row), the value of the corresponding account in the first row.
+
+Altogether, there are 13 rows with 7 beads in each one, which makes up 91 beads in each Nepohualtzintzin. This is a basic number to understand the close relation conceived between the exact accounts and the natural phenomena. This is so that one Nepohualtzintzin (91) represents the number of days that a season of the year lasts, two Nepohualtzitzin (182) is the number of days of the corn’s cycle, from its sowing to its harvest, three Nepohualtzintzin (273) is the number of days of a baby’s gestation, and four Nepohualtzintzin (364) complete a cycle and approximate a year (1 1/4 days short). It is worth to mention that in the Nepohualtzintzin, amounts in the rank from 10 to the 18 can be calculated, with floating point, which allows calculating stellar as well as infinitesimal amounts with absolute precision. 
+
+The rediscovering of the Nepohualtzintzin is due to the teacher David Esparza Hidalgo, who in his wandering by all Mexico has found diverse engravings and paintings of this instrument and has reconstructed several of them made in gold, jade, incrustations of shell, etc. There have been also found very old Nepohualtzintzin attributed to the Olmeca culture, and even some bracelets of Mayan origin, as well as a diversity of forms and materials in other cultures. This gives us an idea of the so early epochs in which our ancestors already had the sufficient knowledge to devise and to handle a device of such complexity, and the notion of the extension of its use in their daily activities.
+
+The [[quipu]] of the [[Inca]]s was a system of knotted cords used to record numerical data, like advanced [[tally stick]]s – but not used to perform calculations.  Calculations were carried out using a [[yupana]] ([[quechua]] for &quot;counting tool&quot;; see figure) which was still in use after the conquest of Peru.  The working principle of a yupana is unknown, but in 2001 an explanation of the mathematical basis of these instruments was proposed. By comparing the form of several yupanas, researchers found that calculations were based using the [[Fibonacci sequence]] 1, 1, 2, 3, 5 and powers of 10, 20 and 40 as place values for the different fields in the instrument.  Using the Fibonacci sequence would keep the number of grains within any one field at minimum.
+
+==Russian abacus==
+[[Image:Schoty abacus.jpg|thumb|Russian abacus]]
+The Russian abacus, the ''schety'' (счёты), usually has a single slanted deck, with ten beads on each wire (except one wire which has four beads, for quarter-ruble fractions.  This wire is usually near the user).  (Older models have another 4-bead wire for quarter-kopeks, which were minted until 1916.)  The Russian abacus is often used vertically, with wires from left to right in the manner of a book.  The wires are usually bowed to bulge upward in the center, in order to keep the beads pinned to either of the two sides.  It is cleared when all the beads are moved to the right.  During manipulation, beads are moved to the left.  For easy viewing, the middle 2 beads on each wire (the 5th and 6th bead) usually are of a different colour than the other eight beads.  Likewise, the left bead of the thousands wire (and the million wire, if present) may have a different color.
+
+The Russian abacus was in use in all shops and markets throughout the [[Commonwealth of Independent States|former Soviet Union]], and the usage of it was taught in most schools until the 1990s.&lt;ref&gt;Robert Bud, Deborah Jean Warner (eds.), ''Instruments of science: an historical encyclopedia'', p7, Taylor &amp; Francis, 1998 ISBN 0815315619.&lt;/ref&gt;&lt;ref&gt;Sharon Hudgins, ''The Other Side of Russia'', p219, Texas A&amp;M University Press, 2004 ISBN 1585444049.&lt;/ref&gt; Today it is regarded as an archaism and replaced by microcalculator. The use of calculators has been taught since the 1990s. 
+
+The Russian abacus was brought to France around 1820 by the mathematician [[Jean-Victor Poncelet]], who served in [[Napoleon]]'s army and had been a prisoner of war in Russia.&lt;ref&gt;Georg Trogemann, Alexander Y. Nitussov, Wolfgang Ernst, ''Computing in Russia: The History of Computer Devices and Information Technology Revealed'', p24, Vieweg+Teubner Verlag, 2001 ISBN 3528057572.&lt;/ref&gt;  The abacus had fallen out of use in western Europe in the 16th century with the rise of decimal notation and [[algorism]]ic methods.  To Poncelet's French contemporaries, it was something new.  Poncelet used it, not for any applied purpose, but as a teaching and demonstration aid.&lt;ref&gt;Graham Flegg, ''Numbers: Their History and Meaning'', p72, Courier Dover Publications, 2002 ISBN 0486421651.&lt;/ref&gt;
+
+==School abacus==
+[[Image:Kugleramme.jpg|left|150px|thumb|School abacus used in Danish elementary school. Early 20th century.]] 
+Around the world, abaci have been used in pre-schools and elementary schools as an aid in teaching the [[numeral system]] and [[arithmetic]].
+
+In Western countries, a '''bead frame''' similar to the Russian abacus but with straight wires and a vertical frame has been common (see image).  It is still often seen as a plastic or wooden toy.
+
+The type of abacus shown here is often used to represent numbers without the use of place value. Each bead and each wire has the same value and used in this way it can represent numbers up to 100.
+
+{{clear}}
+
+==Abaci in Medieval pictures==
+&lt;gallery&gt;
+Image:Gregor Reisch, Margarita Philosophica, 1508 (1230x1615).png
+Image:Rechentisch.png
+Image:Rechnung auff der Linihen und Federn.JPG
+Image:Köbel Böschenteyn 1514.jpg
+Image:Rechnung auff der linihen 1525 Adam Ries.PNG
+Image:1543 Robert Recorde.PNG
+Image:Peter Apian 1544.PNG
+Image:Adam riesen.jpg
+Image:Rekenaar 1553.jpg
+&lt;/gallery&gt;
+
+==Uses by the blind==
+An adapted abacus, invented by Tim Cranmer, called a Cranmer abacus is still commonly used by individuals who are [[blindness|blind]].  A piece of soft fabric or rubber is placed behind the beads so that they do not move inadvertently.  This keeps the beads in place while the users feel or manipulate them.  They use an abacus to perform the mathematical functions [[multiplication]], [[division (mathematics)|division]], [[addition]], [[subtraction]], [[square root]] and [[cubic root]].{{Citation needed|date=October 2008}} 
+
+Although blind students have benefited from talking calculators, the abacus is still very often taught to these students in early grades, both in public schools and state schools for the blind.  The abacus teaches mathematical skills that can never be replaced with talking calculators and is an important learning tool for blind students.  Blind students also complete mathematical assignments using a braille-writer and [[Nemeth Braille|Nemeth code]] (a type of braille code for mathematics) but large multiplication and long division problems can be long and difficult.  The abacus gives blind and visually impaired students a tool to compute mathematical problems that equals the speed and mathematical knowledge required by their sighted peers using pencil and paper.  Many blind people find this number machine a very useful tool throughout life.{{Citation needed|date=October 2008}}
+
+==See also==
+* [[Abacus logic]]
+* [[Abacus system]]
+* [[Chisanbop]]
+* [[Napier's bones]]
+* [[Sand table]]
+* [[Suanpan]]
+* [[Soroban]]
+
+==Notes==
+{{reflist|2}}
+
+==References==
+{{Refbegin|2}}
+*{{Citation
+  | last = Carruccio
+  | first = Ettore
+  | title = Mathematics And Logic in History And in Contemporary Thought
+  | publisher = Aldine Transaction
+  | year = 2006
+  | isbn = 0202308502}}.
+*{{Citation
+  | last = Crump
+  | first = Thomas
+  | title = The Japanese Numbers Game: The Use and Understanding of Numbers in Modern Japan
+  | publisher = Routledge
+  | year = 1992
+  | isbn = 0415056098}}.
+*{{Citation
+  | last = Ifrah
+  | first = Georges
+  | year = 2001
+  | title = The Universal History of Computing: From the Abacus to the Quantum Computer
+  | publication-place = New York
+  | publisher=John Wiley &amp; Sons}}.
+*{{Citation
+  | last = Körner
+  | first = Thomas William
+  | first2 = William Leonard
+  | last2 = Langer
+  | title = The Pleasures of Counting
+  | publisher = Houghton Mifflin Books
+  | year = 1996
+  | isbn = 0521568234}}.
+*{{Citation
+  | last = Mollin
+  | first = Richard Anthony
+  | title = Fundamental Number Theory with Applications
+  | publisher = [[CRC Press]]
+  | year = 1998
+  | month = September
+  | isbn = 0849339871}}.
+*{{Citation
+  | author = Peng Yoke Ho
+  | title = Li, Qi and Shu: An Introduction to Science and Civilization in China
+  | publisher = Courier Dover Publications
+  | year = 2000
+  | isbn = 0486414450}}.
+*{{Citation
+  | last = Pullan
+  | first = J. M.
+  | year = 1968
+  | title = The History of the Abacus
+  | publisher = Books That Matter
+  | location = London
+  | isbn = 0-09-089410-3}}.
+*{{Citation
+  | last = Reilly
+  | first = Edwin D.
+  | first2 = William Leonard
+  | last2 = Langer
+  | title = Concise Encyclopedia of Computer Science
+  | publisher = John Wiley and Sons
+  | year = 2004
+  | isbn = 0470090952}}.
+*{{Citation
+  | last = Smith
+  | first = David Eugene
+  | title = History of Mathematics (Volume 2)
+  | publisher = Courier Dover Publications
+  | year = 1958
+  | isbn = 0486204308}}.
+*{{Citation
+  | last = Stearns
+  | first = Peter N.
+  | first2 = William Leonard
+  | last2 = Langer
+  | title = The Encyclopedia of World History: Ancient, Medieval, and Modern, Chronologically Arranged
+  | publisher = Houghton Mifflin Books
+  | year = 2001
+  | isbn = 0395652375}}.
+*{{Citation
+  | publisher = Merriam-Webster, Inc
+  | isbn = 0877798095
+  | title = Merriam-Webster's Collegiate Dictionary
+  | year = 2003
+  | edition = 11th
+  | author = ed. in chief Frederick C. Mish}}.
+*{{OED|abacus}}
+{{Refend}}
+
+==Further reading==
+{{Refbegin}}
+*{{Citation
+ | last = Menninger
+ | first = Karl W.
+ | year = 1969
+ | title = Number Words and Number Symbols: A Cultural History of Numbers
+ | publisher = MIT Press
+ | isbn = 0-262-13040-8}}.
+*{{Citation
+ | last = Kojima
+ | first = Takashi
+ | year = 1954
+ | title = The Japanese Abacus: its Use and Theory
+ | publisher = Charles E. Tuttle
+ | location = Tokyo
+ | isbn=0-8048-0278-5}}.
+{{Refend}}
+
+==External links==
+{{Wikisource1911Enc|Abacus}}
+===Tutorials===
+&lt;!-- in alphabetical order by author --&gt;
+* [http://www.minmm.com/minc/show_classes.php?id=273 Min Multimedia]
+* {{cite web
+ | url = http://www.sungwh.freeserve.co.uk/sapienti/abacus01.htm
+ | title =  Suan Pan
+ | first = Dylan W.H. | last = Sung
+}}
+* {{cite web
+ | url = http://webhome.idirect.com/~totton/abacus/
+ | title = Abacus: Mystery of the Bead - an Abacus Manual
+ | first = Totton | last = Heffelfinger
+ | coauthors = Gary Flom
+}}
+
+===Abacus curiosities===
+* {{cite web
+ | url = http://www.ee.ryerson.ca/~elf/abacus/
+ | title = The Abacus: The Art of Calculating with Beads
+ | first = Luis | last = Fernandes
+}}
+* {{cite web
+ | url = http://demonstrations.wolfram.com/Abacus/
+ | title = Abacus
+ | first = Michael | last = Schreiber
+ | publisher = The [[Wolfram Demonstrations Project]]
+ | year = 2007
+}}
+* {{cite web
+ | url = http://sks23cu.net/TSA/
+ | title = The Stephenson Abacus
+ | first = Steve | last = Stephenson
+}}
+* [http://www.cut-the-knot.org/blue/Abacus.shtml Abacus in Various Number Systems] at [[cut-the-knot]]
+* [http://www.tux.org/~bagleyd/abacus.html Java applet of Chinese, Japanese and Russian abaci]
+* [http://www.research.ibm.com/atomic/nano/roomtemp.html An atomic-scale abacus]
+
+===Groups===
+* {{fr}} [http://www.ffcalculmental.fr/ffsoroban.html Fédération Française de Calcul Mental]
+
+[[Category:Roman mathematics]]
+[[Category:Abacus]]
+[[Category:Mathematical tools]]
+
+[[af:Abakus]]
+[[ar:أباكوس]]
+[[ay:Jakhuña]]
+[[bn:অ্যাবাকাস]]
+[[be-x-old:Абак]]
+[[ca:Àbac]]
+[[cv:Абак (математика)]]
+[[cs:Počítadlo]]
+[[da:Abacus (regnemaskine)]]
+[[de:Abakus (Rechentafel)]]
+[[et:Abakus]]
+[[el:Άβακας]]
+[[es:Ábaco]]
+[[eo:Abako (meĥanika kalkulilo)]]
+[[eu:Abako]]
+[[fa:چرتکه]]
+[[fr:Boulier]]
+[[gl:Ábaco]]
+[[ko:수판]]
+[[hr:Abak]]
+[[io:Abako]]
+[[id:Sempoa]]
+[[ia:Abaco]]
+[[it:Abaco]]
+[[he:חשבונייה]]
+[[lo:ລູກຄິດ]]
+[[la:Abacus]]
+[[lt:Abakas]]
+[[hu:Abakusz]]
+[[nah:Nepōhualtzintzin]]
+[[nl:Abacus (rekentuig)]]
+[[ja:そろばん]]
+[[no:Abakus (kuleramme)]]
+[[nn:Kuleramme]]
+[[pl:Abakus (liczydło)]]
+[[pt:Ábaco]]
+[[ro:Abac]]
+[[ru:Абак (математика)]]
+[[scn:Badduttuleri]]
+[[simple:Abacus]]
+[[sk:Abakus (počítacia tabuľka)]]
+[[sl:Abak]]
+[[sr:Абакус (рачунање)]]
+[[fi:Helmitaulu]]
+[[sv:Abakus]]
+[[tl:Abakus]]
+[[ta:எண்சட்டம்]]
+[[th:ลูกคิด]]
+[[tr:Abaküs]]
+[[uk:Абак]]
+[[ur:گنتارا]]
+[[vi:Bàn tính]]
+[[zh-yue:算盤]]

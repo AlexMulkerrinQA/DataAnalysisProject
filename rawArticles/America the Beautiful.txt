@@ -1,0 +1,166 @@
+      {{For|the documentary film|America the Beautiful (film)}}
+{{Infobox Song &lt;!-- See Wikipedia:WikiProject_Songs --&gt;
+| Name           = America the Beautiful
+| Cover          = Americathebeautiful.jpg
+| Caption        = Commemoration plaque atop [[Pikes Peak]]
+| Type           = [[Patriotic song|Patriotic]]
+| Artist         = 
+| alt Artist     = 
+| Album          = 
+| Published      = 1895 (poem)
+| Released       = 
+| track_no       = 
+| Recorded       = 
+| Genre          = 
+| Length         = 
+| Writer         = [[Katharine Lee Bates]]
+| Composer       = [[Samuel A. Ward]]
+| Label          = 
+| Producer       = 
+| Audio sample?  = yes
+| Chart position = 
+| Tracks         = 
+| prev           = 
+| prev_no        = 
+| next           = 
+| next_no        = 
+| Misc           =
+{{Audiosample
+  | Upper caption = America the Beautiful MIDI recording.
+| Audio file  = America the Beautiful.mid
+| Background  = Song
+}}
+}}
+&quot;'''America the Beautiful'''&quot; is an [[United States|American]] [[patriotic song]]. The words are written by [[Katharine Lee Bates]] and the music composed by church organist and choirmaster [[Samuel A. Ward]]. Bates originally wrote the words as a poem, ''Pikes Peak'', first published in the July 4th edition of the church periodical ''The Congregationalist'' in 1895. The poem was titled ''America'' for publication. As for the music, Ward had originally written the music ''Materna'', for the old hymn, ''O Mother Dear, Jerusalem'', in 1882. Ward's music combined with the Bates poem was first published in 1910 and titled ''America the Beautiful''. The song is one of the most beloved and popular of the many American patriotic songs.&lt;ref&gt;http://lcweb2.loc.gov/diglib/ihas/loc.natlib.ihas.100010615/full.html&lt;/ref&gt; From time to time it has been proposed as a replacement for ''[[The Star-Spangled Banner]]'' as the National Anthem.
+
+==History==
+In 1893, at the age of thirty-three [[Katharine Lee Bates]], an English professor at [[Wellesley College]], had taken a train trip to [[Colorado Springs, Colorado]], to teach a short summer school session at [[Colorado College]]. Several of the sights on her trip inspired her, and they found their way into her poem, including the [[World's Columbian Exposition]] in [[Chicago]], the &quot;White City&quot; with its promise of the future contained within its alabaster buildings; the wheat fields of America's heartland [[Kansas]], through which her train was riding on [[July 4]]; and the majestic view of the [[Great Plains]] from high atop Zebulon's [[Pikes Peak]].
+
+On the pinnacle of that mountain, the words of the poem started to come to her, and she wrote them down upon returning to her hotel room at the original Antlers Hotel. The poem was initially published two years later in ''The Congregationalist,'' to commemorate the [[Independence Day (US)|Fourth of July]]. It quickly caught the public's fancy. Amended versions were published in 1904 and 1913.
+
+Several existing pieces of music were adapted to the poem. A [[hymn tune]] composed by Samuel A. Ward was generally considered the best music as early as 1910 and is still the popular tune today. Just as Bates had been inspired to write her poem, Ward too was inspired to compose his tune. The tune came to him while he was on a ferryboat trip from [[Coney Island]] back to his home in [[New York City]], after a leisurely summer day in 1882, and he immediately wrote it down. He was so anxious to capture the tune in his head, he asked fellow passenger friend Harry Martin for his shirt cuff to write the tune on, thus perhaps the ''off the cuff'' analogy. He composed the tune for the old hymn &quot;O Mother Dear, Jerusalem&quot;, retitling the work &quot;Materna&quot;. Ward's music combined with Bates' poem were first published together in 1910 and titled, ''America the Beautiful''.&lt;ref&gt;http://209.85.173.132/search?q=cache:B6A_mmftHFYJ:www.cameronsbrown.com/Resources/Other/america%2520the%2520beautiful.pdf+o+mother+dear+jerusalem+august+ward&amp;cd=4&amp;hl=en&amp;ct=clnk&amp;gl=ca&lt;/ref&gt;
+
+Ward died in 1903, not knowing the national stature his music would attain, as the music was only first applied to the song in 1904. Miss Bates was more fortunate, as the song's popularity was well-established by her death in 1929.
+
+At various times in the more than 100 years that have elapsed since the song as we know it was born, particularly during the [[John F. Kennedy]] administration, there have been efforts to give &quot;America the Beautiful&quot; legal status either as a national hymn, or as a national anthem equal to, or in place of, &quot;[[The Star-Spangled Banner]]&quot;, but so far this has not succeeded. Proponents prefer &quot;America the Beautiful&quot; for various reasons, saying it is easier to sing, more melodic, and more adaptable to new orchestrations while still remaining as easily recognizable as &quot;The Star-Spangled Banner.&quot; Some prefer &quot;America the Beautiful&quot; over &quot;The Star-Spangled Banner&quot; due to the latter's war-oriented imagery. (Others prefer &quot;The Star-Spangled Banner&quot; for the same reason.) While that national dichotomy has stymied any effort at changing the tradition of the national anthem, &quot;America the Beautiful&quot; continues to be held in high esteem by a large number of Americans.
+
+Popularity of the song increased greatly following the [[September 11 attacks|September 11, 2001 attacks]]; at some sporting events it was sung in addition to the traditional singing of the national anthem.  During the first taping of the ''[[Late Show with David Letterman]]'' following the attacks, CBS newsman [[Dan Rather]] cried briefly as he quoted the fourth verse.&lt;ref&gt;{{cite news |date=2001-09-18 |work=Salon.com |title=Dan Rather's tears; Journalists don't cry on camera. That was before last week. |url=http://archive.salon.com/ent/tv/feature/2001/09/18/rather/index.html |first=Stephanie |last=Zacharek}}&lt;/ref&gt;
+
+[[Ray Charles]] is credited with the song's most well known rendition in current times (although [[Elvis Presley]] had good success with it in the 1970s). His recording is very commonly played at major sporting events, such as the [[Super Bowl]]; Charles gave a live performance of the song prior to [[Super Bowl XXXV]], the last Super Bowl played before the September 11 terrorist attacks. His unique take on it places the third verse first, after which he sings the usual first verse. In the third verse (see below), the author scolds the [[materialistic]] and self-serving [[robber baron (industrialist)|robber barons]] of her day, and urges America to live up to its noble ideals and to honor, with both word and deed, the memory of those who died for their country.  Symbolically, [[Marian Anderson]] (a noted opera singer of her day) sang a rendition of America on the steps of the [[Lincoln Memorial]] in 1939 after being refused use of Constitution Hall by the [[Daughters of the American Revolution]] because of her skin color.
+
+When [[Richard Nixon]] visited the [[People's Republic of China]] in 1972, this song was played by Chinese as the welcome music. Interestingly, the [[Chinese character]]s for United States literally mean &quot;Beautiful Country.&quot;&lt;ref&gt;{{cite web |work=About: Chinese Culture |title=Lucky Symbols |url=http://chineseculture.about.com/library/picks/aatp_luckysymbols.htm}}&lt;/ref&gt;
+
+The song is often included in songbooks in a wide variety of [[religion|religious]] congregations in the United States.
+
+== Idioms ==
+'''&quot;From sea to shining sea&quot;''' is an [[United States|American]] [[idiom]] meaning from the [[Pacific Ocean]] to the [[Atlantic Ocean]] (or vice versa).  Many songs have used this term, including the American patriotic songs &quot;America, The Beautiful&quot; and &quot;[[God Bless the USA]]&quot;.  In addition to these, it is also featured in [[Schoolhouse Rock]]'s &quot;Elbow Room&quot;.  Although the United States has borders with the [[Arctic Ocean]] and the [[Gulf of Mexico]], the phrase refers only to the West and East coasts of the [[Continental U.S.]]  A term similar to this is the [[Canada|Canadian]] motto ''[[A Mari Usque Ad Mare]]'' (&quot;From sea to sea.&quot;) See also [[Manifest Destiny]].
+
+==Popular culture==
+{{In popular culture|date=July 2009}}
+A song as popular and familiar as &quot;America the Beautiful&quot; inevitably gets used out of its proper context or time frame, for humorous effect. Some examples:
+
+*It is featured in the post-apocalyptic game [[Fallout 3]], often played by Enclave Radio, a radio station claiming to broadcast &quot;the voice of America&quot;, mingled with other well-known patriotic American tunes.
+
+*In 1971, the song inspired the cross-country [[Cannonball Baker Sea-To-Shining-Sea Memorial Trophy Dash]] race from New York to Los Angeles that later was the topic of several movies with [[Burt Reynolds]]
+
+*In ''[[The Muppet Movie]]'' (1979), [[Fozzie Bear]] sings the tune straightforwardly, then declares, &quot;Patriotism swells in the heart of the American bear.&quot;
+
+*A ''[[Far Side]]'' cartoon from 1982 (reprinted in Sherr's book) shows Christopher Columbus nearing land, with his crew of ''conquistador'' types, and saying, &quot;Look, gentlemen! Purple mountains! Spacious skies! Fruited plains! ... Is someone writing this down?&quot;
+
+*In one of his comedy club routines in the early 1960s, [[Flip Wilson]] did a Columbus story with an African-American twist... ironically, the catchphrase repeated by Queen Isabel (an early &quot;Geraldine&quot;) is &quot;Chris gon' find Ray Charles!&quot;  When his Columbus sees land, he comments, &quot;It's America, all right... just look at those spacious skies... those amber waves of grain... dig that purple mountain's majesty... I'll bet there's fruit out there on the plain!&quot;
+
+*In his satirical, musical [[record album]], ''The United States of America, Volume 1'', [[Stan Freberg]] plays Columbus, [[Jesse White (actor)|Jesse White]] plays a skeptical King Ferdinand, and Colleen Collins does Queen Isabella (mimicking [[Tallulah Bankhead]]), resulting in this bit of dialogue: [http://freberg.8m.com/text/usa1.html]
+
+:Ferdinand: Look at him in that hat! Is that a crazy sailor? 
+:Isabella: Crazy? I'll tell you how crazy! He's a man with a dream, a vision, a vision of a new world, whose alabaster cities gleam undimmed by human tears, with purple mountain majesties above the [[Two Cents Plain]] . . . 
+:Ferdinand and Columbus: Fruited!
+:Isabella: Fruited.
+
+*[[Mel Brooks]], on a talk show, once did an impression of how [[Frank Sinatra]] might sing the song, complete with tuxedo, black hat and coat, and cigarette, leaning up against a bar, and rendering the song in &quot;lounge style&quot;. Mel Brooks also featured it in his 1968 film, ''[[The Producers (1968 film)|The Producers]]'', where [[Franz Liebkind]], a Nazi refugee, sings the first verse to [[Max Bialystock]] and [[Leo Bloom]] to prove he is a patriotic American.
+
+*[[George Carlin]] performed a satirical version on his 1972 album [[Class Clown]], when environmental issues were becoming a hot political topic: [http://www.creativequotations.com/one/1309b.htm]
+
+:Oh beautiful, for smoggy skies, insecticided grain
+:For strip-mined mountain's majesty above the asphalt plain.
+:America, America, man sheds his waste on thee
+:And hides the pines with billboard signs, from sea to oily sea!
+
+*The Chicago-based [[death metal]] band [[Master (band)|Master]] recorded a parody of &quot;America the Beautiful&quot; on their 1991 album ''On the Seventh Day God Created...Master'' but instead called it &quot;America the Pitiful&quot;.
+
+*''[[Two Gallants]]'' wrote the song &quot;Waves of Grain&quot; which satires the original America The Beautiful. 
+
+*[[Neil Young]] recorded a (presumably non-ironic) version for his 2006 folk-rock protest album &quot;[[Living with War]]&quot; which criticizes the Bush Administration.
+
+*In the movie [[Red Dawn]], several Americans start singing the song when they get sandwiched between a mound of grain and a line of Soviet and Cuban tanks.  Right after the fourth stanza, in the middle of the word &quot;America&quot;, the tanks fire on them under the orders of one of the Cuban commanders.
+
+*In the song &quot;The Decline&quot; by [[NOFX]], the lyrics in the first verse are 'Bred on purple mountain range, feed amber waves of grains to lesser human beings'.
+
+*[[Prince (musician)|Prince]]'s 1985 song [[America (Prince song)|America]], samples this song in the chorus. The next line is replaced with &quot;America! America! Keep the children free!&quot;
+
+==Lyrics==
+{{listen|filename=America the Beautiful (US Navy Band).ogg|title=America the Beautiful|description=Performed by the [[United States Navy Band]] and [[Sea Chanters]]|format=[[Ogg]]}}
+''Note: some sources omit the second verse and substitute its refrain for that of the fourth verse.&lt;ref&gt;''The United Methodist Hymnal'' © 1989&lt;/ref&gt;''
+
+:O beautiful, for spacious skies,
+:For amber waves of grain,
+:For purple mountain majesties
+:Above the fruited plain!
+:''America! America!  God shed His grace on thee,''
+:''And crown thy good with brotherhood, from sea to shining sea.''
+
+:O beautiful, for pilgrim feet
+:Whose stern, impassioned stress
+:A thoroughfare for freedom beat
+:Across the wilderness!
+:''America! America!  God mend thine ev'ry flaw;''
+:''Confirm thy soul in self control, thy liberty in law!''
+
+:O beautiful, for heroes proved
+:In liberating strife,
+:Who more than self their country loved
+:And mercy more than life!
+:''America! America!  May God thy gold refine,''
+:''Till all success be nobleness, and ev'ry gain divine!''
+
+:O beautiful, for patriot dream
+:That sees beyond the years,
+:Thine alabaster cities gleam
+:Undimmed by human tears!
+:''America! America!  God shed His grace on thee,''
+:''And crown thy good with brotherhood, from sea to shining sea!''
+
+==Books==
+*[[Lynn Sherr]]'s 2001 book ''America the Beautiful'' discusses the origins of the song and the backgrounds of its authors in depth. ISBN 1-58648-085-5. The book points out that the poem has the same meter as that of &quot;[[Auld Lang Syne]]&quot;; the songs can be sung interchangeably.
+
+*Barbara Younger has written a children's book about the writing of the song: ''Purple Mountain Majesties: The Story of Katharine Lee Bates and &quot;America the Beautiful&quot;''. The book has illustrations by artist Stacey Schuett.
+
+==References==
+{{reflist}}
+
+== Sources/external links ==
+{{Wikisource}}
+*[http://memory.loc.gov/cocoon/ihas/loc.natlib.ihas.200000001/default.html MP3 and RealAudio recordings available at the United States Library of Congress]
+*[http://www.fuzzylu.com/falmouth/bates/america.html 1913 Lyrics (eight stanzas)]
+*[http://www.niehs.nih.gov/kids/lyrics/america.htm Lyrics (four stanzas)]
+*[http://www.nethymnal.org/htm/o/b/obfsskis.htm Midi file of ''America the Beautiful'' from NetHymnal]
+*[http://www.america-beautiful.com/news.php America the Beautiful] in today's news media.
+*[http://harvardsquarelibrary.org/poets/bates.php Biography] of the songwriter, Katharine Lee Bates, part of a Series poet's biographies.
+*[http://www.springsgov.com/Page.asp?NavID=5138 America the Beautiful Park] in Colorado Springs named for Katharine Lee Bates' words.
+*[http://www.brownielocks.com/americathebeautifulWAVE.html Page with lyrical transcription and [[low fidelity]] recording of [[Ray Charles|Ray Charles's]] version of the song]
+*{http://web.me.com/highlandsarchives/The_Highlands_Archives/America.html]  Archival collection of America the Beautiful lantern slides from the 1930s.
+
+{{DEFAULTSORT:America The Beautiful}}
+[[Category:American patriotic songs]]
+[[Category:1895 songs]]
+[[Category:Pikes Peak]]
+[[Category:Alvin and the Chipmunks songs]]
+[[Category:Charlie Rich songs]]
+[[Category:Ray Charles songs]]
+[[Category:Barbra Streisand songs]]
+
+[[de:America the Beautiful]]
+[[es:America The Beautiful]]
+[[nl:America the Beautiful]]
+[[pl:America the Beautiful]]
+[[pt:America the Beautiful]]
+[[zh:美丽的美利坚]]

@@ -1,0 +1,245 @@
+      {{Infobox Language family
+  |name=Austro-Asiatic
+  |altname=Austroasiatic
+  |region=[[South Asia|South]] and [[Southeast Asia]]
+  |familycolor=Austro-Asiatic
+  |family=One of the world's major [[language family|language families]]
+  |child1=[[Mon-Khmer languages|Nuclear Mon-Khmer]]
+  |child2=[[Khasi-Khmuic]]
+  |child3=[[Munda languages|Munda]]
+  |iso5=aav
+  |map=[[Image:Se asia lang map.png|center|300px|Austro-Asiatic languages]]
+}}
+The '''Austro-Asiatic languages''' are a large [[language family]] of [[Southeast Asia]], and also scattered throughout [[India]] and [[Bangladesh]]. The name comes from the [[Latin]] word for &quot;south&quot; and the [[Greek language|Greek]] name of [[Asia]], hence &quot;[[South Asia]].&quot; Among these languages, only [[Vietnamese language|Vietnamese]], [[Khmer language|Khmer]], and [[Mon language|Mon]] have a long established recorded history, and only Vietnamese and Khmer have official status (in Vietnam and Cambodia, respectively). The rest of the languages are spoken by minority groups. [[Ethnologue]] identifies 168 Austro-Asiatic languages. These are traditionally divided into two families, [[Mon-Khmer languages|Mon-Khmer]] and [[Munda languages|Munda]], but two recent classifications have abandoned Mon-Khmer as a valid node, albeit tentatively and not generally accepted. 
+
+Austro-Asiatic languages have a disjunct distribution across India, Bangladesh and Southeast Asia, separated by regions where other languages are spoken. It is widely believed that the Austro-Asiatic  languages are the [[autochthonous language]]s of Southeast Asia and the eastern [[Indian subcontinent]], and that the other languages of the region, including the [[Indo-European languages|Indo-European]], [[Kradai languages|Kradai]], [[Dravidian languages|Dravidian]] and [[Sino-Tibetan languages]], are the result of later [[human migration|migrations of people]]. There are, for example, Austro-Asiatic words in the [[Tibeto-Burman languages]] of eastern [[Nepal]]. Some linguists have attempted to prove that Austro-Asiatic languages are related to [[Austronesian languages]], thus forming the [[Austric languages|Austric]] superfamily.
+
+The Austro-Asiatic languages are well known for having a &quot;sesqui-syllabic&quot; pattern, with basic nouns and verbs consisting of a reduced [[minor syllable]] plus a full syllable. Many of them also have [[infix]]es.
+
+==Classification==
+Linguists traditionally recognize two primary divisions of Austro-Asiatic: the [[Mon-Khmer languages]] of Southeast Asia, [[North-East India|Northeast India]] and the [[Nicobar Islands]], and the [[Munda languages]] of [[East India|East]] and Central India and parts of Bangladesh. However, no evidence for this classification has ever been published, and it is possible that the linguistic classification has been influenced by researchers' subjective perception of a racial dichotomy between the speakers of languages that have traditionally been classified as Mon-Khmer and those that have traditionally been classified as Munda.
+
+Each of the families that is written in boldface type below is accepted as a valid clade. However, the relationships between these families within Austro-Asiatic is debated; in addition to the traditional classification, two recent proposals are given, neither of which accept traditional Mon-Khmer as a valid unit. It should be noted that little of the data used for competing classifications has ever been published, and therefore cannot be evaluated by peer review. 
+
+===Gérard Diffloth (2005)=== 
+[[Gérard Diffloth|Diffloth]] compares reconstructions of various clades, and attempts to classify them based on shared innovations. As a schematic, we have:
+
+{{clade
+|label1=Austro-&amp;nbsp;&lt;br&gt;Asiatic&amp;nbsp;
+|1={{clade
+|label1=&amp;nbsp;[[Munda languages|Munda]]&amp;nbsp;
+|1={{clade
+   |1={{clade
+      |1=Remo
+      |2=Savara
+      }}
+   |2={{clade
+   |1=Kharian-Juang
+   |2={{clade
+   |1=[[Korku]]
+   |2=Kherwarian 
+      }}
+      }}
+    }}
+|label2=&amp;nbsp;Khasi-&amp;nbsp;&lt;br&gt;&amp;nbsp;Khmuic&amp;nbsp;
+|2={{clade
+   |2=[[Khasic languages|Khasian]]
+   |1={{clade
+   |1=[[Khmuic languages|Khmuic]]
+   |2={{clade
+   |1=[[Palyu languages|Pakanic]]
+   |2=[[Palaungic languages|Palaungic]]
+      }}
+      }}
+   }}
+|label3=&amp;nbsp;(Nuclear) &amp;nbsp;{{nowrap|Mon-Khmer}}&amp;nbsp;
+|3={{clade
+   |1={{clade
+   |1={{clade
+   |1=[[Vietic languages|Vietic]]
+   |2=[[Katuic languages|Katuic]] ?&lt;ref name=VK/&gt;
+      }}
+   |2={{clade
+   |1=[[Bahnaric languages|Bahnaric]]
+   |2={{clade
+      |1=[[Khmer language|Khmer]]
+      |2=[[Pearic languages|Pearic]]
+      }}
+      }}
+      }}
+   |2={{clade
+   |1=[[Nicobarese languages|Nicobarese]]
+   |2={{clade
+   |1=[[Aslian languages|Aslian]]
+   |2=[[Monic languages|Monic]]
+      }}
+      }}
+   }}
+}}
+}}
+
+Or in more detail,
+
+* '''[[Munda languages]]''' (India)
+:* '''Koraput''': 7 languages
+:*Core Munda languages
+::* '''Kharian-Juang''': 2 languages
+::*North Munda languages
+::: ''[[Korku language|Korku]]'' 
+::: '''Kherwarian''': 12 languages
+
+* Khasi-Khmuic languages (Northern Mon-Khmer)
+:* '''[[Khasic languages|Khasian]]''': 3 languages of eastern India and Bangladesh
+:*Palaungo-Khmuic languages
+::* '''[[Khmuic languages|Khmuic]]''': 13 languages of Laos and Thailand
+
+::*Palaungo-Pakanic languages
+::: '''Pakanic''' or '''[[Palyu languages|Palyu]]''': 4 or 5 languages of southern China and Vietnam
+::: '''[[Palaungic languages|Palaungic]]''': 21 languages of Burma, southern China, and Thailand
+
+* Nuclear [[Mon-Khmer]] languages
+:* Khmero-Vietic languages (Eastern Mon-Khmer)
+
+::* Vieto-Katuic languages ?&lt;ref name=VK&gt;Sidwell (2005) casts doubt on Diffloth's Vieto-Katuic hypothesis, saying that the evidence is ambiguous, and that it is not clear where Katuic belongs in the family.&lt;/ref&gt;
+::: '''[[Vietic languages|Vietic]]''': 10 languages of Vietnam and Laos, including the [[Vietnamese language]], which has the most speakers of any Austro-Asiatic language.  These are the only Austro-Asiatic languages to have highly developed tone systems.
+::: '''[[Katuic languages|Katuic]]''': 19 languages of Laos, Vietnam, and Thailand.
+
+::* Khmero-Bahnaric languages
+:::* '''[[Bahnaric languages|Bahnaric]]''': 40 languages of Vietnam, Laos, and Cambodia.
+:::*Khmeric languages
+:::: The '''[[Khmer language|Khmer dialects]]''' of Cambodia, Thailand, and Vietnam.
+:::: '''[[Pearic languages|Pearic]]''': 6 languages of Cambodia.
+
+:* Nico-Monic languages (Southern Mon-Khmer)
+::* '''[[Nicobarese languages]]''': 6 languages of the [[Nicobar Islands]], a territory of India.
+
+::* Asli-Monic languages
+::: '''[[Aslian languages|Aslian]]''': 19 languages of peninsular Malaysia] and Thailand.
+::: '''[[Monic languages|Monic]]''': 2 languages, the [[Mon language]] of Burma and the [[Nyah Kur language|Nyahkur language]] of Thailand.
+
+===Ilia Peiros (2004)===
+Peiros is a [[lexicostatistics|lexicostatistic]] classification, based on percentages of shared vocabulary. This means that a language may appear to be more distantly related than it actually is due to [[language contact]], so it is only a starting point for a proper genealogical classification. 
+
+*'''[[Nicobarese languages|Nicobarese]]'''
+*Munda-Khmer
+**'''[[Munda languages|Munda]]'''
+**[[Mon-Khmer languages|Mon-Khmer]]
+***'''[[Khasi language|Khasi]]'''
+***Nuclear Mon-Khmer
+****Mangic ([[Mang language|Mang]] + [[Palyu languages|Palyu]]) (perhaps in Northern MK)
+****'''[[Vietic languages|Vietic]]''' (perhaps in Northern MK)
+****Northern Mon-Khmer
+*****'''[[Palaungic languages|Palaungic]]''' 
+*****'''[[Khmuic languages|Khmuic]]''''
+****Central Mon-Khmer
+*****'''[[Khmer language|Khmer]]''' dialects
+*****'''[[Pearic languages|Pearic]]'''
+*****Asli-Bahnaric
+******'''[[Aslian languages|Aslian]]'''
+******Mon-Bahnaric
+*******'''[[Monic languages|Monic]]'''
+*******Katu-Bahnaric
+********'''[[Katuic languages|Katuic]]'''
+********'''[[Bahnaric languages|Bahnaric]]'''
+
+===Diffloth (1974)=== 
+Diffloth's widely cited original classification, now abandoned by Diffloth himself, is used in ''[[Encyclopædia Britannica]]'' and—except for the breakup of Southern Mon-Khmer—in ''Ethnologue.'' 
+
+*'''[[Munda languages|Munda]]'''
+**North Munda
+*** Korku
+***'''Kherwarian'''
+**South Munda
+***'''Kharia-Juang'''
+***'''Koraput Munda'''
+*[[Mon-Khmer languages|Mon-Khmer]]
+**Eastern Mon-Khmer
+***'''[[Khmer language|Khmer]]''' (Cambodian)
+***'''[[Pearic languages|Pearic]]''' 
+***'''[[Bahnaric languages|Bahnaric]]''' 
+***'''[[Katuic languages|Katuic]]''' 
+***'''[[Vietic languages|Vietic]]''' (includes Vietnamese)
+**Northern Mon-Khmer
+***'''[[Khasi language|Khasi]]''' ([[Meghalaya]], [[India]])
+***'''[[Palaungic languages|Palaungic]]''' 
+***'''[[Khmuic languages|Khmuic]]''' 
+**Southern Mon-Khmer
+***'''[[Mon language|Mon]]'''
+***'''[[Aslian languages|Aslian]]''' ([[Peninsular Malaysia|Malaya]])
+***'''[[Nicobarese languages|Nicobarese]]''' ([[Nicobar Islands]])
+
+==Protolanguage==
+Sidwell (2005) reconstructs the consonant inventory of proto-Mon Khmer as follows: 
+
+{| class=&quot;IPA wikitable&quot;
+|*p||*t||*c||*k||*ʔ
+|-
+|*b||*d||*ɟ||*ɡ||
+|-
+|*ɓ||*ɗ||*ʄ|| ||
+|-
+|*m||*n||*ɲ||*ŋ||
+|-
+|*w||*l, *r||*j|| ||
+|-
+| ||*s|| || ||*h
+|}
+This is identical to earlier reconstructions except for {{IPA|*ʄ}}, which is better preserved in the [[Katuic languages]] which Sidwell specializes in than in other branches of Austro-Asiatic.
+
+==Notes==
+&lt;references/&gt;
+
+==References==
+{{Nofootnotes|date=December 2008}}
+* Adams, K. L. (1989). ''Systems of numeral classification in the Mon-Khmer, Nicobarese and Aslian subfamilies of Austroasiatic''. Canberra, A.C.T., Australia: Dept. of Linguistics, Research School of Pacific Studies, Australian National University. ISBN 0858833735
+* [[Byomkes Chakrabarti]], ''A Comparative Study of Santali and Bengali'', 1994
+* Filbeck, D. (1978). ''T'in: a historical study''. Pacific linguistics, no. 49. Canberra: Dept. of Linguistics, Research School of Pacific Studies, Australian National University. ISBN 0858831724
+* Hemeling, K. (1907). ''Die Nanking Kuanhua''. (German language)
+* Peck, B. M., Comp. (1988). ''An Enumerative Bibliography of South Asian Language Dictionaries''.
+* Peiros, Ilia. 1998. ''Comparative Linguistics in Southeast Asia.'' Pacific Linguistics Series C-142. Canberra, Australian National University.
+* Shorto, Harry L. edited by Sidwell, Paul, Cooper, Doug and Bauer, Christian (2006). ''A Mon-Khmer comparative dictionary''. Canberra: Australian National University. Pacific Linguistics. ISBN 0-85883-570-3
+* Shorto, H. L. ''Bibliographies of Mon-Khmer and Tai Linguistics''. London oriental bibliographies, v. 2. London: Oxford University Press, 1963.
+* Sidwell, Paul (2005) &quot;Proto-Katuic Phonology and the Sub-grouping of Mon-Khmer Languages&quot;. In Sidwell, ed., ''SEALSXV: papers from the 15th meeting of the Southeast Asian Linguistic Society.''
+* Zide, Norman H., and Milton E. Barker. (1966) ''Studies in Comparative Austroasiatic Linguistics'', The Hague: Mouton (Indo-Iranian monographs, v. 5.).
+
+==External links==
+{{commonscat|Austro-Asiatic languages}}
+*[http://www.anu.edu.au/~u9907217/languages/languages.html Mon-Khmer.com: Lectures by Paul Sidwell]
+*[http://www.ethnologue.com/show_family.asp?subid=90152 Ethnologue classification]
+*[http://sealang.net/mk/ Mon-Khmer languages at SEAlang]
+{{Language families}}
+
+[[Category:Austro-Asiatic languages| ]]
+
+[[bn:অস্ট্রো-এশীয় ভাষাসমূহ]]
+[[br:Yezhoù aostrez-aziatek]]
+[[cs:Austroasijské jazyky]]
+[[da:Austroasiatiske sprog]]
+[[de:Austroasiatische Sprachen]]
+[[el:Αυστροασιατικές γλώσσες]]
+[[es:Lenguas austroasiáticas]]
+[[eo:Aŭstralazia lingvaro]]
+[[fr:Langues austroasiatiques]]
+[[ko:오스트로아시아어족]]
+[[ilo:Pagsasao nga Austro-Asiatica]]
+[[id:Bahasa Austro-Asiatik]]
+[[kn:ಆಸ್ಟ್ರೋ-ಏಷ್ಯಾಟಿಕ್ ಭಾಷೆಗಳು]]
+[[la:Linguae Austroasiaticae]]
+[[lt:Austroazinės kalbos]]
+[[hu:Ausztroázsiai nyelvcsalád]]
+[[mk:Австро-азијатски јазици]]
+[[ms:Bahasa Austro-Asia]]
+[[nl:Austroaziatische talen]]
+[[ja:オーストロアジア語族]]
+[[no:Austroasiatiske språk]]
+[[oc:Lengas austroasiaticas]]
+[[pl:Języki austroazjatyckie]]
+[[pt:Línguas austro-asiáticas]]
+[[qu:Urin anti asya rimaykuna]]
+[[ru:Австроазиатские языки]]
+[[sr:Аустроазијски језици]]
+[[fi:Austroaasialaiset kielet]]
+[[sv:Austroasiatiska språk]]
+[[th:ตระกูลภาษาออสโตรเอเชียติก]]
+[[vi:Hệ ngôn ngữ Nam Á]]
+[[zh:南亚语系]]

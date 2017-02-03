@@ -1,0 +1,265 @@
+      {{redirect|Selflessness|the 1965 jazz album|Selflessness: Featuring My Favorite Things}}
+{{for|the ethical doctrine|Altruism (ethics)}}
+
+[[File:Belisaire demandant l'aumone Jacques-Louis David.jpg|thumb|Giving [[alms]] to the poor is often considered an altrustic action in many cultures and religions.]]
+'''Altruism''' (from {{lang-la|alter}}: the other) is the deliberate pursuit of the interests or [[welfare]] of others or the public interest.
+
+==The notion of altruism==
+
+The concept has a long history in [[philosophical]] and [[ethical]] thought, and has more recently become a topic for [[psychologists]] (especially [[evolutionary psychology]] researchers), [[sociologists]], [[evolutionary biologists]], and [[ethology|ethologists]]. While ideas about '''altruism''' from one field can have an impact on the other fields, the different methods and focuses of these fields lead to different perspectives on altruism.
+
+==Scientific viewpoints==
+====Ethology====
+{{main|Altruism in animals|Evolution of morality|Evolutionary ethics}}
+In the science of [[ethology]] (the study of animal behaviour), and more generally in the study of [[social evolution]], altruism refers to behaviour by an individual that increases the [[fitness (biology)|fitness]] of another individual while decreasing the fitness of the actor.&lt;ref name=Bell2008&gt;{{Citation
+ | last = Bell | first =  Graham
+ | year = 2008
+ | title = Selection: the mechanism of evolution
+ | pages = 367–368
+ | isbn = 0198569726
+ | publisher = Oxford University Press
+ | location = Oxford
+}}&lt;/ref&gt; Researchers on alleged altruist behaviours among animals have been ideologically opposed to the [[social Darwinism|social Darwinist]] concept of the &quot;[[survival of the fittest]]&quot;, under the name of &quot;survival of the nicest&quot;&amp;mdash;the latter not being globally compatible, however, with [[Darwinism|Darwin's]] [[theory of evolution]]. Insistence on such cooperative behaviours between animals was first exposed by the Russian zoologist and anarchist [[Peter Kropotkin]] in his 1902 book, ''[[Mutual Aid: A Factor of Evolution]]''.
+
+Recent developments in [[game theory]] (see [[ultimatum game]]) have provided some explanations for apparent altruism, as have traditional evolutionary analyses. Among the proposed mechanisms are:
+
+* Behavioural manipulation (for example, by certain [[parasites]] that can alter the behavior of the host)
+* [[Bounded rationality]] (for example, [[Herbert Simon]])
+* [[Conscience]]
+* [[Kin selection]] including [[eusociality]] (see also &quot;[[selfish gene]]&quot;)
+* [[Meme]]s (by influencing behaviour to favour their own spread, for example, [[religion]])
+* [[Reciprocal altruism]], mutual aid
+* Selective investment theory&lt;ref&gt;Brown, S.L. &amp; Brown, R.M. (2006). [http://www.si.umich.edu/ICOS/Brown-Stephanie.pdf Selective investment theory: Recasting the functional significance of close relationships.] ''Psychological Inquiry, 17,'' 1-29.&lt;/ref&gt; - a theoretical proposal for the evolution of long-term, high-cost altruism
+* [[Sexual selection]], in particular, the [[Handicap principle]]
+* [[Reciprocity (social psychology)]]
+** Indirect reciprocity (for example, [[reputation]])
+** Strong reciprocity&lt;ref&gt;{{cite journal
+ |author=[[Herbert Gintis]]
+ |title=Strong Reciprocity and Human Sociality
+ |journal = [[Journal of Theoretical Biology]]
+ |volume = 206
+ |issue = 2
+ |month = September
+ |year=2000
+ |pages=169&amp;ndash;179
+ |doi = 10.1006/jtbi.2000.2111
+}}&lt;/ref&gt;
+* Pseudo-reciprocity
+
+The study of altruism was the initial impetus behind [[George R. Price]]'s development of the [[Price equation]] which is a mathematical equation used to study genetic evolution. An interesting example of altruism is found in the cellular [[slime mould]]s, such as ''[[Dictyostelid|Dictyostelium]] mucoroides''. These protists live as individual [[amoebae]] until starved, at which point they aggregate and form a multicellular fruiting body in which some cells sacrifice themselves to promote the survival of other cells in the fruiting body. Social behavior and altruism share many similarities to the interactions between the many parts (cells, genes) of an organism, but are distinguished by the ability of each individual to reproduce indefinitely without an absolute requirement for its neighbors.
+
+====Neurology====
+
+Jorge Moll and Jordan Grafman, neuroscientists at the [[National Institutes of Health]] and LABS-D'Or Hospital Network (J.M.) provided the first evidence for the neural bases of altruistic giving in normal healthy volunteers, using [[functional magnetic resonance imaging]]. In their research, published in the [[Proceedings of the National Academy of Sciences]] USA in October, 2006,&lt;ref&gt;Human fronto–mesolimbic networks guide decisions about charitable donation, PNAS 2006:103(42);15623-15628)&lt;/ref&gt; they showed that both pure monetary rewards and charitable donations activated the [[Mesolimbic pathway|mesolimbic]] reward pathway, a primitive part of the brain that usually lights up in response to food and sex. However, when volunteers generously placed their interests of others before their own by making charitable donations, another brain circuit was selectively activated: the subgenual cortex/septal region. These structures are intimately related to social attachment and bonding in other species. Altruism, the experiment suggested, was not a superior moral faculty that suppresses basic selfish urges but rather was basic to the brain, hard-wired and pleasurable.&lt;ref name=&quot;brain&quot;&gt;{{cite news
+|url=http://www.washingtonpost.com/wp-dyn/content/article/2007/05/27/AR2007052701056.html
+|title=If It Feels Good to Be Good, It Might Be Only Natural
+|publisher=Washington Post
+|date=May 2007}}&lt;/ref&gt;
+
+====Genetics====
+
+A new study by [[Samuel Bowles (economist)|Samuel Bowles]] at the [[Santa Fe Institute]] in [[New Mexico]], US, is seen by some as breathing new life into the model of [[group selection]] for Altruism, known as &quot;Survival of the nicest&quot;. Bowles conducted a genetic analysis of contemporary foraging groups, including [[Australian aboriginals]], native [[Siberian]] [[Inuit]] populations and indigenous tribal groups in Africa. It was found that [[hunter-gatherer]] bands of up to 30 individuals were considerably more closely related than was previously thought. Under these conditions, thought to be similar to those of the middle and upper [[Paleolithic]], altruism towards other group-members would improve the overall fitness of the group. 
+
+If an individual defended the group but was killed, any genes that the individual shared with the overall group would still be passed on. Early customs such as food sharing or [[monogamy]] could have levelled out the “cost” of altruistic behaviour, in the same way that income taxes redistribute income in society. He assembled genetic, climactic, archaeological, ethnographic and experimental data to examine the cost-benefit relationship of human cooperation in ancient populations. In his model, members of a group bearing genes for altruistic behaviour pay a &quot;tax&quot; by limiting their reproductive opportunities to benefit from sharing food and information, thereby increasing the average fitness of the group as well as their inter-relatedness. Bands of altruistic humans would then act together to gain resources from other groups at this challenging time in history.&lt;ref&gt;Fisher, Richard (7 December 2006) &quot;Why altruism paid off for our ancestors&quot; (NewScientist.com news service) [http://www.newscientist.com/article/dn10750.html]&lt;/ref&gt;
+
+Altruist theories in evolutionary biology were contested by [[Amotz Zahavi]], the inventor of the signal theory and its correlative, the [[handicap principle]], based mainly on his observations of the [[Arabian Babbler]], a bird commonly known for its surprising (alleged) altruistic behaviours.
+
+==Religious viewpoints==
+{{see also|Evolutionary origin of religions}}
+Most, if not all, of the world's [[religion]]s promote altruism as a very important moral value. [[Judaism]], [[Hinduism]], [[Islam]], [[Christianity]], [[Buddhism]], and [[Sikhism]], etc, place particular emphasis on altruistic morality.
+
+====Christianity====
+
+Altruism was central to the teachings of [[Jesus]] found in the [[Gospel]] especially in the [[Sermon on the Mount]] and the [[Sermon on the Plain]]. From biblical to medieval [[Christian traditions]], tensions between self-affirmation and other-regard were sometimes discussed under the heading of &quot;disinterested love,&quot; as in the [[Paul the Apostle|Pauline]] phrase &quot;love seeks not its own interests.&quot; In his book ''Indoctrination and Self-deception'', Roderick Hindery tries to shed light on these tensions by contrasting them with impostors of authentic self-affirmation and altruism, by analysis of other-regard within creative individuation of the self, and by contrasting love for the few with love for the many. If love, which confirms others in their freedom, shuns propagandas and masks, assurance of its presence is ultimately confirmed not by mere declarations from others, but by each person's experience and practice from within. As in practical arts, the presence and meaning of love become validated and grasped not by words and reflections alone, but in the doing.
+
+Though it might seem obvious that altruism is central to the teachings of Jesus, one important and influential strand of Christianity would qualify this. [[St Thomas Aquinas]] in the ''[[Summa Theologica]]'', I:II Quaestion 26, Article 4 states that we should love ourselves more than our neighbour. His interpretation of the Pauline phrase is that we should seek the common good more than the private good but this is because the common good is a more desirable good for the individual. 'You should love your neighbour as yourself' from [[Leviticus]] 19 and Matthew 22 is interpreted by St Thomas as meaning that love for ourselves is the exemplar of love for others. He does think though, that we should love God more than ourselves and our neighbour, taken as an entirety, more than our bodily life, since the ultimate purpose of love of our neighbour is to share in eternal beatitude, a more desirable thing than bodily well being. Comte was probably opposing this Thomistic doctrine, now part of mainstream Catholicism, in coining the word Altruism, as stated above.
+
+[[Thomas Jay Oord]] has argued in several books that altruism is but one possible form of love. And altruistic action is not always loving action. Oord defines altruism as acting for the good of the other, and he agrees with feminists who note that sometimes love requires acting for one's own good when the demands of the other undermine overall well-being.
+
+====Sikhism====
+Altruism is essential to the Sikh religion. In the late 1600s, [[Guru Gobind Singh]] Ji (the tenth [[guru]] in Sikhism), was in war with the [[Moghul]] rulers to protect the people of different faiths, when a fellow Sikh, [[Bhai Kanhaiya]], attended the troops of the enemy. He gave water to both friends and foes who were wounded on the battlefield. Some of the enemy began to fight again and some Sikh warriors were annoyed by Bhai Kanhaiya as he was helping their enemy. Sikh soldiers brought Bhai Kanhaiya before Guru Gobind Singh Ji, and complained of his action that they considered counterproductive to their struggle on the battlefield.
+&quot;What were you doing, and why?&quot; asked the Guru. &quot;I was giving water to the wounded because I saw your face in all of them,&quot; replied Bhai Kanhaiya. 
+The Guru responded, &quot;Then you should also give them ointment to heal their wounds. You were practicing what you were coached in the house of the Guru.&quot; 
+
+It was under the tutelage of the Guru that Bhai Kanhaiya subsequently founded a volunteer corps for altruism. This volunteer corps still to date is engaged in doing good to others and trains new volunteering recruits for doing the same.&lt;ref&gt;{{Citation
+ | year = 1997
+ | title = The great gurus of the Sikhs, pg, 253
+ | isbn = 8174884793
+ | publisher = Anmol Publications Pvt Ltd.
+ | location = New Delhi
+}}&lt;/ref&gt;
+
+====Kabbalah====
+
+Kabbalah defines altruism as the desired goal of creation. The Kabbalist Rav [[Abraham Kook]] stated that love is the most important attribute in humanity.&lt;ref&gt;{{cite book | last = Kook | first = Abraham Isaac | authorlink = | coauthors = Ben Zion Bokser | title = Abraham Isaac Kook: The lights of penitence, The moral principles, Lights of holiness, essays, letters, and poems | publisher = Paulist Press | date = 1978 | location = | pages = 135-136 | url = | doi = | id = | isbn = 9780809121595 }}&lt;/ref&gt; This is defined as [[bestowal]], or giving, which is the intention of altruism. This can be altruism towards humanity that leads to altruism towards the creator or [[God]]. Kabbalah defines [[God]] as the force of giving in [[existence]]. Rabbi [[Moshe Chaim Luzzatto]] in particular focused on the ‘purpose of creation’ and how the will of [[God]] was to bring creation into perfection and adhesion with this upper force.&lt;ref&gt;{{cite book | last = Luzzatto | first = Moshe Ḥayyim | authorlink = | coauthors = | title = The way of God | publisher = Feldheim Publishers | date = 1997 | location = | pages = 37-38 | url = | doi = | id = | isbn = 9780873067690 }}&lt;/ref&gt;
+
+Modern Kabbalah developed by Rabbi [[Yehuda Ashlag]], in his writings about the future generation, focuses on how society could achieve an altruistic social framework.&lt;ref&gt;{{cite book | last = Ashlag | first = Yehuda | authorlink = | coauthors = | title = Building the Future Society | publisher = Laitman Kabbalah Publishers | date = 2006 | location = Thornhill, Canada | pages = 120-130 | url = http://www.kabbalah.info/eng/content/view/frame/3811?/eng/content/view/full/3811&amp;main | doi = | id = | isbn = 9657065348 }}&lt;/ref&gt; Ashlag proposed that such a framework is the purpose of creation, and everything that happens is to raise humanity to the level of altruism, love for one another. Ashlag focused on society and its relation to [[divinity]].&lt;ref&gt;{{cite book | last = Ashlag | first = Yehuda | authorlink = | coauthors = | title = Building the Future Society | publisher = Laitman Kabbalah Publishers | date = 2006 | location = Thornhill, Canada | pages = 175-180 | url = http://www.kabbalah.info/eng/content/view/frame/3811?/eng/content/view/full/3811&amp;main | doi = | id = | isbn = 9657065348 }}&lt;/ref&gt;
+
+====Sufism====
+
+In [[Sufism]], the concept of [[I’thar]] is the notion of ‘preferring others to oneself’. For Sufis, this means devotion to others through complete forgetfulness of one's own concerns. The importance lies in sacrifice for the sake of the greater good; [[Islam]] considers those practicing i'thar as abiding by the highest degree of nobility.&lt;ref&gt;{{Citation
+ | last = M
+ | year = 2004
+ | title = Key concepts in the practice of Sufism: emerald hills of the heart, pg. 10-11
+ | isbn = 1932099751
+ | publisher = Fountain
+ | location = Rutherford, N.J.
+}}&lt;/ref&gt;
+This is similar to the notion of chivalry, but unlike the European concept there is a focus on attention to everything in existence. A constant concern for [[Allah]] results in a careful attitude towards people, animals, and other things in this world.&lt;ref name=Neusner2005&gt;{{Citation
+ | last = Neusner | first =  Jacob Eds
+ | year = 2005
+ | title = Altruism in world religions, pg. 79-80
+ | isbn = 1589010655
+ | publisher = Georgetown Univ. Press
+ | location = Washington, D.C.
+}}&lt;/ref&gt;
+This concept was emphasized by Sufi mystics like [[Rabia al-Adawiyya]] who paid attention to the difference in dedication to Allah and dedication to people.
+
+====Buddhism====
+ 
+{{Main| Karma in Buddhism}}
+In Buddhism, ''karma'' (Pāli ''kamma'') is strictly distinguished from '''''[[vipaka|vipāka]]''''', meaning &quot;fruit&quot; or &quot;result&quot;. Karma is categorized within the group or groups of cause (Pāli ''hetu'') in the [[Twelve nidanas|chain]] of [[Pratitya-samutpada|cause and effect]], where it comprises the elements of &quot;volitional activities&quot; (Pali ''sankhara'') and &quot;action&quot; (Pali ''bhava''). Any action is understood to create &quot;seeds&quot; in the mind that will sprout into the appropriate result (Pāli ''vipaka'') when they meet with the right conditions. Most types of karmas, with good or bad results, will keep one within the wheel of [[Samsara (Buddhism)|samsāra]]; others will liberate one to [[nirvana|nirvāna]]. 
+
+Buddhism relates karma directly to motives behind an action. Motivation usually makes the difference between &quot;good&quot; and &quot;bad&quot;, but included in the motivation is also the aspect of ignorance; so a well-intended action from an ignorant mind can easily be &quot;bad&quot; in the sense that it creates unpleasant results for the &quot;actor&quot;.
+
+In Buddhism, karma is not the only cause of everything that happens. The commentarial tradition classifed causal mechanisms governing the universe as taught in the early texts in five categories, known as Niyama Dhammas:&lt;ref&gt;[[Caroline Augusta Foley Rhys Davids]], ''Buddhism.'' Reprint by Read Books, 2007, [http://books.google.com/books?id=LljcZ_LBeL0C&amp;pg=PA119&amp;dq=Bija+Niyama&amp;lr=].&lt;/ref&gt;&lt;ref&gt;Padmasiri De Silva, ''Environmental philosophy and ethics in Buddhism.'' Macmillan, 1998, page 41. [http://books.google.com/books?id=M4T3C6ndfZIC&amp;pg=PA41&amp;dq=Bija+Niyama#PPA41,M1].&lt;/ref&gt;
+
+* Kamma Niyama  — Consequences of one's actions
+* Utu Niyama  — Seasonal changes and climate
+* Biija Niyama  — Laws of heredity
+* Citta Niyama — Will of mind
+* Dhamma Niyama — Nature's tendency to produce a perfect type
+
+====Vedanta====
+
+[[Vedanta]] disagree with the [[Buddhist]] views, [[Jain]] views and other Hindu views that karma is merely a law of cause and effect but instead additionally hold that karma is mediated by the will of a personal supreme God.
+
+[[Swami Sivananda]], an [[Advaita]] scholar, reiterates the same views in his commentary synthesising Vedanta views on the [[Brahma Sutras]], a Vedantic text. In his commentary on Chapter 3 of the Brahma Sutras, Sivananda notes that karma is insentient and short-lived, and ceases to exist as soon as a deed is executed. Hence, karma cannot bestow the fruits of actions at a future date according to one's merit. Furthermore, one cannot argue that karma generates [[apurva]] or [[punya]], which gives fruit. Since apurva is non-sentient, it cannot act unless moved by an intelligent being such as God. It cannot independently bestow reward or punishment.&lt;ref&gt;Sivananda, Swami. ''Phaladhikaranam, Topic 8'', Sutras 38-41.&lt;/ref&gt;
+
+==See also==
+{{Colbegin|3}} 
+* [[Altruism (ethics)]]
+* [[Altruism in animals]]
+* [[Altruria]]
+* [[Charity (practice)]]
+* [[Charitable organization]]
+* [[Egoism]]
+* [[Empathy-altruism]]
+* [[Empathy]]
+* [[Family economics]]
+* [[Gene-centered view of evolution]]
+* [[Justice (economics)]]
+* [[Kin selection]]
+* [[Misanthropy]]
+* [[mutual aid]]
+* [[Philanthropy]]
+* [[Prosocial behavior]]
+* [[Random acts of kindness]]
+* [[Reciprocal altruism]]
+* [[Reverse commons]]
+* [[Selfishness]]
+* [[Social psychology]]
+* [[Solidarity (sociology)]]
+* [[Tit for tat]]
+{{Colend}}
+
+==References==
+===Notes===
+{{reflist}}
+
+===Bibliography===
+{{Refbegin|2}}
+*[[Thomas Jay Oord|Oord, Thomas Jay]] (2007). ''The Altruism Reader: Selections from Writings on Love, Religion, and Science'' (Philadelphia: [[Templeton Foundation Press]]). ISBN 978-1599471273
+*Batson, C.D. (1991). ''The altruism question''. Hillsdale, NJ: [[Lawrence Erlbaum Associates]]. ISBN 978-0805802450
+*Nowak MA (2006). Five rules for the evolution of cooperation. Science 314: 1560-1563.[http://www.ped.fas.harvard.edu/people/faculty/publications_nowak/Nowak_Science06.pdf]
+*Fehr, E. &amp; Fischbacher, U. ([[23 October]] [[2003]]). The nature of human altruism. In ''Nature, 425'', 785{{ndash}} 791.
+*[[August Comte|Comte, Auguste]], ''Catechisme positiviste'' (1852) or ''Catechism of Positivism'', tr. R. Congreve, (London: Kegan Paul, 1891)
+*[[Trevor Knox|Knox, Trevor]], ''The Volunteer's Folly and Socio-Economic Man: Some Thoughts On Altruism, Rationality, and Community'', Journal of Socio-Economics 28 (1999), 475-492
+*[[Peter Kropotkin|Kropotkin, Peter]], ''[[Mutual Aid: A Factor of Evolution]]'' (1902)
+* Oord, Thomas Jay, ''Science of Love: The Wisdom of Well-Being.''  (Philadelphia: Templeton Foundation Press, 2004). ISBN 978-1932031706
+*[[Nietzsche, Friedrich]], ''[[Beyond Good and Evil]]''
+*[[Pierre-Joseph Proudhon]], ''The Philosophy of Poverty'' (1847)
+*[[Lysander Spooner]], ''Natural Law''
+*[[Matt Ridley]], ''[[The Origins of Virtue]]''
+*Oliner, Samuel P. and Pearl M. Towards a Caring Society: Ideas into Action. West Port, CT: Praeger, 1995.
+* ''[[The Evolution of Cooperation]]'', [[Robert Axelrod]], Basic Books, ISBN 0-465-02121-2
+*''[[The Selfish Gene]]'', [[Richard Dawkins]] (1990), second edition—includes two chapters about the evolution of cooperation, ISBN 0-19-286092-5
+*[[Robert Wright (journalist)|Robert Wright]], ''The moral animal'', Vintage, 1995, ISBN 0-679-76399-6.
+*Madsen, E.A., Tunney, R., Fieldman, G., [[Henry Plotkin|Plotkin, H.C.]], [[Robin Dunbar|Dunbar, R.I.M.]], Richardson, J.M., &amp; McFarland, D. (2006) Kinship and altruism: A cross-cultural experimental study. ''British Journal of Psychology''
+*Wedekind, C. and Milinski, M. Human Cooperation in the simultaneous and the alternating Prisoner's Dilemma: Pavlov versus Generous Tit-for-tat. ''Evolution'', Vol. 93, pp. 2686–2689, April 1996.
+*Monk-Turner, E., Blake, V., Chniel, F., Forbes, S., Lensey, L., Madzuma, J.: Gender Issues, Helping Hands: A Study of Altruistic Behavior, Fall 2002, pp. 65–70
+{{Refend}}
+
+==External links==
+{{wiktionary|altruism}}
+*Society
+**[http://altruists.org/215 What is Altruism?] from Altruists International
+*Philosophy and Religion
+**[http://www.kabbalah.info/engkab/kabbalah-video-clips/giving-and-receiving &quot;Giving and Receiving&quot;] from ''Kabbalah.info''
+**[http://them.polylog.org/3/fcs-en.htm Selflessness: Toward a Buddhist Vision of Social Justice] by [[Sungtaek Cho]]
+**[http://www.empathy.se/Empathyeng/index.htm Organizes knowledge about empathy/altruism across disciplines] 
+*The Sciences
+**[http://www.in-mind.org/issue-6/altruism-myth-or-reality.html Altruism: Myth or Reality?]
+**[http://plato.stanford.edu/entries/altruism-biological/ Biological Altruism] at the [[Stanford Encyclopedia of Philosophy]]
+**[http://www.humboldt.edu/~altruism/home.html The Altruistic Personality and Prosocial Behavior Institute] at [[Humboldt State University]]
+**{{cite journal
+ |author=Dharol Tankersley, C. Jill Stowe &amp; Scott A. Huettel
+ |title=Altruism is associated with an increased neural response to agency
+ |journal = [[Nature (journal)|Nature]]
+ |volume = 10
+ |pages=150&amp;ndash;151
+ |year=2007
+ |date=21 January 2007
+ |doi = 10.1038/nn1833
+ |url=http://www.nature.com/neuro/journal/v10/n2/abs/nn1833.html
+}}
+** [http://peacecenter.berkeley.edu/greatergood/ Greater Good magazine examines the roots of Altruism] at the [[University of California, Berkeley]]
+** [http://www.bbc.co.uk/radio4/history/inourtime/inourtime_20061123.shtml BBC Radio 4's In Our Time programme on Altruism] (requires [[RealAudio]])
+
+{{Philosophy topics}}
+{{Charity}}
+
+[[Category:Altruism| ]]
+[[Category:Evolution by phenotype]]
+[[Category:Philanthropy]]
+[[Category:Social philosophy]]
+[[Category:Core issues in ethics]]
+[[Category:Morality]]
+[[Category:Defence mechanism]]
+[[Category:Social psychology]]
+
+[[ar:إيثار]]
+[[bs:Altruizam]]
+[[bg:Алтруизъм]]
+[[ca:Altruisme]]
+[[cs:Altruismus]]
+[[da:Altruisme]]
+[[de:Altruismus]]
+[[et:Altruism]]
+[[es:Altruismo]]
+[[eo:Altruismo]]
+[[fr:Altruisme]]
+[[hr:Altruizam]]
+[[id:Altruisme]]
+[[is:Ósérplægni]]
+[[it:Altruismo]]
+[[he:זולתנות]]
+[[ka:ალტრუიზმი]]
+[[lt:Altruizmas]]
+[[hu:Altruizmus]]
+[[ms:Altruisme]]
+[[nl:Altruïsme]]
+[[ja:奉仕]]
+[[no:Altruisme]]
+[[nn:Altruisme]]
+[[pl:Altruizm]]
+[[pt:Altruísmo]]
+[[ru:Альтруизм]]
+[[sk:Altruizmus]]
+[[sl:Altruizem]]
+[[sr:Алтруизам]]
+[[fi:Altruismi]]
+[[sv:Altruism]]
+[[tr:Diğerkâmlık]]
+[[uk:Альтруїзм]]
+[[zh:利他主义]]

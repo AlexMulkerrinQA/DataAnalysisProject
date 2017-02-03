@@ -1,0 +1,59 @@
+      This article is about the [[demographics|demographic]] features of the [[population]] of [[Angola]], including [[population density]], [[Ethnic group|ethnicity]], education level, health of the populace, economic status, religious affiliations and other aspects of the population.
+
+[[Image:Angola demography.png|thumb|300px|right|Demographics of [[Angola]], Data of [[Food and Agriculture Organization|FAO]], year 2005 ; Number of inhabitants in thousands.]]
+The '''demographics of [[Angola]]''' consist of three main ethnic groups, each speaking a [[Bantu language]]: [[Ovimbundu]] 37%, [[Mbundu]] 25%, and [[Bakongo]] 13%. Other groups include [[Chokwe]] (or Lunda), [[Ganguela]], [[Nhaneca-Humbe]], [[Ovambo|Ambo]], [[Herero]], and [[Xindunga]]. In addition, mixed race (European and African) people amount to about 2%, with a small (1%) population of whites, mainly ethnically [[Portuguese people|Portuguese]]. Portuguese make up the largest non-African population, with at about 40,000 (though many native-born Angolans can claim Portuguese nationality under Portuguese law). In 1975, 250,000 [[Cuba]]n soldiers arrived in Angola to help the MPLA forces during the civil war. 
+The largest denomination  is [[Roman Catholicism]], but there are also followers of [[Protestantism]], increasingly Pentecostal communities, and [[African Initiated Church]]es. As of 2006, one out of 221 people were [[Jehovah's Witnesses]]. Blacks from Mali, Nigeria, and Senegal are mostly Muslims. By now few Angolans retain [[African Traditional Religion]] following different ethnic faiths.
+
+== CIA World Factbook demographic statistics ==
+
+The following demographic statistics are from the [[CIA World Factbook]], unless otherwise indicated.
+=== Population ===
+[[Image:Angola population pyramid 2005.png|thumb|300px|[[Population pyramid]] for Angola]]
+There are 12,799,293 Angolan citizens as of July 2009, which ranks 70th in the world.
+
+However the results of the voters' registration of 2007-2008, 8.256.000 adults (from 18 years onwards) combined with the data from 2000/2001 that show that only about 45% of the population is in adult age (Multi-Indicator Cluster Survey, INE/UNICEF), give a total population of at least 18,3 million in 2008.The population of the capital Luanda is about 5,3 million.
+
+==== Population distribution ====
+The population is predominately quite young, with 43.7% between the ages of less than one and 14 years old, 2,678,185 males and 2,625,933 females. 53.5% of the population is between the ages of 15 and 64 years old, with 3,291,954 males and 3,195,688 females. 2.8% are 65 years and over, 148,944 males and 186,367 females as of 2006. The median age for males and females is 18 years old.
+
+==== Population growth ====
+The population is growing by 2.184% annually. There are 44.51 births and 24.81 deaths per 1,000 citizens. The net migration rate is 2.14 migrants per 1,000 citizens. The fertility rate of Angola is 6.27 children born per woman as of 2006. The infant mortality rate is 184.44 deaths for every 1,000 live births with 196.55 deaths for males and 171.72 deaths for females for every 1,000 live births. Life expectancy at birth is 37.63 years; 36.73 years for males and 38.57 years for females.
+
+=== Age Structure ===
+*0-14 years: 43.5% (male 2,812,359/female 2,759,047) 
+*15-64 years: 53.7% (male 3,496,726/female 3,382,440)
+*65 years and over: 2.7% (male 153,678/female 195,043) (2009 est.) 
+
+=== Sex ratio ===
+There are 1.05 males for every female with 1.02 males to female for those under the age of 15, 1.03 males for the 15 to 64 age bracket, 0.79 males for the 65 years and over bracket and 1.02 males to female for the total population as of a 2009 estimate.
+
+=== Health ===
+{{seealso|HIV/AIDS in Angola}}
+The adult prevalence rate of HIV/AIDS infection is 3.9% as of 2003. There are 240,000 citizens living with AIDS and 21,000 die annually. The risk of contracting disease is very high. There are food and waterborne diseases, bacterial and protozoal diarrhea, hepatitis A, and typhoid fever; vectorborne diseases, malaria, African trypanosomiasis (sleeping sickness); respiratory disease: meningococcal meningitis, and schistosomiasis, a water contact disease, as of 2005.
+
+=== Ethnic groups ===
+[[Image:Angola tribes 1970.jpg|thumb|right|300px|Ethnic groups of Angola]]
+37% of Angolans are [[Ovimbundu]], 25% are [[Kimbundu]], 13% are [[Bakongo]], 2% are [[mestiço]], 1% are Portuguese, and other ethnicities make up 22% of Angola's population.
+
+=== Religions ===
+{{main|Religion in Angola}}
+Angola is a majority Christian country, with 53% of citizens professing the religion. Most Angolan Christians are [[Roman Catholic]], 38%, or [[Protestant]], 15%. 46.8% of Angolans practice indigenous beliefs.
+
+=== Education===
+{{main|Education in Angola}}
+[[Portuguese language|Portuguese]] is the official language of Angola, but [[Bantu language|Bantu]] and other African languages are also widely spoken. Literacy is quite low, with 67.4% of the population over the age of 15 able to read and write in Portuguese. 82.9% of males and 54.2% of women are literate as of 2001.
+
+== References ==
+&lt;references/&gt;
+*{{CIA World Factbook|year=2007}}
+*{{StateDept}} 2003
+
+{{Africa in topic|Demographics of}}
+
+[[Category:Angolan society]]
+[[Category:Demographics by country|Angola]]
+
+[[bg:Население на Ангола]]
+[[es:Demografía de Angola]]
+[[fr:Démographie de l'Angola]]
+[[pt:Demografia de Angola]]

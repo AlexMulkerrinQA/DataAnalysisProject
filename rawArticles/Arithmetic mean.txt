@@ -1,0 +1,122 @@
+      In [[mathematics]] and [[statistics]], the '''arithmetic [[mean]]''' (or simply the '''mean''') of a list of numbers is the sum of all of the list divided by the number of items in the list.  If the list is a [[statistical population]], then the mean of that population is called a '''population mean'''. If the list is a [[sampling (statistics)|statistical sample]], we call the resulting [[statistic]] a '''sample mean'''.
+
+The mean is the most commonly-used type of [[average]] and is often referred to simply as ''the'' average. The term &quot;mean&quot; or &quot;arithmetic mean&quot; is preferred in mathematics and statistics to distinguish it from other [[average]]s such as the [[median]] and the [[Mode (statistics)|mode]].
+
+==Introduction==
+If we denote a set of data by ''X'' = (''x''&lt;sub&gt;1&lt;/sub&gt;, ''x''&lt;sub&gt;2&lt;/sub&gt;, ..., ''x''&lt;sub&gt;''n''&lt;/sub&gt;), then the sample mean is typically denoted with a horizontal bar over the variable (&lt;math&gt;\bar{x} \,&lt;/math&gt;, enunciated &quot;''x'' bar&quot;).
+
+The [[mu (letter)|Greek letter μ]] is used to denote the arithmetic mean of an entire population.  Or, for a [[random variable]] that has a defined mean, μ is the ''probabilistic mean'' or [[expected value]] of the random number.  If the set ''X'' is a collection of random numbers with probabilistic mean of μ, then for any individual sample, ''x''&lt;sub&gt;''i''&lt;/sub&gt;, from that collection, μ = E{''x''&lt;sub&gt;''i''&lt;/sub&gt;} is the [[expected value]] of that sample.
+
+In practice, the difference between μ and &lt;math&gt;\bar{x} \,&lt;/math&gt; is that μ is typically unobservable because one observes only a sample rather than the whole population, and if the sample is drawn randomly, then one may treat &lt;math&gt;\bar{x} \,&lt;/math&gt;, but not μ, as a [[random variable]], attributing a [[probability distribution]] to it (the [[sampling distribution]] of the mean).
+
+Both are computed in the same way:
+:&lt;math&gt;\bar{x} = \frac{1}{n}\sum_{i=1}^n x_i  =  \frac{1}{n} (x_1+\cdots+x_n).&lt;/math&gt;
+It is a [[U-statistic]] for the function &lt;math&gt;f(x)=x,&lt;/math&gt; meaning that it is obtained by averaging a 1-sample statistic over the population.
+
+If ''X'' is a [[random variable]], then the [[expected value]] of ''X'' can be seen as the long-term arithmetic mean that occurs on repeated measurements of ''X''. This is the content of the [[law of large numbers]]. As a result, the sample mean is used to estimate unknown expected values.
+
+Simple algebra will prove that a mean of ''n''&amp;nbsp;+&amp;nbsp;1 numbers is larger than the mean of ''n'' numbers if and only if the new number is larger than the old mean, smaller if and only if it is smaller, and remains stable if and only if it is equal to the old mean.  The larger ''n'' is, the smaller is the magnitude of the change in the mean relative to the distance between the old mean and the new number.
+
+Note that several other &quot;means&quot; have been defined, including the [[generalized mean]], the [[generalised f-mean|generalized f-mean]], the [[harmonic mean]], the [[arithmetic-geometric mean]], and various [[weighted mean]]s.
+
+===Examples===
+* For three numbers, add them and divide them by 3:
+
+:: &lt;math&gt;\frac{x_1 + x_2 + x_3}{3}.&lt;/math&gt;
+
+* For four numbers, add them and divide by 4:
+
+:: &lt;math&gt;\frac{x_1 + x_2 + x_3 + x_4}{4}.&lt;/math&gt;
+
+==Problems with some uses of the mean==
+===Not robust===
+{{main|Robust statistics}}
+While the mean is often used to report [[central tendency]], it is not a [[robust statistic]], meaning that it is greatly influenced by [[outlier]]s. Notably, for [[skewed distribution]]s, the arithmetic mean may not accord with one's notion of &quot;middle&quot;, and robust statistics such as the [[median]] may be a better description of central tendency.
+
+A classic example is [[average income]]. The arithmetic mean may be misinterpreted as the median to imply that most people's incomes are higher than is in fact the case.  When presented with an &quot;average&quot; one may be led to believe that ''most'' people's incomes are near this number.  This &quot;average&quot; (arithmetic mean) income ''is'' higher than most people's incomes, because high income outliers skew the result higher (in contrast, the median income &quot;resists&quot; such skew). However, this &quot;average&quot; says nothing about the number of people near the median income (nor does it say anything about the modal income that most people are near).  Nevertheless, because one might carelessly relate &quot;average&quot; and &quot;most people&quot; one might incorrectly assume that most people's incomes would be higher (nearer this inflated &quot;average&quot;) than they are. For instance, reporting the &quot;average&quot; [[net worth]] in [[Medina, Washington]] as the arithmetic mean of all annual net worths would yield a surprisingly high number because of [[Bill Gates]]. Consider the scores (1, 2, 2, 2, 3, 9). The arithmetic mean is 3.17, but five out of six scores are below this.
+
+===Compounding===
+{{main|Rate of return}}
+
+If numbers ''multiply'' instead of ''add,'' one should average using the [[geometric mean]], not the arithmetic mean. This most often happens when computing the [[rate of return]], as in finance.
+
+For example, if a stock fell 10 % in the first year, and rose 30 % in the second year, then it would be incorrect to report its &quot;average&quot; increase per year over this two year period as the arithmetic mean (&amp;minus;10 % + 30 %)/2 = 10 %; the correct average in this case is the [[compound annual growth rate]], which yields an annualized increase per year of only 8.2 %.
+
+The reason for this is that each of those percents have different starting points: the 30% is 30% ''of a smaller number''. If the stock starts at $30 and falls 10 %, it is now at $27. If the stock then rises 30 %, it is now $35.1. The arithmetic mean of those rises is 10 %, but since the stock rose by $5.1 in 2 years, an [[average]] of 8.2 % would result in the final $35.1 figure [$30(1-10 %)(1+30 %) = $30(1+8.2 %)(1+8.2 %) = $35.1]. If one used the arithmetic mean 10 % in the same way, one would not get the actual increase [$30(1+10 %)(1+10 %) = $36.3].
+
+Stated generally, compounding yields 90% * 130% = 117% overall growth, and annualizing yields &lt;math&gt;\sqrt{117%}\approx 108.2%&lt;/math&gt;, so 8.2% per year.
+
+===Directions===
+{{main|Directional statistics}}
+Particular care must be taken when using cyclic data such as phases or [[angle]]s. Naïvely taking the arithmetic mean of 1° and 359° yields a result of 180°.
+This is incorrect for two reasons:
+* Firstly, angle measurements are only defined up to a factor of [[Degree (angle)|360°]] (or 2π, if measuring in [[radian]]s). Thus one could as easily call these 1° and -1°, or 1° and 719° – each of which gives a different average.
+* Secondly, in this situation, 0° (equivalently, 360°) is geometrically a better ''average'' value: there is lower [[statistical dispersion|dispersion]] about it (the points are both 1° from it, and 179° from 180°, the putative average).
+
+In general application such an oversight will lead to the average value artificially moving towards the middle of the numerical range.  A solution to this problem is to use the optimization formulation (viz, define the mean as the central point: the point about which one has the lowest dispersion), and redefine the difference as a modular distance (i.e., the distance on the circle: so the modular distance between 1° and 359° is 2°, not 358°).
+
+==See also==
+{{Statistics portal}}
+&lt;div style=&quot;-moz-column-count:3; column-count:3;&quot;&gt;
+* [[Average]]
+* [[Mean]]
+* [[mode (statistics)|Mode]]
+* [[Median]]
+* [[Summary statistics]]
+* [[Central tendency]]
+* [[Generalized mean]]
+* [[Geometric mean]]
+* [[Variance]]
+* [[Standard deviation]]
+* [[Inequality of arithmetic and geometric means]]
+* [[Muirhead's inequality]]
+* [[Sample size]]
+* [[Sample mean and covariance]]
+* [[Empirical measure]]
+&lt;/div&gt;
+
+==Further reading==
+*[[Darrell Huff]], ''How to lie with statistics'', Victor Gollancz, 1954 (ISBN 0-393-31072-8).
+
+==External links==
+*[http://www.sengpielaudio.com/calculator-geommean.htm Calculations and comparisons between arithmetic and geometric mean between two numbers]
+* [http://www.mathalino.com/reviewer/derivation-of-formulas/relationship-between-arithmetic-mean-harmonic-mean-and-geometric-mea Relationship between arithmetic mean, harmonic mean, and geometric mean of two numbers]
+*[http://people.revoledu.com/kardi/tutorial/BasicMath/Average/index.html Mean or Average]
+
+{{Statistics}}
+
+[[Category:Means]]
+
+&lt;!-- interwiki --&gt;
+
+[[ar:متوسط حسابي]]
+[[bg:Средно аритметично]]
+[[ca:Mitjana aritmètica]]
+[[cs:Aritmetický průměr]]
+[[de:Arithmetisches Mittel]]
+[[es:Media aritmética]]
+[[eo:Averaĝo]]
+[[eu:Batezbesteko aritmetiko sinple]]
+[[fa:میانگین حسابی]]
+[[fr:Moyenne arithmétique]]
+[[gl:Media aritmética]]
+[[ko:산술 평균]]
+[[hr:Aritmetička sredina]]
+[[lt:Aritmetinis vidurkis]]
+[[hu:Számtani közép]]
+[[nl:Rekenkundig gemiddelde]]
+[[km:មធ្យមនព្វន្ធ]]
+[[pl:Średnia arytmetyczna]]
+[[pt:Média aritmética]]
+[[ro:Medie aritmetică]]
+[[ru:Среднее арифметическое]]
+[[sk:Aritmetický priemer]]
+[[sl:Aritmetična sredina]]
+[[fi:Aritmeettinen keskiarvo]]
+[[sv:Aritmetiskt medelvärde]]
+[[th:มัชฌิมเลขคณิต]]
+[[vi:Trung bình cộng]]
+[[tr:Aritmetik ortalama]]
+[[uk:Середнє арифметичне]]
+[[ur:نمونہ اوسط]]
+[[zh:算术平均数]]

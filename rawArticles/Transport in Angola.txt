@@ -1,0 +1,172 @@
+      '''Transport in [[Angola]]''' comprises:
+== Railways ==
+* ''total:'' 2,761&amp;nbsp;km
+* ''narrow gauge:'' mainly 2,638&amp;nbsp;km of {{RailGauge|1067}} ([[Cape gauge]]). There is also 123&amp;nbsp;km of {{RailGauge|600}} [[Rail gauge|gauge]] (2002)
+
+There are three separate lines which do not link up. The major railway is the [[Benguela railway]]. A fourth system once linked [[Gunza]] and [[Gabala (Angola)|Gabala]].
+
+Railways in Angola suffered a lot of damage in the civil war, particularly the [[Benguela railway]]. A $4b project is proposed to restore the lines, and even to extend the system.  It was reported in January 2008 that the repair of the Northern Line (a.k.a. Luanda Railway), 
+started in October 2003 will be completed by August 2008. The work was carried out by the Chinese firm [[MEC-TEC]].&lt;ref name=aa20080122&gt;[http://allafrica.com/stories/200801220124.html Angola: Repair of Luanda Railway Complete in August]&lt;/ref&gt;
+
+A link to Namibia is partly under construction. 
+
+=== Railway links to adjacent countries ===
+
+* {{flagicon|Congo}} [[Transport in the Republic of the Congo|Republic of Congo]] - no - same {{RailGauge|1067mm}} gauge
+* {{flagicon|Democratic Republic of the Congo}} [[Transport in the Democratic Republic of the Congo|DR Congo]] - no - [[Lobito]] - [[Lubumbashi]] restoration of link proposed.
+* {{flagicon|Namibia}} [[Transport in Namibia|Namibia]] - no - same gauge - links proposed and partially under construction in 2005.
+* {{flagicon|Zambia}} [[Transport in Zambia|Zambia]] - no
+
+=== Maps ===
+* [http://www.un.org/Depts/Cartographic/map/profile/angola.pdf UNJLC Map]
+* [http://www.reliefweb.int/rw/fullMaps_Af.nsf/luFullMap/4C2BCBA5561DCD498525706900768B6A/$File/unhcr_REF_ago300605.pdf?OpenElement Map]
+
+=== Towns served by rail ===
+{{Main|Railway stations in Angola}}
+==== North line ([[Luanda Railway]])====
+(originally {{RailGauge|1000mm}} gauge, [[Gauge conversion|converted]] to {{RailGauge|1067mm}} in 1950s)
+* [[Luanda]] - port - capital
+* [[Caxito]] - branch [[Railhead|terminus]]
+* [[Ndalatando]]
+* [[Golungo Alto]] - branch terminus
+* [[Zenza do Itombel]] - junction
+* [[Dondo, Angola|Dondo]] - branch terminus
+* [[Malanje]] - terminus
+* [[Musseques]]
+* [[Viana, Angola|Viana]]
+
+==== Middle line ====
+({{RailGauge|610mm}} gauge)
+
+* [[Gunza]] - port
+* [[Gabala (Angola)|Gabala]] - [[Railhead|terminus]] at [[Mining|mine]]
+
+==== Central line ([[Benguela Railway]]) ====
+( Always {{RailGauge|1067mm}} gauge)
+
+* [[Benguela]] - port
+* [[Lobito]] - port
+* [[Cubal]]
+* [[Ganda, Angola|Ganda]] - junction
+* [[Huambo]] - workshops
+* [[Kuito]]
+* [[Camacupa]]
+* [[Cuemba]]
+* [[Chicala]]
+* [[Luena]]
+* [[Luau, Moxico|Luau]] - border with [[Transport in the Democratic Republic of the Congo|Congo]]
+* [[Dilolo]], [[Democratic Republic of the Congo|Congo]]
+
+==== South Line (Moçâmedes Railway)====
+( originally {{RailGauge|600mm}} gauge but was converted to {{RailGauge|1067mm}} gauge in the 1950s. &lt;ref&gt; http://53.1911encyclopedia.org/Angola_%28Portuguese_West_Africa%29 &lt;/ref&gt; )
+
+* [[Namibe]] - port
+* [[Bibala]]
+* [[Lubango]] - (246&amp;nbsp;km) - junction
+* [[Matala, Angola|Matala]] - intermediate station
+* [[Dongo, Angola|Dongo]] - (500&amp;nbsp;km) - junction
+* [[Cubango]]
+* [[Cuchi]]
+* [[Menongue]] - terminus (756&amp;nbsp;km)
+----
+* [[Lubango]] - junction
+* [[Chiange]] - branch terminus (150&amp;nbsp;km) which may be extended to link with {{flagicon|Namibia}} [[Transport in Namibia|Namibia]].
+----
+* [[Dongo, Huila, Angola]] - junction
+* [[Cassinga]] - iron ore
+* [[Chamutete]] - branch terminus
+
+===== Proposed =====
+* [[Cuvelai, Cunene|Cuvelai]]
+* [[Ondjiva]] - [[Cunene Province|provincial capital]]
+* [[Santa-Clara, Angola|Santa Clara]] - near border
+
+=== Timeline ===
+==== 2008 ====
+* July 2008 - 1000&amp;nbsp;km connection to [[Republic of Congo]] proposed &lt;ref&gt;[http://railwaysafrica.com/index.php?option=com_content&amp;task=view&amp;id=3032&amp;Itemid=35 Railways Africa - NORTHERN ANGOLAN RAIL LINK-UP&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+==== 2007 ====
+
+* 26 October, 2007 - talks between Angola and Namibia regarding the link between Namibia and [[Chamutete]].  &lt;ref&gt;[http://railwaysafrica.com/index.php?option=com_content&amp;task=view&amp;id=1863&amp;Itemid=35 Railways Africa - ANGOLA-NAMIBIA LINK&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+=== Specifications ===
+
+* [[Railway brake|Brakes]]: [[Railway air brake|Air]] - twin pipe for passenger cars
+* [[Coupling (railway)|Couplers]]: [[Coupling (railway)#AAR coupler|Alliance]] with 10A contour &lt;ref&gt; http://www.icf.gov.in/html/angola_write-up.pdf &lt;/ref&gt;
+
+== Highways ==
+* ''total:'' 52,429&amp;nbsp;km
+:''country comparison to the world:'' 79
+* ''paved:'' 5,349&amp;nbsp;km
+* ''unpaved:'' 46,080&amp;nbsp;km (2001)
+
+Travel on highways outside of towns and cities in Angola (and in some cases within) is often not best advised for those without four-by-four vehicles.  Whilst a reasonable road infrastructure has existed within Angola, time and the war have taken their toll on the road surfaces, leaving many severely potholed, littered with broken asphalt.  In many areas drivers have established alternate tracks to avoid the worst parts of the surface, although careful attention must be paid to the presence or absence of landmine warning markers by the side of the road.
+
+The Angolan government has contracted the restoration of many of the country's roads, though.  Many companies are coming into the country from China and surrounding nations to help improve road surfaces.  The road between Lubango and Namibe, for example, was completed recently with funding from the European Union, and is comparable to many European main routes.  Progress to complete the road infrastructure is likely to take some decades, but substantial efforts are already being made in the right directions.
+
+== Waterways ==
+* 1,300&amp;nbsp;km navigable (2008)
+:''country comparison to the world:'' 36
+
+== Pipelines ==
+* gas, 2 km; crude oil 87 km (2008)
+
+== Ports and harbors ==
+=== Atlantic Ocean ===
+* from North to South
+* [[Ambriz]]
+* [[Cabinda (province)|Cabinda]]
+* [[Luanda]] - [[railhead]] for [[Malanje]]
+* [[Lobito]] - [[railhead]] for [[Democratic Republic of the Congo|Congo]]
+* [[Malongo]]
+* [[Namibe]] - [[railhead]] for [[Menongue]]
+* [[Porto Amboim]] 
+* [[Soyo]]
+
+== Merchant marine ==
+* ''total:'' 6
+:''country comparison to the world:'' 128
+* ''by type:'' cargo 1, passenger/cargo 2, petroleum tanker 2, roll on/roll off 1
+* ''foreign owned:'' 1 (Spain)
+* ''registered in other countries:'' 6 (Bahamas) (2008)
+{{Portal:Nautical/Fleet/Angola}}
+
+== Airports ==
+* 211 (2008)
+
+=== Airports - with paved runways ===
+* ''total:'' 30
+* ''over 3,047 m:'' 5
+* ''2,438 to 3,047 m:'' 8
+* ''1,524 to 2,437 m:'' 12
+* ''914 to 1,523 m:'' 4
+* ''under 914 m:'' 1 (2008)
+
+=== Airports - with unpaved runways ===
+* ''total:''  181 (2008)
+* ''over 3,047 m:'' 2
+* ''2,438 to 3,047 m:'' 5
+* ''1,524 to 2,437 m:'' 32
+* ''914 to 1,523 m:'' 100
+* ''under 914 m:'' 42 (2008)
+
+=== National Airline ===
+* [[TAAG Angola Airlines]]
+
+=== History ===
+Angola had an estimated total of 43 airports as of 2004, of which 31 had paved runways as of 2005. There is an international airport at [[Luanda]]. International and domestic services are maintained by TAAG, [[Air France]], [[Air Namibe]], [[Sabena]], [[South African Airways]], TAP (Portugal) and several regional carriers.  In 2003, domestic and international carriers carried 198,000 passengers. There are airstrips for domestic transport at [[Benguela]], [[Cabinda]], [[Huambo]], [[Namibe]], and [[Catumbela]].
+
+== References ==
+''This article comes from the [[CIA World Factbook]] 2003.''
+&lt;references/&gt;
+
+{{CIA World Factbook}}
+{{Economy of Angola}}
+{{Angola topics}}
+{{Africa in topic|Transport in}}
+
+[[Category:Rail transport in Angola]]
+[[Category:Transport in Angola| ]]
+[[Category:Rail transport in Africa|Angola]]
+
+[[it:Trasporti in Angola]]

@@ -1,0 +1,382 @@
+      {{For|the racehorse|Apollo Eleven}}
+
+{{Infobox Space mission
+|insignia=Apollo_11_insignia.png
+|stats_ref=&lt;ref name=&quot;Orloff&quot;&gt;{{cite web |url=http://history.nasa.gov/SP-4029/Apollo_00g_Table_of_Contents.htm |title=''Apollo'' by the Numbers: A Statistical Reference (SP-4029) |author=Richard W. Orloff |publisher=NASA}}&lt;/ref&gt;
+|crew_size=3
+|command_module=CM-107&lt;br/&gt;callsign ''Columbia''&lt;br/&gt;mass 30,320 kg
+|service_module=SM-107
+|lunar_module=LM-5&lt;br/&gt;callsign ''Eagle''&lt;br/&gt;mass 16,448 kg
+|booster=[[Saturn V]] SA-506
+|launch_pad=[[Kennedy Space Center Launch Complex 39|LC 39A]]&lt;br/&gt;{{nowrap|[[Kennedy Space Center]]}}&lt;br/&gt;[[Florida]], [[United States|USA]]
+|launch_date={{Start date|1969|07|16}}&lt;br/&gt;13:32:00 [[UTC]]
+|lunar_landing=July 20, 1969{{spaces|3}}20:17:40 UTC&lt;br/&gt;[[Mare Tranquillitatis|Sea of Tranquility]]&lt;br/&gt;{{coord|0|40|26.69|N|23|28|22.69|E|globe:moon_type:landmark}}&lt;br/&gt;(based on the [[International Astronomical Union|IAU]] Mean Earth Polar Axis [[coordinate system]])
+|lunar_eva_duration=2 h 36 m 40 s
+|lunar_surface_time=21 h 31 m 20 s
+|lunar_sample_mass=21.55 kg (47.5 lb)
+|lunar_orbits=30
+|time_lunar_orbits=59 h 30 m 25.79 s
+|landing=July 24, 1969&lt;br/&gt;16:50:35 UTC&lt;br/&gt;{{coord|13|19|N|169|9|W|type:event|name=Apollo 11 splashdown}}
+|mission_duration=8 d 03 h 18 m 35 s
+|crew_photo=apollo_11.jpg
+|crew_caption=Left to right: [[Neil Armstrong|Armstrong]], [[Michael Collins (astronaut)|Collins]], [[Buzz Aldrin|Aldrin]]
+|previous_mission=[[Image:Apollo-10-LOGO.png|35px]] [[Apollo 10]]
+|next_mission=[[Image:AP12goodship.png|35px]] [[Apollo 12]]
+}}
+The '''Apollo 11''' mission was the first [[List of spacewalks and moonwalks 1965–1999|manned mission]] to land on the [[Moon]]. It was the fifth [[human spaceflight]] of [[Apollo program|Project Apollo]] and the third human [[Moon landing|voyage to the Moon or Moon orbit]]. Launched on July 16, 1969, it carried Mission Commander [[Neil Armstrong|Neil Alden Armstrong]], Command Module Pilot [[Michael Collins (astronaut)|Michael Collins]], and Lunar Module Pilot [[Buzz Aldrin|Edwin Eugene 'Buzz' Aldrin, Jr]]. On July 20, Armstrong and Aldrin became the first humans to land on the Moon, while Collins orbited above.&lt;ref&gt;[http://history.nasa.gov/SP-4029/Apollo_11i_Timeline.htm NASA Apollo 11 Timeline].&lt;/ref&gt;
+
+The mission fulfilled [[President of the United States|President]] [[John F. Kennedy]]'s goal of reaching the moon by the end of the 1960s, which he had expressed during a [[Apollo program#Background|speech]] given before a joint session of Congress on May 25, 1961: &quot;I believe that this nation should commit itself to achieving the goal, before this decade is out, of landing a man on the Moon and returning him safely to the Earth.&quot;&lt;ref&gt;[http://archives.cnn.com/2001/TECH/space/05/25/kennedy.moon/ &quot;Man on the moon: Kennedy speech ignited the dream&quot;] CNN.com.&lt;/ref&gt;
+
+==Crew==
+{{Spaceflight crew
+|terminology      = Astronaut
+|position1        = Commander
+|crew1_up         = [[Neil Armstrong]]
+|flights1_up      = Second
+|position2        = Command Module Pilot
+|crew2_up         = [[Michael Collins (astronaut)|Michael Collins]]
+|flights2_up      = Second
+|position3        = Lunar Module Pilot
+|crew3_up         = [[Buzz Aldrin|Edwin E. Aldrin, Jr.]]
+|flights3_up      = Second
+}}
+Each crewmember of Apollo 11 had made a spaceflight before this mission, making it the third all-veteran crew in manned spaceflight history. Collins was originally slated to be the Command Module Pilot (CMP) on [[Apollo 8]] but was removed when he required surgery on his back and was replaced by [[Jim Lovell]], his backup for that flight. After Collins was medically cleared, he took what would have been Lovell's spot on Apollo 11; as a veteran of Apollo 8, Lovell was transferred to Apollo 11's backup crew, but promoted to backup commander.
+
+===Backup crew===
+{{Spaceflight crew
+|terminology      = Astronaut
+|position1        = Commander
+|crew1_up         = [[Jim Lovell|James A. Lovell, Jr]]
+|position2        = Command Module Pilot
+|crew2_up         = [[Bill Anders|William A. Anders]]
+|position3        = Lunar Module Pilot
+|crew3_up         = [[Fred Haise|Fred W. Haise, Jr]]
+}}
+
+In early 1969 Bill Anders accepted a job with the [[National Space Council]] effective in August 1969 and announced his retirement as an astronaut. At that point Ken Mattingly was moved from the support crew into parallel training with Anders as backup Command Module Pilot in case Apollo 11 was delayed past its intended July launch (at which point Anders would be unavailable if needed) and would later join Lovell's crew and ultimately be assigned as the original [[Apollo 13]] CMP.&lt;ref&gt;Donald K. Slayton, &quot;Deke!&quot; (New York: Forge, 1994), 237.&lt;/ref&gt;
+
+===Support crew===
+&lt;!--IMAGE--&gt;[[Image:5927 NASA.jpg|right|thumb|[[Buzz Aldrin|Aldrin]] unpacks experiments from the LM, named ''Eagle''.]]
+*[[Charles Moss Duke, Jr.]], [[Flight controller#Capsule Communicator .28CAPCOM.29|Capsule Communicator]] (CAPCOM)
+*[[Ronald Evans]], CAPCOM
+*[[Owen K. Garriott]], CAPCOM
+*[[Don L. Lind]], CAPCOM
+*[[Ken Mattingly]], CAPCOM
+*[[Bruce McCandless II]], CAPCOM
+*[[Harrison Schmitt]], CAPCOM
+*[[William Pogue|Bill Pogue]]
+*[[Jack Swigert]]
+
+{{clear}}
+
+===Flight directors===
+*Cliff Charlesworth (Green Team), launch and [[Extra-vehicular activity|EVA]]
+*[[Gene Kranz]] (White Team), lunar landing
+*[[Glynn Lunney]] (Black Team), lunar ascent
+
+{{clear}}
+
+==Nomenclature==
+[[File:Apollo 11 Command Module.jpg|thumb|left| Boilerplate Apollo command module depicting the &quot;Apollo 11 Command Module, named ''[[Columbia (name)|Columbia]]''. Displayed at the Steven F. Udvar-Hazy Center.]]
+
+The [[Apollo Lunar Module|lunar module]] was named ''Eagle'' for the [[national bird]] of the United States, the [[bald eagle]], and featured prominently on the mission insignia. The [[Apollo Command Module|command module]] was named ''[[Columbia (name)|Columbia]]'' for the feminine personification of the United States used traditionally in song and poetry. During early mission planning, the names ''Snowcone'' and ''Haystack'' were used but changed before announcement to the press.&lt;ref name=&quot;Snowcone&quot;&gt;See, ''e.g.'', {{cite web|url=http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19700011707_1970011707.pdf|author=NASA|title=Technical information summary: Apollo 11 (AS-506) Apollo Saturn V space vehicle (TM-X-62812; S/E-ASTR-S-101-69)|format=PDF|date=1969-06-25}}, p. 8.&lt;/ref&gt;
+
+{{clear}}
+
+==Mission highlights==
+====Launch and lunar orbit injection====
+[[Image:Thousands of spectators camped out to watch the launch of Apollo 11 adjacent to the Kennedy Space Center.jpg|thumb|Thousands of spectators camped out to watch the launch of Apollo 11 adjacent to the Kennedy Space Center.]]
+[[Image:Apollo 11 Launch2.jpg|thumb|The [[Saturn V]] carrying ''Apollo 11'' took several seconds to clear the tower on July 16, 1969.]]
+[[Image:Apollo 11 launch.jpg|thumb|A [[Prandtl-Glauert singularity|condensation cloud]] forms around an interstage as the Saturn V approached [[Mach number|Mach]] 1, one minute into the flight.]]
+[[Image:Engineers Working in the Launch Control Center Preparing for the Launch of Apollo 11.gif|thumb|left|Engineers working in the launch control center.]]
+[[Image:Apollo 11 Lunar Module Eagle in landing configuration in lunar orbit from the Command and Service Module Columbia.jpg|thumb|left|The ''Eagle'' in lunar [[orbit]] immediately after separating from ''Columbia''.]]
+
+In addition to throngs of people crowding highways and beaches near the launch site, millions watched the event on television, with NASA Chief of Public Information [[Jack King (NASA Public Affairs Officer)|Jack King]] providing commentary. President [[Richard Nixon]] viewed the proceedings from [[Oval Office|the Oval Office]] of the White House.
+
+A [[Saturn V]] launched ''Apollo 11'' from the [[Kennedy Space Center]] on July 16, 1969 at 13:32 UTC (9:32 a.m. local time). It entered orbit 12 minutes later.&lt;ref name=&quot;Orloff&quot; /&gt; After one and a half orbits, the [[S-IVB]] third-stage engine pushed the spacecraft onto its trajectory toward the Moon with the [[Trans Lunar Injection]] burn. About 30&amp;nbsp;minutes later the [[Apollo Command/Service Module|command/service module]] pair separated from this last remaining Saturn V stage and docked with the [[lunar module]] still nestled in the [[Apollo spacecraft#Spacecraft Lunar Module Adapter (SLA)|Lunar Module Adaptor]]. After the lunar module was extracted, the combined spacecraft headed for the Moon, while the third stage booster flew on a trajectory past the moon and into [[Heliocentric orbit|solar orbit]].
+
+On July 19 ''Apollo 11'' passed behind the Moon and fired its service propulsion engine to enter [[lunar orbit]]. In the thirty orbits&lt;ref&gt;[http://science.ksc.nasa.gov/history/apollo/apollo-11/apollo-11.html Apollo-11] NASA.&lt;/ref&gt; that followed, the crew saw passing views of their landing site in the southern Sea of Tranquility ([[Mare Tranquillitatis]]) about 20 kilometers (12 mi) southwest of the crater Sabine D (0.67408N, 23.47297E). The landing site was selected in part because it had been characterized as relatively flat and smooth by the automated ''[[Ranger 8]]'' and ''[[Surveyor 5]]'' landers along with the ''[[Lunar Orbiter]]'' mapping spacecraft and unlikely to present major landing or [[extra-vehicular activity]] (EVA) challenges.&lt;ref&gt;{{cite web|url=http://www-lib.ksc.nasa.gov/lib/archives/apollo/pk/apollo11pt1.pdf| title=Apollo 11 Press Kit (p.1-100) |format=PDF |author=NASA|date=1969-07-06|dateformat=mdy |accessdate=September 23, 2006}}&lt;/ref&gt;
+
+===Descent===
+On July 20, 1969 the [[Apollo Lunar Module|lunar module]] (LM) ''Eagle'' separated from the command module ''Columbia''. Collins, alone aboard ''Columbia'', inspected ''Eagle'' as it pirouetted before him to ensure the craft was not damaged.
+
+As the descent began, Armstrong and Aldrin found that they were passing landmarks on the surface 4 seconds early and reported that they were &quot;long&quot;: they would land miles west of their target point.
+
+The [[Apollo Guidance Computer|LM navigation and guidance computer]] distracted the crew with several obscure &quot;1202&quot; and &quot;1201&quot; program alarms. Inside [[Johnson Space Center|Mission Control Center]] in [[Houston]], [[Texas]], computer engineer [[Jack Garman]] told [[Flight controller|guidance officer]] [[Steve Bales]] it was safe to continue the descent and this was relayed to the crew. The program alarms were called &quot;executive overflows&quot;, during which the computer could not process all of its tasks in real time and had to postpone some of them.&lt;ref&gt;Michael Collins, in [http://www.hq.nasa.gov/pao/History/SP-350/cover.html Apollo Expeditions to the Moon], NASA pub. no. SP-350 (1975), chapter [http://history.nasa.gov/SP-350/ch-11-4.html 11.4].&lt;/ref&gt; This was neither a computer error nor an astronaut error, but stemmed from a mistake in how the astronauts had been trained. Although unneeded for the landing, the rendezvous radar was intentionally turned on to make ready for a fast abort. Ground simulation setups had not foreseen that a fast stream of spurious interrupts from this radar could happen, depending upon how the hardware randomly powered up before the LM then began nearing the lunar surface: hence the computer had to deal with data from two radars, not the landing radar alone, which led to the overload.&lt;ref name=&quot;Apollo 11 Mission Report&quot;&gt;{{cite web|url=http://history.nasa.gov/alsj/a11/A11_MissionReport.pdf|title=Apollo 11 Mission Report|format=PDF|publisher=NASA}}&lt;/ref&gt;&lt;ref name=&quot;Martin&quot;&gt;{{cite web|url=http://www.hq.nasa.gov/alsj/a11/a11.1201-fm.html|title=Apollo 11: 25 Years Later|author=Martin, Fred H.|publisher=NASA}}&lt;/ref&gt;&lt;ref name=&quot;Eyles&quot;&gt;{{cite web|url=http://klabs.org/history/apollo_11_alarms/eyles_2004/eyles_2004.htm|title=Tales from the Lunar Module Guidance Computer|author=Don Eyles|publisher=American Astronautical Society}}&lt;/ref&gt;
+
+When Armstrong again looked outside, he saw that the computer's landing target was in a boulder-strewn area just north and east of a 400 meter diameter crater (later determined to be &quot;West crater&quot;, named for its location in the western part of the originally planned landing ellipse). Armstrong took semi-automatic control&lt;ref name=&quot;Digital Apollo&quot;&gt;{{cite book | author = Mindell, David A | title = Digital Apollo | publisher = MIT Press | year = 2008 | pages = 195–197 | isbn = 978-0-262-13497-2}}&lt;/ref&gt; and, with Aldrin calling out altitude and velocity data, landed at 20:17 [[UTC]] on July 20 with about 25 seconds of fuel left.&lt;ref name=&quot;ALSJ 1&quot;/&gt;
+
+''Apollo 11'' landed with less fuel than other missions, and the astronauts also encountered a premature low fuel warning. It was later found to be caused by the lunar gravity permitting greater propellant 'slosh' which had uncovered a fuel sensor. On subsequent missions, extra baffles were added to the tanks.&lt;ref name=&quot;ALSJ 1&quot; /&gt;
+
+Throughout the descent Aldrin had called out navigation data to Armstrong, who was busy piloting the LM. A few moments before the landing, a light informed Aldrin that at least one of the 67 inches probes hanging from ''Eagle'''s footpads had touched the surface, and he said &quot;Contact light!&quot;. Three seconds later, ''Eagle'' landed and Armstrong said &quot;Shutdown&quot;. Aldrin immediately said &quot;Okay, engine stop. ACA - out of [[detent]].&quot; Armstrong acknowledged &quot;Out of detent. Auto&quot; and Aldrin continued, &quot;Mode control - both auto. Descent engine command override off. Engine arm - off. 413 is in.&quot;
+
+[[Charles Duke]], acting as CAPCOM during the landing phase, acknowledged their landing by saying &quot;We copy you down, Eagle&quot;.
+
+It was then that Armstrong said the famous words, &quot;Engine arm is off. Houston, [[Tranquility Base]] here. The ''Eagle'' has landed.&quot; Armstrong's abrupt change of call sign from &quot;Eagle&quot; to &quot;Tranquility Base&quot; caused momentary confusion at Mission Control and Duke remained silent for a couple of seconds. Then he said: &quot;Roger, Twank...Tranquility, we copy you on the ground. You got a bunch of guys about to turn blue. We're breathing again. Thanks a lot!&quot; expressing the relief of Mission Control after the unexpectedly drawn-out descent.&lt;ref name=&quot;ALSJ 1&quot;&gt;{{cite web | url = http://www.hq.nasa.gov/alsj/a11/a11.landing.html | title = Apollo 11 Lunar Surface Journal: The First Lunar Landing | author = Jones, Eric M. (editor) | publisher = NASA }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/archive/moonlandings/7630.shtml?all=2&amp;id=7630|title=BBC - Archive-Moon Landings - James May speaks to Charles Duke|publisher=BBC.co.uk|accessdate=2009-06-07}}&lt;/ref&gt;
+
+Two and a half hours after landing, before preparations began for the [[Extra-vehicular activity|EVA]], Aldrin broadcast that:
+
+{{quote|This is the LM pilot. I'd like to take this opportunity to ask every person listening in, whoever and wherever they may be, to pause for a moment and contemplate the events of the past few hours and to give thanks in his or her own way.&lt;ref name=&quot;ALSJ 2&quot;&gt;{{cite web | url = http://www.hq.nasa.gov/alsj/a11/a11.postland.html | title = Apollo 11 Lunar Surface Journal: Post-landing Activities | author = Jones, Eric M. (editor) | publisher = NASA }}&lt;/ref&gt;}} He then took [[Eucharist|Communion]] privately. At this time NASA was still fighting a lawsuit brought by atheist [[Madalyn Murray O'Hair]] (who had objected to the ''[[Apollo 8]]'' crew reading from the [[Genesis (Old Testament)|Book of Genesis]]) which demanded that their astronauts refrain from religious activities while in space. As such, Aldrin chose to refrain from directly mentioning this. He had kept the plan quiet (not even mentioning it to his wife) and did not reveal it publicly for several years.{{Fact|date=July 2009}} Buzz Aldrin was an elder at Webster [[Presbyterianism|Presbyterian Church]] in [[Webster, Texas|Webster, TX]]. His communion kit was prepared by the pastor of the church, the Rev. Dean Woodruff. Aldrin described communion on the moon and the involvement of his church and pastor in the October, 1970 edition of Guideposts magazine and in his book &quot;Return to Earth.&quot; Webster Presbyterian possesses the chalice used on the moon, and commemorates the Lunar Communion each year on the Sunday closest to July 20.&lt;ref name=&quot;chaikin&quot;&gt;{{cite book|author=Chaikin, Andrew|title=A Man on the Moon|publisher=[[Penguin Group]]|year =1998|pages=204 &amp; 623|isbn=0-14-027201-1}}&lt;/ref&gt;
+
+The schedule for the mission called for the astronauts to follow the landing with a five-hour sleep period, since they had been awake since early morning. However, they elected to forgo the sleep period and begin the preparations for the EVA early, thinking that they would be unable to sleep.
+
+[[Luna 15]] was a last minute [[Soviet Union|Soviet]] attempt to steal some of Apollo 11's publicity by being the first mission to return lunar soil to Earth, but after completing 86 communications sessions and 52 orbits of the Moon at various inclinations and altitudes, the spacecraft impacted the lunar surface on 21 July, 1969. The mission was important in that it saw one of the first instances of Soviet/American cooperation when the USSR released Luna 15's flight plan to ensure it would not collide with Apollo 11.&lt;ref&gt;[http://www.independent.co.uk/news/science/recording-tracks-russias-moon-gatecrash-attempt-1730851.html Recording tracks Russia's Moon gatecrash attempt]&lt;/ref&gt;
+
+{{clear}}
+
+===Lunar surface operations===
+:''See also: [[Neil Armstrong#First Moon walk|First Moon walk]]''
+
+[[Image:Apollo 11 first step.jpg|thumb|A [[Apollo TV camera|mounted slowscan TV camera]] shows Neil Armstrong as he climbs down the ladder to surface.]]
+[[File:Aldrin Apollo 11 original.jpg|thumb|Buzz Aldrin poses on the Moon allowing Neil Armstrong to photograph both of them using the visor's reflection.]]
+The astronauts planned placement of the Early Apollo Scientific Experiment Package (EASEP)&lt;ref&gt;{{cite web |url=http://ares.jsc.nasa.gov/HumanExplore/Exploration/EXLibrary/docs/ApolloCat/Part1/EASEP.htm |title=Early Apollo Scientific Experiment Package - Apollo 11 |publisher=NASA |accessdate=2009-07-18}}&lt;/ref&gt; and the U.S. flag by studying their landing site through ''Eagle'''s twin triangular windows, which gave them a 60° field of view. Preparation required longer than the two hours scheduled. Armstrong initially had some difficulties squeezing through the hatch with his [[Primary Life Support System|Portable Life Support System]] (PLSS). According to veteran moonwalker [[John Young (astronaut)|John Young]], a redesign of the [[Apollo Lunar Module|LM]] to incorporate a smaller hatch had not been followed by a redesign of the PLSS backpack, so some of the highest heart rates recorded from ''Apollo'' astronauts occurred during LM egress and ingress.&lt;ref&gt;{{cite web|url=http://www.hq.nasa.gov/alsj/a11/a11.summary.html|title=Apollo 11 Lunar Surface Journal|author=Eric M. Jones|date=2006-04-06|dateformat=mdy|accessdate=September 23, 2006}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://lsda.jsc.nasa.gov/books/apollo/s2ch4.htm|title=Metabolism and heat dissipation during Apollo EVA periods - Chapter 4|author=J.M. Waligora, D.J. Horrigan|dateformat=mdy|accessdate=September 23, 2006}}&lt;/ref&gt;
+
+[[Image:As11-40-5886.jpg|thumb|left|Neil Armstrong works at the LM in one of the few photos taken of him from the lunar surface. [[NASA]] photo AS11-40-5886.]]
+[[Image:Apollo 11 bootprint.jpg|thumb|left|Buzz Aldrin bootprint. It was part of an experiment to test the properties of the lunar [[regolith]].]]
+At 02:39 [[Coordinated Universal Time|UTC]] on Monday July 21 (10:39pm [[Eastern Time Zone|EDT]], Sunday July 20), 1969, Armstrong opened the hatch, and at 02:51 [[Coordinated Universal Time|UTC]] began his descent to the Moon's surface. The Remote Control Unit controls on his chest kept him from seeing his feet. Climbing down the nine-rung ladder, Armstrong pulled a [[D-ring]] to deploy the Modular Equipment Stowage Assembly (MESA) folded against ''Eagle'''s side and activate the TV camera, and at 02:56 [[Coordinated Universal Time|UTC]] (10:56pm [[Eastern Time Zone|EDT]]) he set his left foot on the surface.&lt;ref name=&quot;ALSJ 4&quot;&gt;{{cite web | url = http://www.hq.nasa.gov/alsj/a11/a11.step.html | title = Apollo 11 Lunar Surface Journal: One Small Step | author = Jones, Eric M. (editor) | publisher = NASA }}&lt;/ref&gt; The first landing used [[slow-scan television]] incompatible with commercial TV, so it was displayed on a special monitor and a conventional TV camera viewed this monitor, significantly reducing the quality of the picture.&lt;ref name=&quot;Blunder 5&quot;&gt;*{{cite web | url = http://www.smh.com.au/news/national/one-giant-blunder-for-mankind-how-nasa-lost-moon-pictures/2006/08/04/1154198328978.html|title = One giant blunder for mankind: how NASA lost moon pictures }}&lt;/ref&gt; The signal was received at [[Goldstone Deep Space Communications Complex|Goldstone]] in the USA but with better fidelity by [[Honeysuckle Creek Tracking Station]] in Australia. Minutes later the feed was switched to the more sensitive [[Parkes Observatory|Parkes radio telescope]] in Australia. Despite some technical and weather difficulties, ghostly black and white images of the first lunar EVA were received and broadcast to at least 600 million people on Earth.&lt;ref name=&quot;Parkes&quot;&gt;{{cite web|url=http://www.parkes.atnf.csiro.au/apollo11/pasa/on_eagles_wings.pdf|title=On Eagle's Wings: The [[Parkes Observatory]]'s Support of the Apollo 11 Mission |format=PDF |publisher=Astronomical Society of Australia |date=2001-07-01 |dateformat=mdy |accessdate=September 22, 2006}}&lt;/ref&gt; Although copies of this video in broadcast format were saved and are widely available, [[Apollo 11 missing tapes|recordings of the original slow scan source transmission from the moon]] were accidentally destroyed during routine magnetic tape re-use at NASA. Archived copies of the footage were eventually located in Perth, Australia, which was one of the sites that originally received the Moon broadcast.
+
+After describing the surface dust (&quot;fine and almost like a powder&quot;),&lt;ref name=&quot;ALSJ 4&quot; /&gt; Armstrong stepped off ''Eagle'''s footpad and into history as the first human to set foot on another world. It was then that he uttered his famous line &quot;That's one small step for [a] man, one giant leap for mankind&quot;&lt;ref&gt;A NASA transcript explains that the &quot;a&quot; article was intended, whether or not it was said;[http://history.nasa.gov/alsj/a11/a11.step.html#1092413] the intention was to contrast ''a man'' (an individual's action) and ''mankind'' (as a species).&lt;/ref&gt;&lt;ref&gt;[http://www.nasa.gov/audience/forstudents/5-8/features/F_Apollo_35th_Anniversary.html NASA Moon landing 35th anniversary] includes the &quot;a&quot; article as intended.&lt;/ref&gt;&lt;ref&gt;[http://news.bbc.co.uk/2/hi/americas/5398560.stm BBC] news story on reanalysis which suggests the line was said correctly (with the &quot;a&quot; article).&lt;/ref&gt;&lt;ref&gt;[http://news.bbc.co.uk/2/hi/science/nature/8081817.stm BBC] news story on later reanalysis which suggests the line was said incorrectly.&lt;/ref&gt;&lt;ref&gt;[http://www.chron.com/disp/story.mpl/front/4225856.html Houston Chronicle] coverage of the same story.&lt;/ref&gt; six and a half hours after landing.&lt;ref name=&quot;Orloff&quot; /&gt; Aldrin joined him, describing the view as &quot;Magnificent desolation.&quot;&lt;ref&gt;[http://history.nasa.gov/alsj/a11/a11.step.html#1094324 NASA transcript].&lt;/ref&gt;
+
+&lt;!-- {{Listen|pos=left|filename=Frase de Neil Armstrong.ogg|type=sound|title=&quot;That's one small step for (a) man, one giant leap for mankind.&quot;|description=}} 
+--&gt;
+
+Armstrong said that moving in the Moon's gravity, one-sixth of Earth's, was &quot;even perhaps easier than the simulations... It's absolutely no trouble to walk around&quot;.&lt;ref name=&quot;ALSJ 4&quot;/&gt;
+
+In addition to fulfilling President [[John F. Kennedy]]'s mandate to land a man on the Moon before the end of the 1960s,&lt;ref&gt;[http://www.upi.com/Audio/Year_in_Review/Events-of-1969/Apollo-11/12303189849225-2/ &quot;Apollo 11: 1969 Year in Review, UPI.com&quot;].&lt;/ref&gt; ''Apollo 11'' was an engineering test of the Apollo system; therefore, Armstrong snapped photos of the LM so engineers would be able to judge its post-landing condition. He then collected a contingency soil sample using a sample bag on a stick. He folded the bag and tucked it into a pocket on his right thigh. He removed the TV camera from the MESA, made a panoramic sweep, and mounted it on a tripod 12&amp;nbsp;m (40&amp;nbsp;ft) from the LM. The TV camera cable remained partly coiled and presented a tripping hazard throughout the EVA.
+
+Aldrin joined him on the surface and tested methods for moving around, including two-footed kangaroo hops. The PLSS backpack created a tendency to tip backwards, but neither astronaut had serious problems maintaining balance. Loping became the preferred method of movement. The astronauts reported that they needed to plan their movements six or seven steps ahead. The fine soil was quite slippery. Aldrin remarked that moving from sunlight into ''Eagle'''s shadow produced no temperature change inside the suit, though the helmet was warmer in sunlight, so he felt cooler in shadow.&lt;ref name=&quot;ALSJ 4&quot;/&gt;
+
+[[File:Apollo 11 photo map.gif|right|thumb|Map showing landing site and photos taken]]
+After the astronauts planted a U.S. flag on the lunar surface, they spoke with President [[Richard Nixon]] through a telephone-radio transmission which Nixon called &quot;the most historic phone call ever made from the White House.&quot;&lt;ref&gt;National Archives and Records Administration, ''[http://www.archives.gov/exhibits/american_originals/apollo11.html Apollo 11 and Nixon]'', March 1996. Retrieved April 13, 2008.&lt;/ref&gt; Nixon originally had a long speech prepared to read during the phone call, but [[Frank Borman]], who was at the White House as a NASA liaison during Apollo 11, convinced Nixon to keep his words brief, out of respect of the lunar landing being Kennedy's legacy.&lt;ref&gt;This was related by [[Frank Borman]] during the 2008 documentary ''[[When We Left Earth: The NASA Missions]]'', part 2.&lt;/ref&gt;
+
+The MESA failed to provide a stable work platform and was in shadow, slowing work somewhat. As they worked, the moonwalkers kicked up gray dust which soiled the outer part of their suits, the integrated thermal meteoroid garment.
+
+They deployed the EASEP, which included a passive seismograph and a [[Lunar laser ranging experiment|laser ranging]] [[retroreflector]]. Then Armstrong loped about 120&amp;nbsp;m (400&amp;nbsp;ft) from the LM to snap photos at the rim of East Crater while Aldrin collected two core tubes. He used the [[geological hammer]] to pound in the tubes - the only time the hammer was used on ''Apollo 11''. The astronauts then collected rock samples using scoops and tongs on extension handles. Many of the surface activities took longer than expected, so they had to stop documenting sample collection halfway through the allotted 34 min.
+
+During this period Mission Control used a coded phrase to warn Armstrong that his metabolic rates were high and that he should slow down. He was moving rapidly from task to task as time ran out. However, as metabolic rates remained generally lower than expected for both astronauts throughout the walk, Mission Control granted the astronauts a 15-minute extension.&lt;ref name=&quot;ALSJ 6&quot;&gt;{{cite web|url=http://www.hq.nasa.gov/alsj/a11/a11.clsout.html|title=Apollo 11 Lunar Surface Journal: EASEP Deployment and Closeout|author=Jones, Eric M. (editor)|publisher=NASA }}&lt;/ref&gt;
+
+{{clear}}
+
+===Lunar ascent and return===
+[[File:Aldrin with experiment.jpg|thumb|Aldrin stands next to the Passive Seismic Experiment Package with the [[Lunar Module]] in the background.]]
+
+Aldrin entered ''Eagle'' first. With some difficulty the astronauts lifted film and two sample boxes containing more than 22&amp;nbsp;kg (48 lb) of lunar surface material to the LM hatch using a flat cable pulley device called the Lunar Equipment Conveyor. Armstrong reminded Aldrin of a bag of memorial items in his suit pocket sleeve, and Aldrin tossed the bag down; Armstrong then jumped to the ladder's third rung and climbed into the LM. After transferring to LM [[life support]], the explorers lightened the ascent stage for return to lunar orbit by tossing out their PLSS backpacks, lunar overshoes, one [[Hasselblad]] camera, and other equipment. They then repressurised the LM, and settled down to sleep.&lt;ref name=&quot;ALSJ 7&quot;&gt;{{cite web | url = http://www.hq.nasa.gov/alsj/a11/a11.posteva.html | title = Apollo 11 Lunar Surface Journal: Trying to Rest | author = Jones, Eric M. (editor) | publisher = NASA }}&lt;/ref&gt;
+
+While moving in the cabin Aldrin accidentally broke the [[circuit breaker]] that armed the main engine for lift off from the moon. There was initial concern this would prevent firing the engine, which would strand them on the moon. Fortunately a felt-tip pen was sufficient to activate the switch.&lt;ref name=&quot;ALSJ 7&quot; /&gt; Had this not worked, the Lunar Module circuitry could have been reconfigured to allow firing the ascent engine.&lt;ref name=&quot;Murray&quot;&gt;{{cite book | author=Murray, Charles &amp; Cox, Catherine | title=Apollo: Race to the Moon | publisher=Touchstone Books | year=1990 | isbn=0-671-70625-X }}&lt;/ref&gt;
+
+After about seven hours of rest, they were awakened by Houston to prepare for the return flight. Two and a half hours later, at 17:54 UTC, they lifted off in ''Eagle'''s ascent stage, carrying 21.5 kilograms of lunar samples with them, to rejoin CMP Michael Collins aboard ''Columbia'' in lunar orbit.&lt;ref name=&quot;Orloff&quot; /&gt; [[Image:Apollo11Plaque.jpg|left|thumb|The historical plaque on the ladder of Apollo 11's [[Apollo Lunar Module|lunar module &quot;Eagle&quot;]], still remaining on the Moon]]
+After more than 2½ hours on the lunar surface, they had left behind scientific instruments which included a [[retroreflector]] array used for the [[Lunar Laser Ranging Experiment]] and a Passive Seismic Experiment used to measure moonquakes. They also left an [[Flag of the United States|American flag]], an [[Apollo 1]] mission patch, and a [[lunar plaques|plaque]] (mounted on the LM Descent Stage ladder) bearing two drawings of Earth (of the Western and Eastern Hemispheres), an inscription, and signatures of the astronauts and Richard Nixon. The inscription read ''Here Men From The Planet Earth First Set Foot Upon the Moon, July 1969 A.D. We Came in Peace For All Mankind.''
+They also left behind a memorial bag containing a gold replica of an olive branch as a traditional symbol of peace and a silicon message disk. The disk carries the [[Apollo 11 Goodwill Messages|goodwill statements]] by Presidents Eisenhower, Kennedy, Johnson and Nixon and messages from leaders of 73 countries around the world. The disc also carries a listing of the leadership of the US Congress, a listing of members of the four committees of the House and Senate responsible for the NASA legislation, and the names of NASA's past and present top management.&lt;ref&gt;{{citation|url=http://history.nasa.gov/ap11-35ann/goodwill/Apollo_11_material.pdf|title=News Release No. 69-83F|publisher=NASA|date=July 13, 1969}}&lt;/ref&gt; (In his 1989 book, ''Men from Earth'', Aldrin says that the items included Soviet medals commemorating [[Cosmonauts]] [[Vladimir Mikhaylovich Komarov|Vladimir Komarov]] and [[Yuri Gagarin]].) Also, according to [[Deke Slayton]]'s book 'Moonshot', Armstrong carried with him a special diamond-studded [[Astronaut pin]] from Deke.
+
+Film taken from the LM Ascent Stage upon liftoff from the moon reveals the American flag, planted some {{convert|25|ft|m|0}} from the descent stage, whipping violently in the exhaust of the ascent stage engine. Buzz Aldrin witnessed it topple: &quot;The ascent stage of the LM separated&amp;nbsp;...I was concentrating on the computers, and Neil was studying the [[attitude indicator]], but I looked up long enough to see the flag fall over.&quot;&lt;ref&gt;{{cite web | last = National Aeronautics and Space Administration | title = NASA Apollo Mission Apollo-11 | publisher = Kennedy Space Center | url = http://science.ksc.nasa.gov/history/apollo/apollo-11/apollo-11.html | accessdate = 2007-03-26}}&lt;/ref&gt; Subsequent Apollo missions usually planted the American flags at least {{convert|100|ft|m|-1}} from the LM to avoid being blown over by the ascent engine exhaust.
+
+After rendezvous with ''Columbia'', ''Eagle's'' ascent stage was jettisoned into lunar orbit at July 21, 1969 at 23:41 UT (7:41 PM EDT). Just before the Apollo 12 flight, it was noted that ''Eagle'' was still likely to be orbiting the moon. Later NASA reports mentioned that ''Eagle's'' orbit had decayed resulting in it impacting in an &quot;uncertain location&quot; on the lunar surface.&lt;ref&gt;{{cite web|url=http://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_tables.html| title=Apollo Tables|author=NASA|dateformat=mdy |accessdate=September 23, 2006}}&lt;/ref&gt; The location is uncertain because the ''Eagle'' ascent stage was not tracked after it was jettisoned and the lunar gravity field is sufficiently uncertain to make the orbit of the spacecraft virtually unpredictable after a short time. NASA estimated that the orbit had decayed within months and would have impacted on the Moon.
+
+On July 23, the three astronauts made a television broadcast on the last night before splashdown. Collins commented,
+:&quot;... The Saturn V rocket which put us in orbit is an incredibly complicated piece of machinery, every piece of which worked flawlessly&amp;nbsp;... We have always had confidence that this equipment will work properly. All this is possible only through the blood, sweat, and tears of a number of a people&amp;nbsp;...All you see is the three of us, but beneath the surface are thousands and thousands of others, and to all of those, I would like to say, 'Thank you very much.'&quot;
+Aldrin said,
+:&quot;This has been far more than three men on a mission to the Moon; more, still, than the efforts of a government and industry team; more, even, than the efforts of one nation. We feel that this stands as a symbol of the insatiable curiosity of all mankind to explore the unknown&amp;nbsp;... Personally, in reflecting on the events of the past several days, a verse from Psalms comes to mind. 'When I consider the heavens, the work of Thy fingers, the Moon and the stars, which Thou hast ordained; What is man that Thou art mindful of him?'&quot;
+Armstrong concluded,
+:&quot;The responsibility for this flight lies first with history and with the giants of science who have preceded this effort; next with the American people, who have, through their will, indicated their desire; next with four administrations and their Congresses, for implementing that will; and then, with the agency and industry teams that built our spacecraft, the Saturn, the Columbia, the Eagle, and the little [[Extravehicular Mobility Unit|EMU]], the spacesuit and backpack that was our small spacecraft out on the lunar surface. We would like to give special thanks to all those Americans who built the spacecraft; who did the construction, design, the tests, and put their hearts and all their abilities into those craft. To those people tonight, we give a special thank you, and to all the other people that are listening and watching tonight, God bless you. Good night from Apollo 11.&quot;&lt;ref&gt;{{cite web|url=http://science.ksc.nasa.gov/history/apollo/apollo-11/apollo-11.html|title=NASA Apollo Mission Apollo 11|accessdate=2007-01-30}}&lt;/ref&gt;  
+
+On the return to Earth, the Guam tracking station failed, which would have prevented communication on the last segment of the Earth return.  Repair was not possible until a staff member had his son, [[Greg Force]], do repairs made possible by his small hands.  Force later was thanked by Armstrong.&lt;ref&gt;http://www.cnn.com/2009/TECH/space/07/20/apollo11.irpt/index.html The 10-year-old who helped Apollo 11, 40 years later. Retrieved 2009-07-20. &lt;/ref&gt;
+
+===Splashdown and quarantine===
+[[Image:Apollo 11 crew in quarantine.jpg|thumb|The crew of ''Apollo 11'' in [[quarantine]] after returning to Earth, visited by Richard Nixon.]] On July 24, the astronauts returned home aboard the command module Columbia just before dawn at  {{coord|13|19|N|169|9|W|type:event|name=Apollo 11 splashdown}}, in the Pacific Ocean 2,660&amp;nbsp;km (1,440 [[nautical mile|nm]]) east of [[Wake Island]], or 380&amp;nbsp;km (210&amp;nbsp;nm) south of [[Johnston Atoll]], and 24&amp;nbsp;km (15 [[Mile#Statute miles|mi]]) from the recovery ship, [[USS Hornet (CV-12)|USS ''Hornet'']]. 
+
+Initially the command module landed upside down but was righted in several minutes by flotation bags triggered by the astronauts. A diver from the Navy helicopter hovering above attached an anchor to the command module to prevent it from drifting. Additional divers attached additional flotation collars to stabilize the module and position rafts for astronaut extraction. Though the possibility of bringing back pathogen from the lunar surface was considered remote, it was not considered impossible and NASA took great precautions at the recovery site.  Astronauts were provided Biological Isolation Garment (BIG suit) by divers which were worn until they reached isolation facilities onboard the Hornet.  Additionally astronauts were rubbed down with a sodium-hypochlorite solution and the command module wiped with [[betadine]] to remove any lunar dust that might be present.  The raft containing decontamination materials was then intentionally sunk.&lt;ref name=&quot;hornet&quot;&gt;{{cite book|last=Fish|first=Bob|title=Hornet Plus Three|publisher=Beagle Bay Books|date=June 10, 2009|edition=1st edition|isbn=0974961078}}&lt;/ref&gt;
+
+A second [[H-3 Sea King|Sea King helicopter]] hoisted the astronauts aboard one by one where a NASA [[flight surgeon]] gave each a brief physical check during the half mile trip back to the Hornet.  After touchdown on the Hornet, all crew exited the helicopter, leaving the flight surgeon and 3 crew.  The helicopter was then lowered into hangar bay #2 where the astronauts walked the 30 feet to the [[Mobile Quarantine Facility]] (MQF) where they would begin their 21 days of [[quarantine]], a practice that would continue for the next 3 Apollo missions before the moon was proven to be barren of life and quarantine process dropped for [[Apollo 15|Apollo XV]] through XVII.&lt;ref name=&quot;hornet&quot; /&gt; &lt;ref name=&quot;Smithsonian &quot;&gt;{{cite web|url=http://www.nasm.si.edu/exhibitions/ATTM/a11.jh.3.html|title=After Splashdown|date=July 1999|work=Apollo to the Moon |publisher=Smithsonian Institution Air and Space Museum}}&lt;/ref&gt; 
+  		 
+President Richard Nixon was aboard ''Hornet'' to personally welcome the astronauts back to Earth. He told the astronauts: &quot;As a result of what you've done, the world has never been closer together before.&quot;&lt;ref&gt;{{cite web|url=http://thenewnixon.org/2008/07/23/24-july-1969-home-from-the-moon/|title=24 July 1969: Home From The Moon|author=Nixon Foundation|dateformat=mdy |accessdate=July 20, 2009}}&lt;/ref&gt;  Years later, it was publicly revealed that Nixon had prepared a speech to be given if the mission resulted in death.  The lunar module had not been tested to assess if it could launch from the moon surface.&lt;ref&gt;http://news.bbc.co.uk/2/hi/science/nature/390634.stm A silent death.  Retrieved 2009-07-20.&lt;/ref&gt;&lt;ref&gt;http://news.bbc.co.uk/2/hi/science/nature/390933.stm&lt;/ref&gt;  After Nixon departed, the ''Hornet'' was brought alongside the 5 ton command module where it was placed aboard by the ships crane, placed on a dolly and moved next to the MQF.  The Hornet steamed for [[Pearl Harbor]] where the command module and MQF were airlifted to the Johnson Space Center.&lt;ref name=&quot;hornet&quot; /&gt;
+
+[[Image:Land on the Moon 7 21 1969-repair.jpg|thumb|left|''[[The Washington Post]]'' on Monday, July 21, 1969 stating &quot;'The Eagle Has Landed'—Two Men Walk on the Moon&quot;.]]
+The astronauts were placed in [[quarantine]] after their landing on the moon for fear that the moon might contain undiscovered [[pathogen]]s, and that the astronauts might have been exposed to them during their moon walks. (The decision to do so was made in accordance with the recently passed [[Extra-Terrestrial Exposure Law]]). However, after almost three weeks in confinement (first in their trailer and later in the [[Lunar Receiving Laboratory]] at the [[Lyndon B. Johnson Space Center|Manned Spacecraft Center]]), the astronauts were given a clean bill of health.&lt;ref&gt;{{cite web|url=http://www.nasaexplores.com/extras/apollo11/hirasaki.html| title=NASA Explores... Hirasaki, the NASA engineer quarantined with the Apollo 11 crew|author=NASA Explores|dateformat=mdy |accessdate=November 1, 2006}}&lt;/ref&gt; On August 13, 1969, the astronauts exited quarantine to the cheers of the American public. Parades were held in their honor in New York, Chicago, and Los Angeles on the same day.&lt;ref&gt;{{cite news|url=http://blogs.denverpost.com/captured/2009/07/17/40th-anniversary-of-apollo-11-moon-landing/|title=40th Anniversary of Apollo Moon Landing photos|date=July 17th, 2009|publisher=AP|accessdate=2009-08-05}}&lt;/ref&gt; A few weeks later, they were invited by Mexico for a parade honoring them in Mexico City.
+
+That evening in [[Los Angeles]] there was an official [[State dinner|State Dinner]] to celebrate ''Apollo 11'', attended by Members of Congress, 44 Governors, the Chief Justice, and ambassadors from 83 nations at the [[Century Plaza Hotel]]. President Richard Nixon and Vice President [[Spiro T. Agnew]] honored each astronaut with a presentation of the [[Presidential Medal of Freedom]]. This celebration was the beginning of a 45-day &quot;Giant Leap&quot; tour that brought the astronauts to 25 foreign countries and included visits with prominent leaders such as [[Elizabeth II of the United Kingdom|Queen Elizabeth II]] of the United Kingdom. Many nations would honor the first manned [[moon landing]] by issuing ''Apollo 11'' commemorative postage stamps or coins.&lt;ref&gt;{{cite web |url=http://www.lunarhall.org/missions/apollo/11.html |title=Lunar Hall of Fame: Apollo 11 mission }}&lt;/ref&gt; Also, a few [[POW]]s held in [[Vietnam War|Vietnam]] received letters from home a few months after the landings with those stamps to covertly let the POWs know that the United States had landed men on the moon.
+
+On September 16, 1969, the three astronauts spoke before a [[joint session of the United States Congress|joint meeting of Congress]] on Capitol Hill. They presented two U.S. flags, one to the House of Representatives and the other to the Senate, that had been carried to the surface of the moon with them.
+
+==Spacecraft location==
+[[Image:Apollo11 command module.JPG|thumb|Command module, at the [[National Air and Space Museum]].]]
+
+The command module is displayed at the [[National Air and Space Museum]], [[Washington, D.C.]]. It is placed in the central exhibition hall in front of the Jefferson Drive entrance, sharing the main hall with other pioneering flight vehicles such as the ''[[Spirit of St. Louis]]'', the [[Bell X-1]], the [[North American X-15]], [[Project Mercury|Mercury]] spacecraft ''[[Friendship 7]]'', and [[Gemini 4]]. The quarantine trailer, the flotation collar, and the righting spheres are displayed at the Smithsonian's [[Udvar-Hazy Center]] annex near [[Washington Dulles International Airport]] in Virginia.
+
+In 2009 the [[Lunar Reconnaissance Orbiter]] imaged the various Apollo landing sites on the surface of the moon with sufficient resolution to see the descent stages of the lunar modules, scientific instruments, and foot trails made by the astronauts.
+
+[[Image:090717-space-apollolabel-square-10a.rp420x400-1-.jpg|thumb|''Apollo 11'' Landing Site Seen by the [[Lunar Reconnaissance Orbiter]].]]
+
+{{clear}}
+
+==Mission insignia==
+The [[Mission patch|patch]] of ''Apollo 11'' was designed by Collins, who wanted a symbol for &quot;peaceful lunar landing by the United States.&quot; He chose an eagle as the symbol, put an [[olive branch]] in its beak, and drew a moon background with the earth in the distance. NASA officials said the talons of the eagle looked too &quot;warlike&quot; and after some discussion, the olive branch was moved to the claws. The crew decided the [[Roman numeral]] [[11 (number)|XI]] would not be understood in some nations and went with ''Apollo 11''; they decided not to put their names on the patch, so it would &quot;be representative of ''everyone'' who had worked toward a lunar landing.&quot;&lt;ref&gt;{{cite book |last = Collins |first = Michael |year = 2001 |title = Carrying the Fire: An Astronaut's Journeys |publisher = Cooper Square Press |isbn = 0-8154-1028-X |pages = 332–333}}&lt;/ref&gt;
+
+All colors are natural, with blue and gold borders around the patch. The LM was named ''Eagle'' to match the insignia. When the [[Eisenhower Dollar|Eisenhower dollar coin]] was released a few years later, the patch design provided the eagle for its reverse side.&lt;ref&gt;{{cite web | author=NGC Photo Proof | title=1971-78 Dollar Eisenhower | url=http://coinsite.com/CoinSite-PF/pparticles/$1eisen.asp | work=CoinSite | publisher=ROKO Design Group, Inc | date=1994 | accessdate=2009-07-20}}&lt;/ref&gt; The design was retained for the smaller [[Susan B. Anthony dollar]] which was unveiled in 1979, ten years after the Apollo 11 mission.{{Citation needed|date=July 2009}}
+
+==40th Anniversary events==
+[[Image:Mike Simons, Director of the National Electronic Museum in Baltimore assembles an Apollo TV camera for display.jpg|thumb|Mike Simons, director of the [[National Electronics Museum]] in [[Baltimore, Md.]], assembles an Apollo TV camera for display prior to NASA's briefing to release restored Apollo 11 [[moonwalk]] footage at the [[Newseum]].]]
+
+From July 16-24 2009 NASA streamed the original mission audio on its website in real time 40 years to the minute after the events occurred.&lt;ref&gt;{{cite web |url=http://www.nasa.gov/externalflash/apollo11_radio/index.html |title=Apollo 11 Radio Index |publisher=NASA |accessdate=2009-07-18}}&lt;/ref&gt; .
+In addition, it is in the process of restoring the video footage and have released a preview of key moments.&lt;ref&gt;{{cite web |url=http://www.nasa.gov/multimedia/hd/apollo11.html |title=Apollo 11 Partial Restoration HD Video Streams |publisher=NASA |accessdate=2009-07-18}}&lt;/ref&gt; More events are listed at the [http://www.nasa.gov/mission_pages/apollo/40th/events.html 40th anniversary] website. 
+
+The [[John F. Kennedy Library]] set up a [[Adobe Flash|Flash]] website [http://wechoosethemoon.org/ wechoosethemoon.org]&lt;ref&gt;{{cite web|url=http://wechoosethemoon.org/|title=We Choose the Moon|publisher=[[John F. Kennedy Library]]|accessdate=2009-07-19}}&lt;/ref&gt; that rebroadcasts the transmissions of Apollo 11 from launch to landing on the Moon.
+
+A group of British scientists interviewed as part of the anniversary events reflected on the significance of the moon landing:
+&lt;blockquote&gt;
+It was carried out in a technically brilliant way with risks taken ... that would be inconceivable in the risk-averse world of today...The Apollo programme is arguably the greatest technical achievement of mankind to date...nothing since Apollo has come close [to] the excitement that was generated by those astronauts - Armstrong, Aldrin and the 10 others who followed them.&lt;ref&gt;{{cite web |url=http://www.telegraph.co.uk/scienceandtechnology/science/space/5848707/Moon-landings-British-scientists-salute-space-heroes.html |title=Moon landings: British scientists salute space heroes |publisher=Telegraph |date=July 17, 2009 |accessdate=2009-07-17}}&lt;/ref&gt;&lt;/blockquote&gt;
+{{wikinews|Fortieth anniversary of first manned Moon landing}}
+On May 1, 2009, Congress introduced a bill granting the three astronauts on Apollo 11 a [[Congressional Gold Medal]], the highest civilian award in the United States. The bill was sponsored by Florida Senator [[Bill Nelson]] and Florida Congressman [[Alan Grayson]].&lt;ref&gt;{{cite web |url=http://www.opencongress.org/bill/111-s951/text |title=Text of S. 951 as Introduced in Senate |publisher=OpenCongress.org |date=May 1, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.opencongress.org/bill/111-h2245/text |title=Text of H.R. 2245 as Introduced in House |publisher=OpenCongress.org |date=May 5, 2009}}&lt;/ref&gt;
+
+{{clear}}
+
+==Video gallery==
+&lt;center&gt;&lt;gallery&gt;
+File:A11v 1092338.ogg|[[Neil Armstrong]] describes the Moon's surface before setting foot on it.
+File:A11v 1094228.ogg|[[Buzz Aldrin]] steps onto the Moon.
+File:AP11 FINAL APPROACH.ogv|Apollo 11 - Landing on the Sea of Tranquility - July 20, 1969, 16mm landing film.
+&lt;/gallery&gt;&lt;/center&gt;
+
+====40th anniversary partially restored videos====
+
+&lt;center&gt;&lt;gallery&gt;
+File:Apollo_11_2_minute_montage_720p.ogv|A two minute montage of Apollo 11 mission events highlights.
+File:Partially Restored Apollo 11 Video.OGG|Comparison between the original and the newly restored Apollo 11 video showing Neil Armstrong making his way to the lunar surface, by climbing down the lunar module ladder.
+File:Buzz Descends Comparison to Restored to Original wipe to Restored 720p.ogv|Comparison between the original and the newly restored Apollo 11 video showing Buzz Aldrin following Neil Armstrong down the lunar module ladder.
+File:Apollo 11 Plaque Comparison to Restored to Original wipe to Restored 720p.ogv|Comparison between the original and the newly restored Apollo 11 video showing Neil Armstrong reading the Apollo 11 plaque that is dedicate to that mission.
+File:Raising The American Flag Comparison to Restored to Original wipe to Restored H264 720p.ogv|Comparison between the original and the newly restored Apollo 11 video showing Neil Armstrong and Buzz Aldrin raising the American flag on the moon.
+File:Apollo 11 Intro 720p.ogv|A short video showing the events of the Apollo 11 Mission.
+&lt;/gallery&gt;&lt;/center&gt;
+
+==Photo gallery==
+&lt;center&gt;&lt;gallery&gt;
+Image:23_A11neilmesa.jpg|Panoramic Assembly showing Neil Armstrong.
+Image:Apollo 11 - Crew at the White House.jpg|Apollo 11 crew members at the White House in 2004.
+Image:Apollo 11 crew members.jpg|Apollo 11 crew members gathered at the [[National Air and Space Museum]] in [[Washington]], July 19, 2009.
+&lt;/gallery&gt;&lt;/center&gt;
+
+==See also==
+{{commonscat}}
+*[[Apollo 11 in popular culture|''Apollo 11'' in popular culture]]
+*[[Apollo Guidance Computer]]
+*[[Apollo Moon Landing hoax conspiracy theories]]
+*[[Extra-vehicular activity]]
+*[[Google Moon]]
+*[[List of artificial objects on the Moon]]
+*[[List of spacewalks and moonwalks]]
+*[[NASA's Story]]
+*[[Splashdown (spacecraft landing)|Splashdown]]
+*[[Apollo 11 missing tapes]]
+
+==References==
+{{reflist|2}}
+
+==Further reading==
+{{portalpar|Houston|Flag of Houston, Texas.svg}}
+*{{cite book|author=Cappellari, J.O. Jr.|title=Where on the Moon? An Apollo Systems Engineering Problem|publisher=The Bell System Technical Journal|year=1972|id=Volume 51, Number 5}}
+*{{note label|Barbour1969|Barbour 1969|}}{{cite book|author=John Barbour|year=1969|title=Footprints on the Moon|publisher=Associated Press}}
+*[[In the Shadow of the Moon (book)|In the Shadow of the Moon: A Challenging Journey to Tranquility]] by [[Francis French]] and [[Colin Burgess (author)|Colin Burgess]], [[University of Nebraska Press]], September 2007, ISBN 978-0-8032-1128-5. First hand interviews with the astronauts about the moon landing.
+*{{cite book|first=Tahir|last=Rahman|title=We Came in Peace for all Mankind- the Untold Story of the Apollo 11 Silicon Disc|publisher=Leathers Publishing|year=2007|isbn=978-1585974412}}
+
+'''For young readers'''
+*Aldrin, Buzz. ''Reaching for the Moon.'' HarperCollins, 2005, 40 pages, ISBN 978-0-060-55445-3
+*Floca, Brian. ''Moonshot: The Flight of Apollo 11''. Atheneum Books for Young Readers/Simon &amp; Schuster, 2009, 48 pages, ISBN 978-1416950462
+*Thimmesh, Catherine. ''Team Moon: How 400,000 People Landed Apollo 11 on the Moon.'' Houghton Mifflin, 2006, 80 pages, ISBN 978-0-618-50757-3
+
+==External links==
+*[http://nssdc.gsfc.nasa.gov/planetary/lunar/apollo11info.html Apollo 11 Mission Detailed Information]
+*[http://blaisephoto.fr/photographies-de-la-mission-apollo-11-nasa.php All photographs of the Apollo 11 mission]
+*[http://www.timesonline.co.uk/tol/system/topicRoot/Men_on_the_moon/ Men on the Moon] Original reports from The Times
+*{{cite web|url=http://www.nasa.gov/mission_pages/apollo/40th/|title=Apollo 40th Anniversary|publisher=NASA|date=July 2009|accessdate=18 July 2009}} - NASA Website honouring the mission
+*[http://www.collectspace.com/news/news-111507a.html Silicon disc about the size of a half dollar coin etched with 73 messages], left on the moon by Buzz Aldrin.
+*[http://news.nationalgeographic.com/news/2004/07/0714_040714_moonlanding.html Apollo Anniversary: Moon Landing &quot;Inspired World&quot;] - National Geographic News, 2004-07-16 - 35th anniversary; Steven Dick, NASA's chief historian: '...a thousand years from now, that step may be considered the crowning achievement of the 20th century.'
+*[http://www.compleatheretic.com/pubs/columns/apollo11.html First moon landing in 1969 marked an entire generation] - Matt Wallace - Opinion column reminiscing about the Apollo 11 Moon landing and its cultural impact on the 30th anniversary published July 18, 1999 in the ([[Greensboro, North Carolina|Greensboro, NC]]) News &amp; Record; &quot;And there was the moon, which was why this was no typical child's summer.&quot;
+* [http://www.popsci.com/military-aviation-amp-space/article/2009-06/40-years-later-ten-things-you-didnt-know-about-apollo-ii-moon-landing Ten Things You Didn't Know About the Apollo 11 Moon Landing] by ''Popular Mechanics''
+*[http://www.radiotapes.com/ Radiotapes.com] Radio station recordings (airchecks) covering the flight of Apollo 11 including the launch, third stage separation, moon landing, first steps on the moon, lunar liftoff and splashdown.
+
+===NASA reports===
+*[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19690022248_1969022248.pdf Apollo 11 lunar landing mission - NASA Press Kit]
+*{{cite web|url=http://history.nasa.gov/apsr/apsr.htm|title=''Apollo'' Program Summary Report|publisher=NASA|month=April|year=1975|dateformat=mdy|accessdate=September 23, 2006}} - 200+ pages
+*{{cite web|url=http://www.hq.nasa.gov/office/pao/History/SP-4009/contents.htm|title=The ''Apollo'' Spacecraft: A Chronology Vol. I-IV|date=August 1968-April 1975|author=Ivan D. Ertel, et al.|publisher=NASA|dateformat=mdy|accessdate=September 23, 2006|work=NASA SP-4009}}
+*{{cite web|url=http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19710015566_1971015566.pdf|title=''Apollo 11'' Mission Report|format=PDF |year=1971|publisher=NASA}} - 200+ pages
+*{{cite web|author=Office of Public Affairs, NASA|url=http://history.nasa.gov/ap11-35ann/apollo11_log/log.htm|title=EP-72 Log of ''Apollo 11''|publisher=NASA History Office|accessdate=2006-01-16}} - Timeline of the mission
+
+===Multimedia===
+*[http://www.life.com/image/first/in-gallery/23232/apollo-11-scenes-from-the-moon Apollo 11: Scenes From the Moon] - slideshow by ''Life Magazine''
+*{{cite web|url=http://www.nasa.gov/multimedia/hd/apollo11.html |title=''Apollo 11'' Moonwalk|author=N.A.S.A.|dateformat=my |accessdate=July, 2009}} - Remastered videos of the original landing.
+*{{cite web|url=http://www.hq.nasa.gov/alsj/a11/a11.html |title=''Apollo 11'' Lunar Surface Journal|author=Eric M. Jones|dateformat=mdy |accessdate=September 23, 2006}} - Transcripts and audio clips of important parts of the mission
+*{{cite web|url=http://www.hq.nasa.gov/alsj/a11/images11.html |title=Apollo 11 image library|publisher=NASA|dateformat=mdy |accessdate=September 23, 2006}} - Hundreds of high-resolution images of the mission, including assembled panoramas. Captions written by Eric M. Jones
+*{{cite web|publisher=[[USGS]]| url=http://astrogeology.usgs.gov/Projects/LunarAtlas/maps/|title=''Apollo'' Mission Traverse Maps|dateformat=mdy |accessdate=September 23, 2006}} - Several maps showing routes of [[Extra-vehicular activity|moonwalks]]
+*[http://www.musicblob.it/a-voice-from-the-moon.html A voice from the Moon] - a three minutes recording from the Apollo 11 mission (including &quot;The Eagle had landed&quot; and &quot;One small step for a man, one giant leap for mankind&quot;)
+*{{cite web | url = http://moon.google.com/ | title = Google Moon }} - with lunar landing sites tagged
+*[http://www.maniacworld.com/Apollo_11_3.htm Neil Armstrong's First Words on the Moon] Video
+*[http://www.maniacworld.com/Apollo_11_2.htm Neil Armstrong's First Words on the Moon] Audio
+*[http://www.cockpitvoicerecordings.com/Cockpit%20Voice%20Recordings/Apollo%2011%20Moonlanding.htm Cockpit Voice Recordings of the actual moon landing] Audio
+*[http://moonpans.com/vr Apollo Lunar Surface VR Panoramas] QTVR panoramas
+*[http://apollo.sese.asu.edu Apollo Image Archive]
+*[http://www.footagevault.com/search_results?q=apollo Apollo Video Footage]
+*[http://sonicbomb.com/modules.php?name=Downloads&amp;d_op=getit&amp;lid=177 Footage of the complete journey] from takeoff to splashdown - Video
+*[http://www.apollotv.net Apollo/Saturn V Development Apollo 11 Launch] ApolloTV.net Video
+*[http://www.awesomestories.com/assets/apollo-11-launch-and-journey-to-the-moon-1 BBC documentary of Apollo 11 Moon landing with historical footage, interviews and recreated scenes]
+*[http://wechoosethemoon.org/ Real-time audiovisual recreation of the Apollo 11 mission] to coincide with the 40th anniversary of Apollo 11, from the [[John F. Kennedy Library and Museum]]
+{{Project Apollo| before=''[[Apollo 10]]''| after=''[[Apollo 12]]''}}
+
+[[Category:Apollo program]]
+[[Category:Human spaceflights]]
+[[Category:Lunar spacecraft]]
+[[Category:Sample return missions]]
+[[Category:1969 in the United States]]
+[[Category:1969 in space exploration]]
+[[Category:Articles containing video clips]]
+
+{{Link FA|sk}}
+
+[[ar:أبولو 11]]
+[[az:Apollon 11]]
+[[bn:অ্যাপোলো ১১]]
+[[bg:Аполо 11]]
+[[ca:Apollo 11]]
+[[cs:Apollo 11]]
+[[cy:Apollo 11]]
+[[da:Apollo 11]]
+[[de:Apollo 11]]
+[[et:Apollo 11]]
+[[el:Απόλλων 11]]
+[[es:Apolo 11]]
+[[eo:Apollo 11]]
+[[fa:آپولو ۱۱]]
+[[fr:Apollo 11]]
+[[gl:Apolo XI]]
+[[gu:એપોલો ૧૧]]
+[[ko:아폴로 11호]]
+[[id:Apollo 11]]
+[[it:Apollo 11]]
+[[he:אפולו 11]]
+[[jv:Apollo 11]]
+[[kn:ಅಪೋಲೊ ೧೧]]
+[[ka:აპოლო 11]]
+[[lv:Apollo 11]]
+[[lt:Apollo 11]]
+[[hu:Apollo–11]]
+[[mk:Аполо 11]]
+[[ms:Apollo 11]]
+[[my:အပိုလို ၁၁]]
+[[nl:Apollo 11]]
+[[ja:アポロ11号]]
+[[no:Apollo 11]]
+[[nn:Apollo 11]]
+[[pl:Apollo 11]]
+[[pt:Apollo 11]]
+[[ro:Apollo 11]]
+[[ru:Аполлон-11]]
+[[simple:Apollo 11]]
+[[sk:Apollo 11]]
+[[sl:Apollo 11]]
+[[sr:Apolo 11]]
+[[fi:Apollo 11]]
+[[sv:Apollo 11]]
+[[ta:அப்பல்லோ 11]]
+[[tr:Apollo 11]]
+[[uk:Аполлон-11]]
+[[vi:Apollo 11]]
+[[yi:אפאלא 11]]
+[[zh:阿波罗11号]]

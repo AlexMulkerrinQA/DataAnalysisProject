@@ -1,0 +1,152 @@
+      {{taxobox
+| name=Ray-finned fish
+| fossil_range = {{Fossil range|Late Silurian|Recent}}
+| image = Herring2.jpg
+| image_caption = [[Atlantic herring]]
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| infraphylum = [[Gnathostomata]]
+| superclassis = [[Osteichthyes]]
+| classis = '''Actinopterygii'''
+| classis_authority = Klein, 1885
+| subdivision_ranks = Subclasses
+| subdivision =
+[[Chondrostei]]&lt;br/&gt;
+[[Neopterygii]]}}
+The '''Actinopterygii''' (the plural form of ''Actinopterygius'') constitute the [[Class (biology)|class]] of the '''ray-finned fishes'''.
+
+The ray-finned [[fish]]es are so called because they possess [[lepidotrichia]] or &quot;fin rays&quot;, their fins being webs of skin supported by bony or horny spines (&quot;rays&quot;), as opposed to the fleshy, lobed fins that characterize the class [[Sarcopterygii]]. These actinopterygian fin rays attach directly to the proximal or basal skeletal elements, the radials, which represent the link or connection between these fins and the internal skeleton (e.g., pelvic and pectoral girdles). 
+
+In terms of numbers, actinopterygians are the dominant class of [[vertebrate]]s, with nearly 30,000 species, and they are ubiquitous throughout [[fresh water]] and [[ocean|marine]] environments from the deep sea to the highest mountain streams. Extant species can range in size from ''[[Paedocypris]]'', at {{convert|8|mm|in}}, to the massive [[Ocean Sunfish]], at {{convert|2300|kg|lb}}, and the long-bodied [[Oarfish]], to at least {{convert|11|m|ft}}.
+
+==Fossil record==
+[[Image:Hypsospondylus.JPG|thumb|left|''Hypsospondylus'' fossil]] 
+The earliest known fossil Actinopterygiian is ''[[Andreolepis hedei]]'', dating back 420 million years ([[Late Silurian]]). This [[microvertebrate]] has been uncovered in [[Russia]], [[Sweden]], and [[Estonia]]&lt;ref&gt;[http://paleodb.org/cgi-bin/bridge.pl?action=checkTaxonInfo&amp;taxon_no=34968&amp;is_real_user=1 Palaeobase]&lt;/ref&gt;.
+
+==Classification==
+Traditionally three grades of actinopterygians have been recognised: the '''[[Chondrostei]]''', '''[[Holostei]]''', and '''[[Teleostei]]'''. Some morphological evidence suggests that the second is [[paraphyletic]] and should be abandoned; however, recent work based on more complete sampling of fossil taxa, and also an analysis of DNA sequence data from the complete mitochondrial genome, supports its recognition. Nearly all living bony fishes are [[teleost]]s.
+
+A listing of the different groups is given below, down to the level of orders, arranged in what has been suggested to represent the evolutionary sequence down to the level of order based primarily on the long history of morphological studies. This classification, like any other [[taxonomy]] based on [[phylogenetic]] research is in a state of flux. Many of these ordinal and higher-level groupings have not been supported in both the recent morphological and molecular literature. Examples of demonstrably [[paraphyletic]] or unnatural groups include the [[Paracanthopterygii]], [[Scorpaeniformes]], and [[Perciformes]]&lt;ref&gt;{{cite web | author = G. D. Johnson and E. O. Wiley | year = 2006 | title = Tree of Life: Percomorpha | url = http://www.tolweb.org/Percomorpha/52146 |month= March | year= 2007}}&lt;/ref&gt;. The listing follows [[FishBase]]&lt;ref&gt;{{cite web | author = R. Froese and D. Pauly (editors) | year = 2006 | title = FishBase | url = http://www.fishbase.org |month= February | year= 2006}}&lt;/ref&gt; with notes when this differs from Nelson&lt;ref&gt;{{cite book | title = Fishes of the World | last = Nelson | first = Joseph, S. | publisher = John Wiley &amp; Sons, Inc. | year = 2006 | isbn = 0471250317}}&lt;/ref&gt; and [[ITIS]].&lt;ref&gt;{{ITIS | ID = 161061 | taxon = Actinopterygii |date= 3 April | year = 2006}}&lt;/ref&gt;
+
+* '''Subclass [[Chondrostei]]'''
+** Order [[Polypteriformes]], ''including the [[bichir]]s and [[reedfish]]es'' &lt;ref&gt;In Nelson, [[Polypteriformes]] is placed in its own subclass [[Cladistia]].&lt;/ref&gt;
+** Order [[Acipenseriformes]], ''including the [[sturgeon]]s and [[paddlefish]]es''
+* '''Subclass [[Neopterygii]]'''
+** '''Infraclass [[Holostei]]'''
+*** Order [[Lepisosteiformes]], ''the [[gar]]s''
+*** Order [[Amiiformes]], ''the [[bowfin]]s''
+** '''Infraclass [[Teleostei]]'''
+*** '''Superorder [[Osteoglossomorpha]]'''
+**** Order [[Osteoglossiformes]], ''the bony-tongued fishes''
+**** Order [[Hiodontiformes]], ''including the [[mooneye]] and [[goldeye]]''
+*** '''Superorder [[Elopomorpha]]'''
+**** Order [[Elopiformes]], ''including the [[ladyfish]]es and [[tarpon]]''
+**** Order [[Albuliformes]], ''the bonefishes''
+**** Order [[Notacanthiformes]], ''including the [[halosaurs]] and [[spiny eel]]s''
+**** Order [[Anguilliformes]], ''the true [[eel]]s and [[gulper]]s''
+**** Order [[Saccopharyngiformes]], ''including the [[gulper eel]]''
+*** '''Superorder [[Clupeomorpha]]'''
+**** Order [[Clupeiformes]], ''including [[herring]]s and [[anchovy|anchovies]]''
+*** '''Superorder [[Ostariophysi]]'''
+**** Order [[Gonorynchiformes]], ''including the [[milkfish]]es''
+**** Order [[Cypriniformes]], ''including [[Barb (fish)|barbs]], [[carp]], [[danios]], [[goldfish]]es, [[Loach (fish)|loaches]], [[minnow]]s, [[rasbora]]s''
+**** Order [[Characiformes]], ''including [[characin]]s, [[pencilfish]]es, [[hatchetfish]]es, [[piranha]]s, [[tetra]]s, [[Golden dorado|dourado / golden (genus Salminus)]] and [[Piaractus_mesopotamicus| pacu]].''
+**** Order [[Gymnotiformes]], ''including [[electric eel]]s and [[knifefish]]es''
+**** Order [[Siluriformes]], ''the [[catfish]]es''
+*** '''Superorder [[Protacanthopterygii]]'''
+**** Order [[Salmoniformes]], ''including [[salmon]] and [[trout]]''
+**** Order [[Esociformes]] ''the [[esox|pike]]''
+**** Order [[Osmeriformes]], ''including the [[smelt]]s and [[galaxiid]]s''
+*** '''Superorder [[Stenopterygii]]'''
+**** Order [[Ateleopodiformes]], ''the [[jellynose fish]]''
+**** Order [[Stomiiformes]], ''including the [[bristlemouth]]s and [[marine hatchetfish]]es''
+*** '''Superorder [[Cyclosquamata]]'''
+**** Order [[Aulopiformes]], ''including the [[Bombay duck]] and [[lancetfish]]es''
+*** '''Superorder [[Scopelomorpha]]'''
+**** Order [[Myctophiformes]], ''including the [[lanternfish]]es''
+*** '''Superorder [[Lampridiomorpha]]'''
+**** Order [[Lampriformes]], ''including the [[oarfish]], [[opah]] and [[ribbonfishes]]''
+*** '''Superorder [[Polymyxiomorpha]]'''
+**** Order [[Polymixiiformes]], ''the [[beardfish]]es''
+*** '''Superorder [[Paracanthopterygii]]'''
+**** Order [[Percopsiformes]], ''including the [[Amblyopsidae|cavefish]]es and [[trout-perch]]es''
+**** Order [[Batrachoidiformes]], ''the [[toadfish]]es''
+**** Order [[Lophiiformes]], ''including the [[anglerfish]]es''
+**** Order [[Gadiformes]], ''including [[cod]]s''
+**** Order [[Ophidiiformes]], ''including the [[pearlfish]]es''
+*** '''Superorder [[Acanthopterygii]]'''
+**** Order [[Mugiliformes]], ''the [[mullet (fish)|mullets]]''
+**** Order [[Atheriniformes]], ''including [[Silverside (fish)|silversides]] and [[rainbowfish]]es''
+**** Order [[Beloniformes]], ''including the [[flyingfish]]es''
+**** Order [[Cetomimiformes]], ''the [[whalefish]]es''
+**** Order [[Cyprinodontiformes]], ''including [[live-bearing aquarium fish|livebearers]], [[killifish]]es''
+**** Order [[Stephanoberyciformes]], ''including the [[ridgehead]]s''
+**** Order [[Beryciformes]], ''including the [[fangtooth]]s and [[pineconefish]]es''
+**** Order [[Zeiformes]], ''including the [[dory (fish)|dories]]''
+**** Order [[Gobiesociformes]], ''the [[clingfish]]es''&lt;ref&gt;In ITIS, [[Gobiesociformes]] is placed as the suborder Gobiesocoidei of the order [[Perciformes]].&lt;/ref&gt;
+**** Order [[Gasterosteiformes]] ''including [[stickleback]]s
+**** Order [[Syngnathiformes]], ''including the [[Seahorse (fish)|seahorse]]s and [[pipefish]]es''&lt;ref&gt;In Nelson and ITIS, [[Syngnathiformes]] is placed as the suborder Syngnathoidei of the order [[Gasterosteiformes]].&lt;/ref&gt;
+**** Order [[Synbranchiformes]], ''including the [[swamp eel]]s''
+**** Order [[Tetraodontiformes]], ''including the [[filefish]]es and [[pufferfish]]''
+**** Order [[Pleuronectiformes]], ''the [[flatfish]]es''
+**** Order [[Scorpaeniformes]], ''including [[scorpionfish]]es and the [[sculpin]]s''
+**** Order [[Perciformes]] ''40% of all fish including [[anabantid]]s, [[Centrarchidae|Centrarchid]]s (incl. [[bass (fish)|bass]] and sunfish), [[Cichlid]]s, [[gobies]], [[gourami]]s, [[mackerel]], [[tuna]], [[perch]]es, [[Scatophagidae|scats]], [[whiting (fish)|whiting]], [[wrasses]]''
+
+==Notes==&lt;!-- Molecular Phylogenetics and Evolution 46 (2008) 224–236 --&gt;
+{{commonscat|Actinopterygii}}
+{{reflist}}
+
+{{Chordata}}
+{{Actinopterygii| }}
+
+[[Category:Ray-finned fish]]
+[[Category:Bony fish]]
+
+[[af:Actinopterygii]]
+[[ar:شعاعيات الزعانف]]
+[[bg:Лъчеперки]]
+[[ca:Actinopterigi]]
+[[cs:Paprskoploutví]]
+[[da:Strålefinnede fisk]]
+[[de:Strahlenflosser]]
+[[et:Kiiruimsed]]
+[[es:Actinopterygii]]
+[[eo:Aktinopterigoj]]
+[[fa:پرتوبالگان]]
+[[fr:Actinopterygii]]
+[[ga:Actinopterygii]]
+[[ko:조기어류]]
+[[hr:Zrakoperke]]
+[[is:Geisluggar]]
+[[it:Actinopterygii]]
+[[he:מקריני סנפיר]]
+[[ku:Masiyên perikên strîdar]]
+[[la:Actinopterygii]]
+[[lt:Stipinpelekės žuvys]]
+[[lij:Actinopterygii]]
+[[hu:Sugarasúszójú halak]]
+[[mk:Зракоперки]]
+[[nl:Straalvinnigen]]
+[[ja:条鰭綱]]
+[[no:Strålefinnede fisker]]
+[[nn:Strålefinnefisk]]
+[[oc:Actinopterygii]]
+[[pl:Promieniopłetwe]]
+[[pt:Actinopterygii]]
+[[rm:Actinopterygii]]
+[[qu:Wach'i wayt'ana]]
+[[ru:Лучепёрые рыбы]]
+[[scn:Actinopterygii]]
+[[simple:Actinopterygii]]
+[[sk:Lúčoplutvovce]]
+[[sl:Žarkoplavutarice]]
+[[sr:Зракоперке]]
+[[fi:Viuhkaeväiset]]
+[[sv:Taggfeniga fiskar]]
+[[ta:அக்டினோட்டெரிகீயை]]
+[[vi:Lớp Cá vây tia]]
+[[to:Ika kaponga tala]]
+[[tr:Işınsal yüzgeçliler]]
+[[uk:Променепері]]
+[[zea:Straelvinnigen]]
+[[zh:輻鰭魚]]

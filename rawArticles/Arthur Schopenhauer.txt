@@ -1,0 +1,367 @@
+      {{redirect|Schopenhauer}}
+{{Infobox Philosopher
+|&lt;!-- Scroll down to edit this page --&gt;
+ &lt;!-- Philosopher Category --&gt;
+ region = Western Philosophy
+|era = [[19th century philosophy]]
+|color = #B0C4DE
+|
+ &lt;!-- Image and Caption --&gt;
+ image_name = Schopenhauer.jpg
+|image_caption = Arthur Schopenhauer
+|signature = Schopenhauer sig.png
+|
+ &lt;!-- Information --&gt;
+ name = Arthur Schopenhauer
+|birth_date = {{bday|February 22, 1788}}
+|birth place = [[Danzig]]&lt;!-- according to Danzig/Gdansk vote policy. No further Prussia/Poland or other details. Leave that to the city articles --&gt;
+|death_date = {{Death date and age|1860|9|21|1788|2|22}}
+|death-place = [[Frankfurt]]
+|school_tradition = [[Kantianism]], [[idealism]]
+|main_interests = [[Metaphysics]], [[aesthetics]], [[ethics]], [[Phenomenology (philosophy)|phenomenology]], [[morality]], [[psychology]]
+|notable_ideas = [[Will (philosophy)|Will]], [[Fourfold root of the sufficient principle of reason|Fourfold root of reason]], [[pessimism]]
+|influences = [[Plato]], [[Immanuel Kant|Kant]], [[Upanishads]], [[Johann Wolfgang von Goethe|Goethe]], [[Shakespeare]], [[David Hume|Hume]], [[George Berkeley|Berkeley]]
+|influenced = [[Samuel Beckett]], [[Henri Bergson]], [[Jorge Luis Borges]], [[Luitzen Egbertus Jan Brouwer]], [[Jacob Burckhardt]], [[Albert Einstein]], [[Mihai Eminescu]], [[Sigmund Freud]], [[John N. Gray]][http://www.independent.co.uk/news/people/profiles/john-gray-forget-everything-you-know-641878.html], [[Knut Hamsun]], [[Thomas Hardy]], [[Eduard von Hartmann]], [[Hermann Hesse]], [[Max Horkheimer]], [[Michel Houellebecq]], [[Joris-Karl Huysmans]], [[Johannes Itten]], [[Carl Jung]], [[Karl Kraus]], [[Jules Laforgue]], [[Suzanne Langer]], [[Thomas Mann]], [[Guy de Maupassant]], [[Philipp Mainländer]], [[Ettore Majorana]], [[Friedrich Nietzsche]], [[Karl Popper]], [[Marcel Proust]], [[Gilbert Ryle]], [[George Santayana]], [[Jean-Paul Sartre]], [[Erwin Schrödinger]], [[Leo Tolstoy]], [[Hans Vaihinger]], [[Swami Vivekananda|Vivekananda]], [[Richard Wagner]], [[Otto Weininger]], [[Ludwig Wittgenstein]], [[Peter Wessel Zapffe]]
+}}
+'''Arthur Schopenhauer''' (February 22, 1788–September 21, 1860)
+was a [[Germany|German]] [[philosopher]] known for his atheistic pessimism and philosophical clarity. At age 25, he published his doctoral dissertation, ''[[On the Fourfold Root of the Principle of Sufficient Reason]]'', which examined the fundamental question of whether reason alone can unlock answers about the world. Schopenhauer's most influential work, ''[[The World as Will and Representation]]'', emphasized the role of man's basic motivation, which Schopenhauer called [[Will (philosophy)|will]].  His analysis of will led him to the conclusion that emotional, physical, and sexual desires can never be fulfilled. Consequently, he favored a lifestyle of negating human desires, similar to the teachings of [[Buddhism]] and [[Vedanta]].
+
+Schopenhauer's [[metaphysics|metaphysical]] analysis of will, his views on human motivation and desire, and his [[Aphorism|aphoristic]] writing style influenced many well-known thinkers including [[Friedrich Nietzsche]],&lt;ref name=SchopBR&gt; Addressed in: Cate, Curtis. Friedrich Nietzsche. Chapter 7.&lt;/ref&gt; [[Richard Wagner]], [[Ludwig Wittgenstein]], [[Erwin Schrödinger]], [[Albert Einstein]],&lt;ref&gt; Albert Einstein in Mein Glaubensbekenntnis (August 1932): &quot;I do not believe in freedom of will. Schopenhauer's words, 'Man can indeed do what he wants, but he cannot want what he wants', accompany me in all life situations and console me in my dealings with people, even those that are really painful to me. This recognition of the unfreedom of the will protects me from taking myself and my fellow men too seriously as acting and judging individuals and losing good humour.&quot;&lt;/ref&gt; and [[Sigmund Freud]].
+
+==Life==
+[[File:Gdansk Schopenhauer House.jpg|thumb|left|Schopenhauer's birthplace - house in Danzig , now [[Gdańsk]], ul. Św. Ducha]]
+Arthur Schopenhauer was born in the city of [[Danzig]] (Gdańsk) as the son of Heinrich Floris Schopenhauer and [[Johanna Schopenhauer|Johanna Trosiener]],&lt;ref name=&quot;Google Books&quot;&gt;{{cite web|url=http://books.google.com/books?id=fW5Dl-tUS_oC&amp;pg=PR30&amp;dq=Schopenhauer+%2222+February%22&amp;ei=BbktR__4BZuI7ALM7fHcCQ&amp;sig=kTTS7L7lZs0LE3XGhTY7-cwnBf4|title=Chronology|last=Schopenhauer|first=Arthur|coauthors=Günter Zöller, Eric F. J. Payne|date=1999|work=Prize Essay on the Freedom of the Will|publisher=Cambridge University Press|pages=xxx|accessdate=2008-09-05}}&lt;/ref&gt; both descendants of wealthy German [[Patrician (post-Roman Europe)|Patrician]] families. When the [[Kingdom of Prussia]] acquired the [[Polish-Lithuanian Commonwealth]] city of Danzig in 1793, Schopenhauer's family moved to [[Hamburg]]. In 1805, Schopenhauer's father committed suicide.&lt;ref&gt; Safranski (1990) page 12. &quot;There was in the father's life some dark and vague source of fear which later made him hurl himself to his death from the attic of his house in Hamburg.&quot;&lt;/ref&gt; Schopenhauer's mother Johanna shortly after moved to [[Weimar]], then the centre of [[German literature]], to pursue her writing career. After one year, Schopenhauer left the family business in Hamburg to join her.
+
+[[File:ArthurSchopenhauer.jpg|thumb|Schopenhauer as a youth]]
+Schopenhauer became a student at the [[Georg August University of Göttingen|University of Göttingen]] in 1809. There he studied [[metaphysics]] and [[psychology]] under [[Gottlob Ernst Schulze]], the author of [[Aenesidemus (book)|''Aenesidemus'']], who advised him to concentrate on [[Plato]] and [[Kant]]. In Berlin, from 1811 to 1812, he had attended lectures by the prominent post-Kantian philosopher [[J. G. Fichte]] and the theologian [[Schleiermacher]].
+
+In 1814, Schopenhauer began his seminal work ''[[The World as Will and Representation]]'' (''Die Welt als Wille und Vorstellung''). He would finish it in 1818 and publish it the following year. In [[Dresden]] in 1819, Schopenhauer fathered an illegitimate child who was born and died the same year.&lt;ref&gt;[http://www.geocities.com/c_ansata/timeline.html A Schopenhauer Timeline&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref&gt;[http://www.kirjasto.sci.fi/arthursc.htm Arthur Schopenhauer&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; In 1820, Schopenhauer became a lecturer at the [[University of Berlin]]. He scheduled his lectures to coincide with those of the famous philosopher [[G. W. F. Hegel]], whom Schopenhauer described as a &quot;clumsy charlatan&quot;.&lt;ref&gt;Schopenahuer, Arthur. Author's preface to &quot;On The Fourfold Root of the Principle of sufficient reason. Page 1. http://en.wikisource.org/wiki/On_the_Fourfold_Root_of_the_Principle_of_Sufficient_Reason&lt;/ref&gt; However, only five students turned up to Schopenhauer's lectures, and he dropped out of academia. A late essay, &quot;On University Philosophy&quot;, expressed his resentment towards university philosophy.
+
+In 1831, a [[cholera]] epidemic broke out in Berlin and Schopenhauer left the city. Schopenhauer settled permanently in [[Frankfurt]] in 1833, where he remained for the next twenty-seven years, living alone except for a succession of pet poodles named Atma and Butz.
+Schopenhauer had a robust constitution, but in 1860 his health began to deteriorate. He died of heart failure on September 21, 1860, while sitting in his armchair at home. He was 72.
+
+==The Marquet Affair==
+While in Berlin, Schopenhauer was named as a defendant in an action at law initiated by a woman named Caroline Marquet.&lt;ref name=SchopBR&gt; Addressed in: Russell, Bertrand (1945).&lt;/ref&gt;
+She asked for damages, alleging that Schopenhauer had pushed her. Knowing that he was a man of some means and that he disliked noise, she deliberately annoyed him by raising her voice while standing right outside his door. Marquet alleged that the philosopher had assaulted and battered her after she refused to leave his doorway. Her companion testified that she saw Marquet prostrate outside his apartment. Because Marquet won the lawsuit, he made payments to her for the next twenty years.&lt;ref&gt;Safranski (1990), Chapter 19&lt;/ref&gt; When she died, he wrote on a copy of her death certificate, ''Obit anus, abit onus'' (&quot;The old woman dies, the burden is lifted&quot;).&lt;ref&gt;{{cite book | last = Magee | first = Bryan | title = The Philosophy of Schopenhauer | publisher = Clarendon Press | location = Oxford | year = 1997 | isbn = 0198237235 |page=13}}&lt;/ref&gt;
+
+==Thought==
+{{Synthesis|date=October 2007}}
+
+===Philosophy of the &quot;will&quot;===
+A key focus of Schopenhauer was his investigation of individual motivation. Before Schopenhauer, Hegel had popularized the concept of ''Zeitgeist'', the idea that society consisted of a collective consciousness which moved in a distinct direction, directing the actions of its members. Schopenhauer, a reader of both Kant and Hegel, criticized their logical optimism and the belief that individual morality could be determined by society and reason. Schopenhauer believed that humans were motivated only by their own basic desires, or ''Wille zum Leben'' (Will to Live), which directed all of mankind.&lt;ref&gt;&quot;The reality is what Schopenhauer calls the Will, the Will to Live.&quot; Letter to Richard C. Lyon, August 1, 1949, [[George Santayana]], ''The Letters of George Santayana'', Scribner's, New York, 1955&lt;/ref&gt; For Schopenhauer, human desire was futile, illogical, directionless, and, by extension, so was all human action in the world. To Schopenhauer, the Will is a metaphysical existence which controls not only the actions of individual, intelligent agents, but ultimately all observable phenomena. Will, for Schopenhauer, is what Kant called the &quot;thing-in-itself&quot;.
+
+===Art and aesthetics===
+For Schopenhauer, human desiring, &quot;willing,&quot; and craving cause [[suffering|suffering or pain]]. A temporary way to escape this pain is through aesthetic contemplation (a method comparable to [[Zapffe]]'s &quot;''Sublimation''&quot;). This is the next best way, short of not willing at all, which is the best way. Total absorption in the world as representation saves a person from suffering the world as will. [[Music]] was also given a special status in [[Schopenhauer's aesthetics]] as it did not rely upon the medium of phenomenal representation. Music artistically presents the will itself, not the way that the will appears to an individual observer. According to Daniel Albright, &quot;Schopenhauer thought that [[philosophy of music|music]] was the only art that did not merely copy ideas, but actually embodied the will itself.&quot;&lt;ref&gt;Daniel Albright, Modernism and Music, 2004, page 39, footnote 34&lt;/ref&gt;
+
+===Ethics===
+Schopenhauer's moral theory proposed that of three primary moral incentives, [[compassion]],&lt;!--Only German &quot;Mitleid&quot; if others (malice and egoism) also have their German. Must be consistent: (''Mitleid'')--&gt; [[wikt:malice|malice]] and [[egoism]]. Compassion is the major motivator to moral expression. Malice and egoism are corrupt alternatives.
+
+===Psychology===
+Schopenhauer was perhaps even more influential in his treatment of man's [[psychology]] than he was in the realm of [[philosophy]].
+
+Philosophers have not traditionally been impressed by the tribulations of [[sex]], but Schopenhauer addressed it and related concepts forthrightly:
+
+&lt;blockquote&gt;...one ought rather to be surprised that a thing [sex] which plays throughout so important a part in human life has hitherto practically been disregarded by philosophers altogether, and lies before us as raw and untreated material.&lt;ref&gt;Schopenahuer, Arthur. Supplements to the Fourth Book of &quot;The World as Will and Representation, Page 338 http://en.wikisource.org/wiki/The_World_as_Will_and_Representation/Supplements_to_the_Fourth_Book CHAPTER XLIV&lt;/ref&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+He gave a name to a [[force]] within man which he felt had invariably precedence over reason: the Will to Live (''[[Will]]e zum Leben''), defined as an inherent [[drive]] within human beings, and indeed all creatures, to stay alive and to [[reproduce]].
+
+Schopenhauer refused to conceive of love as either trifling or accidental, but rather understood it to be an immensely powerful force lying unseen within man's [[Psyche (psychology)|psyche]] and dramatically shaping the [[world]]:
+
+&lt;blockquote&gt;&lt;p&gt;The ultimate aim of all love affairs ... is more important than all other aims in man's life; and therefore it is quite worthy of the profound seriousness with which everyone pursues it.&lt;/p&gt;
+&lt;p&gt;What is decided by it is nothing less than the composition of the next generation ...&lt;ref&gt;Schopenahuer, Arthur. Supplements to the Fourth Book of &quot;The World as Will and Representation. Page 340 http://en.wikisource.org/wiki/The_World_as_Will_and_Representation/Supplements_to_the_Fourth_Book CHAPTER XLIV&lt;/ref&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+These ideas foreshadowed [[Charles Darwin|Darwin's]] [[theory of evolution|discovery of evolution]] and [[Sigmund Freud|Freud's]] concepts of the [[libido]] and the [[unconscious mind]].&lt;ref&gt;&quot;Nearly a century before Freud... in Schopenhauer there is, for the first time, an explicit philosophy of the unconscious and of the body.&quot; Safranski pg. 345.&lt;/ref&gt;
+
+===Political and social thought===
+====Politics====
+Schopenhauer's [[politics]] were, for the most part, an echo of his system of ethics (the latter being expressed in ''Die beiden Grundprobleme der Ethik'', available in English as two separate books, ''[[On the Basis of Morality]]'' and ''[[On the Freedom of the Will]]''). Ethics also occupies about one quarter of his central work, ''[[The World as Will and Representation]]''.
+
+In occasional political comments in his ''Parerga and Paralipomena'' and ''Manuscript Remains'', Schopenhauer described himself as a proponent of limited government. What was essential, he thought, was that the state should &quot;leave each man free to work out his own [[salvation]]&quot;, and so long as government was thus limited, he would &quot;prefer to be ruled by a lion than one of [his] fellow rats&quot; — i.e., by a [[monarch]], rather than a [[Republic|democrat]]. Schopenhauer did, however, share the view of [[Thomas Hobbes]] on the necessity of the state, and of state violence, to check the destructive tendencies innate to our species.
+
+Schopenhauer, by his own admission, did not give much thought to politics, and several times he writes proudly of how little attention he had paid &quot;to political affairs of [his] day&quot;. In a life that spanned several revolutions in French and German government, and a few continent-shaking wars, he did indeed maintain his aloof position of &quot;minding not the times but the eternities&quot;. He wrote many disparaging remarks about Germany and the Germans. A typical example is &quot;For a German it is even good to have somewhat lengthy words in his mouth, for he thinks slowly, and they give him time to reflect.&quot; &lt;ref&gt;''[[The World as Will and Representation]]'', Vol. 2, Ch. 12&lt;/ref&gt;
+
+Schopenhauer possessed a distinctly hierarchical conception of the human [[Race (classification of human beings)|races]], attributing civilizational primacy to the northern, &quot;white races&quot;, due to their sensitivity and creativity:
+
+&lt;blockquote&gt;The highest civilization and culture, apart from the ancient Hindus and Egyptians, are found exclusively among the white races; and even with many dark peoples, the ruling caste or race is fairer in colour than the rest and has, therefore, evidently immigrated, for example, the Brahmans, the Incas, and the rulers of the South Sea Islands. All this is due to the fact that necessity is the mother of invention because those tribes that emigrated early to the north, and there gradually became white, had to develop all their intellectual powers and invent and perfect all the arts in their struggle with need, want and misery, which in their many forms were brought about by the climate. This they had to do in order to make up for the parsimony of nature and out of it all came their high civilization.&lt;ref&gt;''Parerga and Paralipomena'', Volume II, Section 92&lt;/ref&gt;&lt;/blockquote&gt;
+
+Despite this, he was adamantly against differing treatment of races, was fervently anti-slavery, and supported the [[abolitionist]] movement in the United States. He describes the treatment of &quot;[our] innocent black brothers whom force and injustice have delivered into [the slave-master's] devilish clutches&quot; as &quot;belonging to the blackest pages of mankind's criminal record.&quot;&lt;ref&gt;''Parerga and Paralipomena'', &quot;On Ethics,&quot; Sec. 5&lt;/ref&gt;
+
+Schopenhauer additionally maintained a marked metaphysical and political [[anti-Judaism]]. Schopenhauer argued that Christianity constituted a revolt against the materialistic basis of Judaism, exhibiting an Indian-influenced ethics reflecting the [[Aryan]]-[[Vedas|Vedic]] theme of spiritual &quot;self-conquest.&quot; This he saw as opposed to what he held to be the ignorant drive toward earthly utopianism and superficiality of a worldly Jewish spirit:
+
+&lt;blockquote&gt;While all other religions endeavor to explain to the people by symbols the metaphysical significance of life, the religion of the Jews is entirely immanent and furnishes nothing but a mere war-cry in the struggle with other nations.&lt;ref&gt;&quot;Fragments for the history of philosophy&quot;, ''Parerga and Paralipomena'', Volume I.&lt;/ref&gt;&lt;/blockquote&gt;
+
+====Views on women====
+In Schopenhauer's essay &quot;[[s:Of Women|Of Women]]&quot; (&quot;Über die Weiber&quot;),  he expressed his opposition to what he called &quot;Teutonico-Christian stupidity&quot; on female affairs. He claimed that &quot;woman is by nature meant to obey&quot;, and opposed [[Friedrich Schiller|Schiller's]] poem in honor of women, &quot;Würde der Frauen&quot; (&quot;Dignity of Women&quot;). The essay does give two compliments, however: that &quot;women are decidedly more sober in their judgment than [men] are&quot; and are more sympathetic to the suffering of others. However, the latter was discounted as weakness rather than humanitarian virtue.
+
+In 1821, he fell in love with nineteen-year old opera singer, Caroline Richter (called Medon), and had a relationship with her for several years. He discarded marriage plans, however, writing, &quot;Marrying means to halve one's rights and double one's duties&quot;, and &quot;Marrying means, to grasp blindfold into a sack hoping to find out an eel out of an assembly of snakes.&quot; At the age of forty-three, in 1831, he again took interest in a younger woman, the seventeen-year-old Flora Weiss, who rejected him. &lt;ref&gt;http://www.hiw.kuleuven.be/eng/alumni/newslet11.pdf ''The Leuven Philosophy Newsletter'' pgs. 42-43 &quot;But an examination of his life reveals a yearning for marriage frustrated by a train of rejections. In the year 1831, Schopenhauer fell in love with a girl named Flora Weiss. At a boat party in
+Germany he made his advance by offering her a bunch of grapes. Flora’s diary records this event as follows “I didn’t want the grapes because old
+Schopenhauer had touched them, so I let them slide, quite gently into the water.” Apparently, she was underwhelmed.&quot; &lt;/ref&gt;
+
+Schopenhauer had generally liberal views on other social issues: he was strongly against [[taboo]]s on issues like [[suicide]] and [[homosexuality]], and condemned the treatment of African [[slavery|slaves]]. Schopenhauer held a high opinion of one woman, [[Madame de Guyon]], whose writings and biography he recommended.
+
+Schopenhauer's controversial writing has influenced many, from [[Friedrich Nietzsche|Nietzsche]] to nineteenth-century [[feminism|feminists]]. Schopenhauer's [[biology|biological]] analysis of the difference between the sexes, and their separate roles in the struggle for survival and reproduction, anticipates some of the claims that were later ventured by [[sociobiology|sociobiologists]] and [[evolutionary psychology|evolutionary psychologists]] in the twentieth century.{{Fact|date=June 2007}}
+
+After the elderly Schopenhauer sat for a sculpture portrait by [[Elisabet Ney]], he told Richard Wagner's friend [[Malwida von Meysenbug]], &quot;I have not yet spoken my last word about women. I believe that if a woman succeeds in withdrawing from the mass, or rather raising herself above the mass, she grows ceaselessly and more than a man.&quot;&lt;ref&gt;Safranski (1990), Chapter 24. Page 348.&lt;/ref&gt;
+
+====Heredity and eugenics====
+Schopenhauer believed that a person inherited level of intellect through one's mother, and personal character through one's father.&lt;ref&gt;On the Suffering of the World, (1970), Page 35. Penguin Books-Great Ideas &lt;/ref&gt; Schopenhauer quotes Horace's saying, &quot;From the brave and good are the brave descended&quot; (''Odes'', iv, 4, 29) and Shakespeare's line from ''Cymbeline'', &quot;Cowards father cowards, and base things sire base&quot; (IV, 2) to reinforce his hereditarian argument.&lt;ref&gt;Payne, ''The World as Will and Representation'', Vol. II, p. 519&lt;/ref&gt; On the question of eugenics, Schopenhauer wrote:
+
+&lt;blockquote&gt;With our knowledge of the complete unalterability both of character and of mental faculties, we are led to the view that a real and thorough improvement of the human race might be reached not so much from outside as from within, not so much by theory and instruction as rather by the path of generation. Plato had something of the kind in mind when, in the fifth book of his ''Republic'', he explained his plan for increasing and improving his warrior caste. If we could [[castrate]] all [[criminals|scoundrels]] and stick all stupid geese in a convent, and give men of noble character a whole [[harem]], and procure men, and indeed thorough men, for all girls of intellect and understanding, then a generation would soon arise which would produce a better age than that of [[Pericles]].&lt;ref&gt;Schopenhauer, ibid., p. 527&lt;/ref&gt;&lt;/blockquote&gt;
+
+In another context, Schopenhauer reiterated his antidemocratic-eugenic thesis: &quot;If you want Utopian plans, I would say: the only solution to the problem is the [[despotism]] of the wise and noble members of a genuine aristocracy, a genuine nobility, achieved by [[mating]] the most magnanimous men with the cleverest and most gifted women. This proposal constitutes my Utopia and my Platonic Republic&quot;.&lt;ref&gt;''Essays and Aphorisms'', trans. R.J. Hollingdale, Middlesex: London, 1970, p. 154&lt;/ref&gt; Analysts (e.g., Keith Ansell-Pearson) have suggested that Schopenhauer's advocacy of anti-egalitarianism and eugenics influenced the neo-aristocratic philosophy of Friedrich Nietzsche, who initially considered Schopenhauer his mentor.
+
+====Views on homosexuality &amp; pederasty====
+[[File:Arthur Schopenhauer Portrait by Ludwig Sigismund Ruhl 1815.jpeg|thumb|Schopenhauer as a young man]]
+Schopenhauer was also one of the first philosophers since the days of [[Greek philosophy]] to address the subject of male homosexuality. In the third, expanded edition of ''The World as Will and Representation'' (1856), Schopenhauer added an appendix to his chapter on the &quot;Metaphysics of Sexual Love&quot;. He also wrote that homosexuality did have the benefit of preventing ill-begotten children. Concerning this, he stated, &quot;... the vice we are considering appears to work directly against the aims and ends of nature, and that in a matter that is all important and of the greatest concern to her, it must in fact serve these very aims, although only indirectly, as a means for preventing greater evils.&quot;&lt;ref&gt; On page 566 of Schopenhauer, Arthur. He wrote that only those who were too old or too young to reproduce strong, healthy children would resort to [[pederasty]] (Schopenhauer considered pederasty to be in itself a [[vice]]).&quot;The World as Will and Representation: Volume Two&quot;. Dover&lt;/ref&gt; Shrewdly anticipating the interpretive distortion on the part of the popular mind of his attempted scientific ''explanation'' of pederasty as a personal ''advocacy'' of a phenomenon Schopenhauer otherwise describes, in terms of spiritual ethics, as an &quot;objectionable aberration&quot;, Schopenhauer sarcastically concludes the appendix with the statement that &quot;by expounding these paradoxical ideas, I wanted to grant to the professors of philosophy a small favour, for they are very disconcerted by the ever-increasing publicization of my philosophy which they so carefully concealed. I have done so by giving them the opportunity of slandering me by saying that I defend and commend pederasty.&quot;&lt;ref&gt;ibid., p. 567.&lt;/ref&gt;
+
+==Influences==
+Schopenhauer said he was influenced by the [[Upanishads]], [[Immanuel Kant]], and [[Plato]]. References to [[Eastern philosophy|Eastern philosophy and religion]] appear frequently in Schopenhauer's writing. As noted above, he appreciated the teachings of the [[Gautama Buddha|Buddha]] and even called himself a &quot;Buddhaist&quot;.&lt;ref&gt;Abelsen, Peter (1993). [http://www.questia.com/PM.qst?a=o&amp;d=96540080 &quot;Schopenhauer and Buddhism.&quot;] ''Philosophy East &amp; West,'' 44:2 p. 255. Retrieved on: August 18, 2007.&lt;/ref&gt; He said that his philosophy could not have been conceived before these teachings were available.
+
+Concerning the Upanishads and [[Vedas]], he writes in ''The World as Will and Representation'':
+&lt;blockquote&gt;If the reader has also received the benefit of the Vedas, the access to which by means of the Upanishads is in my eyes the greatest privilege which this still young century (1818) may claim before all previous centuries, if then the reader, I say, has received his initiation in primeval Indian wisdom, and received it with an open heart, he will be prepared in the very best way for hearing what I have to tell him. It will not sound to him strange, as to many others, much less disagreeable; for I might, if it did not sound conceited, contend that every one of the detached statements which constitute the Upanishads, may be deduced as a necessary result from the fundamental thoughts which I have to enunciate, though those deductions themselves are by no means to be found there.&lt;ref&gt;''The World as Will and Representation'' Preface to the first edition, p. xiii)&lt;/ref&gt;&lt;/blockquote&gt;
+
+He summarised the influence of the Upanishads thus: “It has been the solace of my life, it will be the solace of my death!”
+
+Other influences were: [[William Shakespeare|Shakespeare]],&lt;ref&gt;{{cite book
+|last=Magee
+|first=Bryan
+|authorlink=Bryan Magee
+|title=The Philosophy of Schopenhauer
+|url=http://books.google.com/books?id=cfMD0RSjnEwC&amp;pg=PA265&amp;lpg=PA265&amp;dq=shakespeare+schopenhauer&amp;source=bl&amp;ots=JwSgJIyHdp&amp;sig=evX7rkI_qa62edfPLPWYchc9z3k&amp;hl=en&amp;ei=LU5WSrexAsrz-QbMifG-Dw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5
+|publisher=Oxford University Press
+|date=1977
+|page=265
+|isbn=0 19823 723 5}}&lt;/ref&gt; [[Jean Jacques Rousseau]], [[John Locke]], [[Baruch Spinoza]], [[Matthias Claudius]], [[George Berkeley]], [[David Hume]], [[René Descartes]].{{Fact|date=February 2007}}
+
+====Criticism of Kant====
+{{main|Schopenhauer's criticism of the Kantian philosophy}}
+{{see also|On the Basis of Morality|Schopenhauer's criticism of Kant's schemata}}
+Schopenhauer accepted Kant's double-aspect of the universe—the [[phenomena]]l (world of experience) and the [[noumenon|noumenal]] (world independent of experience). Some commentators suggest that Schopenhauer claimed that the noumenon, or thing-in-itself, was the basis for Schopenhauer's concept of the [[will (philosophy)|will]]. Other commentators suggest that Schopenhauer considered [[Will (philosophy)|will]] to be only a subset of the &quot;thing-in-itself&quot; class, namely that which we can most directly experience.&lt;ref&gt;Bryan Magee, ''Misunderstanding Schopenhauer'', Institute of Germanic Studies, University of London, 1990, ISBN 0 85457 148 5&lt;/ref&gt;
+
+Schopenhauer's identification of the Kantian ''noumenon'' (i.e., the actually existing entity) with what he termed &quot;will&quot; deserves some explanation. The noumenon was what Kant called the ''Ding an Sich'', the &quot;Thing in Itself&quot;, the reality that is the foundation of our [[sense|sensory]] and [[mind|mental]] representations of an external world. In Kantian terms, those sensory and mental representations are mere phenomena. Schopenhauer departed from Kant in his description of the relationship between the phenomenon and the noumenon. According to Kant, things-in-themselves ground the phenomenal representations in our minds; Schopenhauer, on the other hand, believed phenomena and noumena to be two different sides of the same coin. Noumena do not ''cause'' phenomena, but rather phenomena are simply the way by which our minds perceive the noumena, according to the [[Principle of Sufficient Reason]]. This is explained more fully in Schopenhauer's doctoral thesis, ''[[On the Fourfold Root of the Principle of Sufficient Reason]]''.
+
+Schopenhauer's second major departure from Kant's epistemology concerns the body. Kant's philosophy was formulated as a response to the radical [[philosophical skepticism]] of David Hume, who claimed that causality could not be observed empirically. Schopenhauer begins by arguing that Kant's demarcation between external objects, knowable only as phenomena, and the Thing in Itself of noumenon, contains a significant omission. There is, in fact, one physical object we know more intimately than we know any object of sense perception: our own body.
+
+We know our [[human anatomy|human bodies]] have boundaries and occupy space, the same way other objects known only through our named senses do. Though we seldom think of our body as a physical object, we know even before reflection that it shares some of an object's properties. We understand that a watermelon cannot successfully occupy the same space as an oncoming truck; we know that if we tried to repeat the experiment with our own body, we would obtain similar results – we know this even if we do not understand the [[physics]] involved.
+
+We know that our consciousness inhabits a physical body, similar to other physical objects only known as phenomena. Yet our consciousness is not commensurate with our body. Most of us possess the power of voluntary motion. We usually are not aware of the breathing of our [[lung]]s or the beating of our [[heart]] unless somehow our attention is called to them. Our ability to control either is limited. Our [[kidney]]s command our attention on their schedule rather than one we choose. Few of us have any idea what our [[liver]] is doing right now, though this organ is as needful as lungs, heart, or kidneys. The conscious mind is the servant, not the master, of these and other organs; these organs have an agenda which the conscious mind did not choose, and over which it has limited power.
+
+When Schopenhauer identifies the ''noumenon'' with the desires, needs, and impulses in us that we name &quot;will,&quot; what he is saying is that we participate in the reality of an otherwise unachievable world outside the mind through will. We cannot ''prove'' that our mental picture of an outside world corresponds with a reality by reasoning; through will, we know – without thinking – that the world can stimulate us. We suffer fear, or desire: these states arise involuntarily; they arise prior to reflection; they arise even when the conscious mind would prefer to hold them at bay. The rational mind is, for Schopenhauer, a leaf borne along in a stream of pre-reflective and largely unconscious emotion. That stream is will, and through will, if not through logic, we can participate in the underlying reality beyond mere phenomena. It is for this reason that Schopenhauer identifies the ''noumenon'' with what we call our will.
+
+==Influence==
+Schopenhauer has had a massive influence upon later thinkers, though more so in the [[arts]] (especially [[literature]] and [[music]]) and [[psychology]] than in philosophy. His popularity peaked in the early twentieth century, especially during the [[Modernist]] era, and waned somewhat thereafter. Nevertheless, a number of recent publications have reinterpreted and modernised the study of Schopenhauer. His theory is also being explored by some modern philosophers as a precursor to [[evolutionary theory]] and modern evolutionary psychology. &lt;ref&gt;In the book ''Straw Dogs'', John Gray upheld Schopenhauer as one of the few philosophers who has dedicated himself to studying Eastern philosophy as well as Western philosophy. The book argues against free will, and states that humans have much more in common with animals than is commonly admitted in the West. Schopenhauer is praised for his attitude towards animals, and for having addressed the brutality of much of human life.,&lt;/ref&gt;&lt;ref&gt;Borges remarked that the reason he had never written any philosophy, despite his penchant for it, was because Schopenhauer had already written it for him&lt;/ref&gt;
+
+==Schopenhauer versus Hegel==
+Schopenhauer expressed his dislike for the philosophy of his contemporary [[Georg Wilhelm Friedrich Hegel]] many times in his published works. The following quotation is typical:
+
+&lt;blockquote&gt;&lt;p&gt;If I were to say that the so-called philosophy of this fellow Hegel is a colossal piece of mystification which will yet provide posterity with an inexhaustible theme for laughter at our times, that it is a [[pseudophilosophy|pseudo-philosophy]] paralyzing all mental powers, stifling all real thinking, and, by the most outrageous misuse of language, putting in its place the hollowest, most senseless, thoughtless, and, as is confirmed by its success, most stupefying verbiage, I should be quite right.&lt;/p&gt;
+&lt;p&gt;Further, if I were to say that this summus philosophus [...] scribbled nonsense quite unlike any mortal before him, so that whoever could read his most eulogized work, the so-called ''[[The Phenomenology of Spirit|Phenomenology of the Mind]]'', without feeling as if he were in a madhouse, would qualify as an inmate for [[Bethlem Royal Hospital|Bedlam]], I should be no less right.&lt;ref&gt;[[On the Basis of Morality]], pp. 15–16.&lt;/ref&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+In his Foreword to the first edition of his work ''[[Die beiden Grundprobleme der Ethik]]'', Schopenhauer suggested that he had shown Hegel to have fallen prey to the ''[[Post hoc ergo propter hoc]]'' fallacy.
+
+Schopenhauer thought that Hegel used deliberately impressive but ultimately vacuous verbiage. He suggested his works were filled with &quot;castles of abstraction&quot; &lt;ref&gt;http://www.orientalia.org/wisdom/Philosophy/Pseudophilosophy.shtml&lt;/ref&gt; that sounded impressive but ultimately had no content. He also thought that his glorification of church and state were designed for personal advantage and had little to do with the search for philosophical truth.&lt;ref&gt;http://www.orientalia.org/wisdom/Philosophy/Pseudophilosophy.shtml&lt;/ref&gt; For instance, the [[Right Hegelians]] interpreted Hegel as viewing the Prussian state of his day as perfect and the goal of all history up until then.&lt;ref&gt;&quot;... the Hegelians who, in complete unsmiling seriousness, were airing the question of what the further content of world history could possibly be, now that in the Hegelian philosophy the world spirit had reached the goal, the knowledge of itself.&quot; Safranski, p. 256.&lt;/ref&gt; So although Schopenhauer's constant attacks on [[Hegel]] may have appeared vain and overly vociferous, they were not necessarily devoid of merit.
+
+==Indology==
+Schopenhauer read the Latin translation of the [[Upanisad|Upanishads]] which had been translated by French writer [[Abraham Hyacinthe Anquetil-Duperron|Anquetil du Perron]] from the Persian translation of Prince Dara Shikoh entitled ''Sirre-Akbar'' (&quot;The Great Secret&quot;). He was so impressed by their philosophy that he called them &quot;the production of the highest human wisdom&quot;, and considered them to contain superhuman conceptions. The
+[[Upanishads]] was a great source of inspiration to Schopenhauer, and writing about them he said:
+
+&lt;blockquote&gt;It is the most satisfying and elevating reading (with the exception of the original text) which is possible in the world; it has been the solace of my life and will be the solace of my death.&lt;ref&gt;{{cite book|last=Clarke|first=John James|title=Oriental enlightenment|publisher=Routledge|date=1997|pages=68|isbn=0415133769}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+It is well known that the book ''Oupnekhat'' (Upanishad) always lay open on his table, and he invariably studied it before sleeping at night. He called the opening up of Sanskrit literature &quot;the greatest gift of our century&quot;, and predicted that the philosophy and knowledge of the Upanishads would become the cherished faith of the West.&lt;ref&gt;{{cite web|url=http://www.philosophy.ru/library/asiatica/indica/authors/motives.html|title=Western Indologists: A Study in Motives|last=Dutt|first=Purohit Bhagavan|accessdate=2009-05-09}}&lt;/ref&gt;
+
+==Animal rights==
+As a consequence of his philosophy, Schopenhauer was very concerned about the rights of animals. For him, all animals, including humans, are phenomenal manifestations of Will. The word &quot;will&quot; designated, for him, force, power, impulse, energy, and desire; it is the closest word we have that can signify both the real essence of all external things and also our own direct, inner experience. Since everything is basically Will, then humans and animals are fundamentally the same and can recognize themselves in each other&lt;ref&gt;&quot;Unlike the intellect, it [the Will] does not depend on the perfection of the organism, but is essentially the same in all animals as that which is known to us so intimately. Accordingly, the animal has all the emotions of humans, such as joy, grief, fear, anger, love, hatred, strong desire, envy, and so on. The great difference between human and animal rests solely on the intellect's degrees of perfection.&quot; ''On the Will in Nature'', &quot;Physiology and Pathology.&quot;&lt;/ref&gt;. For this reason, he claimed that a good person would have sympathy for animals, who are our fellow sufferers.
+&lt;blockquote&gt;Since compassion for animals is so intimately associated with goodness of character, it may be confidently asserted that whoever is cruel to animals cannot be a good man.&lt;ref&gt;''[[On the basis of morality]]'', § 19&lt;/ref&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;Nothing leads more definitely to a recognition of the identity of the essential nature in animal and human phenomena than a study of zoology and anatomy.&lt;ref name = &quot;ufczom&quot;&gt;''ibid.''&lt;/ref&gt;&lt;/blockquote&gt;
+
+In 1841, he praised the establishment, in London, of the Society for the Prevention of Cruelty to Animals, and also the Animals' Friends Society in Philadelphia. Schopenhauer even went so far as to protest against the use of the pronoun &quot;it&quot; in reference to animals because it led to the treatment of them as though they were inanimate things.&lt;ref name = &quot;ufczom&quot;/&gt; To reinforce his points, Schopenhauer referred to anecdotal reports of the look in the eyes of a monkey who had been shot and also the grief of a baby elephant whose mother had been killed by a hunter.&lt;ref name = &quot;ufczom&quot;/&gt; He was very attached to his succession of pet poodles. Schopenhauer criticized [[Baruch Spinoza|Spinoza]]'s&lt;ref&gt;&quot;His contempt for animals, who, as mere things for our use, are declared by him to be without rights,...in conjunction with Pantheism, is at the same time absurd and abominable.&quot; ''The World as Will and Representation'', Vol. 2, Chapter 50.&lt;/ref&gt; belief that animals are to be used as a mere means for the satisfaction of humans&lt;ref&gt;Spinoza, ''Ethics'', Pt. IV, Prop. XXXVII, Note I.: &quot;Still I do not deny that beasts feel: what I deny is, that we may not consult our own advantage and use them as we please, treating them in a way which best suits us; for their nature is not like ours....&quot; This is the exact opposite of Schopenhauer's doctrine. Also, ''ibid.'', Appendix, 26, &quot;whatsoever there be in nature beside man, a regard for our advantage does not call on us to preserve, but to preserve or destroy according to its various capacities, and to adapt to our use as best we may.&quot;&lt;/ref&gt;&lt;ref&gt;&quot;Such are the matters which I engage to prove in Prop. xviii of this Part, whereby it is plain that the law against the slaughtering of animals is founded rather on vain superstition and womanish pity than on sound reason. The rational quest of what is useful to us further teaches us the necessity of associating ourselves with our fellow-men, but not with beasts, or things, whose nature is different from our own; we have the same rights in respect to them as they have in respect to us. Nay, as everyone's right is defined by his virtue, or power, men have far greater rights over beasts than beasts have over men. Still I affirm that beasts feel. But I also affirm that we may consult our own advantage and use them as we please, treating them in the way which best suits us; for their nature is not like ours, and their emotions are naturally different from human emotions.&quot; ''Ethics'', Part 4, Prop. 37, Note 1.&lt;/ref&gt;
+
+==Schopenhauer and Buddhism==
+Many Europeans, in the 1830s and 1840s, including Schopenhauer himself, found a correspondence between Schopenhauerian thought and the [[Four Noble Truths]] of Buddhism.&lt;ref&gt;Abelson, Peter (April 1993).
+[http://ccbs.ntu.edu.tw/FULLTEXT/JR-PHIL/peter2.htm Schopenhauer and Buddhism]. ''Philosophy East and West
+Volume 43, Number 2,'' pp. 255-278. University of Hawaii Press. Retrieved on: April 12, 2008.&lt;/ref&gt; Similarities centered on the principles that life involves suffering, that suffering is caused by desire, and that the extinction of desire leads to salvation. Thus three of the four &quot;truths of the Buddha&quot; correspond to Schopenhauer's doctrine of the will.&lt;ref&gt;[[Christopher Janaway|Janaway]], Christopher, ''Self and World in Schopenhauer's Philosophy'', p. 28 f.&lt;/ref&gt; In Buddhism, however, while greed and lust are always unskillful, desire is ethically variable - it can be skillful, unskillful, or neutral.&lt;ref&gt;David Burton, &quot;Buddhism, Knowledge and Liberation: A Philosophical Study.&quot; Ashgate Publishing, Ltd., 2004, page 22.&lt;/ref&gt; In the Buddhist perspective, the enemy to be defeated is [[tanha|craving]] rather than desire in general.&lt;ref&gt;David Burton, &quot;Buddhism, Knowledge and Liberation: A Philosophical Study.&quot; Ashgate Publishing, Ltd., 2004, page 22.&lt;/ref&gt;
+
+For Schopenhauer, Will had [[ontology|ontological]] primacy over the [[intellect]]; in other words, desire is understood to be prior to thought. Schopenhauer felt this was similar to notions of [[purushartha]] or goals of life in [[Vedanta]] [[Hinduism]].
+
+In Schopenhauer's philosophy, denial of the will is attained by either:
+* Personal experience of an extremely great suffering that leads to loss of the will to live; or
+* Knowledge of the essential nature of life in the world through observation of the suffering of other people.
+However, Buddhist [[nirvana]] is not equivalent to the condition that Schopenhauer described as denial of the will. Nirvana is not the extinguishing of the ''person'' as some Western scholars have thought, but only the extinguishing of the flames of greed, hatred, and delusion that assail a person's character.&lt;ref&gt;John J. Holder, ''Early Buddhist Discourses.'' Hackett Publishing Company, 2006, page xx.&lt;/ref&gt; Occult historian [[Joscelyn Godwin]] stated, &quot;It was Buddhism that inspired the philosophy of Arthur Schopenhauer, and, through him, attracted [[Richard Wagner]]&lt;ref&gt;Godwin, J: ''Arktos: The Polar Myth in Science, Symbolism, and Nazi Survival'', page 38. Adventures Unlimited Press, 1996, ISBN 0932813356, 9780932813350&lt;/ref&gt;. This [[Orientalism]] reflected the struggle of the German Romantics, in the words of [[Leon Poliakov]], to free themselves from [[Judeo-Christian]] fetters&quot;.&lt;ref&gt;''Arktos'', p. 38.&lt;/ref&gt; In opposition to Godwin's claim that Buddhism inspired Schopenhauer, the philosopher himself made the following statement in his discussion of religions:&lt;ref&gt;&quot;Schopenhauer is often said to be the first, or indeed the only, modern Western philosopher of any note to attempt any integration of his work with Eastern ways of thinking. That he was the first is surely true, but the claim that he was ''influenced'' by Indian thought needs some qualification. There is a remarkable correspondence, at least in broad terms, between some of the central Schopenhauerian doctrines and Buddhism: notably in the views that empirical existence is suffering, that suffering originates in desires, and that salvation can be attained by the extinction of desires. These three 'truths of the Buddha' are mirrored closely in the essential structure of the doctrine of the will (On this, see Dorothea W. Dauer, ''Schopenhauer as Transmitter of Buddhist Ideas''. Note also the discussion by Bryan Magee, ''The Philosophy of Schopenhauer'', pp. 14-15, 316-21). Janaway, Christopher, ''Self and World in Schopenhauer's Philosophy'', p. 28 f.&lt;/ref&gt;
+&lt;blockquote&gt;If I wished to take the results of my philosophy as the standard of truth, I should have to concede to Buddhism pre-eminence over the others. In any case, it must be a pleasure to me to see my doctrine in such close agreement with a religion that the majority of men on earth hold as their own, for this numbers far more followers than any other. And this agreement must be yet the more pleasing to me, inasmuch as ''in my philosophizing I have certainly not been under its influence'' [emphasis added]. For up till 1818, when my work appeared, there was to be found in Europe only a very few accounts of Buddhism.&lt;ref&gt;''[[The World as Will and Representation]]’’, Vol. 2, Ch. 17&lt;/ref&gt;&lt;/blockquote&gt;
+Buddhist philosopher [[Nishitani Keiji]], however, sought to distance Buddhism from Schopenhauer.{{Fact|date=October 2007}}
+While Schopenhauer's philosophy may sound rather mystical in such a summary, his [[methodology]] was resolutely [[empirical]], rather than speculative or transcendental:
+
+&lt;blockquote&gt;Philosophy ... is a science, and as such has no articles of faith; accordingly, in it nothing can be assumed as existing except what is either positively given empirically, or demonstrated through indubitable conclusions.&lt;ref&gt;''Parerga &amp; Paralipomena'', vol. I, p. 106., trans. E.F.J. Payne.&lt;/ref&gt;&lt;/blockquote&gt;
+
+Also note:
+
+&lt;blockquote&gt;This actual world of what is knowable, in which we are and which is in us, remains both the material and the limit of our consideration.&lt;ref&gt;''World as Will and Representation'', vol. I, p. 273, trans. E.F.J. Payne.&lt;/ref&gt;&lt;/blockquote&gt;
+
+[[File:Schopenhauer-ffm001.jpg|thumb|Grave at Frankfurt ''Hauptfriedhof'']]
+
+==Selected bibliography==
+* ''[[On the Fourfold Root of the Principle of Sufficient Reason]] (Über die vierfache Wurzel des Satzes vom zureichenden Grunde''), 1813
+* ''[[On Vision and Colors]]'' (''Über das Sehn und die Farben''), 1816 ISBN 0-85496-988-8
+* ''[[The World as Will and Representation]]'', (alternately translated in English as ''The World as Will and Idea''. Original German is ''Die Welt als Wille und Vorstellung''), 1818/1819, vol 2 1844
+** Vol. 1 Dover edition 1966, ISBN 0-486-21761-2
+** Vol. 2 Dover edition 1966, ISBN 0-486-21762-0
+** Peter Smith Publisher hardcover set 1969, ISBN 0-8446-2885-9
+** Everyman Paperback combined abridged edition (290 p.) ISBN 0-460-87505-1
+* ''[[s:On the Will in Nature|On the Will in Nature]] (Über den Willen in der Natur)'', 1836 ISBN 0-85496-999-3
+* ''[[On the Freedom of the Will]] (Über die Freiheit des menschlichen Willens''), 1839 ISBN 0-631-14552-4
+* ''[[s:On the Basis of Morality|On the Basis of Morality]] (Über die Grundlage der Moral)'', 1840
+* ''Parerga und Paralipomena'', 1851 ISBN 0-19-924221-6
+* Arthur Schopenhauer, ''Manuscript Remains'', Volume II, Berg Publishers Ltd., ISBN 0-85496-539-4
+
+===Online===
+* {{gutenberg author|id=Arthur+Schopenhauer | name=Arthur Schopenhauer}}
+* [http://www.geocities.com/c_ansata/Women.html ''Of Women'' (Über die Weiber)]
+* ''[http://coolhaus.de/art-of-controversy/ The Art Of Controversy (Die Kunst, Recht zu behalten)]''. (bilingual)
+* ''[http://librivox.org/studies-in-pessimism-by-arthur-schopenhauer/ Studies in Pessimism]'' - audiobook from [[LibriVox]].
+* ''The World as Will and Idea'' at [[Internet Archive]]:
+** ''[http://www.archive.org/details/theworldaswillan01schouoft Volume I;]''
+** ''[http://www.archive.org/details/theworldaswill02schouoft Volume II;]''
+** ''[http://www.archive.org/details/theworldaswillan03schouoft Volume III.]''
+* ''On the fourfold root of the principle of sufficient reason'' and ''On the will in nature.'' Two essays:
+** [http://www.archive.org/details/onthefourfoldroo00schouoft Internet Archive.] Translated by Mrs. Karl Hillebrand (1903).
+** [http://dlxs2.library.cornell.edu/cgi/t/text/text-idx?c=cdl;idno=cdl322 Cornell University Library Historical Monographs Collection.] Reprinted by [http://www.amazon.com/dp/1429739630/?tag=corneunivelib-20 Cornell University Library Digital Collections]
+* [http://www.schopenhauersource.org/type_list.php?type=manuscript Facsimile edition of Schopenhauer's manuscripts] in [http://www.schopenhauersource.org/ SchopenhauerSource]
+
+==See also==
+* [[Antinatalism]], a position advocated by Schopenhauer that one would be better off not having been born
+* [[Asceticism]]
+* [[Nihilism]]
+* [[Schopenhauer's criticism of the proofs of the Parallel Postulate]]
+* [[Wooden iron]]
+* [[Mortal coil]]
+* [[To be, or not to be]]
+* ''[[The Art of Being Right]]''
+* [[Emil Fackenheim]]
+* [[God in Buddhism]]
+* [[Truth]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* Albright, Daniel (2004) ''Modernism and Music: An Anthology of Sources''. University of Chicago Press. ISBN 0-226-01267-0.
+* Magee, Bryan, ''Confessions of a Philosopher'', Random House, 1998, ISBN 0-375-50028-6. Chapters 20, 21.
+* Russell, Bertrand (1945) ''A History of Western Philosophy and its Connection with Political and Social Circumstances from the Earliest Times to the Present Day''. [[Simon and Schuster]].
+* [[Rüdiger Safranski|Safranski, Rüdiger]] (1990) ''Schopenhauer and the Wild Years of Philosophy''. Harvard University Press, ISBN 0-674-79275-0
+
+==Further reading==
+===Books===
+* Atwell, John. ''Schopenhauer on the Character of the World, The Metaphysics of Will''.
+* --------, ''Schopenhauer, The Human Character''.
+* [[Frederick Copleston]], ''Schopenhauer: Philosopher of Pessimism'', 1946 (reprinted London: Search Press, 1975.)
+* Hamlyn, D. W., ''Schopenhauer'', London: Routledge and Kegan Paul, 1980
+* --------, ''Schopenhauer: A Very Short introduction''.
+* Christopher Janaway, 2003. ''Self and World in Schopenhauer's Philosophy''. Oxford University Press. ISBN 0-19-825003-7
+* [[Bryan Magee|Magee, Bryan]], ''The Philosophy of Schopenhauer'', Oxford University Press, 1997 (reprint), ISBN 0-19-823722-7
+* [[Gerard Mannion]], &quot;Schopenhauer, Religion and Morality - The Humble Path to Ethics&quot;, Ashgate Press, New Critical Thinking in Philosophy Series, 2003, 314pp
+* [[Helen Zimmern]], ''[[s:Arthur Schopenhauer, his Life and Philosophy|Arthur Schopenhauer, his Life and Philosophy]]'', London, LONGMANS, GREEN, and Co. - 1876
+
+===Articles===
+* Abelson, Peter, 1993, &quot;[http://ccbs.ntu.edu.tw/FULLTEXT/JR-PHIL/peter2.htm Schopenhauer and Buddhism,]&quot; ''Philosophy East and West'' 43(2): 255-78.
+* Jiménez, Camilo, 2006, &quot;[http://www.avinus-magazin.eu/html/jimenez_-_der_junge_schopenhau.html Tagebuch eines Ehrgeizigen: Arthur Schopenhauers Studienjahre in Berlin,]&quot; ''Avinus Magazin'' (in German).
+* Mazard, Eisel, 2005, &quot;[http://www.pratyeka.org/schopenhauer/ Schopenhauer and the Empirical Critique of Idealism in the History of Ideas.]&quot; On Schopenhauer's (debated) place in the history of European philosophy and his relation to his predecessors.
+* Moges, Awet, 2006, &quot;[http://www.galilean-library.org/manuscript.php?postid=43800 Schopenhauer's Philosophy.]&quot; Galileian Library.
+* [[Sangharakshita]], 2004, &quot;[http://www.centrebouddhisteparis.org/En_Anglais/Sangharakshita_en_anglais/Aesthetic_appreciation/aesthetic_appreciation.html Schopenhauer and aesthetic appreciation.]&quot;
+* Young, Christopher, and Brook, Andrew, 1994, &quot;[http://www.carleton.ca/~abrook/SCHOPENY.htm Schopenhauer and Freud,]&quot; ''International Journal of Psychoanalysis'' 75: 101-18.
+
+==External links==
+{{commons|Arthur Schopenhauer}}
+{{Wikisourcelang|en|Author:Arthur Schopenhauer|Arthur Schopenhauer}}
+{{Wikiquote}}
+* [http://knol.google.com/k/klaus-rohde/schopenhauers-philosophie-der-kunst/xk923bc3gp4/46# Schopenhauers Philosophie der Kunst]  {{de icon}}
+* {{sep entry|schopenhauer}} by Robert Wicks.
+* Ross, Kelley L., 1998, &quot;[http://www.friesian.com/arthur.htm Arthur Schopenhauer (1788-1860).]&quot; Two short essays, on Schopenhauer's life and work, and on his dim view of academia.
+* [http://ebooks.adelaide.edu.au/s/schopenhauer/arthur/ Assorted essays by Arthur Schopenhauer from The University of Adelaide]
+* [http://www.schopenhauersource.org/ Schopenhauersource: Reproductions of Schopenhauer's manuscripts]
+* {{gutenberg author}}
+{{Philosophy topics}}
+{{Schopenhauer}}
+{{metaphysics}}
+
+&lt;!-- Metadata: see [[Wikipedia:Persondata]] --&gt;
+
+{{Persondata
+|NAME=Schopenhauer, Arthur
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION=German philosopher
+|DATE OF BIRTH={{birth date|1788|2|22|mf=y}}
+|PLACE OF BIRTH=[[Stutthof]], [[Kingdom of Prussia]]
+|DATE OF DEATH={{death date|1860|9|21|mf=y}}
+|PLACE OF DEATH=[[Frankfurt-am-Main]], [[Germany]]
+}}
+[[Category:People from Gdańsk]]
+[[Category:19th-century German philosophers]]
+[[Category:Arthur Schopenhauer|Arthur Schopenhauer]]
+[[Category:Continental philosophers]]
+[[Category:German philosophers]]
+[[Category:German atheists]]
+[[Category:German-language philosophers]]
+[[Category:Humboldt University of Berlin faculty]]
+[[Category:Idealists]]
+[[Category:Kantian philosophers]]
+[[Category:University of Göttingen alumni]]
+[[Category:Atheist philosophers]]
+{{Lifetime|1788|1860|Schopenhauer, Arthur}}
+
+[[af:Arthur Schopenhauer]]
+[[ar:آرثر شوبنهاور]]
+[[bs:Arthur Schopenhauer]]
+[[bg:Артур Шопенхауер]]
+[[ca:Arthur Schopenhauer]]
+[[cs:Arthur Schopenhauer]]
+[[da:Arthur Schopenhauer]]
+[[de:Arthur Schopenhauer]]
+[[et:Arthur Schopenhauer]]
+[[el:Αρθούρος Σοπενχάουερ]]
+[[es:Arthur Schopenhauer]]
+[[eo:Arthur Schopenhauer]]
+[[eu:Arthur Schopenhauer]]
+[[fa:آرتور شوپنهاوئر]]
+[[fr:Arthur Schopenhauer]]
+[[ga:Arthur Schopenhauer]]
+[[gl:Arthur Schopenhauer]]
+[[ko:아르투어 쇼펜하우어]]
+[[hi:आर्थर शोपेनहावर]]
+[[hr:Arthur Schopenhauer]]
+[[io:Arthur Schopenhauer]]
+[[is:Arthur Schopenhauer]]
+[[it:Arthur Schopenhauer]]
+[[he:ארתור שופנהאואר]]
+[[ka:არტურ შოპენჰაუერი]]
+[[la:Arthurus Schopenhauer]]
+[[lv:Artūrs Šopenhauers]]
+[[lb:Arthur Schopenhauer]]
+[[lt:Arthur Schopenhauer]]
+[[hu:Arthur Schopenhauer]]
+[[mk:Артур Шопенхауер]]
+[[ml:ആര്‍തര്‍ ഷോപ്പന്‍ഹോവര്‍]]
+[[nl:Arthur Schopenhauer]]
+[[ja:アルトゥル・ショーペンハウアー]]
+[[no:Arthur Schopenhauer]]
+[[nov:Artur Schopenhauer]]
+[[oc:Arthur Schopenhauer]]
+[[uz:Arthur Schopenhauer]]
+[[nds:Arthur Schopenhauer]]
+[[pl:Arthur Schopenhauer]]
+[[pt:Arthur Schopenhauer]]
+[[ro:Arthur Schopenhauer]]
+[[ru:Шопенгауэр, Артур]]
+[[sq:Arthur Schopenhauer]]
+[[scn:Arthur Schopenhauer]]
+[[simple:Arthur Schopenhauer]]
+[[sk:Arthur Schopenhauer]]
+[[sl:Arthur Schopenhauer]]
+[[sr:Артур Шопенхауер]]
+[[fi:Arthur Schopenhauer]]
+[[sv:Arthur Schopenhauer]]
+[[tr:Arthur Schopenhauer]]
+[[uk:Артур Шопенгауер]]
+[[ur:شوپنہائر]]
+[[vi:Arthur Schopenhauer]]
+[[zh-yue:叔本華]]
+[[zh:叔本华]]

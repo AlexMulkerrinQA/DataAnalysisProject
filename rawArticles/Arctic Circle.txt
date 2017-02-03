@@ -1,0 +1,193 @@
+      {{for|the fast food restaurant chain|Arctic Circle Restaurants}}
+
+{{imagestack|
+[[Image:World map with arctic circle.svg|thumb|350px|World map showing the Arctic Circle in red]]
+[[Image:Arctic.svg|thumb|350px|Map of the [[Arctic]].]]
+}}
+
+The '''Arctic Circle''' is one of the five major [[circle of latitude|circles of latitude]] that mark maps of the [[Earth]]. In {{CURRENTYEAR}}, it is the parallel of [[latitude]] that runs approximately 66[[degree (angle)|°]] 33′ 39″ (or 66.56083°) north of the [[Equator]]. The region north of this circle is known as the [[Arctic]], and the zone just to the south is called the [[Temperateness|Northern Temperate Zone]]. The equivalent [[Polar circle]] in the [[Southern Hemisphere]] is called the [[Antarctic Circle]].
+
+The Arctic Circle marks the southern extremity of the [[midnight sun|polar day]] (24-hour sunlit day, often referred to as the &quot;midnight sun&quot;) and [[polar night]] (24-hour sunless night). North of the Arctic Circle, the [[sun]] is above the [[horizon]] for 24 continuous [[hour]]s at least once per [[year]] and below the horizon for 24 continuous hours at least once per year. On the Arctic Circle those events occur, in principle, exactly once per year, at the June and December [[solstice]]s, respectively.
+
+In fact, because of [[atmospheric refraction]] and because the sun appears as a disk and not a point, part of the midnight sun may be seen on the night of the summer solstice up to about 50[[Minute|′]] ({{convert|90|km|Abbr=on}}) south of the Arctic Circle; similarly, on the day of the [[winter solstice]], part of the sun may be seen up to about 50′ north of the Arctic Circle. That is true at sea level; those limits increase with elevation above sea level although in mountainous regions, there is often no direct view of the horizon.
+
+The position of the Arctic Circle is not fixed, but directly depends on the Earth's [[axial tilt]], which fluctuates within a margin of 2° over a 40,000 year period,&lt;ref&gt;[http://www.communique.se/polcirkel/arctic.html Arctic Circle]&lt;/ref&gt; notably due to [[tidal force]]s resulting from the [[orbit of the Moon]]. The Arctic Circle is currently drifting northwards at a speed of about {{convert|15|m|abbr=on}} per year, see [[circle of latitude#Movement of the Tropics and the Arctic and Antarctic circles|''Circle of latitude'']] for more information. 
+
+==Geography ==
+[[Image:Arctic Circle sign.jpg|thumb|A sign along the [[Dalton Highway]] marking the location of the Arctic Circle in Alaska.]]
+
+The Arctic Circle passes through the [[Arctic Ocean]], the [[Scandinavian Peninsula]], [[North Asia]], [[Northern America]] and [[Greenland]]. The land on the Arctic Circle is divided between eight countries, [[Norway]], [[Sweden]], [[Finland]], [[Russia]], the [[United States]] (i.e. [[Alaska]]), [[Canada]], [[Denmark]] (i.e. [[Greenland]]) and [[Iceland]].
+{{-}}
+Starting at the [[Prime Meridian]] and heading eastwards, the Arctic Circle passes through:
+
+:{| class=&quot;wikitable&quot;
+! Co-ordinates
+! Country, territory or sea
+! Notes
+|-
+| style=&quot;background:#b0e0e6;&quot; | {{Coord|66|33|N|0|0|E}}
+| style=&quot;background:#b0e0e6;&quot; | [[Arctic Ocean]]
+| style=&quot;background:#b0e0e6;&quot; | [[Norwegian Sea]]
+|-
+| {{Coord|66|33|N|12|48|E}}
+| {{NOR}}
+| [[Nordland]] county
+|-
+| {{Coord|66|33|N|15|31|E}}
+| {{SWE}}
+| [[Norrbotten County]]
+|-
+| {{Coord|66|33|N|23|51|E}}
+| {{FIN}}
+| [[Lapland Province]]
+|-valign=&quot;top&quot;
+| {{Coord|66|33|N|29|28|E}}
+| {{RUS}}
+| [[Republic of Karelia]], [[Murmansk Oblast]], [[Republic of Karelia|Karelia]] again, [[Murmansk Oblast|Murmansk]] again
+|-
+| style=&quot;background:#b0e0e6;&quot; | {{Coord|66|33|N|33|25|E}}
+| style=&quot;background:#b0e0e6;&quot; | [[White Sea]]
+| style=&quot;background:#b0e0e6;&quot; | [[Kandalaksha Gulf]]
+|-
+| {{Coord|66|33|N|34|28|E}}
+| {{RUS}}
+| [[Murmansk Oblast]] - for about 7&amp;nbsp;km
+|-
+| style=&quot;background:#b0e0e6;&quot; | {{Coord|66|33|N|34|38|E}}
+| style=&quot;background:#b0e0e6;&quot; | [[White Sea]]
+| style=&quot;background:#b0e0e6;&quot; | [[Kandalaksha Gulf]]
+|-
+| {{Coord|66|33|N|35|0|E}}
+| {{RUS}}
+| [[Murmansk Oblast]] ([[Kola Peninsula]])
+|-
+| style=&quot;background:#b0e0e6;&quot; | {{Coord|66|33|N|40|42|E}}
+| style=&quot;background:#b0e0e6;&quot; | [[White Sea]]
+| style=&quot;background:#b0e0e6;&quot; |
+|-
+| {{Coord|66|33|N|44|23|E}}
+| {{RUS}}
+| [[Nenets Autonomous Okrug]], [[Komi Republic]], [[Yamalo-Nenets Autonomous Okrug]]
+|-
+| style=&quot;background:#b0e0e6;&quot; | {{Coord|66|33|N|71|5|E}}
+| style=&quot;background:#b0e0e6;&quot; | [[Gulf of Ob]]
+| style=&quot;background:#b0e0e6;&quot; |
+|-
+| {{Coord|66|33|N|72|27|E}}
+| {{RUS}}
+| [[Yamalo-Nenets Autonomous Okrug]], [[Krasnoyarsk Krai]], [[Sakha Republic]], [[Chukotka Autonomous Okrug]]
+|-
+| style=&quot;background:#b0e0e6;&quot; | {{Coord|66|33|N|171|1|W}}
+| style=&quot;background:#b0e0e6;&quot; | [[Arctic Ocean]]
+| style=&quot;background:#b0e0e6;&quot; | [[Chukchi Sea]]
+|-
+| {{Coord|66|33|N|164|38|W}}
+| {{USA}}
+| [[Alaska]] ([[Seward Peninsula]])
+|-
+| style=&quot;background:#b0e0e6;&quot; | {{Coord|66|33|N|163|44|W}}
+| style=&quot;background:#b0e0e6;&quot; | [[Arctic Ocean]]
+| style=&quot;background:#b0e0e6;&quot; | [[Kotzebue Sound]]
+|-
+| {{Coord|66|33|N|161|56|W}}
+| {{USA}}
+| [[Alaska]] - passing through [[Selawik Lake]]
+|-
+| {{Coord|66|33|N|141|0|W}}
+| {{CAN}}
+| [[Yukon]], [[Northwest Territories]] - passing through the [[Great Bear Lake]], [[Nunavut]]
+|-
+| style=&quot;background:#b0e0e6;&quot; | {{Coord|66|33|N|82|59|W}}
+| style=&quot;background:#b0e0e6;&quot; | [[Hudson Bay]]
+| style=&quot;background:#b0e0e6;&quot; | [[Foxe Basin]]
+|-
+| {{Coord|66|33|N|73|25|W}}
+| {{CAN}}
+| [[Nunavut]] ([[Baffin Island]] - passing through [[Nettilling Lake]])
+|-
+| style=&quot;background:#b0e0e6;&quot; | {{Coord|66|33|N|61|24|W}}
+| style=&quot;background:#b0e0e6;&quot; | [[Atlantic Ocean]]
+| style=&quot;background:#b0e0e6;&quot; | [[Davis Strait]]
+|-
+| {{Coord|66|33|N|53|16|W}}
+| {{GRL}}
+|
+|-
+| style=&quot;background:#b0e0e6;&quot; | {{Coord|66|33|N|34|9|W}}
+| style=&quot;background:#b0e0e6;&quot; | [[Atlantic Ocean]]
+| style=&quot;background:#b0e0e6;&quot; | [[Denmark Strait]], [[Greenland Sea]]
+|-
+| {{Coord|66|33|N|18|1|W}}
+| {{ISL}}
+| Island of [[Grímsey]]
+|-
+| style=&quot;background:#b0e0e6;&quot; | {{Coord|66|33|N|17|59|W}}
+| style=&quot;background:#b0e0e6;&quot; | [[Atlantic Ocean]]
+| style=&quot;background:#b0e0e6;&quot; | [[Greenland Sea]], [[Norwegian Sea]]
+|}
+
+Relatively few people live north of the Arctic Circle due to the [[Climate of the Arctic|Arctic climate]]. The three largest communities above the Arctic Circle are situated in Russia; [[Murmansk]] (population 325,100), [[Norilsk]] (135,000), and [[Vorkuta]] (85,000). [[Tromsø]] (in Norway) has about 62,000 inhabitants, whereas [[Rovaniemi]] (in Finland), which lies slightly south of the line, has slightly fewer than 58,000.
+
+==See also==
+[[Image:66 33 arctic circle.jpg|thumb|Arctic Circle line in Rovaniemi , Finland]]
+*[[Antarctic Circle]]
+*[[Arctic haze]]
+*[[Scott Polar Research Institute]]
+*[[Territorial claims in the Arctic]]
+*[[Tropic of Cancer]]
+*[[Tropic of Capricorn]]
+
+==References==
+&lt;!-- ----------------------------------------------------------
+ See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for a
+ discussion of different citation methods and how to generate
+ footnotes using the &lt;ref&gt;, &lt;/ref&gt; and &lt;reference /&gt; tags
+----------------------------------------------------------- --&gt;
+{{reflist}}
+{{refimprove|date=December 2006}}
+
+==External links==
+{{Wiktionary}}
+*[http://www.mccord-museum.qc.ca/en/keys/webtours/GE_P3_5_EN.html Terra Incognita: Exploration of the Canadian Arctic]&amp;mdash;Historical essay about early expeditions to the Canadian Arctic, illustrated with maps, photographs and drawings
+
+{{geographical coordinates|state=collapsed}}
+
+[[Category:Lines of latitude]]
+[[Category:Geography of the Arctic]]
+
+[[br:Kelc'h Arktika]]
+[[bg:Северен полярен кръг]]
+[[ca:Cercle polar àrtic]]
+[[cs:Severní polární kruh]]
+[[da:Nordlige polarcirkel]]
+[[et:Põhjapolaarjoon]]
+[[el:Αρκτικός Κύκλος]]
+[[es:Círculo polar ártico]]
+[[eo:Arkta Cirklo]]
+[[eu:Zirkulu Polar Artikoa]]
+[[fr:Cercle Arctique]]
+[[gv:Cryss yn Arctagh]]
+[[gl:Círculo Polar Ártico]]
+[[ko:북극권]]
+[[is:Norðurheimskautsbaugurinn]]
+[[it:Circolo polare artico]]
+[[he:החוג הארקטי]]
+[[ka:არქტიკული წრე]]
+[[lv:Ziemeļu polārais loks]]
+[[hu:Északi-sarkkör]]
+[[nl:Noordpoolcirkel]]
+[[ja:北極圏]]
+[[no:Nordlige polarsirkel]]
+[[pl:Koło podbiegunowe]]
+[[pt:Círculo Polar Ártico]]
+[[ru:Северный полярный круг]]
+[[simple:Arctic Circle]]
+[[sk:Severný polárny kruh]]
+[[fi:Napapiiri]]
+[[tl:Bilog ng Artiko]]
+[[ta:ஆர்க்டிக் வட்டம்]]
+[[tr:Kuzey Kutup Dairesi]]
+[[uk:Північне полярне коло]]
+[[vi:Vòng Bắc Cực]]
+[[wa:Ceke polaire artike]]
+[[zh:北極圈]]

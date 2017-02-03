@@ -1,0 +1,709 @@
+      {{Otheruses1|the U.S. State of Alaska}}
+
+{{pp-move-indef}}
+
+{{US state
+| Name                  = Alaska
+| Fullname              = State of Alaska 
+| Flag                  = Flag of Alaska.svg
+| Flaglink              = [[Flag of Alaska]]
+| Seal                  = AlaskaStateSealTransparent.png
+| Map                   = Map of USA highlighting Alaska.png
+| imagewidth = 280px
+| Nickname              = Land of the Midnight Sun
+| Demonym               = [[Adjectivals and demonyms for U.S. states|Alaskan]]
+| Motto                 = North to the Future
+| Nickname              =  &quot;Land of the Midnight Sun&quot;
+| Capital               = [[Juneau, Alaska|Juneau]]
+| OfficialLang          = None&lt;ref&gt;http://ourworld.compuserve.com/homepages/jwcrawford/langleg.htm&lt;/ref&gt;&lt;ref&gt;http://users.rcn.com/crawj/kritz.htm&lt;/ref&gt;
+| Languages             = English 89.7%,&lt;br /&gt;Native North American 5.2%,&lt;br /&gt;[[Spanish language|Spanish]] 2.9%
+| LargestCity           = [[Anchorage, Alaska|Anchorage]]
+| LargestCounty         = North Slope Borough
+| Governor              = [[Sean Parnell]] (R)
+| Lieutenant Governor   = [[Craig Campbell (politician)|Craig Campbell]] (R)
+| Senators              = [[Lisa Murkowski]] (R)&lt;br/&gt; [[Mark Begich]] (D)
+| Representative        = [[Don Young]] (R)
+| PostalAbbreviation    = AK
+| AreaRank              = 1&lt;sup&gt;st&lt;/sup&gt;
+| TotalArea             = 1,717,854
+| TotalAreaUS           = 663,268
+| LandArea              = 1,481,346
+| LandAreaUS            = 571,951
+| WaterArea             = 236,507
+| WaterAreaUS           = 91,316
+| PCWater               = 13.77
+| PopRank               = 47&lt;sup&gt;th&lt;/sup&gt;
+| 2000Pop   (old)       = 626,932
+| 2005Pop               = 663,661
+| 2000Pop               = 686,293 (2008 est.)&lt;ref name=08CenEst&gt;{{cite web | title = Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2000 to July 1, 2008 | publisher = United States Census Bureau | accessdate = 2009-02-06 | url = http://www.census.gov/popest/states/tables/NST-EST2008-01.csv}}&lt;/ref&gt; &lt;br&gt; 626,932 (2000)
+| DensityRank           = 50&lt;sup&gt;th&lt;/sup&gt;
+| 2000Density           = 0.4
+| 2000DensityUS         = 1.03
+| MedianHouseholdIncome = [[United States dollar|US$]]64,333
+| IncomeRank            = 4&lt;sup&gt;th&lt;/sup&gt; |
+| AdmittanceOrder       = 49&lt;sup&gt;th&lt;/sup&gt;
+| AdmittanceDate        = January 3, 1959
+| TimeZone              = [[Alaska Standard Time Zone|Alaska]]: [[Coordinated Universal Time|UTC]]-9/[[Daylight saving time|DST]]-8
+| TZ1Where              = east of 169° 30'
+| TimeZone2             = [[Hawaii-Aleutian Standard Time Zone|Aleutian]]: UTC-10/[[Daylight saving time|DST]]-9
+| TZ2Where              = west of 169° 30'
+| Latitude              = 51°20'N to 71°50'N
+| Longitude             = 130°W to 172°E
+| Width                 = 1,300
+| WidthUS               = 808
+| Length                = 2,380
+| LengthUS              = 1,479
+| HighestPoint = [[Mount McKinley]]&lt;ref name=usgs&gt;{{cite web| date =April 29, 2005 | url =http://erg.usgs.gov/isb/pubs/booklets/elvadist/elvadist.html#Highest| title =Elevations and Distances in the United States| publisher =U.S Geological Survey | accessdate = 2006-11-03}}&lt;/ref&gt;
+| HighestElev           = 6,193.7
+| HighestElevUS         = 20,320
+| MeanElev              = 580
+| MeanElevUS            = 1900
+| LowestPoint           = [[Pacific Ocean]]&lt;ref name=usgs/&gt;
+| LowestElev            = 0
+| LowestElevUS          = 0
+| ISOCode               = US-AK
+| State song            = Alaska's Flag
+| Website               = www.alaska.gov
+}}
+{{Infobox U.S. state symbols
+ |Flag               = Flag of Alaska.svg
+ |Name               = Alaska
+ |Bird               = [[Willow Grouse|Willow Ptarmigan]]
+ |Fish               = [[Chinook salmon|King Salmon]]
+ |Flower             = [[Forget-me-not]]
+ |Insect             = [[Four-spotted Chaser|Four-spotted Skimmer Dragonfly]]
+ |Mammal             = [[Moose]], [[Bowhead whale]]
+ |Tree               = [[Sitka Spruce]]
+ |Fossil             = [[Woolly mammoth]]
+ |Mineral            = [[Gold]]
+ |StateRock          = [[Jade]]
+ |Slogan             = ''Beyond Your Dreams, Within Your Reach''
+ |Soil               = [[Tanana (soil)|Tanana]]
+ |Song               = ''[[Alaska's Flag]]''
+ |Sport              = [[Mushing]]
+ |Route Marker       = Alaska 5 shield.svg
+ |Quarter            = 2008 AK Proof.png
+ |QuarterReleaseDate = 2008
+ }}
+
+'''Alaska''' ({{Audio-IPA|en-us-Alaska.ogg|/əˈlæskə/}}) is the largest [[U.S. state|state]] of the [[United States|United States of America]] by area; it is situated in the northwest extremity of the [[North America]]n continent, with [[Canada]] to the east, the [[Arctic Ocean]] to the north, and the [[Pacific Ocean]] to the west and south, with [[Russia]] further west across the [[Bering Strait]]. Approximately half of Alaska's 683,478 residents reside within the [[Anchorage]] metropolitan area. As of 2007, Alaska remains the least densely populated state of the U.S. &lt;ref&gt;http://factfinder.census.gov/servlet/DTTable?_bm=y&amp;-geo_id=04000US02&amp;-ds_name=PEP_2007_EST&amp;-mt_name=PEP_2007_EST_G2007_T001&lt;/ref&gt; 
+
+The [[United States Senate|U.S. Senate]] approved the [[Alaska Purchase|purchase of Alaska]] from the [[Russian Empire]] on March 30, 1867, for $7.2&amp;nbsp;million at two cents per acre, about five cents per hectare. The land went through several administrative changes before becoming an [[organized territory]] on May 11, 1912 and the 49th state of the U.S. on January 3, 1959. The name &quot;Alaska&quot; was already introduced in the Russian colonial time, when it was used only for the [[Alaska Peninsula|peninsula]] and is derived from the [[Aleut language|Aleut]] ''alaxsxaq'', meaning &quot;the mainland&quot; or more literally, &quot;the object towards which the action of the sea is directed.&quot;&lt;ref&gt;Ransom, J. Ellis. 1940. ''Derivation of the Word ‘Alaska’''. American Anthropologist n.s., 42: pp. 550-551&lt;/ref&gt; It is also known as [[Alyeska]], the &quot;great land,&quot; an Aleut word derived from the same root.
+
+==Geography==
+{{Main|Geography of Alaska}}
+Alaska has more [[coastline]] than all the other U.S. states combined.&lt;ref&gt;{{cite web |url=http://www.gi.alaska.edu/ScienceForum/ASF14/1404.html |title=Alaska's Size in Perspective |accessdate=2007-11-19 |author=Benson, Carl|date=1998-09-02 |publisher=Geophysical Institute, University of Alaska Fairbanks}}&lt;/ref&gt; It is the only non-[[contiguous United States|contiguous U.S. state]] on continental North America; about {{convert|500|mi|km|-1}} of British Columbia (Canada) separate Alaska from [[Washington|Washington state]]. Alaska is thus an [[exclave]] of the United States. It is technically part of the [[Continental United States|continental U.S.]], but is often not included in colloquial use; Alaska is not part of the contiguous U.S., often called &quot;the Lower 48.&quot;&lt;ref&gt; The other three exclaves of the United States are the [[Northwest Angle]] of [[Minnesota]], [[Point Roberts, Washington]] and [[Alburgh, Vermont]].&lt;/ref&gt;  The capital city, [[Juneau City and Borough, Alaska|Juneau]], is situated on the mainland of the North American continent, but is not connected by road to the rest of the North American highway system.
+
+The state is bordered by the [[Yukon Territory]], [[Canada]] and [[British Columbia]], [[Canada]], to the east, the [[Gulf of Alaska]] and the [[Pacific Ocean]] to the south, the [[Bering Sea]], [[Bering Strait]], and [[Chukchi Sea]] to the west and the [[Arctic Ocean]] to the north. Alaska's territorial waters touch Russia's territorial waters in the Bering Strait, as the Russian and Alaskan islands are only {{convert|3|mi|km}} apart. As it extends into the eastern hemisphere, it is technically both the westernmost and easternmost state in the United States, as well as also being the northernmost.
+
+[[File:Alaska-Size.png|Alaska's size compared to the [[contiguous United States|48 contiguous states]]|thumb|right|240px]]
+Alaska is the largest state in the [[United States]] in land area at {{convert|586412|sqmi|km2|0}}, much larger than [[Texas]], the next largest state. Geologists have identified Alaska as part of [[Wrangellia]], a large region consisting of multiple [[U.S. state|states]] and Canadian provinces in the [[Pacific Northwest]] which is actively undergoing [[plate tectonics|continent building]]. Alaska is larger than all but 18 sovereign countries.
+
+Counting territorial waters, Alaska is larger than the combined area of the next three largest states: [[Texas]], [[California]], and [[Montana]].&lt;!-- Texas (268,820 sq.mi) + California (163,696 sq mi) + Montana (147,165 sq mi)=579,681 sq mi &lt; Alaska (656,424 sq mi) --&gt; It is also larger than the combined area of the 22 smallest U.S. states.
+
+[[Image:Looking back to Little Port Walter - NOAA.jpg|thumb|240px|Near Little Port Walter in Southeast Alaska]]
+[[Image:NushagakRiver.jpg|thumb|240px|[[Nushagak River]] in [[Southwest Alaska]]]]
+[[Image:Wrangells1.jpg|thumb|240px|[[Mount Sanford (Alaska)|Mount Sanford]] in the [[Wrangell Mountains]]]]
+[[Image:Kenai3.jpg|thumb|240px|[[Kenai River]] on the [[Kenai Peninsula]]]]
+One scheme for describing the state's geography is by labeling the regions&lt;ref&gt;http://www.alaska.com/regions/&lt;/ref&gt;:
+*[[South Central Alaska]] is the southern coastal region and contains most of the state's population. [[Anchorage, Alaska|Anchorage]] and many growing towns, such as [[Eagle River, Alaska|Eagle River]], [[Palmer, Alaska|Palmer]], and [[Wasilla, Alaska|Wasilla]], lie within this area. [[Petroleum]] industrial plants, transportation, [[tourism]], and two [[military base]]s form the core of the economy here.
+*The [[Alaska Panhandle]], also known as Southeast Alaska, is home to many of Alaska's larger towns including the state capital Juneau, tidewater [[glacier]]s, the many islands and channels of the [[Alexander Archipelago]] and extensive forests. Tourism, fishing, forestry and state government anchor the economy.
+*[[Southwest Alaska]] is largely coastal, bordered by both the [[Pacific Ocean]] and the [[Bering Sea]]. It is sparsely populated, and unconnected to the road system, but very important to the fishing industry. Half of all fish caught in the U.S. come from the [[Bering Sea]], and [[Bristol Bay]] has the world's largest [[sockeye salmon]] fishery. [[Southwest Alaska]] includes [[Katmai National Park and Preserve|Katmai]] and [[Kodiak Island]] and the Alaska Maritime National Wildlife Refuge. The region comprises western [[Cook Inlet]], [[Bristol Bay]] and its watersheds, the [[Alaska Peninsula]] and the [[Aleutian Islands]]. It is known for wet and stormy weather, tundra landscapes, and large populations of salmon, [[brown bear]], [[caribou]], birds, and [[marine mammals]]. Except for the very northernmost part of the Alaska Peninsula, southwestern Alaska is almost treeless, due to the almost constant high winds.
+*The [[Alaska Interior]] is home to [[Fairbanks, Alaska|Fairbanks]]. The geography is marked by large [[braided river]]s, such as the [[Yukon River]] and the [[Kuskokwim River]], as well as [[Arctic]] [[tundra]] lands and shorelines.  The Alaska Interior is also home to North America's highest peak at [[Mount McKinley]] (also known as Denali).
+*The [[Alaskan Bush]] is the remote, less crowded part of the state, encompassing 380 native villages and small towns such as [[Nome, Alaska|Nome]], [[Bethel, Alaska|Bethel]], [[Kotzebue, Alaska|Kotzebue]] and, most famously, [[Barrow, Alaska|Barrow]], the northernmost town in the United States, as well as the northern most town on the contiguous North American continent (cities in Greenland, the Northwest Territories, and Nunavut that are farther north are on islands).
+
+The northeast corner of Alaska is dominated by the [[Arctic National Wildlife Refuge]], which covers {{convert|19049236|acre|km2|0}}. Much of the northwest is covered by the larger [[National Petroleum Reserve–Alaska]], which covers around {{convert|23000000|acre|km2|-2}}. The Arctic is Alaska's most remote wilderness. A location in the National Petroleum Reserve–Alaska is {{convert|120|mi|km|-1}} from any town or village, the geographic point most remote from permanent habitation on the US mainland. The Rat Islands region in the Western Aleutians is more than {{convert|200|mi|km}} from the tiny settlements of Attu and Adak, and may be the loneliest place in the United States. In 1971 the U.S. exploded an atomic bomb underground here, on Amchitka Island.
+
+With its myriad islands, Alaska has nearly {{convert|34000|mi|km|-1}} of tidal shoreline. The [[Aleutian Islands]] chain extends west from the southern tip of the [[Alaska Peninsula]]. Many active [[volcano]]es are found in the Aleutians. [[Unimak Island]], for example, is home to [[Mount Shishaldin]], which is an occasionally smoldering volcano that rises to {{convert|10000|ft|m}} above the North Pacific. It is the most perfect volcanic cone on Earth, even more symmetrical than Japan's [[Mount Fuji]]. The chain of volcanoes extends to [[Mount Spurr]], west of Anchorage on the mainland. Alaska has the most volcanoes of any of the fifty US states.&lt;ref&gt;{{cite book | last = Decker | first = Robert | last2 = Decker | first2 = Barbara | title = Volcanoes In America's National Parks | publisher = WW Norton &amp; Company Inc. | date = 2001 | location = New York | page = 115 | isbn = 9622176771}}&lt;/ref&gt;
+
+One of the world's largest tides occurs in [[Turnagain Arm]], just south of Anchorage&amp;nbsp;— tidal differences can be more than {{convert|35|ft|m|1}}. (Many sources say Turnagain has the second-greatest tides in North America, but several areas in Canada have larger tides.)&lt;ref&gt;{{cite journal | author = Porco, Peter|date = June 23, 2003 | title = Long said to be second to Fundy, city tides aren't even close | journal = [[Anchorage Daily News]] | pages = A1}}&lt;/ref&gt;
+
+Alaska has more than three million [[lake]]s.&lt;ref&gt;{{Cite Web | title=Alaska Hydrology Survey | publisher=Division of Mining, Land, and Water; [[Alaska Department of Natural Resources]] | url=http://www.dnr.state.ak.us/mlw/water/hydro/ }}&lt;/ref&gt;&lt;ref&gt;[http://www.knls.org/English/akfact.htm Alaska Facts]&lt;/ref&gt; [[Marshland]]s and wetland [[permafrost]] cover {{convert|188320|sqmi|km2|0}} (mostly in northern, western and southwest flatlands). Frozen water, in the form of [[glacier]] ice, covers some {{convert|16000|sqmi|km2|-1}} of land and {{convert|1200|sqmi|km2|-1}} of tidal zone. The [[Bering Glacier]] complex near the southeastern border with [[Yukon]], Canada, covers {{convert|2250|sqmi|km2|0}} alone. With over 100,000 of them, Alaska has half of the world's glaciers.
+
+The [[International Date Line]] jogs west of 180° to keep the whole state, and thus the entire North American continent, within the same legal day.
+[[Image:Public-Lands-Western-US.png|thumb|right|Alaska has more acres of public land owned by the federal government than any other state.&lt;ref&gt;[http://www.wildlandfire.com/docs/2007/western-states-data-public-land.htm Western States Data Public Land Acreage]&lt;/ref&gt;]]
+According to an October 1998 report by the [[United States Bureau of Land Management]], approximately 65% of Alaska is owned and managed by the [[Federal government of the United States|U.S. federal government]] as public lands, including a multitude of [[United States National Forest|national forest]]s, [[national park]]s, and [[national wildlife refuge]]s. Of these, the [[Bureau of Land Management]] manages 87 million acres (350,000&amp;nbsp;km²), or 23.8% of the state. The [[Arctic National Wildlife Refuge]] is managed by the [[United States Fish and Wildlife Service]]. It is the world's largest wildlife refuge, comprising {{convert|16|e6acre|km2}}.
+
+Of the remaining land area, the State of Alaska owns {{convert|101|e6acre|km2}}; another {{convert|44|e6acre|km2}} are owned by 12 regional and dozens of local Native corporations created under the [[Alaska Native Claims Settlement Act]]. Thus, indirectly, the 84,000 Eskimo, Aleut and American Indian inhabitants of Alaska own one-ninth of the state. Various private interests own the remaining land, totaling about one percent of the state.
+
+{{ussm|alaska.png|ak}}
+Alaska is administratively divided into &quot;[[boroughs]],&quot; as opposed to &quot;counties&quot; or &quot;parishes.&quot;  The function is the same, but whereas some states use a three-tiered system of decentralization—state/county/township—most of Alaska uses only two tiers—state/borough. Owing to the low population density, most of the land is located in the [[Unorganized Borough]] which, as the name implies, has no intermediate borough government of its own, but is administered directly by the state government. Currently ([[United States Census, 2000|2000 census]]) 57.71% of Alaska's area has this status, with 13.05% of the population. For statistical purposes the [[United States Census Bureau]] divides this territory into [[census area]]s. Anchorage merged the city government with the Greater Anchorage Area Borough in 1975 to form the Municipality of Anchorage, containing the city proper and the communities of Eagle River, Chugiak, Peters Creek, Girdwood, Bird, and Indian. Fairbanks has a separate borough (the [[Fairbanks North Star Borough]]) and municipality (the City of Fairbanks).
+
+===Climate===
+{{Main|Climate of Alaska}}
+The climate in Juneau and the southeast panhandle is a mid-latitude [[oceanic climate]] ([[Köppen climate classification]] ''Cfb'') in the southern sections and a subarctic oceanic climate (Köppen ''Cfc'') in the northern parts. On an annual basis, the panhandle is both the wettest and warmest part of Alaska with milder temperatures in the winter and high precipitation throughout the year. Juneau averages over {{convert|50|in|mm|-1}} of precipitation a year, while other areas receive over {{convert|275|in|mm|-1}}.&lt;ref name=&quot;AK-YK Precip&quot;&gt;[http://www.ocs.orst.edu/pub/maps/Precipitation/Total/States/AK/ak_ppt.gif Mean Annual Precipitation in Alaska-Yukon]. Oregon Climate Service at [[Oregon State University]]. Last accessed October 23, 2006.&lt;/ref&gt; This is also the only region in Alaska in which the average daytime high temperature is above freezing during the winter months.
+
+The climate of Anchorage and south central Alaska is mild by Alaskan standards due to the region's proximity to the seacoast. While the area gets less rain than southeast Alaska, it gets more snow, and days tend to be clearer. On average, Anchorage receives {{convert|16|in|mm|0}} of precipitation a year, with around {{convert|75|in|mm|0}} of snow, although there are areas in the south central which receive far more snow. It is a subarctic climate (Köppen ''Dfc'') due to its brief, cool summers.
+
+[[Image:Barrow beach.jpg|thumb|250px|right|[[Barrow, Alaska]] is the northernmost city in the United States]]
+The climate of Western Alaska is determined in large part by the Bering Sea and the Gulf of Alaska. It is a subarctic oceanic climate in the southwest and a continental subarctic climate farther north. The temperature is somewhat moderate considering how far north the area is. This area has a tremendous amount of variety in precipitation. The northern side of the Seward Peninsula is technically a desert with less than {{convert|10|in|mm|-1}} of precipitation annually, while some locations between Dillingham and Bethel average around {{convert|100|in|mm|-1}} of precipitation.&lt;ref name=&quot;AK-YK Precip&quot;/&gt;
+
+The climate of the interior of Alaska is subarctic. Some of the highest and lowest temperatures in Alaska occur around the area near Fairbanks. The summers may have temperatures reaching into the 90s°F (the low to mid 30s °C), while in the winter, the temperature can fall below −60 °F (-52 °C). Precipitation is sparse in the Interior, often less than {{convert|10|in|mm|-1}} a year, but what precipitation falls in the winter tends to stay the entire winter.
+
+The highest and lowest recorded temperatures in Alaska are both in the Interior. The highest is 100 °F (38 °C) in [[Fort Yukon, Alaska|Fort Yukon]] (which is just {{convert|8|mi|km}} inside the arctic circle) on June 27, 1915,&lt;ref name=&quot;NOAA-All Hazards&quot;&gt;{{cite web | title = NOAA Weather Radio All Hazards Information&amp;nbsp;— Alaska Weather Interesting Facts and Records | publisher = [[National Oceanic and Atmospheric Administration]] | format = PDF | url = http://www.arh.noaa.gov/docs/AKWXfacts.pdf | accessdate = 2007-01-03 }}&lt;/ref&gt;&lt;ref name=DRI&gt;{{cite web | title = State Extremes | publisher = Western Regional Climate Center, [[Desert Research Institute]] | url = http://www.wrcc.dri.edu/htmlfiles/state.extremes.html | accessdate = 2007-01-03 }}&lt;/ref&gt; tied with [[Pahala, Hawaii]] as the lowest high temperature in the United States.&lt;ref&gt;{{cite web | title = SD Weather History and Trivia for May: May 1 | publisher = [[National Oceanic and Atmospheric Administration]] | url = http://www.crh.noaa.gov/fsd/?n=fsdtrivia05 | accessdate = 2007-01-03 }}&lt;/ref&gt;&lt;ref&gt;{{cite web | title = FAQ ALASKA&amp;nbsp;— Frequently Asked Questions About Alaska: Weather | publisher = Statewide Library Electronic Doorway, [[University of Alaska Fairbanks]] | date= 2005-01-17 | url = http://sled.alaska.edu/akfaq/aksuper.html#wea | accessdate = 2007-01-03 }}&lt;/ref&gt; The lowest official Alaska temperature is −80 °F (-62 °C) in [[Prospect Creek, Alaska|Prospect Creek]] on January 23, 1971,&lt;ref name=&quot;NOAA-All Hazards&quot;/&gt;&lt;ref name=DRI/&gt; one degree above the lowest temperature recorded in continental North America (in [[Snag, Yukon#Snag|Snag, Yukon, Canada]]).&lt;ref&gt;{{cite web | author = Ned Rozell | title = The Coldest Place in North America | publisher = Geophysical Institute of the [[University of Alaska Fairbanks]] | date= 2003-01-23 | url = http://www.gi.alaska.edu/ScienceForum/ASF16/1630.html | accessdate = 2007-01-03 }}&lt;/ref&gt; 
+
+The climate in the extreme north of Alaska is [[polar climate|Arctic]] (Köppen ''ET'') with long, very cold winters and short, cool summers. Even in July, the average low temperature in [[Barrow, Alaska|Barrow]] is 34 °F (1 °C).&lt;ref&gt;[http://www.wunderground.com/history/airport/PABR/2006/7/23/MonthlyHistory.html History for Barrow, Alaska. Monthly Summary for July 2006]. [[Weather Underground (weather service)|Weather Underground]]. Last accessed October 23, 2006.&lt;/ref&gt; Precipitation is light in this part of Alaska, with many places averaging less than {{convert|10|in|mm|-1}} per year, mostly in the form of snow which stays on the ground almost the entire year.
+
+==History==
+{{Main|History of Alaska}}
+[[Image:Miners climb Chilkoot.jpg|thumb|right|250px|Miners and prospectors climb the [[Chilkoot Trail]] during the [[Klondike Gold Rush]]]]
+The first European contact with Alaska occurred in the year 1741, when [[Vitus Bering]] led an [[second Kamchatka expedition|expedition]] for the Russian Navy aboard the ''St. Peter''. After his crew returned to Russia bearing sea otter pelts judged to be the finest [[fur]] in the world, small associations of fur traders began to sail from the shores of Siberia towards the Aleutian islands. The first permanent European settlement was founded in 1784, and the [[Russian-American Company]] carried out an expanded colonization program during the early to mid-1800s. New Archangel on Kodiak Island was Alaska's first capital, but for a century under both Russia and the U.S. Sitka was the capital. The Russians never fully colonized Alaska, and the [[colony]] was never very profitable. [[William H. Seward]], the [[United States Secretary of State|U.S. Secretary of State]], negotiated the [[Alaska purchase|Alaskan purchase]] in 1867 for $7.2&amp;nbsp;million. Alaska was loosely governed by the military for years, and was unofficially a territory of the United States from 1884 on.
+
+In the 1890s, [[gold rush]]es in Alaska and the nearby [[Yukon Territory]] brought thousands of miners and settlers to Alaska. Alaska was granted official territorial status in 1912. At this time the capital was moved to [[Juneau]].
+
+During [[World War II]], the [[Aleutian Islands Campaign]] focused on the three outer [[Aleutian Islands]]&amp;nbsp;— [[Attu Island|Attu]], [[Agattu Island|Agattu]] and [[Kiska Island|Kiska]]&lt;ref&gt; these three Aleutian outer islands are about {{convert|460|mi|km}} away from continental USSR, {{convert|920|mi|km}} from continental Alaska (U.S.), {{convert|950|mi|km}} from Japan.&lt;/ref&gt; - that were invaded by Japanese troops and occupied between June 1942 and August 1943. Unalaska/Dutch Harbor became a significant base for the U.S. Army Air Corps and Navy submariners.
+
+The U.S. [[Lend-Lease]] program involved flying American warplanes through Canada to Fairbanks and thence Nome; Russian pilots took possession of these aircraft, ferrying them to fight the German invasion of Russia. The construction of [[military bases]] contributed to the population growth of some Alaskan cities.
+
+Statehood was approved in 1958. Alaska was officially proclaimed a state on January 3, 1959.
+
+In 1964, the massive &quot;[[Good Friday Earthquake]]&quot; killed 131 people and destroyed several villages, mainly by the resultant [[tsunamis]]. It was the second most powerful earthquake in the recorded history of the world, with a [[moment magnitude scale|moment magnitude]] of 9.2. It was 100 times more powerful than the [[1989 Loma Prieta earthquake|1989 San Francisco earthquake]]. Luckily, the epicenter was in an unpopulated area or thousands more would have been killed.
+
+The 1968 discovery of oil at [[Prudhoe Bay]] and the 1977 completion of the [[Trans-Alaska Pipeline]] led to an oil boom. In 1989, the ''[[Exxon Valdez]]'' hit a reef in the [[Prince William Sound]], spilling over 11 million US gallons of crude oil over 1,100&amp;nbsp;miles (1,600&amp;nbsp;km) of coastline. Today, the battle between philosophies of development and conservation is seen in the contentious debate over oil drilling in the [[Arctic National Wildlife Refuge]].
+
+==Demographics==
+{{Main|Demographics of Alaska}}
+{{USCensusPop
+|1950=128643
+|1960=226167
+|1970=300382
+|1980=401851
+|1990=550043
+|2000=626932
+|estyear = 2008&lt;ref name=08CenEst/&gt;
+|estimate = 686293
+}}
+&lt;!---it is a lousy idea to update with census updates. These, for example, do not match the box figures. Better to stick with 2000 figures until the next census---&gt;
+The [[United States Census Bureau]], as of July 1, 2008, estimated Alaska's population at 686,293,&lt;ref name=08CenEst/&gt; which represents an increase of 59,361, or 9.5%, since the last census in 2000.&lt;ref name=census_cum&gt;{{cite web |title=Cumulative Estimates of the Components of Population Change for the United States, Regions and States: April 1, 2000 to July 1, 2008 (NST-EST2008-04) |url=http://www.census.gov/popest/states/tables/NST-EST2008-04.csv |author=U. S. Census Bureau |authorlink=United States Census Bureau |date=2008-12-15 |accessdate=2009-01-16 |format=CSV}}&lt;/ref&gt; This includes a natural increase since the last census of 60,994 people (that is 86,062 births minus 25,068 deaths) and a decrease due to net migration of 5,469 people out of the state.&lt;ref name=census_cum/&gt; [[Immigration to the United States|Immigration]] from outside the United States resulted in a net increase of 4,418 people, and migration within the country produced a net loss of 9,887 people.&lt;ref name=census_cum/&gt; In 2000 Alaska ranked 48th out of 50 states by population, ahead of [[Vermont]] &amp; [[Wyoming]] (and [[Washington D.C.]]).&lt;ref&gt;http://www.census.gov/population/cen2000/phc-t2/tab01.txt&lt;/ref&gt; Alaska is the least densely populated state, and one of the most sparsely-populated areas in the world, at 1.0 people per square mile (0.42/km²), with the next state, Wyoming, at 5.1 per square mile (1.97/km²). It is the largest [[U.S. state]] by [[List of U.S. states by area|area]], and the 6th wealthiest (per capita income).
+
+==Race and ancestry==
+According to the [[2000 U.S. Census]], [[White American]]s made up 69.3% of Alaska's population. [[Black people|Blacks]] or [[African American]]s made up 3.5% of Alaska's population. In addition, [[indigenous people of the Americas|American Indian]]s and [[Alaska Native]]s were the largest [[minority group]]; they made up 15.6% of Alaska's population. [[Asian American]]s made up 4.0% of Alaska's population. [[Pacific Islander American]]s made up 0.5% of Alaska's population. Individuals from some other race made up 1.6% of Alaska's population while individuals from two or more races made up 5.4% of the state's population. In addition, [[Hispanic]]s or [[Latino]]s made up 4.1% of Alaska's population.&lt;ref&gt;http://factfinder.census.gov/servlet/SAFFFacts?_event=&amp;geo_id=04000US02&amp;_geoContext=01000US|04000US02&amp;_street=&amp;_county=&amp;_cityTown=&amp;_state=04000US02&amp;_zip=&amp;_lang=en&amp;_sse=on&amp;ActiveGeoDiv=&amp;_useEV=&amp;pctxt=fph&amp;pgsl=040&amp;_submenuId=factsheet_1&amp;ds_name=ACS_2007_3YR_SAFF&amp;_ci_nbr=null&amp;qr_name=null&amp;reg=&amp;_keyword=&amp;_industry=&lt;/ref&gt;
+
+In terms of ancestry, [[German American]]s were the largest single [[ethnic group]] in Alaska; they made up 16.6% of Alaska's population and they were the only ethnic group in the state to number over 100,000 members. [[Irish American]]s made up 10.8% of Alaska's population while [[English American]]s made up 9.6% of the state's population. [[Norwegian American]]s made up 4.2% of Alaska's population and [[French American]]s made up 3.2% of the state's population.&lt;ref&gt;http://factfinder.census.gov/servlet/QTTable?_bm=y&amp;-geo_id=04000US02&amp;-qr_name=DEC_2000_SF3_U_DP2&amp;-ds_name=DEC_2000_SF3_U&amp;-_lang=en&amp;-redoLog=false&amp;-_sse=on&lt;/ref&gt;
+
+As of the 2005-2007 [[American Community Survey]] conducted by the U.S. Census Bureau, White Americans made up 68.5% of Alaska's population. Blacks or African Americans made up 3.8% of Alaska's population. American Indians and Alaska Natives made up 13.4% of Alaska's population; still remaining the largest minority group. Asian Americans made up 4.6% of Alaska's population. Pacific Islander Americans remained at 0.5% of the state's population. Individuals from some other race made up 1.9% of Alaska's population while individuals from two or more races made up 7.2% of the state's population. Hispanics or Latinos made up 5.5% of Alaska's population.&lt;ref&gt;http://factfinder.census.gov/servlet/ACSSAFFFacts?_event=Search&amp;geo_id=&amp;_geoContext=&amp;_street=&amp;_county=&amp;_cityTown=&amp;_state=04000US02&amp;_zip=&amp;_lang=en&amp;_sse=on&amp;pctxt=fph&amp;pgsl=010&lt;/ref&gt;
+
+In terms of ancestry, German Americans remained the largest single ethnic group in Alaska; they made up 19.3% of Alaska's population and were still the only ethnic group in the state with over 100,000 members. Irish Americans made up 12.5% of Alaska's population while English Americans made up 10.8% of the state's population. Norwegian Americans remained at 4.2% of Alaska's population and French Americans made up 3.6% of the state's population.&lt;ref&gt;http://factfinder.census.gov/servlet/ADPTable?_bm=y&amp;-geo_id=04000US02&amp;-qr_name=ACS_2007_3YR_G00_DP3YR2&amp;-ds_name=ACS_2007_3YR_G00_&amp;-_lang=en&amp;-_sse=on&lt;/ref&gt;
+
+===Languages===
+[[Image:Russian Orthodox Church.jpg|180px|thumb|right|St. Michael's Russian Orthodox Cathedral in Sitka, Alaska]]
+According to the 2005-2007 American Community Survey, 84.7% of people over the age of five speak only [[English language|English]] at home. About 3.5% speak [[Spanish language|Spanish]] at home. About 2.2% speak an [[Indo-European languages|Indo-European language]] other than Spanish at home and about 4.3% speak an [[Asian languages|Asian language]] at home. And about 5.3% speak other languages at home.&lt;ref&gt;http://factfinder.census.gov/servlet/ADPTable?_bm=y&amp;-geo_id=04000US02&amp;-qr_name=ACS_2007_3YR_G00_DP3YR2&amp;-ds_name=ACS_2007_3YR_G00_&amp;-_lang=en&amp;-redoLog=false&amp;-_sse=on&lt;/ref&gt;
+
+A total of 5.2% of Alaskans speak one of the state's 22 [[Indigenous languages of the Americas|indigenous languages]], known locally as &quot;native languages&quot;. These languages belong to two major language families: [[Eskimo-Aleut languages|Eskimo-Aleut]] and [[Na-Dené languages|Na-Dene]]. As the homeland of these two major language families of North America, Alaska has been described as the crossroads of the continent, providing evidence for the recent settlement of North America via the [[Bering land bridge]].
+
+===Religion===
+Alaska has been identified, along with Pacific Northwest states Washington and Oregon, as being the least religious in the U.S.&lt;ref&gt;[http://www.adherents.com/Na/Na_472.html Adherents.com]&lt;/ref&gt;&lt;ref&gt;[http://www.adn.com/life/story/463303.html &quot;Believe it or not, Alaska's one of nation's least religious states&quot;] Anchorage Daily News, 2008 July 13.&lt;/ref&gt;  According to statistics collected by the Association of Religion Data Archives, only about 39% of Alaska residents were members of religious congregations. Evangelical Protestants had 78,070 members, Roman Catholics had 54,359, and mainline Protestants had 37,156.&lt;ref name = ARDA&gt;{{cite web | title = Religious Affiliations 2000 | work = Alaska State Membership Report | publisher = Association of Religion Data Archives | url = http://www.thearda.com/mapsReports/reports/state/02_2000.asp | accessdate = 2008-03-31 }}&lt;/ref&gt;  After Catholics and [[Eastern Orthodox]], the largest single denominations are The Church of Jesus Christ of Latter Day Saints (Mormons/LDS) with 29,460, Southern Baptists with 22,959, and Orthodox with 20,000. The large [[Eastern Orthodox]] (with 49 parishes and up to 50,000 followers&lt;ref&gt;[http://news.bbc.co.uk/2/hi/americas/3531458.stm ''Religious legacy lives on in Alaska'', BBC News]&lt;/ref&gt;) population is a result of early [[Russian Alaska|Russian colonization]] and [[missionary]] work among Alaska Natives.&lt;ref&gt;[http://sled.alaska.edu/akfaq/akchron.html Welcome to SLED :: FAQ Alaska]&lt;/ref&gt; In 1795, the First [[Russian Orthodox Church]] was established in [[Kodiak Island Borough, Alaska|Kodiak]]. Intermarriage with Alaskan Natives helped the Russian immigrants integrate into society. As a result, more and more Russian Orthodox churches&lt;ref&gt;http://vilda.alaska.edu/u?/cdmg11,4904 An early Russian Orthodox Church&lt;/ref&gt; gradually became established within Alaska. Alaska also has the largest [[Quaker]] population (by percentage) of any state.&lt;ref&gt;http://www.thearda.com/mapsReports/maps/map.asp?state=101&amp;variable=201 Association of Religion Data Archive&lt;/ref&gt; In 2003 there were 3,000 [[Judaism|Jews]] in Alaska (for whom observance of the [[mitzvah]] [[Jewish law in the polar regions|may pose special problems]]).&lt;ref&gt;http://www.census.gov/compendia/statab/tables/08s0076.xls 76 - Christian Church Adherents, 2000, and Jewish Population, 2004 - States [Excel 27k]&lt;/ref&gt; Estimates for the number of Alaskan [[Muslim]]s range from 2,000&lt;ref&gt;[http://dwb.adn.com/news/alaska/ap_alaska/story/8656236p-8548061c.html First Muslim cemetery opens in Alaska]&lt;/ref&gt;&lt;ref&gt;[http://engagingmuslims.alaskapacific.edu/ Engaging Muslim: Religion, Culture, Politics]&lt;/ref&gt; to 5,000.&lt;ref&gt;[http://www.humanitynews.net/index.php/main/more/alaskan_muslims_avoid_conflict/ Alaskan Muslims Avoid Conflict]&lt;/ref&gt;  Alaskan Hindus often share venues and celebrations with members of other religious communities including [[Sikhism|Sikhs]] and [[Jainism|Jains]].&lt;ref&gt;[http://caia.arctic.us/?Shri_Ganesha_Mandir_of_Alaska Shri Ganesha Mandir of Alaska]&lt;/ref&gt;&lt;ref&gt;[http://www.hindumandir.us/west-coast.html#AK]&lt;/ref&gt;&lt;ref&gt;[http://caia.arctic.us/?Holi_%2F_Baisakhi_Celebration%3A Holi &amp; Baisakhi celebrated by Alaskan Hindus and Sikhs]&lt;/ref&gt;
+
+==Economy==
+[[Image:2008 AK Proof.png|thumb|left|150px|Alaska [[50 state quarters|State Quarter]]]]
+[[Image:Alaska Pipeline Closeup Underneath.jpg|thumb|185px|The [[Trans-Alaska Pipeline]] transports oil, Alaska's most important export, from the [[North Slope, Alaska|North Slope]] to [[Valdez, Alaska|Valdez]]. Pertinent are the [[heat pipe]]s in the column mounts.]]
+[[Image:Craft Breweries Per Capita (US).png|thumb|left|200px|Alaska ranks 5th nationally in [[microbrewery|craft breweries]] per capita.&lt;ref&gt;[http://www.beertown.org/craftbrewing/statistics.html Craft Brewing Industry Statistics]&lt;/ref&gt;]]
+The 2007 [[gross state product]] was $44.9 billion, 45th in the nation. Its [[List of U.S. states by GDP per capita (nominal)|Per capita personal income]] for 2007 was $40,042, ranking 15th in the nation. The [[oil]] and gas industry dominates the Alaskan economy, with more than 80% of the state's revenues derived from petroleum extraction. Alaska's main export product (excluding oil and natural gas) is seafood, primarily salmon, cod, Pollock and crab. Agriculture represents only a fraction of the Alaskan economy. Agricultural production is primarily for consumption within the state and includes nursery stock, dairy products, vegetables, and livestock. Manufacturing is limited, with most foodstuffs and general goods imported from elsewhere. Employment is primarily in government and industries such as [[natural resource]] extraction, shipping, and transportation. Military bases are a significant component of the economy in both Fairbanks and Anchorage. Federal subsidies are also an important part of the economy, allowing the state to keep taxes low. Its industrial outputs are crude petroleum, natural gas, coal, gold, precious metals, zinc and other mining, seafood processing, timber and wood products. There is also a growing service and [[tourism]] sector. Tourists have contributed to the economy by supporting local lodging.
+
+===Energy===
+{{See also|Natural gas in Alaska}}
+{{See also|Energy law#Alaska law}}
+[[Image:Alaska Crude Oil Reserves.PNG|thumb|Alaska oil reserves peaked in 1978 and have declined 60% thereafter]]
+Alaska has vast energy resources. Major oil and gas reserves are found in the Alaska North Slope (ANS) and Cook Inlet basins. According to the [[Energy Information Administration]], Alaska ranks second in the nation in crude oil production. Prudhoe Bay on Alaska’s North Slope is the highest yielding oil field in the United States and on North America, typically producing about {{convert|400000|oilbbl/d|m3/d}}. The [[Trans-Alaska Pipeline]] can pump up to {{convert|2.1|Moilbbl|m3}} of crude oil per day, more than any other crude oil pipeline in the United States. Additionally, substantial coal deposits are found in Alaska’s bituminous, sub-bituminous, and lignite coal basins.  The United States Geological Survey estimates that there are {{convert|85.4|Tcuft|km3}} of undiscovered, technically recoverable gas from natural gas hydrates on the Alaskan North Slope.&lt;ref&gt;[http://www.usgs.gov/corecast/details.asp?ep=74 Gas Hydrates on Alaska's North Slope].&lt;/ref&gt;  Alaska also offers some of the highest hydroelectric power potential in the country from its numerous rivers. Large swaths of the Alaskan coastline offer wind and geothermal energy potential as well.&lt;ref&gt;{{cite web |url=http://tonto.eia.doe.gov/state/state_energy_profiles.cfm?sid=AK |title= EIA State Energy Profiles: Alaska |date=2008-06-12 |accessdate=2008-06-24}}&lt;/ref&gt;
+
+[[Image:Alaska Crude Oil Production.PNG|thumb|Alaska oil production peaked in 1988 and has declined 65% thereafter]]
+Alaska's economy depends heavily on increasingly expensive [[diesel]] fuel for [[furnace|heating]], [[transportation]], [[electric power]] and light. Though [[wind power|wind]] and [[hydroelectric power]] are abundant and underutilized, proposals for state-wide energy systems (e.g. with special [[single-wire earth return#Use in Interties|low-cost electric interties]]) were judged uneconomical (at the time of the report, 2001) due to low (&lt;$0.50/Gal) fuel prices, long distances and low population.&lt;ref&gt;[http://www.dced.state.ak.us/dca/AEIS/PDF_Files/AIDEA_Energy_Screening.pdf Screening Report for Alaska Rural Energy Plan], April, 2001&lt;/ref&gt;  The cost of a [[gallon]] of gas in urban Alaska today is usually $0.30-$0.60 higher than the national average; prices in rural areas are generally significantly higher but vary widely depending on transportation costs, seasonal usage peaks, nearby petroleum development infrastructure and many other factors.
+
+Alaska accounts for 1/5 (20%) of domestically produced United States oil production. Prudhoe Bay (North America's largest oil field) alone accounts for 8% of the United States domestic oil production.
+
+===Permanent Fund===
+The [[Alaska Permanent Fund]] is a legislatively controlled appropriation established in 1976 to manage a surplus in state petroleum revenues from the recently constructed [[Trans-Alaska Pipeline System]]. From its initial principal of $734,000, the fund has grown to $40 billion as a result of oil royalties and capital investment programs.&lt;ref&gt;[http://www.apfc.org Alaska Permanent Fund Corporation]&lt;/ref&gt; Starting in 1982, dividends from the fund's annual growth have been paid out each year to eligible Alaskans, ranging from $331.29 in 1984 to $3,269.00 in 2008 (which included a one-time $1200 &quot;Resource Rebate&quot;). Every year, the state legislature takes out 8 percent from the earnings, puts 3 percent back into the principal for inflation proofing, and the remaining 5 percent is distributed to all qualifying Alaskans. To qualify for the Alaska State Permanent Fund one must have lived in the state for a minimum of 12 months, and maintain constant residency.&lt;ref&gt;[http://www.pfd.state.ak.us/dividendamounts/index.aspx State of Alaska Permanent Fund Division]&lt;/ref&gt;
+
+===Cost of living===
+The cost of goods in Alaska has long been higher than in the contiguous 48 states. This has changed for the most part in Anchorage and to a lesser extent in Fairbanks, where the cost of living has dropped somewhat in the past five years. Federal government employees, particularly [[United States Postal Service]] (USPS) workers and active-duty military members, receive a Cost of Living Allowance usually set at 25% of base pay because, while the cost of living has gone down, it is still one of the highest in the country.
+
+The introduction of [[big-box store]]s in Anchorage, Fairbanks ([[Wal-Mart]] in March 2004), and Juneau also did much to lower prices. However, rural Alaska suffers from extremely high prices for food and consumer goods, compared to the rest of the country due to the relatively limited transportation infrastructure. Many rural residents come into these cities and purchase food and goods in bulk from warehouse clubs like [[Costco]] and [[Sam's Club]]. Some have embraced the free shipping offers&lt;ref&gt;See [http://www.iglooalaska.com/AKshippingcosts.html] for examples of companies offering free shipping to Alaska&lt;/ref&gt; of some online retailers to purchase items much more cheaply than they could in their own communities, if they are available at all.
+
+===Agriculture===
+Due to the northern climate and steep terrain, relatively little farming occurs in Alaska. Most farms are in either the [[Matanuska Valley]], about {{convert|40|mi|km}} northeast of [[Anchorage]], or on the [[Kenai Peninsula]], about {{convert|60|mi|km}} southwest of Anchorage. The short 100-day growing season limits the crops that can be grown, but the long sunny summer days make for productive growing seasons. The primary crops are potatoes, carrots, lettuce, and cabbage. Farmers exhibit produce at the Alaska State Fair.&lt;!---and at all state fairs BTW. so what?---&gt; &quot;Alaska Grown&quot; is used as an agricultural slogan.
+
+Alaska has an abundance of seafood, with the primary fisheries in the [[Bering Sea]] and the [[North Pacific]], and seafood is one of the few food items that is often cheaper within the state than outside it. Many Alaskans fish the rivers during salmon season to gather significant quantities of their household diet while fishing for subsistence, sport, or both.
+
+Hunting for subsistence, primarily [[caribou]], [[moose]], and [[Dall sheep|sheep]] is still common in the state, particularly in remote [[Bush Alaska|Bush]] communities. An example of a traditional native food is [[Akutaq]], the Eskimo ice cream, which can consist of reindeer fat, seal oil, dried fish meat and local berries.
+
+Most food in Alaska is transported into the state from &quot;outside&quot;, and shipping costs make food in the cities relatively expensive. In rural areas, subsistence hunting and gathering is an essential activity because imported food is prohibitively expensive. The cost of importing food to villages begins at $0.07/lb and rises rapidly to $0.50/lb or more. The cost of delivering a 7-pound gallon of milk is about $3.50 in many villages where per capita income can be $20,000 or less. Fuel for snow machines and boats that consume a couple gallons per hour can exceed $8.00.
+
+==Transportation==
+{{Main|Transportation in Alaska}}
+===Roads===
+[[File:Seward Highway.jpg|thumb|[[Sterling Highway]].]]
+{{See also|List of Alaska Routes}}
+Alaska has few road connections compared to the rest of the U.S. The state's road system covers a relatively small area of the state, linking the central population centers and the [[Alaska Highway]], the principal route out of the state through Canada. The state capital, Juneau, is not accessible by road, only a car ferry, which has spurred several debates over the decades about moving the capital to a city on the road system, or building a road connection from [[Haines, Alaska|Haines]]. The western part of Alaska has no road system connecting the communities with the rest of Alaska.
+
+One unique feature of the Alaska Highway system is the [[Anton Anderson Memorial Tunnel]], an active [[Alaska Railroad]] tunnel recently upgraded to provide a paved roadway link with the isolated community of [[Whittier, Alaska|Whittier]] on [[Prince William Sound]] to the [[Seward Highway]] about {{convert|50|mi|km}} southeast of Anchorage. At {{convert|2.5|mi|km}} the tunnel was the longest road tunnel in North America until 2007.&lt;ref&gt;completion of the 3.5 mile (5.6 km) [[Interstate 93]] tunnel as part of the &quot;[[Big Dig (Boston, Massachusetts)|Big Dig]]&quot; project in [[Boston, Massachusetts]].&lt;/ref&gt; The tunnel is the longest combination [[List of road-rail tunnels|road and rail tunnel]] in North America.
+
+===Rail===
+
+[[Image:AlaskaRailroad.jpg|thumb|250px|left|Alaska Railroad &quot;Glacier Discovery&quot; train]]
+Built around 1915, the [[Alaska Railroad]] (ARR) played a key role in the development of Alaska through the 20th century. It links north Pacific shipping through providing critical infrastructure with tracks that run from [[Seward, Alaska|Seward]] to [[Interior Alaska]] via [[South Central Alaska]], passing through Anchorage, [[Eklutna, Alaska|Eklutna]], Wasilla, [[Talkeetna, Alaska|Talkeetna]], [[Denali]], and Fairbanks, with spurs to [[Whittier, Alaska|Whittier]], [[Palmer, Alaska|Palmer]] and [[North Pole, Alaska|North Pole]]. The cities, towns, villages, and region served by ARR tracks are known statewide as &quot;The Railbelt&quot;. In recent years, the ever-improving paved highway system began to eclipse the railroad's importance in Alaska's economy.
+
+The railroad, though famed for its summertime tour passenger service, played a vital role in Alaska's development, moving freight into Alaska while transporting natural resources southward (i.e., coal from the Usibelli coal mine near [[Healy, Alaska|Healy]] to Seward and gravel from the Matanuska Valley to Anchorage.)
+
+The Alaska Railroad was one of the last railroads in North America to use [[caboose]]s in regular service and still uses them on some gravel trains. It continues to offer one of the last [[Request stop|flag stop]] routes in the country. A stretch of about {{convert|60|mi|km|-1}} of track along an area north of Talkeetna remains inaccessible by road; the railroad provides the only transportation to rural homes and cabins in the area; until construction of the Parks Highway in the 1970s, the railroad provided the only land access to most of the region along its entire route.
+
+In northern Southeast Alaska, the [[White Pass and Yukon Railroad]] also partly runs through the State from [[Skagway, Alaska|Skagway]] northwards into Canada ([[British Columbia]] and [[Yukon Territory]]), crossing the border at [[White Pass]] Summit. This line is now mainly used by tourists, often arriving by cruise liner at Skagway. It featured in the 1983 [[BBC]] television series [[Great Little Railways]].
+
+===Marine transport===
+Most cities, towns and villages in the state do not have road or highway access; the only modes of access involve travel by air, river, or the sea.
+
+Alaska's well-developed state-owned ferry system (known as the [[Alaska Marine Highway]]) serves the cities of [[Alaska Panhandle|Southeast]], the Gulf Coast and the Alaska Peninsula. The system also operates a ferry service from [[Bellingham, Washington]] and [[Prince Rupert, British Columbia]] in [[Canada]] via the [[Inside Passage]] to [[Skagway, Alaska|Skagway]]. The [[Inter-Island Ferry Authority]] also serves as an important marine link for many communities in the [[Prince of Wales Island (Alaska)|Prince of Wales Island]] region of Southeast and works in concert with the Alaska Marine Highway.
+
+In recent years, large cruise ships began creating a summertime tourism market, mainly connecting the Pacific Northwest to Southeast Alaska and, to a lesser degree, towns along the north gulf coast. Several times each summer, the population of [[Ketchikan, Alaska|Ketchikan]] sharply rises for a few hours when two ships dock to debark more than a thousand passengers each while four other ships lie at anchor nearby, waiting their turn at the dock.
+
+===Air transport===
+[[Image:7377SEA618AS 01.jpg|thumb|250px|right|[[Alaska Airlines]] [[Boeing 737|Boeing 737-700]]]]
+Cities not served by road, sea, or river can be reached only by air, foot, dogsled, or snowmachine accounting for Alaska's extremely well-developed [[Alaskan Bush|bush]] air services—an Alaskan novelty. Anchorage itself, and to a lesser extent Fairbanks, are served by [[Ted Stevens Anchorage International Airport#Airlines and destinations|many major airlines]]. Because of limited highway access, air travel remains the most efficient form of transportation in and out of the state. Anchorage recently completed extensive remodeling and construction at [[Ted Stevens Anchorage International Airport]] to help accommodate the upsurge in tourism (in 2000–2001, the latest year for which data is available, 2.4&amp;nbsp;million total arrivals to Alaska were counted, 1.7&amp;nbsp;million via air travel; 1.4&amp;nbsp;million were visitors).&lt;ref&gt;State of Alaska Office of Economic Development. ''[http://www.commerce.state.ak.us/dca/toubus/pub/AVSPSummerArrival111402.pdf Alaska Visitor Arrivals and Profile-Summer 2001]''. November, 2002; retrieved September 11, 2006.&lt;/ref&gt;&lt;ref&gt;State of Alaska Office of Economic Development. ''[http://www.commerce.state.ak.us/oed/toubus/pub/AVSPWinterArrival111402.pdf Alaska Visitor Arrivals and Profile-Fall/Winter 2001]''. November, 2002; retrieved September 11, 2006.&lt;/ref&gt;
+
+Regular flights to most villages and towns within the state that are commercially viable are challenging to provide, so they are heavily subsidized by the federal government through the [[Essential Air Service]] program. [[Alaska Airlines]] is the only major airline offering in-state travel with jet service (sometimes in combination cargo and passenger [[Boeing 737]]-400s) from Anchorage and Fairbanks to regional hubs like [[Bethel, Alaska|Bethel]], [[Nome, Alaska|Nome]], [[Kotzebue, Alaska|Kotzebue]], [[Dillingham, Alaska|Dillingham]], [[Kodiak, Alaska|Kodiak]], and other larger communities as well as to major Southeast and Alaska Peninsula communities. The bulk of remaining commercial flight offerings come from small regional commuter airlines such as [[Era Aviation]], [[PenAir]], and [[Frontier Flying Service]]. The smallest towns and villages must rely on scheduled or chartered bush flying services using general aviation aircraft such as the [[Cessna Caravan]], the most popular aircraft in use in the state. Much of this service can be attributed to the Alaska bypass mail program which subsidizes [[bulk mail]] delivery to Alaskan rural communities. The program requires 70% of that subsidy to go to carriers who offer passenger service to the communities. Many communities have small air taxi services, such as Hudson's Air Service, Kantishna Air Taxi, and [[Talkeetna Air Taxi]].  These operations, though now catering primarily to tourists, originated from the demand for customized transport to remote areas.  Perhaps the most quintessentially Alaskan plane is the bush seaplane. The world's busiest seaplane base is [[Lake Hood Seaplane Base|Lake Hood]], located next to Ted Stevens Anchorage International Airport, where flights bound for remote villages without an airstrip carry passengers, cargo, and many items from stores and warehouse clubs. Alaska has the highest number of pilots per capita of any U.S. state: out of the estimated 663,661 residents, 8,550 are pilots, or about one in 78.&lt;ref&gt;Federal Aviation Administration. ''[http://www.faa.gov/data_statistics/aviation_data_statistics/civil_airmen_statistics/2005/ 2005 U.S. Civil Airman Statistics]''&lt;/ref&gt;
+
+===Other transport===
+Another Alaskan transportation method is the [[dogsled]]. In modern times (that is, any time after the mid-late 1920s), dog [[mushing]] is more of a sport than a true means of transportation. Various races are held around the state, but the best known is the [[Iditarod Trail Sled Dog Race]], a 1150-mile (1850&amp;nbsp;km) trail from Anchorage to Nome (although the mileage varies from year to year, the official distance is set at 1049 miles). The race commemorates the famous [[1925 serum run to Nome]] in which mushers and dogs like [[Togo (dog)|Togo]] and [[Balto]] took much-needed medicine to the [[diphtheria]]-stricken community of [[Nome, Alaska|Nome]] when all other means of transportation had failed. Mushers from all over the world come to Anchorage each March to compete for cash, prizes, and prestige. The &quot;Serum Run&quot; is another sled dog race that more accurately follows the route of the famous 1925 relay, leaving from the community of Nenana (southwest of Fairbanks) to Nome.&lt;ref&gt;[http://www.serumrun.org/ Norman Vaughan Serum Run]&lt;/ref&gt;
+
+President [[Dwight Eisenhower]] admitted in his autobiography that he pushed to have Alaska admitted into the union as a state, partially because he wanted an American win in the 1959 World Sled Dog Championships, held in Finland. The previous W.S.D.C. titles had been won by the [[Soviet Union]].
+
+In areas not served by road or rail, primary transportation in summer is by [[all-terrain vehicle]] and in winter by [[snowmobile]] or &quot;snow machine,&quot; as it is commonly referred to in Alaska.
+
+==Law and government==
+{{Main|Government of Alaska}}
+
+===State government===
+Like all other U.S. states, Alaska is governed as a [[republic]], with three [[separation of powers|branches of government]]: an [[executive branch]] consisting of the [[Governor of Alaska]] and the other independently elected constitutional officers; a [[legislative branch]] consisting of the [[Alaska House of Representatives]] and [[Alaska Senate]]; and a [[judicial branch]] consisting of the [[Alaska Supreme Court]] and lower courts.
+
+The State of Alaska employs approximately 15,000 employees statewide.&lt;ref&gt;http://dop.state.ak.us/employeeOrientation/introduction&lt;/ref&gt;
+
+The [[Alaska Legislature]] consists of a 40-member [[Alaska House of Representatives|House of Representatives]] and a 20-member [[Alaska Senate|Senate]]. Senators serve four year terms and House members two. The [[Governor of Alaska]] serves four-year terms. The [[List of Lieutenant Governors of Alaska|lieutenant governor]] runs separately from the governor in the [[Primary election|primaries]], but during the [[general election]], the nominee for governor and nominee for lieutenant governor run together on the same ticket.
+
+Alaska's court system has four levels: the [[Alaska Supreme Court]], the court of appeals, the superior courts and the district courts.&lt;ref name=&quot;cts&quot;&gt;[http://www.state.ak.us/courts/ctinfo.htm About the Alaska Court System]&lt;/ref&gt; The superior and district courts are [[trial court]]s. Superior courts are courts of general jurisdiction, while district courts only hear certain types of cases, including misdemeanor criminal cases and civil cases valued up to $100,000.&lt;ref name=&quot;cts&quot;/&gt;  The Supreme Court and the Court Of Appeals are [[appellate court]]s. The Court Of Appeals is required to hear appeals from certain lower-court decisions, including those regarding criminal prosecutions, juvenile delinquency, and [[habeas corpus]].&lt;ref name=&quot;cts&quot;/&gt; The Supreme Court hears civil appeals and may in its discretion hear criminal appeals.&lt;ref name=&quot;cts&quot;/&gt;
+
+===State politics===
+Although Alaska entered the Union leaning [[Democratic Party (United States)|Democratic]], since the early 1970s Alaska has been characterized as a [[Republican Party (United States)|Republican]]-leaning state with strong [[Libertarianism|libertarian]] tendencies.&lt;ref&gt;[http://election.nationaljournal.com/states/ak.htm National Journal Alaska State Profile]&lt;/ref&gt; Local political communities have often worked on issues related to land use development, [[fishing]], [[tourism]], and [[individual rights]]. [[Alaska Native]]s, while organized in and around their communities, have been active within the [[Alaska Native Regional Corporations|Native corporations]]. These have been given ownership over large tracts of land, which require stewardship.
+
+Alaska is the only state in which possession of one ounce or less of marijuana in one's home is completely legal under state law, though the federal law remains in force.&lt;ref name=seattle_times&gt;{{cite web |url=http://seattletimes.nwsource.com/html/localnews/2003118645_webpot10.html |title=&quot;Judge rules against Alaska marijuana law&quot; |accessdate=2008-05-22 |last=Volz |first=Matt |date=2006-07-11 |work=[[The Seattle Times]] |publisher=Frank A. Blethen}}&lt;/ref&gt;
+
+The state has an independence movement favoring a vote on secession from the United States, with the [[Alaska Independence Party]] labeled as one of &quot;the most significant state-level third parties operating in the 20th century&quot;.&lt;ref&gt;Doughtery, J. (2001, February 25). Alaska party stumps for independence. World Net Daily. Retrieved from http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=21840&lt;/ref&gt;
+
+Most Alaskan governors have been conservatives, generally Republicans, but some have not always been elected under the official Republican banner. For example, Republican Governor [[Walter Joseph Hickel|Wally Hickel]] was elected to the office for a second term in 1990 after leaving the Republican party and briefly joining the Alaskan Independence Party ticket just long enough to be reelected. He subsequently officially rejoined the Republican party in 1994.
+
+{{further|[[Political party strength in Alaska]]}}
+
+===Taxes===
+To finance state government operations, Alaska depends primarily on [[petroleum]] revenues and federal subsidies. This allows it to have the lowest individual tax burden in the United States,&lt;ref&gt;CNN Money (2005). &quot;How tax friendly is your state?&quot; Retrieved from [http://money.cnn.com/pf/features/lists/taxesbystate2005/index.html CNN website].&lt;/ref&gt; and be one of only five states with no state [[sales tax]], one of seven states that do not levy an individual [[income tax]], and one of two states that has neither. The Department of Revenue Tax Division&lt;ref&gt;[http://www.tax.state.ak.us/ Department of Revenue Tax Division]&lt;/ref&gt;  reports regularly on the state's revenue sources. The Department also issues an annual overview of its operations, including new state laws that directly affect the tax division.
+
+While Alaska has no state sales tax, 89 municipalities collect a local sales tax, from 1% to 7.5%, typically 3% to 5%. Other local taxes levied include raw fish taxes, hotel, motel, and [[bed and breakfast|B&amp;B]] 'bed' taxes, severance taxes, liquor and tobacco taxes, gaming (pull tabs) taxes, tire taxes and fuel transfer taxes. A percentage of revenue collected from certain state taxes and license fees (such as petroleum, aviation motor fuel, telephone cooperative) is shared with municipalities in Alaska.
+
+[[Fairbanks, Alaska|Fairbanks]] has one of the highest property taxes in the state as no sales or income taxes are assessed in the [[Fairbanks North Star Borough]] (FNSB). A sales tax for the FNSB has been voted on many times, but has yet to be approved, leading law makers to increase taxes dramatically on other goods such as liquor and tobacco.
+
+In 2008 the [[Tax Foundation]] ranked Alaska as having the 4th most &quot;business friendly&quot; tax policy. More &quot;friendly&quot; states were [[Wyoming]], [[Nevada]], and [[South Dakota]].&lt;ref&gt;[http://www.taxfoundation.org/research/topic/11.html]&lt;/ref&gt;
+
+===Federal politics===
+{| align=&quot;right&quot; border=&quot;2&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 76%;&quot;
+|+ '''Presidential elections results'''
+|- bgcolor=lightgrey
+! Year
+! [[Republican Party (United States)|Republican]]
+! [[Democratic Party (United States)|Democratic]]
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 2008|2008]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''59.49%''' ''192,631
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|37.83% ''122,485
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 2004|2004]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''61.07%''' ''190,889
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|35.52% ''111,025
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 2000|2000]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''58.62%''' ''167,398
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|27.67% ''79,004
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1996|1996]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''50.80%''' ''122,746
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|33.27% ''80,380
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1992|1992]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''39.46%''' ''102,000
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|30.29% '' ''78,294
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1988|1988]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''59.59%''' ''119,251
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|36.27% ''72,584
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1984|1984]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''66.65%''' ''138,377
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|29.87% ''62,007
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1980|1980]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''54.35%''' ''86,112
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|26.41% ''41,842
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1976|1976]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''57.90%''' ''71,555
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|35.65% ''44,058
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1972|1972]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''58.13%''' ''55,349
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|34.62% ''32,967
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1968|1968]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''45.28%''' ''37,600
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|42.65% ''35,411
+|-
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|[[U.S. presidential election, 1964|1964]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|34.09% ''22,930
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|'''65.91%''' ''44,329
+|-
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|[[U.S. presidential election, 1960|1960]]
+|align=&quot;center&quot; bgcolor=&quot;#fff3f3&quot;|'''50.94%''' ''30,953
+|align=&quot;center&quot; bgcolor=&quot;#f0f0ff&quot;|49.06% ''29,809
+|}
+
+In presidential elections, the state's [[Electoral College (United States)|electoral college]] votes have been won by the [[Republican Party (United States)|Republican]] nominee in every election since statehood, except for 1964. No state has voted for a Democratic presidential candidate fewer times. Alaska supported [[Democratic Party (United States)|Democratic]] nominee [[Lyndon B. Johnson]] in the landslide year of [[U.S. presidential election, 1964|1964]], although the [[U.S. presidential election, 1960|1960]] and [[U.S. presidential election, 1968|1968]] elections were close. Republican [[John McCain]] defeated Democrat [[Barack Obama]] in Alaska, 59.49% to 37.83%.  McCain's running mate was [[Sarah Palin]], the state's governor and the first Alaskan on a major party ticket.  The [[The Bush (Alaska)|Alaska Bush]], the city of Juneau and midtown and downtown Anchorage have been strongholds of the Democratic party. Matanuska-Susitna Borough and South Anchorage typically have the strongest Republican showing. As of 2004, well over half of all registered voters have chosen &quot;Non-Partisan&quot; or &quot;Undeclared&quot; as their affiliation,&lt;ref&gt;http://www.gov.state.ak.us/ltgov/elections/regbypty.htm&lt;/ref&gt; despite recent attempts to close primaries.
+
+Because of its population relative to other U.S. states, Alaska has only one member in the [[United States House of Representatives|U.S. House of Representatives]]. This seat is currently being held by Republican [[Don Young]], who was re-elected to his 19th consecutive term in 2008.
+
+On November 19, 2008, long time Republican senator [[Ted Stevens]] was defeated by Democratic Anchorage mayor [[Mark Begich]]. Stevens had been convicted on seven felony counts of failing to report gifts on Senate financial discloser forms one week prior to the election. The conviction was set aside in April 2009 after evidence of prosecutorial misconduct emerged.
+
+Republican [[Frank Murkowski]] held the state's other senatorial position. After being elected governor in 2002, he resigned from the Senate and appointed his daughter, State Representative [[Lisa Murkowski]] as his successor. In response to a subsequent ballot initiative, the state legislature attempted to amend the law to limit the length of gubernatorial appointments. She won a full six-year term in 2004. In 2006 Frank Murkowski was defeated in the Republican primary by [[Sarah Palin]], who in 2008 became the Republican nominee for [[Vice President of the United States]].
+
+==Cities, towns and boroughs==
+[[Image:Anchorage1.jpg|thumb|right|180px|Anchorage, Alaska's largest city]]
+[[Image:Fairbanks05.jpg|thumb|right|180px|Fairbanks]]
+[[Image:Mount Juneau Alaska.jpg|thumb|right|180px|Alaska's capital city, Juneau]]
+{{See also|List of cities in Alaska by population|Alaska locations by per capita income}}
+Alaska is not divided into [[County (United States)|counties]], as most of the other U.S. states, but it is divided into ''[[List of boroughs and census areas in Alaska|boroughs]]''. Many of the more densely populated parts of the state are part of Alaska's sixteen boroughs, which function somewhat similarly to counties in other states. However, unlike county-equivalents in the other 49 states, the boroughs do not cover the entire land area of the state. The area not part of any borough is referred to as the [[Unorganized Borough, Alaska|Unorganized Borough]]. The Unorganized Borough has no government of its own, but the [[U.S. Census Bureau]] in cooperation with the state divided the Unorganized Borough into 11 [[census area]]s solely for the purposes of statistical analysis and presentation. A '''recording district''' is a mechanism for administration of the [[public record]] in Alaska. The state is divided into 34 recording districts which are centrally administered under a [[State Recorder]]. All recording districts use the same acceptance criteria, fee schedule, etc., for accepting documents into the public record.
+
+The state's most populous city is [[Anchorage, Alaska|Anchorage]], home to 278,700 people in 2006, 225,744 of whom live in the urbanized area. The richest [[Alaska locations by per capita income|location in Alaska by per capita income]] is [[Halibut Cove, Alaska|Halibut Cove]] ($89,895). Sitka, Juneau, and Anchorage are the three [[List of U.S. cities by area|largest cities in the U.S. by area]].
+
+{|
+ | colspan=&quot;5&quot; | '''Cities of 100,000 or more people'''
+*[[Anchorage, Alaska|Anchorage]]
+ |-
+ | colspan=&quot;5&quot; | '''Towns of 10,000-100,000 people'''
+*[[College, Alaska|College]]
+*[[Fairbanks, Alaska|Fairbanks]]
+*[[Juneau, Alaska|Juneau]] (State Capital)
+|-
+ | colspan=&quot;5&quot; | '''Towns of 1,000-10,000 people'''
+ |-
+ | valign=&quot;top&quot; |
+*[[Ketchikan, Alaska|Ketchikan]]
+*[[Sitka, Alaska|Sitka]]
+*[[Wasilla, Alaska|Wasilla]]
+*[[Kenai, Alaska|Kenai]]
+*[[Kodiak, Alaska|Kodiak]]
+*[[Palmer, Alaska|Palmer]]
+*[[Bethel, Alaska|Bethel]]
+*[[Barrow, Alaska|Barrow]]
+ | width=&quot;50px&quot; | &amp;nbsp;
+ | valign=&quot;top&quot; |
+*[[Unalaska, Alaska|Unalaska]]
+*[[Valdez, Alaska|Valdez]]
+*[[Soldotna, Alaska|Soldotna]]
+*[[Homer, Alaska|Homer]]
+*[[Nome, Alaska|Nome]]
+*[[Petersburg, Alaska|Petersburg]]
+*[[Wrangell, Alaska|Wrangell]]
+*[[Kotzebue, Alaska|Kotzebue]]
+*[[Seward, Alaska|Seward]]
+ | width=&quot;50px&quot; | &amp;nbsp;
+ | valign=&quot;top&quot; |
+*[[Dillingham, Alaska|Dillingham]]
+*[[Cordova, Alaska|Cordova]]
+*[[Haines, Alaska|Haines]]
+*[[North Pole, Alaska|North Pole]]
+*[[Hooper Bay, Alaska|Hooper Bay]]
+*[[Craig, Alaska|Craig]]
+*[[Houston, Alaska|Houston]]
+*[[Metlakatla, Alaska|Metlakatla]]
+|-
+ | colspan=&quot;5&quot; | '''Smaller towns'''
+Alaska has many smaller towns, especially in the [[Alaska Bush]], the portion of the state that is inaccessible by road.
+ |-
+|}
+
+==Education==
+The Alaska Department of Education and Early Development administers many [[List of school districts in Alaska|school district]]s in Alaska. In addition, the state operates several boarding schools, including [[Mt. Edgecumbe High School]] in [[Sitka, Alaska|Sitka]], [[Nenana Student Living Center]] in [[Nenana, Alaska|Nenana]], and Galena High School in [[Galena, Alaska|Galena]].&lt;ref&gt;[http://www.alaskaice.org/material.php?matID=138 Alaska ICE]&lt;/ref&gt;
+
+There are more than a dozen [[List of colleges and universities in Alaska|colleges and universities in Alaska]]. Accredited universities in Alaska include the [[University of Alaska Anchorage]], [[University of Alaska Fairbanks]], [[University of Alaska Southeast]], and [[Alaska Pacific University]].&lt;ref&gt;These are the only three universities in the state ranked by [[US News and World Report]].[http://www.usnews.com/usnews/edu/college/rankings/rankindex_brief.php]&lt;/ref&gt; 43% of the population attends or attended college.{{Citation needed|date=April 2007}}
+
+Alaska has had a problem with a &quot;[[brain drain]]&quot;. Many of its young people, including most of the highest academic achievers, leave the state after high school graduation and do not return. The [[University of Alaska]] has attempted to combat this by offering partial four-year scholarships to the top 10% of Alaska high school graduates, via the Alaska Scholars Program.&lt;ref&gt;http://www.alaska.edu/scholars/faq.xml#scholars_award&lt;/ref&gt;&lt;!--I assume the legislature had something to do with this? Is the U of AK private?---&gt;
+
+==Public health and public safety==
+Alaska residents have long had a problem with alcohol use and abuse.{{Citation needed|date=December 2008}} Many rural communities in Alaska have outlawed its import. This problem directly relates to Alaska's high rate of [[Fetal alcohol syndrome]] (FAS) as well as contributing to the high rate of suicides and teenage pregnancies.{{Citation needed|date=December 2008}} Suicide rates for rural residents are higher than urban.&lt;ref&gt;http://www.hss.state.ak.us/suicideprevention/statistics_pages_sspc/AKsuiciderate_rural_urban_90-00.htm&lt;/ref&gt; 
+
+[[Domestic abuse]] and other violent crimes are also at high levels in the state; this is in part linked to alcohol abuse.{{Citation needed|date=April 2009}}
+
+==Culture==
+:''See also [[List of artists and writers from Alaska]]''
+{{Expand|section|date=April 2007}}
+Some of Alaska's popular annual events are the [[Iditarod Trail Sled Dog Race]] that starts in [[Anchorage, Alaska|Anchorage]] and ends in [[Nome, Alaska|Nome]], World Ice Art Championships in [[Fairbanks, Alaska|Fairbanks]], the Alaska Hummingbird Festival in [[Ketchikan, Alaska|Ketchikan]], the [[Sitka Whale Fest]], and the Stikine River Garnet Fest in [[Wrangell, Alaska|Wrangell]]. The [[Stikine River]] features the largest springtime concentration of American Bald Eagles in the world.
+
+The [[Alaska Native Heritage Center]] celebrates the rich heritage of Alaska's 11 cultural groups. Their purpose is to enhance self-esteem among Native people and to encourage cross-cultural exchanges among all people. The [[Alaska Native Arts Foundation]] promotes and markets Native art from all regions and cultures in the State, both on the internet; at its gallery in Anchorage, 500 West Sixth Avenue, and at the [[Alaska House New York]], 109 Mercer Street in SoHo.&lt;ref&gt; www.alaskanativearts.org &lt;/ref&gt;
+
+Alaska Natives—Inuit, Inupiaq or Yupik drummers and dancers—give informal performances in the lobby of the Alaska Native Medical Center in Anchorage on weekday evenings.
+
+===Libraries===
+The four main libraries in the state are the [[Alaska State Library]] in Juneau, the [[Elmer E. Rasmuson Library]] in Fairbanks, the [[Z. J. Loussac Library]] in Anchorage, and the [[UAA/APU Consortium Library]], also in Anchorage. Alaska is one of three states (the others are [[Delaware]] and [[Rhode Island]]) that does not have a [[Carnegie library]].
+
+===Music===
+{{Main|Music of Alaska}}
+Influences on music in Alaska include the traditional music of [[Alaska Natives]] as well as folk music brought by later immigrants from Russia and Europe. Prominent musicians from Alaska include singer [[Jewel (singer)|Jewel]], traditional Aleut [[flute|flautist]] [[Mary Youngblood]], folk [[singer-songwriter]] [[Libby Roderick]], metal/post hardcore band [[36 Crazyfists]] and the groups [[Pamyua]].
+
+There are many established music festivals in Alaska, including the [[Alaska Folk Festival]], the [[Fairbanks Summer Arts Festival]] the [[Anchorage Folk Festival]], the [[Athabascan Old-Time Fiddling Festival]], the Sitka Jazz Festival, and the [[Sitka Summer Music Festival]]. The most prominent [[symphony]] in Alaska is the [[Anchorage Symphony Orchestra]], though the [[Fairbanks Symphony Orchestra]] and [[Juneau Symphony]] are also notable. The [[Anchorage Opera]] is currently the state's only professional opera company, though there are several volunteer and semi-professional organizations in the state as well.
+
+The official [[List of U.S. state songs|state song]] of Alaska is &quot;[[Alaska's Flag]]&quot;, which was adopted in 1955; it celebrates the [[flag of Alaska]].
+
+===Movies filmed in Alaska===
+{{Unreferenced section|date=October 2008}}
+Alaska's first independent picture all made on place was in the silent years.  [[The Chechahcos]], was released in 1924 by the Alaska Moving Picture Corp.  It was the only film the company made.
+
+One of the most prominent movies filmed in Alaska is [[MGM]]'s [[Academy Award]] winning classic ''[[Eskimo/Mala The Magnificent]]'' starring Alaska's own [[Ray Mala]]. In 1932 an expedition set out from [[MGM]]'s studios in [[Hollywood]] to Alaska to film what was then billed as &quot;The Biggest Picture Ever Made.&quot; Upon arriving in Alaska, they set up &quot;Camp Hollywood&quot; in Northwest Alaska, where they lived during the duration of the filming. [[Louis B. Mayer]] spared no expense in making sure they had everything they needed during their stay—he even sent the famous chef from the [[Roosevelt Hotel (Hollywood)|Hotel Roosevelt]] on [[Hollywood Blvd]] (the site of the first [[Oscars]]) with them to Alaska to cook for them. When ''Eskimo'' premiered at the famed [[Astor Theatre]] in Times Square, New York, the studio received the largest amount of feedback in the history of the studio up to that time. ''Eskimo'' was critically acclaimed and released worldwide; as a result [[Inupiat]] [[Eskimo]] actor [[Ray Mala]] became an international movie star. ''Eskimo'' is significant for the following: winning the very first Oscar for [[Best Film Editing]] at the Academy Awards, for forever preserving [[Inupiat]] culture on film, and for being the first motion picture to be filmed in an all native language ([[Inupiat]]).
+
+The psychological thriller ''[[Insomnia (2002 film)|Insomnia]]'', starring [[Al Pacino]] and [[Robin Williams]] was shot in Canada, but was set in Alaska. The 2007 horror feature ''[[30 Days of Night (film)|30 Days of Night]]'' is set in [[Barrow, Alaska]] but was filmed in New Zealand. Most films and television shows set in Alaska are not filmed there; for example, ''[[Northern Exposure]]'', set in the fictional town of Cicely, Alaska, was actually filmed in Roslyn, Washington.
+
+The 1983 Disney movie ''Never Cry Wolf'' was at least partially shot in Alaska. The 1991 film &quot;[[White Fang (1991 film)|White Fang]]&quot;, starring [[Ethan Hawke]], was filmed in and around Haines, Alaska. The 1999 John Sayles film ''[[Limbo (film)|Limbo]]'', starring David Strathairn, Mary Elizabeth Mastrantonio and Kris Kristofferson, was filmed in Juneau. 
+
+The 2007 film directed by Sean Penn, [[Into The Wild]] was partially filmed and set in Alaska. The film, which is based on the novel of the same name, follows the adventures of [[Christopher McCandless]], who died in a remote abandoned bus in Alaska in 1992.
+
+==State symbols==
+*State Motto: North to the Future
+*Nicknames: &quot;The Last Frontier&quot; or &quot;Land of the Midnight Sun&quot; or &quot;Seward's Icebox&quot;
+*State bird: [[Willow Ptarmigan]], adopted by the Territorial Legislature in 1955. It is a small (15-17 inches) Arctic grouse that lives among willows and on open tundra and muskeg. Plumage is brown in summer, changing to white in winter. The Willow Ptarmigan is common in much of Alaska.
+*State fish: [[King Salmon]], adopted 1962.
+*State flower: wild/native [[Forget-me-not|Forget-Me-Not]], adopted by the Territorial Legislature in 1917.&lt;ref&gt;[http://www.akcf.org/_pages/about_ACF/about_alaska/state_symbols.php Alaska Conservation Foundation - State Symbols]&lt;/ref&gt; It is a perennial that is found throughout Alaska, from Hyder to the Arctic Coast, and west to the Aleutians.
+*State fossil: [[Woolly Mammoth]], adopted 1986.
+*State gem: [[nephrite|Jade]], adopted 1968.
+*State insect: Four-spot skimmer [[dragonfly]], adopted 1995.
+*State land mammal: [[Moose]], adopted 1998.
+*State marine mammal: [[Bowhead Whale]], adopted 1983.
+*State mineral: [[Gold]], adopted 1968.
+*State song: &quot;[[Alaska's Flag]]&quot;
+*State sport: [[Mushing|Dog Mushing]], adopted 1972.
+*State tree: [[Sitka Spruce]], adopted 1962.
+*State soil: [[Estelle (soil)|Estelle]], adopted unknown.
+
+==Notables==
+&lt;!---NOTE: These need to be people who are known OUTSIDE of Alaska. So, by definition, the governor of the state would NOT (normally) make the list. They must be more famous than the governor or Senators ---&gt;
+*[[36 Crazyfists]], metalcore band from Anchorage
+*[[Marty Beckerman]], author&lt;ref&gt;[http://www.martybeckerman.com]&lt;/ref&gt;
+*[[Irene Bedard]], actress
+*[[Tom Bodett]], author and voice actor
+*[[Carlos Boozer]], professional basketball player
+*[[Susan Butcher]], noted dog musher, four-time Iditarod winner
+*[[Craig Campbell]], current Lieutenant Governor of Alaska
+*[[Mario Chalmers]], professional basketball player
+*[[Matt Carle]], professional ice hockey player
+*[[Chad Carpenter]], cartoonist and creator of the comic strip ''[[Tundra (comic strip)|Tundra]]''
+*[[Daryn Colledge]], professional football player for the Green Bay Packers
+*[[Ty Conklin]], professional ice hockey player
+*[[Brandon Dubinsky]], professional ice hockey player
+*[[Erik Ellington]], professional skateboarder
+*[[Scott Gomez]], professional ice hockey player
+*[[Mike Gravel]], former U.S. Senator
+*[[Ernest Gruening]], former U.S. Senator, journalist
+*[[Walter Hickel]], former two time Governor and Secretary of the Interior under President Richard Nixon
+*[[Jewel (singer)|Jewel]], singer/songwriter
+*[[Trajan Langdon]], professional basketball player
+*[[Sydney Laurence]], noted landscape painter
+*[[Ray Mala]], actor
+*[[Lance Mackey]], four time Yukon Quest and three time Iditarod winner
+*[[Holly Madison]], model and television personality
+*[[Kelly Moneymaker]], singer
+*[[Sarah Palin]], 2008 Republican Vice Presidential nominee, former Governor of Alaska
+*[[Sean Parnell]], former Lieutenant Governor of Alaska, current Governor of Alaska
+*[[Elizabeth Peratrovich]], civil rights activist
+*[[Sean Rash]], Professional Tenpin Bowler
+*[[Libby Riddles]], noted dog musher, first woman to win Iditarod
+*[[Curt Schilling]], professional baseball player
+*[[Don Simpson]], noted film producer
+*[[Soapy Smith]], con artist and gangster
+*[[Nate Thompson]], professional ice hockey player
+*[[Khleo Thomas]], Actor/Rapper
+*[[Paul Varelans]], UFC fighter
+*[[America's Next Top Model, Cycle 11|Hannah White]], contestant on ''America's Next Top Model, Cycle 11''.
+*[[Mr. Whitekeys]], writer, musician, commentator, and satirist
+*[[Dave Williams (2000s pitcher)|Dave Williams]], professional baseball player
+
+==See also==
+{{portal|Alaska|Flag of Alaska.svg}}
+{{Main|Outline of Alaska}}
+*[[Index of Alaska-related articles]]
+*[[Enclave and exclave]]
+*[[Alyeska]]
+* [[Alaska Youth For Environmental Action]]
+{{clear}}
+&lt;!-- Please place links to all topics directly related to the State of Alaska in the [[Index of Alaska-related articles]] --&gt;
+
+==References==
+{{More footnotes|date=February 2009}}
+{{reflist|2}}
+
+==External links==
+{{sisterlinks|Alaska}}
+&lt;!-- Please do not add commercial links to this section&amp;nbsp;— they will be removed, as per the external links policy. Thank you. --&gt;
+;State Government
+*[http://www.alaska.gov/ State of Alaska website]
+*[http://wikis.ala.org/godort/index.php/Alaska Alaska State Databases] - Annotated list of searchable databases produced by Alaska state agencies and compiled by the Government Documents Roundtable of the American Library Association.
+* [http://www.dnr.state.ak.us/ssd/recoff/terminology.cfm Alaska Department of Natural Resources, Recorder's Office]
+
+;U.S. Government
+*[http://tonto.eia.doe.gov/state/state_energy_profiles.cfm?sid=AK Energy &amp; Environmental Data for Alaska]
+*[http://www.usgs.gov/state/state.asp?State=AK USGS real-time, geographic, and other scientific resources of Alaska]
+*[http://quickfacts.census.gov/qfd/states/02000.html US Census Bureau]
+*[http://www.ers.usda.gov/statefacts/ak.htm Alaska State Facts]
+*[http://eisenhower.archives.gov/Research/Digital_Documents/Alaska/Alaska.html Documents on Alaskan Statehood at the Dwight D. Eisenhower Presidential Library]
+*[http://eisenhower.archives.gov/Research/Subject_Guides/PDFs/Agriculture.pdf Guide to collections containing information on Alaskan statehood at the Eisenhower Presidential Library]
+;Other
+*[http://www.dced.state.ak.us/dca/commdb/CF_COMDB.htm Alaska Community Database System]
+*[http://vilda.alaska.edu/index.php Alaska's Digital Archives]
+*[http://www.alcnet.org/projects/overview/alaska Alaska], project area of the [http://www.alcnet.org American Land Conservancy]
+*[http://www.aitc.org/ Alaska Inter-Tribal Council]
+*{{dmoz|Regional/North_America/United_States/Alaska}}
+
+==Related information==&lt;!--navbox heading--&gt;
+{{Alaska|expanded}}
+{{United States}}
+
+{{start box}}
+{{s-bef | before = [[Arizona]] }}
+{{s-ttl | title = [[List of U.S. states by date of statehood]]
+        | years = Admitted on January 3, 1959 (49th) }}
+{{s-aft | after  = [[Hawaii]] }}
+{{end box}}
+
+{{Coord|64|N|153|W|region:US-AK_type:adm1st_scale:10000000|display=title}}
+
+[[Category:Alaska| ]]
+[[Category:Arctic Ocean]]
+[[Category:Exclaves]]
+[[Category:Proposed countries]]
+[[Category:States of the United States]]
+[[Category:States and territories established in 1959]]
+[[Category:West Coast of the United States]]
+
+[[af:Alaska]]
+[[ang:Alaska]]
+[[ar:ألاسكا]]
+[[an:Alaska]]
+[[arc:ܐܠܐܣܟܐ]]
+[[frp:Alaska]]
+[[ast:Alaska]]
+[[gn:Alaska]]
+[[az:Alyaska]]
+[[bn:আলাস্কা]]
+[[zh-min-nan:Alaska]]
+[[be:Штат Аляска]]
+[[be-x-old:Аляска (штат)]]
+[[bi:Alaska]]
+[[bs:Aljaska]]
+[[br:Alaska]]
+[[bg:Аляска]]
+[[ca:Alaska]]
+[[cv:Аляска]]
+[[ceb:Alaska]]
+[[cs:Aljaška]]
+[[co:Alaska]]
+[[cy:Alaska]]
+[[da:Alaska]]
+[[de:Alaska]]
+[[nv:Hak’az dine’é bikéyah hahoodzo]]
+[[et:Alaska]]
+[[el:Αλάσκα]]
+[[es:Alaska]]
+[[eo:Alasko]]
+[[eu:Alaska]]
+[[fa:آلاسکا]]
+[[fo:Alaska]]
+[[fr:Alaska]]
+[[fy:Alaska]]
+[[ga:Alasca]]
+[[gv:Alaska]]
+[[gd:Alasca]]
+[[gl:Alasca - Alaska]]
+[[hak:Â-lâ-sṳ̂-kâ]]
+[[ko:알래스카 주]]
+[[haw:‘Ālaka]]
+[[hy:Ալյասկա (նահանգ)]]
+[[hi:अलास्का]]
+[[hr:Aljaska]]
+[[io:Alaska]]
+[[ig:Alaska]]
+[[ilo:Alaska]]
+[[bpy:আলাস্কা]]
+[[id:Alaska]]
+[[ia:Alaska]]
+[[iu:ᐊᓛᓯᑲ/alaasika]]
+[[ik:Alaxsxaq]]
+[[os:Аляскæ]]
+[[is:Alaska]]
+[[it:Alaska]]
+[[he:אלסקה]]
+[[jv:Alaska]]
+[[pam:Alaska]]
+[[ka:ალასკა (შტატი)]]
+[[ks:अलास्‍का]]
+[[kw:Alaska]]
+[[sw:Alaska]]
+[[ht:Alaska]]
+[[ku:Alaska]]
+[[lad:Alaska]]
+[[la:Alasca]]
+[[lv:Aļaska]]
+[[lt:Aliaska]]
+[[lij:Alaska]]
+[[hu:Alaszka]]
+[[mk:Аљаска]]
+[[mg:Alaska]]
+[[ml:അലാസ്ക]]
+[[mi:Alaska]]
+[[mr:अलास्का]]
+[[ms:Alaska]]
+[[mn:Аляска]]
+[[nah:Alaska]]
+[[nl:Alaska]]
+[[new:अलास्का]]
+[[ja:アラスカ州]]
+[[no:Alaska]]
+[[nn:Alaska]]
+[[oc:Alaska]]
+[[uz:Alaska]]
+[[pms:Alasca]]
+[[nds:Alaska]]
+[[pl:Alaska]]
+[[pt:Alasca]]
+[[ro:Alaska (stat SUA)]]
+[[ru:Аляска]]
+[[se:Alaska]]
+[[sa:अलास्‍का]]
+[[sco:Alaska]]
+[[sq:Alaska]]
+[[scn:Alaska]]
+[[simple:Alaska]]
+[[sk:Aljaška]]
+[[sl:Aljaska]]
+[[sr:Аљаска]]
+[[sh:Aljaska]]
+[[fi:Alaska]]
+[[sv:Alaska]]
+[[tl:Alaska]]
+[[ta:அலாஸ்கா]]
+[[te:అలాస్కా]]
+[[th:รัฐอะแลสกา]]
+[[tr:Alaska]]
+[[uk:Аляска]]
+[[ur:الاسکا]]
+[[ug:Alyaska Shitati]]
+[[vec:Ałasca]]
+[[vi:Alaska]]
+[[vo:Alaska]]
+[[war:Alaska]]
+[[wuu:阿拉斯加]]
+[[yi:אלאסקע]]
+[[zh-yue:阿拉斯加]]
+[[diq:Alaska]]
+[[bat-smg:Aliaska]]
+[[zh:阿拉斯加州]]

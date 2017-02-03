@@ -1,0 +1,255 @@
+      {{refimprove|date=November 2008}}
+{| style=&quot;float: right; border: 1px solid #ccc; margin: 0.5em 0pt 0.8em 1.4em; padding: 3px !important; width: 75px;&quot;
+! [[Group (periodic table)|Group]]&amp;nbsp;→!! 1
+|-
+! ↓&amp;nbsp;[[Period (periodic table)|Period]]
+|
+|-
+! [[Period 1 element|1]]
+| {{element cell| 1|Hydrogen|H| |Gas|Nonmetals|Primordial}}
+|-
+! [[Period 2 element|2]]
+| {{element cell| 3|Lithium|Li| |Solid|Alkali metals|Primordial}}
+|-
+! [[Period 3 element|3]]
+| {{element cell|11|Sodium|Na| |Solid|Alkali metals|Primordial}}
+|-
+! [[Period 4 element|4]]
+| {{element cell|19|Potassium|K| |Solid|Alkali metals|Primordial}}
+|-
+! [[Period 5 element|5]]
+| {{element cell|37|Rubidium|Rb| |Solid|Alkali metals|Primordial}}
+|-
+! [[Period 6 element|6]]
+| {{element cell|55|Caesium|Cs| |Solid|Alkali metals|Primordial}}
+|-
+! [[Period 7 element|7]]
+| {{element cell|87|Francium|Fr| |Solid|Alkali metals|Natural radio}}
+|}
+
+The '''alkali metals''' are a [[chemical series|series]] of [[chemical element]]s comprising [[Periodic table group|Group 1]] ([[International Union of Pure and Applied Chemistry|IUPAC]] style) of the [[periodic table]]: [[lithium]] ('''Li'''), [[sodium]] ('''Na'''), [[potassium]] ('''K'''), [[rubidium]] ('''Rb'''), [[caesium]] ('''Cs'''), and [[francium]] ('''Fr'''). ([[Hydrogen]], although nominally also a member of Group 1, very rarely exhibits behavior comparable to the alkali metals). The alkali metals provide one of the best examples of group trends in properties in the periodic table, with well characterized [[homology (chemistry)|homologous]] behavior down the group.
+
+==Properties==
+
+
+
+The alkali metals are all highly reactive and are never found in elemental form in nature. As a result, in the laboratory they are stored under [[mineral oil]] or parafin oil. They also tarnish easily and have low melting points and densities. Potassium and rubidium possess a weak radioactive characteristic due to the presence of long duration radioactive isotopes. 
+
+The alkali metals are silver-colored (caesium has a golden tinge), soft, low-[[density]] [[metal]]s, which react readily with [[halogen]]s to form [[ionic salt]]s, and with [[water (molecule)|water]] to form strongly [[alkali]]ne [[Base (chemistry)|(basic)]] [[hydroxide]]s. These elements all have one [[electron]] in their outermost shell, so the energetically preferred state of achieving a filled [[electron shell]] is to lose one electron to form a singly [[electric charge|charged]] positive [[ion]], i.e. cation.
+
+[[Hydrogen]], with a solitary electron, is usually placed at the top of Group 1 of the periodic table, but it is not considered an alkali metal; rather it exists naturally as a diatomic [[gas]]. Removal of its single electron requires considerably more energy than removal of the outer electron for the alkali metals.  As in the [[halogen]]s, only one additional electron is required to fill in the outermost shell of the hydrogen atom, so hydrogen can in some circumstances behave like a halogen, forming the negative [[hydride]] ion. [[Binary compound]]s of hydride with the alkali metals and some [[transition metal]]s have been prepared. Under extremely high [[pressure]], such as is found at the core of [[Jupiter]], hydrogen does become metallic and behaves like an alkali metal; see [[metallic hydrogen]].
+
+Alkali metals have the lowest ionization potentials in their respective periods, as removing the single electron from the outermost shell gives them the stable inert gas configuration. Their second ionization potentials are very high, as removing an electron from a species having a noble gas configuration is very difficult.
+
+[[Image:Alkalimetalle.jpg|thumb|Series of alkali metals, stored in mineral oil (note &quot;natrium&quot; is sodium.)]]
+Alkali metals are famous for their vigorous reactions with water, and these reactions become increasingly violent as one moves down the group.  The reaction with water is as follows:
+
+Alkali metal + water → Alkali metal hydroxide + hydrogen gas
+
+With [[potassium]] as an example:
+
+:2K (s) + 2H&lt;sub&gt;2&lt;/sub&gt;O (l) → 2KOH (aq) + H&lt;sub&gt;2&lt;/sub&gt; (g)
+
+==Trends==
+
+Like other groups, the members of this family show patterns in its electron configuration, especially the outermost shells resulting in trends in chemical behavior:
+
+{| class=&quot;wikitable&quot; border=&quot;1&quot; cellpadding=&quot;3&quot; cellspacing=&quot;0&quot;
+|-
+![[Atomic number|Z]] !! [[Chemical element|Element]] !! [[Electron_shell|No. of electrons/shell]] 
+|-
+
+| 1 || [[Hydrogen]] || 1
+|- 
+| 3 || [[Lithium]] || 2, 1
+|- 
+| 11 || [[Sodium]] || 2, 8, 1
+|- 
+| 19 || [[Potassium]] || 2, 8, 8, 1
+|- 
+| 37 || [[Rubidium]] || 2, 8, 18, 8, 1
+|- 
+| 55 || [[Caesium]] || 2, 8, 18, 18, 8, 1
+|- 
+| 87 || [[Francium]] || 2, 8, 18, 32, 18, 8, 1
+|}
+
+The alkali metals show a number of trends when moving down the group - for instance,decreasing electronegativity, increasing reactivity, and decreasing melting and boiling point. Density generally increases, with the notable exception of potassium being less dense than sodium, and the possible exception of francium being less dense than caesium.
+
+&lt;table border=0 cellpadding=2 cellspacing=0 width=&quot;100%&quot;&gt;
+ &lt;tr&gt;
+  &lt;td bgcolor=&quot;#CCCCFF&quot;&gt;'''Alkali metal'''&lt;/td&gt;
+  &lt;td bgcolor=&quot;#CCCCFF&quot; align=&quot;center&quot;&gt;'''Standard Atomic Weight ([[unified atomic mass unit|u]])'''&lt;/td&gt;
+  &lt;td bgcolor=&quot;#CCCCFF&quot; align=&quot;center&quot;&gt;'''Melting Point ([[kelvin|K]])'''&lt;/td&gt;
+  &lt;td bgcolor=&quot;#CCCCFF&quot; align=&quot;center&quot;&gt;'''Boiling Point ([[kelvin|K]])'''&lt;/td&gt;
+  &lt;td bgcolor=&quot;#CCCCFF&quot; align=&quot;center&quot;&gt;'''Density ([[gram|g]]·cm&lt;sup&gt;−3&lt;/sup&gt;)'''&lt;/td&gt;
+  &lt;td bgcolor=&quot;#CCCCFF&quot; align=&quot;center&quot;&gt;'''Electronegativity ([[Pauling scale|Pauling]])'''&lt;/td&gt;
+ &lt;/tr&gt;
+
+ &lt;tr&gt;
+  &lt;td&gt;Lithium&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;6.941&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;453&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;1615&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;0.534&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;0.98&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot;&gt;Sodium&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;22.990&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;370&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;1156&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;0.968&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;0.93&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td&gt;Potassium&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;39.098&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;336&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;1032&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;0.89&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;0.82&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot;&gt;Rubidium&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;85.468&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;312&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;961&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;1.532&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;0.82&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td&gt;Caesium&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;132.905&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;301&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;944&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;1.93&lt;/td&gt;
+  &lt;td align=&quot;center&quot;&gt;0.79&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot;&gt;Francium&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;(223)&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;295&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;950&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;1.87&lt;/td&gt;
+  &lt;td bgcolor=&quot;#EEEEEE&quot; align=&quot;center&quot;&gt;0.70&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+==Occurrence and production==
+
+==Applications==
+
+==Reference material==
+
+* {{cite journal| author=Campbell, Linda M., Aaron T. Fisk, Xianowa Wang, Gunter Kock, and Derek C. Muir | title=Evidence for Biomagnification of Rubidium in Freshwater and Marine Food Webs | journal= Canadian Journal of Fisheries and Aquatic Sciences | volume=62 | date= 2005 | pages= 1161–1167 | doi=10.1139/f05-027}}
+
+* {{cite book| author=Chang, Cheng-Hung, and Tian Y. Tsong | chapter=Stochastic Resonance of Na, K-Ion Pumps on the Red Cell Membrane | title= Noise and Fluctuations: 18th International Conference on Noise and Fluctuations |date= 2005 | publisher= American Institute of Physics}} 
+
+* {{cite journal | author=Sokolov, Stephen T., Russell T. Joffe, and Anthony J. Levitt | title=Lithium and Triiodothyronine Augmentation of Antidepressants | journal= Canadian Journal of Psychiatry | volume=51  | date=2006| pages= 791–793}}
+
+* {{cite journal| author=Bauer, Brent A., Robert Houlihan, Michael J. Ackerman, Katya Johnson, and Himeshkumar Vyas  | title=Acquired Long QT Syndrome Secondary to Cesium Chloride Supplement | journal= The Journal of Alternative and Complementary Medicine | volume= 12 | date=2006 | pages=1011–1014  | doi=10.1089/acm.2006.12.1011}}   
+
+* {{cite journal| author=Erermis, Serpil, Muge Tamar, Hatice Karasoy, Tezan Bildik, Eyup S. Ercan, and Ahmet Gockay | title=Double-Blind Randomised Trial of Modest Salt Restriction in Older People | journal= Lancet | volume=350 |date=1997| pages= 850–854 | doi=10.1016/S0140-6736(97)02264-2}}
+
+* {{cite journal | author=Krachler, M, and E Rossipal | title=Trace Elements Transfer From Mother to the Newborn - Investigations on Triplets of Colostrum, Maternal and Umbilical Sera | journal= European Journal of Clinical Nutrition | volume=53 | date=1999| pages=486–494 | doi=10.1038/sj.ejcn.1600781}} 
+
+* &quot;Physics Update.&quot; Physics Today June 1996: 9. 
+
+* &quot;Visual Elements: Group 1 - The Alkali Metals.&quot; &lt;u&gt;Visual Elements.&lt;/u&gt; Royal Society of Chemistry. &lt;http://www.chemsoc.org/Viselements/pages/data/intro_groupi_data.html&gt;.
+
+==See also==
+*[[Lithium]]
+*[[Sodium]]
+*[[Potassium]]
+*[[Rubidium]]
+*[[Caesium]]
+*[[Francium]]
+
+==External links==
+*[http://www.scienceaid.co.uk/chemistry/periodictable/alkalimetals.html Science aid:Alkali metals] A simple look at alkali metals
+*[http://www.chemguide.co.uk/inorganic/group1/properties.html Atomic and Physical Properties of the Group 1 Elements] An in-depth look at alkali metals
+
+{|style=&quot;text-align: center;&quot; border=&quot;1&quot; cellpadding=&quot;2&quot; 
+|+ '''Explanation of above periodic table slice:'''
+| bgcolor=&quot;{{element color/Alkali metals}}&quot; | Alkali metals
+| Atomic numbers in &lt;font color=&quot;{{element color/Solid}}&quot;&gt;{{element color/Solid}}&lt;/font&gt; are solids
+| style=&quot;border:{{element frame/Primordial}};&quot; | Solid borders indicate [[primordial element]]s (older than the [[Earth]])
+| style=&quot;border:{{element frame/Natural radio}};&quot; | Dashed borders indicate natural [[radioactive decay|radioactive element]]s with no isotopes older than the Earth
+|}
+
+{{compact periodic table}} 
+{{alkalimetals}}
+
+&lt;!--Category--&gt;
+
+[[Category:Alkali metals]]
+[[Category:Periodic table]]
+
+&lt;!--Interlanguage links--&gt;
+
+[[ar:فلز قلوي]]
+[[ast:Alcalín]]
+[[bn:ক্ষার ধাতু]]
+[[be:Шчолачныя металы]]
+[[bs:Alkalni metali]]
+[[bg:Група 1А на периодичната система]]
+[[ca:Metall alcalí]]
+[[cv:Сĕлтĕ металлĕсем]]
+[[cs:Alkalický kov]]
+[[cy:Metel alcalïaidd]]
+[[da:Alkalimetal]]
+[[de:Alkalimetalle]]
+[[et:Leelismetallid]]
+[[el:Αλκάλια]]
+[[es:Alcalino]]
+[[eo:Alkala metalo]]
+[[eu:Metal alkalino]]
+[[fa:فلز قلیایی]]
+[[fr:Métal alcalin]]
+[[gl:Alcalino]]
+[[ko:알칼리 금속]]
+[[hr:Alkalijski metali]]
+[[id:Logam alkali]]
+[[is:Alkalímálmur]]
+[[it:Metalli alcalini]]
+[[he:מתכת אלקלית]]
+[[jv:Logam alkali]]
+[[sw:Metali alikali]]
+[[la:Metallum alkalinum]]
+[[lv:Sārmu metāli]]
+[[lt:Šarminiai metalai]]
+[[lmo:Metai alcalitt]]
+[[hu:Alkálifém]]
+[[mk:Алкален метал]]
+[[ml:ക്ഷാരലോഹങ്ങള്‍]]
+[[mr:अल्कली धातू]]
+[[ms:Logam alkali]]
+[[nl:Alkalimetaal]]
+[[ja:第1族元素]]
+[[no:Alkalimetall]]
+[[nn:Alkalimetall]]
+[[nds:Alkalimetall]]
+[[pl:Metale alkaliczne]]
+[[pt:Alcalino-metálicos]]
+[[ksh:Alkalimetall]]
+[[ro:Metal alcalin]]
+[[qu:Alkali q'illay]]
+[[ru:Щелочные металлы]]
+[[sah:Алкали метал]]
+[[simple:Alkali metal]]
+[[sk:Alkalické kovy]]
+[[sl:Alkalijska kovina]]
+[[sr:Алкални метали]]
+[[sh:Alkalni metali]]
+[[su:Logam alkali]]
+[[fi:Alkalimetalli]]
+[[sv:Alkalimetall]]
+[[ta:கார மாழைகள்]]
+[[te:క్షార లోహము]]
+[[th:โลหะแอลคาไล]]
+[[tr:Alkali metal]]
+[[uk:Лужні метали]]
+[[vi:Kim loại kiềm]]
+[[zh-yue:鹼金屬]]
+[[zh:碱金属]]

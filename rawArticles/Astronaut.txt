@@ -1,0 +1,240 @@
+      {{otheruses}}
+
+[[Image:Astronaut-EVA.jpg|thumb|250px|Astronaut [[Bruce McCandless II]] using a [[Manned Maneuvering Unit]] outside the [[United States]] [[Space Shuttle]] ''[[Space Shuttle Challenger|Challenger]]'' in 1984.]]
+&lt;!--*** DO NOT ADD &quot;TAIKONAUT&quot;, &quot;SPATIONAUT&quot; ETC. TO INTRO SECTION - SEE TALK PAGE ***--&gt;
+An '''astronaut''' or '''cosmonaut''' is a person trained by a [[List of human spaceflight programs|human spaceflight program]] to command, pilot, or serve as a crew member of a [[spacecraft]].
+While generally reserved for professional space travelers, the term is sometimes applied to anyone who travels into space, including scientists, politicians, journalists, and tourists.&lt;ref name=&quot;fact&quot;&gt;{{cite web|url=http://spaceflight.nasa.gov/spacenews/factsheets/pdfs/astro.pdf|title=Astronaut Fact Book|accessdate=October 4 2007|dateformat=mdy|publisher=[[NASA|National Aeronautics and Space Administration]]|year=2006|author=[[NASA]]|format=PDF}}&lt;/ref&gt;&lt;ref name=&quot;utah&quot;&gt;{{Cite web|url=http://www.utahstatesman.com/campus_news/1.563784|title=Former astronaut visits USU|accessdate=October 4 2007|dateformat=mdy|publisher=The Utah Statesman|year=2005|author=Marie MacKay}}&lt;/ref&gt;
+
+Until 2003, astronauts were sponsored and trained exclusively by governments, either by the military, or by civilian space agencies. However, with the sub-orbital flight of the privately-funded [[Scaled Composites SpaceShipOne|SpaceShipOne]] in 2004, a new category of astronaut was created: the [[commercial astronaut]].
+
+==Definition==
+[[File:Astronauts by nation.svg|thumb||right|350px|[[Timeline of space travel by nationality|Countries]] whose citizens have flown in space.]]
+
+The criteria for what constitutes human [[human spaceflight|spaceflight]] vary. The [[Fédération Aéronautique Internationale]] (FAI) Sporting Code for astronautics recognizes only flights that exceed an altitude of {{km to mi|100}}.&lt;ref&gt;[ftp://www.fai.org/sporting_code/sc08_2008.pdf FAI Sporting Code, Section 8, Paragraph 2.12.1]&lt;/ref&gt; However, in the [[United States]], professional, military, and commercial astronauts who travel above an altitude of {{km to mi|80}}&lt;ref&gt;http://www.nasa.gov/centers/dryden/news/NewsReleases/2005/05-57.html&lt;/ref&gt; are awarded [[Astronaut Badge|astronaut wings]].
+
+As of November 14, 2008, a total of 489 humans from [[Timeline of space travel by nationality|38 countries]]&lt;ref&gt;Counting [[Anousheh Ansari]] as a representative of Iran.&lt;/ref&gt; have reached 100&amp;nbsp;km or more in altitude, of which 486 reached [[Low Earth orbit]] or beyond.&lt;ref name=&quot;CBSQL&quot;&gt;{{Cite web|url=http://www.cbsnews.com/network/news/space/demonext.html|title=STS-126 Quick-Look Data|accessdate=November 14 2008|dateformat=mdy|publisher=CBS News|year=2008|author=Bill Harwood}}&lt;/ref&gt;&lt;ref name=&quot;astr&quot;&gt;{{Cite web|url=http://www.astronautix.com/articles/womspace.htm|title=Women of Space |accessdate=October 4 2007|dateformat=mdy|publisher=Encyclopedia Astronautica|year=2007|author=Encyclopedia Astronautica}}&lt;/ref&gt;
+Of these, [[List of Apollo astronauts|24 people]] have traveled beyond Low Earth orbit, to either lunar or trans-lunar orbit or to the surface of the moon; three of the 24 did so twice (Lovell, Young and Cernan).&lt;ref name=&quot;hundred&quot;&gt;{{Cite web|url=http://www-pao.ksc.nasa.gov/kscpao/factoids/hundred.htm|title=NASA's First 100 Human Space Flights|accessdate=October 4 2007|dateformat=mdy|publisher=NASA|author=NASA}}&lt;/ref&gt;
+
+Under the U. S. definition, 496 people qualify as having reached space (above {{convert|50|mi|km}} altitude). Of eight [[X-15]] pilots who reached {{convert|50|mi|km}} or more in altitude, seven reached above {{convert|50|mi|km}} but below 100 kilometers (about 62 miles).&lt;ref name=&quot;stats&quot;&gt;{{Cite web|url=http://www.astronautix.com/articles/aststics.htm|title=Astronaut Statistics - as of 14 November 2008|accessdate=October 4 2007|dateformat=mdy|publisher=Encyclopedia Astronautica|year=2007|author=Encyclopedia Astronautica}}&lt;/ref&gt;
+Space travelers have spent over 30,400 [[Man hour|person-days]] (or a cumulative total of over 83 years) in space, including over 100 astronaut-days of [[Extra-vehicular activity|spacewalks]].&lt;ref name=&quot;stats&quot; /&gt;&lt;ref name=&quot;void&quot;&gt;{{Cite web|url=http://www.nasa.gov/vision/space/workinginspace/eva_stats.html|title=Walking in the Void|accessdate=October 4 2007|dateformat=mdy|publisher=NASA|year=2004|author=NASA}}&lt;/ref&gt;
+As of 2008, the man with the longest time in space is [[Sergei Krikalev|Sergei K. Krikalev]], who has spent 803 days, 9 hours and 39 minutes, or 2.2 years, in space.&lt;ref name=&quot;skk&quot;&gt;{{Cite web|url=http://www.jsc.nasa.gov/Bios/htmlbios/krikalev.html|title=Sergei Konstantinovich Krikalev Biography|accessdate=October 4 2007|dateformat=mdy| publisher=NASA| year=2005| author=NASA}}&lt;/ref&gt;&lt;ref name=&quot;skk2&quot;&gt;{{Cite web |url=http://www.nasa.gov/mission_pages/station/expeditions/expedition11/krikalev_record.html| title=Krikalev Sets Time-in-Space Record| accessdate=October 4 2007|dateformat=mdy|publisher=NASA|year=2005 |author=NASA }}&lt;/ref&gt;
+[[Peggy Whitson|Peggy A. Whitson]] holds the record for most time in space by a woman, 377 days.&lt;ref name=&quot;paw&quot;&gt;{{cite web | url = http://www.jsc.nasa.gov/Bios/htmlbios/whitson.html | title = &quot;Peggy A. Whitson (Ph.D.)&quot; | work = Biographical Data | publisher = [[NASA|National Aeronautics and Space Administration]] | author=NASA| accessdate = 2008-05-13}}&lt;/ref&gt;
+
+== Terminology ==
+{{see also|Astronaut ranks and positions}}
+
+In the United States, Canada, United Kingdom, and many other [[English language|English]]-speaking nations, a professional space traveler is called an ''astronaut''.&lt;ref&gt;[http://www.thespacerace.com/glossary/index.php?term=54]&lt;/ref&gt; The term derives from the Greek words ''ástron'' (ἄστρον), meaning &quot;star&quot;, and ''nautes'' (ναύτης), meaning &quot;sailor&quot;. The first known use of the term &quot;astronaut&quot; in the modern sense was by [[Neil R. Jones]] in his short story ''The Death's Head Meteor'' in 1930. The word itself had been known earlier. For example, in [[Percy Greg]]'s 1880 book ''Across the Zodiac'', &quot;astronaut&quot; referred to a spacecraft. In ''Les Navigateurs de l'Infini'' (1925) of [[J.-H. Rosny aîné]], the word ''astronautique'' (astronautic) was used. The word may have been inspired by &quot;aeronaut&quot;, an older term for an air traveler first applied (in 1784) to [[balloon (aircraft)|balloon]]ists.
+
+NASA applies the term astronaut to any crew member aboard NASA spacecraft bound for Earth orbit or beyond. NASA also uses the term as a title for those selected to join its Astronaut Corps.&lt;ref name=&quot;biopage&quot;&gt;{{cite web | last = Dismukes  | first = Kim - NASA Biography Page Curator | title = Astronaut Biographies | publisher = [[Johnson Space Center]],NASA |author=NASA|date = 2005-12-15| url = http://www.jsc.nasa.gov/Bios/| accessdate = 2007-03-06 }}&lt;/ref&gt; The European Space Agency similarly uses the term astronaut for members of its Astronaut Corps.&lt;ref name=&quot;ESApage&quot;&gt;{{cite web | last =  | first = | title = The European Astronaut Corps | publisher = [[ESA]] |author=ESA |date = 2008-04-10| url = http://www.esa.int/esaHS/ESA75G0VMOC_astronauts_0.html| accessdate = 2008-12-28 }}&lt;/ref&gt;
+
+With the rise of [[space tourism]], [[NASA]] and the [[Russian Federal Space Agency]] agreed to use the term &quot;[[spaceflight participant]]&quot; to distinguish those space travelers from astronauts on missions coordinated by those two agencies.
+
+===Russia===
+{{main|Soviet space program}}
+[[Image:Yuri Gagarin official portrait.jpg|thumb|[[Yuri Gagarin]], first person in space (1961).]]
+By convention, an astronaut employed by the [[Russian Federal Space Agency]] (or its [[Soviet space program|Soviet]] predecessor) is called a ''cosmonaut'' in English texts.&lt;ref name=&quot;biopage&quot; /&gt; The word is an [[anglicisation]] of the [[Russian language|Russian]] word ''kosmonavt'' ({{lang-ru|космона́вт}} {{IPA-ru|kəsmɐˈnaft}}), which in turn derives from the [[Greek language|Greek]] words ''kosmos'' (κόσμος), meaning &quot;universe&quot;, and ''nautes'' (ναύτης), meaning &quot;sailor&quot;. For the most part, &quot;cosmonaut&quot; and &quot;astronaut&quot; are synonyms in all languages, and the usage of choice is often dictated by political reasons.
+
+On March 14, 1995, [[Norman Thagard]] became the first American to ride to space on board a Russian launch vehicle, arguably becoming the first &quot;American cosmonaut&quot; in the process.
+
+===China===
+{{main|Chinese space program|list of Chinese astronauts}}
+Official English-language texts issued by the government of the [[People's Republic of China]] use ''astronaut'' while texts in Russian use ''космонавт'' (''kosmonavt'').&lt;ref name=&quot;rus&quot;&gt;{{Cite web|url=http://www.fmprc.gov.cn/ce/ceka/rus/xwdt/t216370.htm|title=Chinese embassy in Kazakhstan press-release|accessdate=October 4 2007|dateformat=mdy|publisher=fmprc.gov.cn|author=реконмендовать другому|language=Russian}}&lt;/ref&gt;&lt;ref name=&quot;rus2&quot;&gt;{{Cite web|url=http://ru.china-embassy.org/rus/xwdt/t73142.htm|title=Chinese embassy in Russia press-release|accessdate=October 4 2007|dateformat=mdy|publisher=ru.china-embassy.org|author=ru.china-embassy.org|language=Russian}}&lt;/ref&gt; In [[People's Republic of China|China]], the terms &quot;yǔhángyuán&quot; ({{lang|zh|宇航员}}, &quot;sailing personnel in universe&quot;) or &quot;hángtiānyuán&quot; ({{lang|zh|航天员}}, &quot;sailing personnel in sky&quot;) have long been used for astronauts. The phrase &quot;tàikōng rén&quot; ({{lang|zh|太空人}}, &quot;spaceman&quot;) is often used in [[Taiwan]] and [[Hong Kong]].
+
+The term ''taikonaut'' is used by some English-language news media organizations for professional [[Chinese space program|space travelers from China]].&lt;ref&gt;{{cite web|url=http://news.xinhuanet.com/english/2008-01/26/content_7500262.htm|title=Chinese taikonaut dismisses environment worries about new space launch center|date=2008-01-26|accessdate=2008-09-25|publisher=[[China View]]}}&lt;/ref&gt;  The word has featured in the [[Longman]] and [[Oxford English Dictionary|Oxford English]] dictionaries,  the latter of which describes it as &quot;a hybrid of the Chinese term ''taikong'' (space) and the Greek ''naut'' (traveller), or astronaut&quot;; the term became more common in 2003 when China sent its first astronaut [[Yang Liwei]] into space aboard the ''[[Shenzhou 5]]'' spacecraft.&lt;ref&gt;{{cite web |url=http://news.xinhuanet.com/english/2008-09/25/content_10111749.htm|title=&quot;Taikonauts&quot; a sign of China's growing global influence|date=2008-09-25|accessdate=2008-09-25|publisher=[[China View]]}}&lt;/ref&gt;  This is the term used by Xinhua in the English version of the Chinese People's Daily since the advent of the Chinese space program.&lt;ref&gt;{{cite web |url=http://english.peopledaily.com.cn/90001/90776/90881/6507790.html|title=Chinese taikonaut debuts spacewalk|accessdate=September 28 2008|dateformat=mdy|publisher=People's Daily Online|author=Xinhua|year=2008}}&lt;/ref&gt;  The origin of the term is unclear; as early as May 1998, Chiew Lee Yih ({{lang|zh|赵里昱}}) from [[Malaysia]], used it in [[newsgroup]]s,&lt;ref name=&quot;chiew&quot;&gt;{{cite web | first=Lee Yih | last=Chiew | coauthors= |date=1998-05-19| title=Google search of &quot;taikonaut&quot; sort by date |url = http://groups.google.com/groups?q=taikonaut&amp;start=10&amp;sa=N&amp;scoring=d&amp;num=10&amp;hl=en&amp;lr=&amp;as_drrb=b&amp;as_mind=1&amp;as_minm=1&amp;as_miny=1981&amp;as_maxd=24&amp;as_maxm=5&amp;as_maxy=1998&amp;safe=off&amp; | work = Usenet posting | publisher = Chiew Lee Yih | author=Chiew Lee Yih| accessdate = 2008-09-27}}&lt;/ref&gt;&lt;ref name=&quot;chiew2&quot;&gt;{{cite web | first=Lee Yih | last=Chiew |date=1996-03-10| coauthors= | title=Chiew Lee Yih misspelled &quot;taikonaut&quot; 2 years before it first appear |url = http://groups.google.com/group/alt.chinese.text/browse_thread/thread/a7f02b9489c59c5b/dd9e7a1b78d7d5c7?hl=en&amp;lnk=st&amp;q=taikonout#dd9e7a1b78d7d5c7 | work = Usenet posting | publisher = Chiew Lee Yih | author=Chiew Lee Yih| accessdate = 2008-09-27}}&lt;/ref&gt;&lt;ref name=&quot;evilmonkeyontaikonaut&quot;&gt;{{cite web | first=Monkey | last=Evil| coauthors= | title=    The earliest use of the term found in Google Groups is on that date.[1] Evil Monkey → Talk 03:07, Jan 24, 2005 (UTC)  |url = http://en.wikipedia.org/wiki/Talk:Astronaut#Taikonaut_probably_not_coined_by_Chiew_Lee_Yih | work = Wikipedia discussion on astronaut |date=2005-01-24| publisher = Evil Monkey | author=Evil Monkey| accessdate = 2008-09-27}}&lt;/ref&gt; while Chen Lan ({{lang|zh|陈蓝}}), almost simultaneously, announced it at his &quot;Go Taikonauts!&quot; GeoCities page.&lt;ref name=&quot;chenlan&quot;&gt;{{cite web | title=Go Taikonauts! |url = http://www.geocities.com/CapeCanaveral/Launchpad/1921/ | publisher = Chen Lan | author=Chen Lan|year=1998|accessdate=2008-09-28}}&lt;/ref&gt;
+
+===Other terms===
+While no nation other than [[Russia]] (formerly the Soviet Union), the United States, and China has launched a manned spacecraft, several other nations have sent people into space in cooperation with one of these countries. Inspired partly by these missions, other synonyms for astronaut have entered occasional English usage. For example, the term ''spationaut'' (French spelling: ''spationaute'') is sometimes used to describe French space travelers, from the [[Latin]] word ''spatium'' or &quot;space&quot;, and the [[Malay language|Malay]] term ''angkasawan'' was used to describe participants in the [[Angkasawan program]].
+
+== Space travel milestones ==
+{{See also|Spaceflight records|Timeline of space travel by nationality}}
+&lt;!-- Deleted image removed: [[Image:Tereshkova2.jpg|thumb|[[Valentina Tereshkova]], first woman in space (1963).]] --&gt;
+[[Image:Neil Armstrong pose.jpg|thumb|right|[[Neil Armstrong]], first person to walk on the moon (1969).]]
+The first human in space was Russian [[Yuri Gagarin]], who was launched into space on April 12, 1961 aboard [[Vostok 1]] and orbited around the Earth. There are allegations that Gagarin ejected from landing module after re-entering the atmosphere and parachuted back, due to safety concerns about the craft's landing systems.&lt;ref&gt;[http://news.bbc.co.uk/1/hi/special_report/1998/03/98/gagarin/72184.stm BBC News | Gagarin | Back to Earth&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; The first woman in space was Russian [[Valentina Tereshkova]], launched in June 1963 aboard [[Vostok 6]].
+
+[[Alan Shepard]] became the first American and second person in space on May 5, 1961. The first American woman in space was [[Sally Ride]], during [[Space Shuttle Challenger]]'s mission [[STS-7]], on June 18, 1983.&lt;ref name=&quot;ride1&quot;&gt;{{Cite web|url=http://www.jsc.nasa.gov/Bios/htmlbios/ride-sk.html|title=Sally K. Ride, Ph.D. Biography|accessdate=October 4 2007|dateformat=mdy|publisher=NASA|year=2006|author=NASA}}&lt;/ref&gt;
+
+The first mission to orbit the moon was ''[[Apollo 8]]'', which included [[William Anders]] who was born in [[Hong Kong]], making him the first Asian-born astronaut in 1968. In April 1985, [[Taylor Wang]] became the first ethnic Chinese person in space.&lt;ref name=&quot;taylorbio&quot;&gt;{{Cite web |url=http://www.jsc.nasa.gov/Bios/htmlbios/wang-t.html|title=Taylor G. Wang Biography| accessdate=October 4 2007| dateformat=mdy| publisher=NASA| year=1985| author=NASA}}&lt;/ref&gt;&lt;ref name=&quot;taylor&quot;&gt;{{Cite web|url=http://www.astronautix.com/astros/wang.htm|title=Taylor Wang| accessdate=October 4 2007| dateformat=mdy|publisher=Encyclopedia Astronautica|year=2007|author=Encyclopedia Astronautica}}&lt;/ref&gt;  On 15 October 2003, [[Yang Liwei]] became China's first astronaut on the [[Shenzhou 5]] spacecraft.
+
+The Soviet Union, through its [[Intercosmos]] program, allowed people from other &quot;[[socialism|socialist]]&quot; (i.e. [[Warsaw Pact]] and other Soviet-allied) countries to fly on its missions. An example is [[Vladimír Remek]], a [[Czechoslovak]], who became the first non-Soviet European in space in 1978 on a Russian [[Soyuz-U]] rocket.&lt;ref name=&quot;enc&quot;&gt;{{Cite web|url=http://www.astronautix.com/astros/remek.htm|title=Vladimir Remek Czech Pilot Cosmonaut|accessdate=October 4 2007|dateformat=mdy|publisher=Encyclopedia Astronautica|year=2007|author=Encyclopedia Astronautica}}&lt;/ref&gt;
+On July 23, 1980, [[Pham Tuan]] of [[Vietnam]] became the first [[Asian people|Asian]] in space when he flew aboard [[Soyuz 37]].&lt;ref name=&quot;tuan&quot;&gt;{{Cite web|url=http://www.astronautix.com/flights/salt6ep7.htm|title=Salyut 6 EP-7|accessdate=October 4 2007|dateformat=mdy|publisher=Encyclopedia Astronautica|year=2007|author=Encyclopedia Astronautica}}&lt;/ref&gt;
+Also in 1980, [[Cubans|Cuban]] [[Arnaldo Tamayo Méndez]] became the first person of [[Hispanic]] and [[African]] descent to fly in space (the first person born in Africa to fly in space was [[Patrick Baudry]], in 1985).&lt;ref name=&quot;mendez&quot;&gt;{{Cite web|url=http://www.astronautix.com/astros/tamendez.htm|title=Tamayo-Mendez|accessdate=October 4 2007|dateformat=mdy|publisher=Encyclopedia Astronautica|year=2007|author=Encyclopedia Astronautica}}&lt;/ref&gt;&lt;ref name=&quot;buadry&quot;&gt;{{Cite web|url=http://www.astronautix.com/astros/baudry.htm|title=Baudry|accessdate=October 4 2007|dateformat=mdy|publisher=Encyclopedia Astronautica|year=2007|author=Encyclopedia Astronautica}}&lt;/ref&gt; In 1988, [[Abdul Ahad Mohmand]] became the first [[Afghanistan|Afghan]] to reach space, spending nine days aboard the [[Mir]] space station.&lt;ref&gt;{{Cite web|url=http://www.spacefacts.de/bios/international/english/mohmand_abdol.htm|title=Biographies of International Astronauts|accessdate=August 11 2007|dateformat=mdy|publisher=Space Facts|year=2007|author=Joachim Wilhelm Josef Becker and Heinz Hermann Janssen}}&lt;/ref&gt;  
+
+With the larger number of seats available on the Space Shuttle, the U.S. began taking international astronauts. In 1983, [[Ulf Merbold]] of West Germany became the first non-US citizen to fly in a US spacecraft.
+In 1985, [[Rodolfo Neri Vela]] became the first Mexican-born person in space.&lt;ref name=&quot;vela&quot;&gt;{{Cite web|url=http://www.jsc.nasa.gov/Bios/htmlbios/nerivela-r.html|title=Rodolfo Neri Vela (Ph.D.) Biography|accessdate=October 4 2007|dateformat=mdy|publisher=NASA|year=1985|author=NASA}}&lt;/ref&gt; In 1991, [[Helen Sharman]] became the first Briton to fly in space.&lt;ref name=&quot;bbcsharmon&quot;&gt;{{Cite web|url=http://news.bbc.co.uk/onthisday/hi/dates/stories/may/18/newsid_2380000/2380649.stm|title=1991: Sharman becomes first Briton in space|accessdate=October 4 2007|dateformat=mdy|publisher=BBC News|year=2005|author=BBC News}}&lt;/ref&gt;
+In 2002, [[Mark Shuttleworth]] became the first citizen of an African country to fly in space, as a paying spaceflight participant.&lt;ref name=&quot;mark&quot;&gt;{{Cite web|url=http://www.africaninspace.com/home/mission/logs/1/20020610.shtml|title=First African in Space|accessdate=October 4 2007|dateformat=mdy|publisher=HBD|year=2002|author=africaninspace.com}}&lt;/ref&gt; In 2003, [[Ilan Ramon]] became the first Israeli to fly in space, although he died during a [[Space Shuttle Columbia disaster|landing accident]].
+
+===Age milestones===
+
+The youngest person to fly in space is [[Gherman Titov]], who was 25 years old when he flew [[Vostok 2]]. (Titov was also the first person to suffer [[space sickness]]).&lt;ref name=&quot;age&quot;&gt;{{Cite web|url=http://news.bbc.co.uk/onthisday/hi/dates/stories/august/6/newsid_2944000/2944638.stm|title=1961: Russian cosmonaut spends day in space|accessdate=October 4 2007|dateformat=mdy|publisher=BBC News|year=2007|author=BBC News}}&lt;/ref&gt;&lt;ref name=&quot;titov&quot;&gt;{{Cite web|url=http://www.space.com/peopleinterviews/titov_obit_000921.html|title=Russia Cosmonaut Gherman Titov Dies|accessdate=October 4 2007|dateformat=mdy|publisher=Space.com|year=2000|author=Anatoly Zak}}&lt;/ref&gt;
+The oldest person who has flown in space is [[John Glenn]], who was 77 when he flew on [[STS-95]].&lt;ref name=&quot;glenn&quot;&gt;{{Cite web|url=http://www.nasa.gov/centers/glenn/about/bios/glennbio.html|title=John Herschel Glenn, Jr. (Colonel, USMC, Ret.) NASA Astronaut|accessdate=October 4 2007|dateformat=mdy|publisher=NASA|year=2007|author=NASA}}&lt;/ref&gt;
+The longest stay in space was 438 days, by Russian [[Valeri Polyakov]].&lt;ref name=&quot;stats&quot; /&gt;
+As of 2006, the most spaceflights by an individual astronaut is seven, a record held by both [[Jerry L. Ross]] and [[Franklin Chang-Diaz]]. The furthest distance from Earth an astronaut has traveled was 401,056 km, during the [[Apollo 13]] emergency.&lt;ref name=&quot;stats&quot; /&gt;
+
+===Civilian and non-government milestones===
+The first civilian in space was Neil Armstrong, who had retired from the [[United States Navy]] before his first spaceflight on [[Gemini 8]]. The first person in space who had never been a member of any country's armed forces was [[Harrison Schmitt]], a geologist who first flew in space on [[Apollo 17]]. Both Armstrong and Schmitt were directly employed by NASA.
+
+The first non-governmental space traveler was [[Byron K. Lichtenberg]],  a researcher from the [[Massachusetts Institute of Technology]] who flew on [[STS-9]] in 1983.&lt;ref name=&quot;lichten&quot;&gt;{{Cite web|url=http://www.jsc.nasa.gov/Bios/htmlbios/lichtenberg-bk.html|title=Byron K. Lichtenberg Biography|accessdate=October 4 2007|dateformat=mdy|publisher=NASA|year=2002|author=NASA}}&lt;/ref&gt; In December 1990, [[Toyohiro Akiyama]] became the first paying space traveler as a reporter for [[Tokyo Broadcasting System]], a visit to [[Mir]] as part of an estimated $12 million ([[USD]]) deal with a Japanese TV station, although at the time, the term used to refer to Akiyama was &quot;Research Cosmonaut&quot;.&lt;ref name=&quot;smith&quot;&gt;{{Cite web|url=http://www.nasm.si.edu/exhibitions/GAL114/SpaceRace/sec500/sec535.htm|title=Paying for a Ride|accessdate=October 4 2007|dateformat=mdy|publisher=Smithsonian National Air and Space Museum|year=2007|author=Smithsonian National Air and Space Museum}}&lt;/ref&gt;&lt;ref name=&quot;bbc1&quot;&gt;{{Cite web|url=http://news.bbc.co.uk/hi/english/static/in_depth/sci_tech/2001/mir/1990.stm|title=Mir Space Station 1986-2001|accessdate=October 4 2007|dateformat=mdy|publisher=BBC News|year=1990|author=BBC News}}&lt;/ref&gt;&lt;ref name=&quot;de&quot;&gt;{{Cite web|url=http://www.spacefacts.de/bios/international/english/akiyama_toyohiro.htm|title=Akiyama|accessdate=October 4 2007|dateformat=mdy|publisher=Spacefacts|year=1990|author=Spacefacts}}&lt;/ref&gt; Akiyama suffered severe space-sickness during his mission, which affected his productivity.&lt;ref name=&quot;bbc1&quot; /&gt; 
+
+The first self-funded [[space tourist]] was [[Dennis Tito]] onboard the Russian spacecraft  Soyuz TM-3 on 28 April 2001.
+
+===Self-funded travelers===
+{{main|Space tourism}}
+The first person to fly on an entirely privately-funded mission was [[Mike Melvill]], piloting [[SpaceShipOne flight 15P]] on a sub-orbital journey, although he was a [[test pilot]] employed by [[Scaled Composites]] and not an actual paying space tourist.&lt;ref name=&quot;eve&quot;&gt;{{Cite web|url=http://www.space.com/missionlaunches/SS1_pilot_040620.html|title=Pilot Announced on Eve of Private Space Mission |accessdate=October 4 2007|dateformat=mdy|publisher=Space.com|year=2004|author=Leonard David}}&lt;/ref&gt;&lt;ref name=&quot;rci&quot;&gt;{{Cite web|url=http://www.roycecarlton.com/speakers/melvill.html|title=Michael Melvill, First Civilian Astronaut, SpaceShipOne|accessdate=October 4 2007|dateformat=mdy|publisher=Royce Carlton Inc.|year=2007|author=Royce Carlton Inc.}}{{Dead link|date=October 2008}}&lt;/ref&gt; Six others have paid to fly into space:
+
+#[[Dennis Tito]] (American): April 28 – May 6, 2001
+#[[Mark Shuttleworth]] (South African / British): April 25 – May 5, 2002 (ISS)
+#[[Gregory Olsen]] (American): October 1 – October 11, 2005 (ISS)
+#[[Anousheh Ansari]] (Iranian / American): September 18 – September 29, 2006 (ISS)
+#[[Charles Simonyi]] (Hungarian / American): April 7 – April 21, 2007 (ISS), March 26 – April 8, 2009 (ISS)
+#[[Richard Garriott]] (American): October 12- October 24, 2008 (ISS)
+
+== Training ==
+{{see also|Astronaut ranks and positions}}
+The first NASA astronauts were selected in 1959.&lt;ref name=&quot;comet&quot;&gt;{{Cite web|url=http://aerospacescholars.jsc.nasa.gov/HAS/cirr/ss/3/3.cfm|title=Astronaut Candidate Training|accessdate=October 4 2007|dateformat=mdy|publisher=NASA|year=2006|author=NASA}}{{Dead link|date=October 2008}}&lt;/ref&gt;  Early in the space program, military jet test piloting and engineering training were often cited as prerequisites for selection as an astronaut at NASA, although neither John Glenn nor Scott Carpenter (of the [[Mercury Seven]]) had any university degree, in engineering or any other discipline at the time of their selection.  Selection was initially limited to military pilots.&lt;ref name=&quot;training&quot;&gt;{{Cite web|url=http://liftoff.msfc.nasa.gov/academy/astronauts/training.html|title=Selection and Training of Astronauts|accessdate=October 4 2007|dateformat=mdy|publisher=NASA|year=1995|author=NASA}}{{Dead link|date=October 2008}}&lt;/ref&gt;&lt;ref name=&quot;nolen&quot;&gt;{{cite book |author=Nolen, Stephanie |title=Promised The Moon: The Untold Story of the First Women in the Space Race |publisher=Penguin Canada |location=Toronto |year=2002 |page=235 |isbn=0-14-301347-5}}&lt;/ref&gt; The earliest astronauts for both America and Russia tended to be [[fighter aircraft|jet fighter]] pilots, and were often test pilots.
+
+Once selected, NASA astronauts go through 20 months of training in a variety of areas, including training for [[extra-vehicular activity]] in a facility such as NASA's [[Neutral Buoyancy Laboratory]].&lt;ref name=&quot;fact&quot; /&gt;&lt;ref name=&quot;training&quot; /&gt; Astronauts-in-training may also experience short periods of [[weightlessness]] in aircraft called the &quot;[[vomit comet]]&quot;, the nickname given to a pair of modified [[KC-135]]s (retired in 2000 and 2004 respectively, and replaced in 2005 with a [[McDonnell Douglas C-9|C-9]]) which perform [[parabolic]] flights.&lt;ref name=&quot;comet&quot; /&gt; Astronauts are also required to accumulate a number of flight hours in high-performance jet aircraft. This is mostly done in [[T-38 Talon|T-38 jet aircraft]] out of [[Ellington Field]], due to its proximity to the [[Lyndon B. Johnson Space Center|Johnson Space Center]].  Ellington Field is also where the [[Shuttle Training Aircraft]] is maintained and developed, although most flights of the aircraft are done out of [[Edwards Air Force Base]].
+
+===NASA candidacy requirements===
+* Be citizens of the United States.&lt;ref name=&quot;comet&quot; /&gt;&lt;ref name=&quot;program&quot;&gt;{{Cite web|url=http://nasajobs.nasa.gov/astronauts/content/broch00.htm|title=Astronaut Candidate Program|accessdate=October 4 2007|dateformat=mdy|publisher=NASA|year=2007|author=NASA}}&lt;/ref&gt;
+* Pass a strict physical examination, and have a near and distant visual acuity correctable to 20/20 (6/6). Blood pressure, while sitting, must be no greater than 140 over 90.
+
+====Commander and Pilot====
+* A [[bachelor's degree]] in [[engineering]], [[Biology|biological science]], [[physical science]] or [[mathematics]] is required.
+* At least 1,000 hours flying time as pilot-in-command in jet aircraft. Experience as a test pilot is desirable.
+* Height must be 5 ft 4 in to 6 ft 4 in (1.63 to 1.93 m).
+* Distant visual acuity must be correctable to 20/20 in each eye
+*The refractive surgical procedures of the eye, PRK and LASIK, are now allowed, providing at least 1 year has passed since the date of the procedure with no permanent adverse after effects.  For those applicants under final consideration, an operative report on the surgical procedure will be requested.
+
+====Mission Specialist====
+* A bachelor's degree in [[engineering]], [[biological science]], [[physical science]] or [[mathematics]], as well as at least three years of related professional experience. An advanced degree can substitute for part or all of the experience requirement (master's degree = 1 year, doctoral degree = 3 years)
+*Applicant's height must be 5 ft 2 in to 6 ft 4 in (1.57 to 1.93 m).
+
+====Mission Specialist Educator====
+[[Image:Educator Astronauts.jpg|right|thumb|Mission Specialist Educators Lindenberger, Arnold, and Acaba during a parabolic flight.]]
+{{main|Educator Astronaut Project}}
+* Bachelor's degree with teaching experience, including work at the kindergarten through 12th grade level. Advanced degree not required, but is desired.&lt;ref name=&quot;announce&quot;&gt;{{Cite web|url=http://www.nasa.gov/home/hqnews/2007/sep/HQ_07196_astronaut_recruitment.html|title=NASA Opens Applications for New Astronaut Class|accessdate=October 4 2007|dateformat=mdy|publisher=NASA|year=2007|author=NASA}}&lt;/ref&gt;
+[[Educator Astronaut Project|Mission Specialist Educators]], or &quot;Educator Astronauts&quot;, were first selected in 2004, and as of 2007, there are three NASA Educator astronauts: [[Joseph M. Acaba]], [[Richard R. Arnold]], and [[Dorothy Metcalf-Lindenburger]].&lt;ref name=&quot;nexgen&quot;&gt;{{Cite web|url=http://www.nasa.gov/vision/space/preparingtravel/ascan2004.html|title='Next Generation of Explorers' Named|accessdate=October 4 2007|dateformat=mdy|publisher=NASA|year=2004|author=NASA}}&lt;/ref&gt;&lt;ref name=&quot;ed&quot;&gt;{{Cite web|url=http://www.nasa.gov/home/hqnews/2004/oct/HQ_n04160_new_ascans.html|title=NASA's New Astronauts Meet The Press|accessdate=October 4 2007|dateformat=mdy| publisher=NASA| year=2004| author=NASA}}&lt;/ref&gt; 
+[[Barbara Morgan]], selected as back-up teacher to [[Christa McAuliffe]] in 1985, is considered to be the first Educator astronaut by the media, but she trained as a mission specialist.&lt;ref name=&quot;morgan1&quot;&gt;{{Cite web|url=http://www.jsc.nasa.gov/Bios/htmlbios/morgan.html|title=Barbara Radding Morgan - NASA Astronaut biography|accessdate=October 4 2007|dateformat=mdy|publisher=NASA|year=2007|author=NASA}}&lt;/ref&gt; 
+The Educator Astronaut program is a successor to the [[Teacher in Space]] program from the 1980s.&lt;ref name=&quot;fly&quot;&gt;{{Cite web|url=http://www.space.com/missionlaunches/space_educator_030203.html|title=NASA Assures That Teachers Will Fly in Space |accessdate=October 4 2007|dateformat=mdy|publisher=Space.com|year=2007|author=Tariq Malik}}&lt;/ref&gt;&lt;ref name=autogenerated1&gt;{{Cite web|url=http://wwwedu.ssc.nasa.gov/neap.asp|title=Educator Astronaut Program|accessdate=October 4 2007|dateformat=mdy|publisher=NASA|year=2005|author=NASA}}&lt;/ref&gt;
+
+==Insignia==
+At NASA, people who complete astronaut candidate training receive a silver [[Astronaut wings|lapel pin]]. Once they have flown in space, they receive a gold pin. U.S. astronauts who also have active-duty military status receive a special qualification badge, known as the [[Astronaut Badge]], after participation on a spaceflight. The [[United States Air Force]] also presents an Astronaut Badge to its pilots who exceed 50 miles (80&amp;nbsp;km) in altitude.
+
+==Deaths==
+[[Image:amf space mirror.jpg|right|250px|thumb|Space Mirror Memorial]]
+{{main|Space accidents and incidents}}
+
+As of 2008, eighteen astronauts have lost their lives during spaceflight, on four missions. They include thirteen Americans, three Russians, one Ukrainian, and one Israeli.
+
+The [[Space Mirror Memorial]], which stands on the grounds of the [[John F. Kennedy Space Center]] Visitor Complex, commemorates the lives of the men and women who have died in the space programs of the United States. In addition to twenty NASA career astronauts, the memorial includes the names of a [[U.S. Air Force]] X-15 test pilot, a U.S. Air Force officer who died while training for a then-classified military space program, a civilian spaceflight participant who died in the Challenger disaster, and an international astronaut who was killed in the Columbia disaster.
+
+== See also ==
+{{Portal | Spaceflight | RocketSunIcon.svg}}
+{|
+| colspan=3 style=&quot;vertical-align:top&quot; |
+* [[Astronaut Hall of Fame]]
+* [[Commercial Astronaut]]
+* [[List of astronauts by name]]
+* [[List of astronauts by selection]]
+* [[Timeline of astronauts by nationality]]
+* [[List of human spaceflights]]
+* [[List of space travelers by name]]
+* [[List of space travelers by nationality]]
+* [[List of spacewalks and moonwalks]]
+* [[List of married couples among space travelers]]
+* [[North American X-15]] program
+||
+| colspan=3 style=&quot;vertical-align:top&quot; |
+* [[Spaceflight records]]
+* [[Shirley Thomas (USC professor)|Shirley Thomas]], author of ''Men of Space'' series (1960-1968)
+* [[Cosmonautics Day]]
+* [[Yuri's Night]]
+* [[Fallen Astronaut]]
+* [[List of fictional astronauts]]
+* [[Moon Landing]]
+* [[Mercury 13]], a group of 13 women who were tested, but never flew in space
+|}
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+{{Wiktionarypar|cosmonaut|spationaut|astronaut|taikonaut}}
+{{Commonscat|Astronauts}}
+* [http://spaceflight.nasa.gov/outreach/jobsinfo/astronaut101.html NASA: How to become an astronaut 101]
+*[http://astronauts.nasa.gov/content/InternationalSpaceAgencies.htm List of International partnership organizations]
+* [http://www.astronautix.com/astrogrp/phaonaut.htm Encyclopedia Astronautica: Phantom cosmonauts]
+* [http://www.collectspace.com/sightings/ collectSPACE: Astronaut appearances calendar]
+* [http://www.spacefacts.de/ spacefacts Spacefacts.de]
+* [http://www.space-nasa.com/ Space and Astronautics News]
+* [http://space.kursknet.ru/cosmos/english/other/stat_kk.sht Manned astronautics: facts and figures]
+* [http://astronauts.nasa.gov/content/broch00.htm Astronaut Candidate Brochure online]
+{{Spaceflight}}
+
+[[Category:Astronauts| ]]
+
+[[af:Ruimtevaarder]]
+[[ar:رائد فضاء]]
+[[az:Astronavt]]
+[[bn:নভোচারী]]
+[[bs:Astronaut]]
+[[bg:Космонавт]]
+[[ca:Astronauta]]
+[[cv:Космонавт]]
+[[cs:Kosmonaut]]
+[[da:Astronaut]]
+[[de:Raumfahrer]]
+[[nv:Wótáahgoo ałnaa'áłt'ahi']]
+[[et:Kosmonaut]]
+[[es:Astronauta]]
+[[eo:Kosmonaŭto]]
+[[eu:Astronauta]]
+[[fa:فضانورد]]
+[[fr:Voyageur spatial]]
+[[fy:Romtefarder]]
+[[gl:Astronauta]]
+[[ko:우주비행사]]
+[[hr:Astronaut]]
+[[id:Antariksawan]]
+[[ia:Astronauta]]
+[[is:Geimfari]]
+[[it:Astronauta]]
+[[he:טייס חלל]]
+[[jv:Astronot]]
+[[ka:კოსმონავტი]]
+[[sw:Mwanaanga]]
+[[ku:Astronot]]
+[[la:Astronauta]]
+[[lv:Kosmonauts]]
+[[lt:Astronautas]]
+[[hu:Űrhajós]]
+[[ms:Angkasawan]]
+[[nl:Ruimtevaarder]]
+[[ja:宇宙飛行士]]
+[[no:Romfarer]]
+[[nn:Romfarar]]
+[[oc:Astronauta]]
+[[nds:Astronaut]]
+[[pl:Astronauta]]
+[[pt:Astronauta]]
+[[ro:Astronaut]]
+[[ru:Космонавт]]
+[[stq:Ruumtefierder]]
+[[scn:Astrunàuta]]
+[[simple:Astronaut]]
+[[sk:Kozmonaut]]
+[[sl:Astronavt]]
+[[sr:Космонаут]]
+[[fi:Astronautti]]
+[[sv:Rymdfarare]]
+[[tl:Astronota]]
+[[ta:விண்ணோடி]]
+[[te:వ్యోమగామి]]
+[[th:นักบินอวกาศ]]
+[[tg:Кайҳоннавард]]
+[[tr:Uzayadamı]]
+[[uk:Астронавт]]
+[[ur:خلانورد]]
+[[vi:Nhà du hành vũ trụ]]
+[[zh-yue:太空人]]
+[[zh:宇航员]]

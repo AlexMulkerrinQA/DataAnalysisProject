@@ -1,0 +1,643 @@
+      {{Dablink|This article is about the country. For other uses of terms redirecting here, see [[Austria (disambiguation)]] and [[Österreich (disambiguation)]].}}
+{{pp-move-indef}}
+{{FixHTML|beg}}&lt;!-- this inoculates against page rendering 'order' problem with several common browsers --&gt;
+{{Infobox Country|maxwidth=250px|width=250px
+| native_name                 = {{lang|de|''Republik Österreich''}}
+| local_name                  = Republik Österreich
+| conventional_long_name      = Republic of Austria
+| common_name                 = Austria
+| image_flag                  = Flag of Austria.svg
+| image_coat                  = Austria Bundesadler.svg
+|image_map                    = Location Austria EU Europe.png
+|map_caption                  = {{map caption|location_color=dark green|region=[[Europe]]|region_color=dark grey|subregion=the [[European Union]]|subregion_color=light green|legend=Location Austria EU Europe.png}}
+| national_mocos              =
+| national_anthem             = {{lang|de|''[[Land der Berge, Land am Strome]]''}}{{spaces|2}}&lt;small&gt;([[German language|German]]) &lt;br/&gt;''Land of Mountains, Land by the River''&lt;/small&gt;
+| official_languages          = [[German language|German]],&lt;ref name=&quot;Britannica&quot;&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/44183/Austria|title=Austria|date=2009-05-31|work=Encyclopædia Britannica|publisher=Encyclopædia Britannica Online|accessdate=2009-05-31}}&lt;/ref&gt;&lt;br/&gt; locally also [[Slovene language|Slovene]], [[Croatian language|Croatian]] and [[Hungarian language|Hungarian]]
+| capital                     = [[Vienna]]
+|latd=48 |latm=12 |latNS=N |longd=16 |longm=21 |longEW=E
+| largest_city                = capital
+| government_type             = [[Federal republic|Federal]] [[Parliamentary republic]]
+| leader_title1               = [[President of Austria|President]]
+| leader_name1                = [[Heinz Fischer]]
+| leader_title2               = [[Chancellor of Austria|Chancellor]]
+| leader_name2                = [[Werner Faymann]]
+| sovereignty_type            = [[Austrian State Treaty|Independence]]
+| established_event1          = [[Austrian State Treaty]] in force
+| established_date1           = &lt;br/&gt;July 27, 1955 (Duchy: 1156, [[Austrian Empire]]: 1804, [[First Austrian Republic]]: 1918−1938, Second Republic since 1945)
+| accessionEUdate             = January 1, 1995
+| area_km2                    = 83,872
+| area_rank                   = 115th
+| area_magnitude              = 1 E10
+| percent_water               = 1.7
+| area_sq_mi                  = 32,383 &lt;!--Do not remove per [[WP:MOSNUM]]--&gt;
+| population_estimate         = 8,356,707&lt;ref name=&quot;Population&quot;&gt;{{cite web|url=http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&amp;language=en&amp;pcode=tps00001&amp;tableSelection=1&amp;footnotes=yes&amp;labeling=labels&amp;plugin=1|title=Total population - At 1 January |date=2009-01-01|work=Eurostat|accessdate=2009-05-27}}&lt;/ref&gt;
+| population_estimate_year    = 2009
+| population_estimate_rank    = 92nd
+| population_density_km2      = 99
+| population_density_rank     = 99th
+| population_density_sq_mi    = 257 &lt;!--Do not remove per [[WP:MOSNUM]]--&gt;
+| population_census           = 8,032,926
+| population_census_year      = 2001
+| GDP_PPP                     = $328.571 billion&lt;ref name=imf2&gt;{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2009/01/weodata/weorept.aspx?sy=2006&amp;ey=2009&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=122&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=&amp;pr.x=60&amp;pr.y=5 |title=Austria|publisher=International Monetary Fund|accessdate=2009-04-22}}&lt;/ref&gt;
+| GDP_PPP_year                = 2008
+| GDP_PPP_rank                = 34th
+| GDP_PPP_per_capita          = $38,744&lt;ref name=imf2/&gt;
+| GDP_PPP_per_capita_rank     = 
+| Gini                        = 29.1
+| Gini_year                   = 2000
+|Gini_category                = &lt;span style=&quot;color:#090;&quot;&gt;low&lt;/span&gt;
+| GDP_nominal                 = $415.321 billion&lt;ref name=imf2/&gt;
+| GDP_nominal_rank            = 23rd
+| GDP_nominal_year            = 2008
+| GDP_nominal_per_capita      = $43,570&lt;ref name=imf2/&gt;
+| GDP_nominal_per_capita_rank = 
+| HDI_year                    = 2006
+| HDI                         = {{increase}} 0.951&lt;ref&gt;[http://hdrstats.undp.org/2008/countries/country_fact_sheets/cty_fs_AUT.html HDI of Austria]. The United Nations. Retrieved 10 July 2009.&lt;/ref&gt;
+| HDI_rank                    = 14th
+|HDI_category                 = &lt;span style=&quot;color:#090;&quot;&gt;high&lt;/span&gt;
+| FSI                         = 26
+| FSI_year                    = 2007
+| FSI_rank                    = 166th
+|FSI_category                 = &lt;span style=&quot;color:#090;&quot;&gt;Sustainable&lt;/span&gt;
+| currency                    = [[Euro]] ([[Euro sign|€]]) ²
+| currency_code               = EUR
+| time_zone                   = [[Central European Time|CET]]
+| utc_offset                  = +1
+| time_zone_DST               = [[Central European Summer Time|CEST]]
+| utc_offset_DST              = +2
+| demonym                     = [[Austrians|Austrian]]
+| cctld                       = [[.at]] ³
+| calling_code                = 43
+| footnote1                   = [[Slovene language|Slovene]], [[Croatian language|Croatian]], [[Hungarian language|Hungarian]] are officially recognised regional languages and [[Austrian Sign Language]] is a protected minority language throughout the country.
+| footnote2                   = Before 1999: Austrian [[Schilling]].
+| footnote3                   = The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.
+}}
+{{FixHTML|end}}
+'''Austria''' {{Audio-IPA|en-us-Austria.ogg|/ˈɔːstriə/}} ({{Audio-de|Österreich|Österreich.ogg}}), officially the '''Republic of Austria''' ([[German language|German]]: {{Audio|help=no|Republik Österreich.ogg|''Republik Österreich''}}), is a [[landlocked]] country of roughly 8.3 million people&lt;ref name=&quot;Population&quot; /&gt; in [[Central Europe]]. It borders both [[Germany]] and the [[Czech Republic]] to the north, [[Slovakia]] and [[Hungary]] to the east, [[Slovenia]] and [[Italy]] to the south, and [[Switzerland]] and [[Liechtenstein]] to the west. The territory of Austria covers {{convert|83872|km2|sqmi}}, and is influenced by a [[Temperateness|temperate]] and [[alpine climate]]. Austria's terrain is highly mountainous due to the presence of the [[Alps]]; only 32% of the country is below {{convert|500|m|ft|abbr=off}}, and its highest point is {{convert|3797|m|ft|abbr=off}}.&lt;ref name=&quot;CIA&quot;&gt;{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/AU.html|title=The World Factbook — Austria|date=2009-05-14|work=Central Intelligence Agency|accessdate=2009-05-31}}&lt;/ref&gt; The majority of the population—about 90%—speaks [[German language|German]],&lt;ref name=&quot;Language&quot;&gt;{{PDFlink|[ftp://www.statistik.at/pub/neuerscheinungen/vzaustriaweb.pdf {{lang|de|Statistik Austria, Die Bevölkerung nach Umgangssprache, Staatsangehörigkei und Geburtsland}}, page 75. ]}} {{de icon}}&lt;/ref&gt; which is also the country's official language.&lt;ref name=&quot;Britannica&quot; /&gt;
+
+The origins of Austria date back to the time of the [[Roman Empire]] when a [[Celts|Celtic]] kingdom was conquered by the Romans in approximately 15 BC, and later became [[Noricum]], a [[Roman province]], in the mid [[1st century]] AD&lt;ref name=&quot;Noricum&quot;&gt;{{cite web|url=http://www.aeiou.at/aeiou.encyclop.n/n840136.htm;internal&amp;action=_setlanguage.action?LANGUAGE=en|title=Noricum, römische Provinz|work=AEIOU|accessdate=2009-05-20}}&lt;/ref&gt;—an area which mostly encloses today's Austria. In 788 AD, the [[Franks|Frankish]] king [[Charlemagne]] conquered the area, and introduced [[Christianity]]. In more recent times, the [[Austrian Empire]] formed a [[Austro-Hungarian Compromise of 1867|monarchic union]] with the [[Kingdom of Hungary]] in 1867—creating [[Austria–Hungary]], also known as the Austro-Hungarian Empire—which ended in 1918 with the closure of [[World War I]]. In 1938, Austria was incorporated into [[Nazi Germany]], creating a unification known as the [[Anschluss]]. This lasted until the end of [[World War II]] in 1945, after which Austria was [[Allied-occupied Austria|occupied by the Allies]]. In 1955, the [[Austrian State Treaty]] re-established Austria as a sovereign state, ending the occupation. In the same year, the [[Parliament of Austria|Austrian Parliament]] created the [[Declaration of Neutrality]] which declared that the country would become permanently [[neutral country|neutral]]. The modern name of Austria, ''Österreich'', can be traced back to the name ''Ostarrîchi'', first documented in an official document from 996 AD.&lt;ref name=&quot;brook 4&quot;&gt;Brook-Shepherd 4&lt;/ref&gt;
+
+Austria is a [[parliamentary government|parliamentary]] [[representative democracy]], composed of nine [[States of Austria|federal states]].&lt;ref name=&quot;CIA&quot; /&gt;&lt;ref name=&quot;johnson 17&quot;&gt;Lonnie Johnson 17&lt;/ref&gt; It is one of six European countries that have declared permanent neutrality,&lt;ref name=&quot;johnson neutral&quot;&gt;Lonnie Johnson 155–156&lt;/ref&gt; and one of the few countries that includes the concept of everlasting neutrality in its [[Constitution of Austria|constitution]].&lt;ref&gt; This fact has to be seen in connection with the constitutional changes since 1995, which left the military non-alignment partly intact while indirectly abolishing neutrality.&lt;/ref&gt; The [[Capital (political)|capital]]—and with a population exceeding 1.6 million, Austria's largest city—is [[Vienna]].&lt;ref name=&quot;CIA&quot; /&gt;&lt;ref name=&quot;Vienna pop&quot;&gt;{{cite web|url=http://www.statistik.at/blickgem/pz1/g90001.pdf|title=Probezählung 2006 - Bevölkerungszahl 31.10.2006|date=2006-10-31|work=Statistik Austria|format=PDF|language=German|accessdate=2009-05-27}}&lt;/ref&gt; Austria is one of the [[List of countries by GDP (nominal) per capita|richest countries in the world]], with a nominal per capita GDP of $43,570. The country has developed a [[List of countries by Human Development Index|high standard of living]], and in 2008 was ranked 14th in the world for its [[Human Development Index]]. Austria has been a member of the [[United Nations]] since 1955,&lt;ref&gt;Jelavich 267&lt;/ref&gt; joined the [[European Union]] in 1995,&lt;ref name=&quot;CIA&quot; /&gt; and is a founder of the [[Organisation for Economic Co-operation and Development|OECD]].&lt;ref name=&quot;OECD&quot;&gt;{{cite web|url=http://www.oecd.org/about/0,3347,en_33873108_33873245_1_1_1_1_1,00.html|title=Austria About|work=OECD|accessdate=2009-05-20}}&lt;/ref&gt; Austria also signed the [[Schengen Agreement]] in 1995,&lt;ref name=&quot;Schengen&quot;&gt;{{cite web|url=http://migration.ucdavis.edu/mn/more.php?id=643_0_4_0|title=Austria Joins Schengen|date=May 1995|work=Migration News|accessdate=2009-05-30}}&lt;/ref&gt; and adopted the European currency, the [[euro]], in 1999.
+
+==Etymology==
+
+The [[German language|German]] name {{lang|de|''Österreich''}} is derived from [[Old High German|Old German]] {{lang|goh|''[[Ostarrîchi]]''}} &quot;Eastern Territory&quot;.&lt;ref name=&quot;meaningofname&quot;&gt;{{cite web |first=Gwillim  |last=Law |url=http://www.statoids.com/uat.html |title=States of Austria  |publisher=Statoids |date=2006-01-09 |accessdate=2008-04-14}}&lt;/ref&gt; The name was erroneously [[Latin]]ised as &quot;{{lang|la|[[wikt:Austria|Austria]]}}&quot; (Latin ''auster'' &quot;south wind&quot;, metaphorically &quot;south&quot; thus ''austrālis'' &quot;southern&quot; and so on. There is no evidence for the region being called &quot;south&quot; anything in any other language). {{lang|de|''[[Reich]]''}} can also mean &quot;empire&quot;, and this connotation is the one that is understood in the context of the [[Austrian Empire]]/[[Austria–Hungary|Austro-Hungarian Empire]], [[Holy Roman Empire]], although not in the context of the modern Republic of {{lang|de|''Österreich''}}. The term probably originates in a [[vernacular]] translation of the [[Medieval Latin]] name for the region{{Citation needed|date=August 2009}}: {{lang|la|''Marchia orientalis''}}, which translates as &quot;eastern marches&quot; or &quot;eastern borderland&quot;, as it was situated at the eastern edge of the [[Holy Roman Empire]] (and of the [[History of Bavaria|Duchy of Bavaria]], respectively), that was also mirrored in the name ''[[Ostmark]]'', for a short period applied after the ''[[Anschluss]]'' to [[Germany]]. 
+
+However, [[Friedrich Heer]], one the most important Austrian historians in the 20th century, stated in his book ''Der Kampf um die österreichische Identität'' (The Struggle Over Austrian Identity), that the Germanic form ''Ostarrîchi'' was not a translation of the Latin word, but both resulted from a much older term originating in the [[Celtic languages]] of ancient Austria: More than 2,500 years ago, the major part of the actual country was called ''Norig'' by the Celtic population ([[Hallstatt culture]]); ''No-'' or ''Nor-'' meant &quot;east&quot; or &quot;eastern&quot;,{{Citation needed|date=December 2008}} whereas ''-rig'' is related to the modern German ''Reich''; meaning &quot;realm&quot; (among other things). Accordingly, ''Norig'' would essentially mean ''Ostarrîchi'' and ''Österreich'', thus ''Austria''. The Celtic name was eventually Latinised to ''[[Noricum]]'' after the Romans conquered the area that encloses most of modern day Austria, in approximately 15 BC. ''Noricum'' later became a [[Roman province]] in the mid 1st century AD.&lt;ref name=&quot;Noricum&quot; /&gt;
+
+The current official designation is the ''Republic of Austria'' ({{lang|de|Republik Österreich}}).&lt;ref name=&quot;CIA&quot; /&gt; It was earlier (after the fall of the Austro-Hungarian Empire) known from 1918 as the ''State of [[German Austria]]'' ({{lang|de|Staat Deutschösterreich}}), but the state was forced to change its name by the [[Treaty of Saint Germain]] to &quot;Republik Österreich&quot; &quot;Republic of Austria&quot;. The name &quot;Deutsch-Österreich&quot; can be found on early 1920 stamps and money. The name was changed again during the [[Austro-fascist]] regime (1934–1938), into ''Federal State of Austria'' ({{lang|de|Bundesstaat Österreich}}), but restored after regaining independence and the birth of the &quot;Second Austrian Republic&quot; &quot;Zweite Republik&quot; (1945–present).
+
+During the period of monarchy, Austria was known as the Austrian Empire ({{lang|de|Kaisertum Österreich}}). After the [[Austro-Hungarian Compromise of 1867]], the resulting Austro-Hungarian Empire also became known as the &quot;Dual Monarchy&quot;, reflecting the [[dual monarchy]] character.&lt;ref name=&quot;A-H Britannica&quot;&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/44386/Austria-Hungary|title=Austria-Hungary|date=2009-05-31|work=Encyclopædia Britannica|publisher=Encyclopædia Britannica Online|accessdate=2009-05-31}}&lt;/ref&gt;
+
+==History==
+{{Main|History of Austria}}
+
+Settled in ancient times,&lt;ref name=&quot;johnson 17&quot; /&gt; the [[central Europe]]an land that is now Austria was occupied in pre-Roman times by various [[Celt]]ic tribes. The Celtic kingdom of [[Noricum]] was later claimed by the [[Roman Empire]] and made a province. After the fall of the Roman Empire, the area was invaded by [[Bavarians]], [[Slavs]] and [[Eurasian Avars|Avars]].&lt;ref name=&quot;johnson 19&quot;/&gt; The Slavic tribe of the Carantanians [[Slavic settlement of the Eastern Alps|migrated into the Alps]], and established the realm of [[Carantania]], which covered much of eastern and central Austrian territory. [[Charlemagne]] conquered the area in 788 AD, encouraged colonisation, and introduced [[Christianity]].&lt;ref name=&quot;johnson 19&quot;&gt;Johnson 19&lt;/ref&gt; As part of [[Eastern Francia]], the core areas that now encompass Austria were bequeathed to the house of [[Babenberg]]. The area was known as the ''[[March of Austria|marchia Orientalis]]'' and was given to [[Leopold I of Austria (Babenberg)|Leopold of Babenberg]] in 976.&lt;ref name=&quot;johnson 20&quot;&gt;Johnson 20–21&lt;/ref&gt;
+
+[[File:Wappen röm.kaiser.JPG|thumb|Coats of arms of the [[House of Habsburg|Habsburg]] Emperor in 1605]]
+
+The first record showing the name Austria is from 996 where it is written as ''[[Ostarrîchi]]'', referring to the territory of the Babenberg March.&lt;ref name=&quot;johnson 20&quot;/&gt; In 1156 the [[Privilegium Minus]] elevated Austria to the status of a duchy. In 1192, the Babenbergs also acquired the Duchy of [[Styria (duchy)|Styria]]. With the death of [[Frederick II of Austria|Frederick II]] in 1246, the line of the Babenbergs went extinct.&lt;ref name=&quot;johnson 21&quot;&gt;Johnson 21&lt;/ref&gt; As a result, [[Otakar II of Bohemia]] effectively assumed control of the duchies of Austria, Styria and [[Carinthia (duchy)|Carinthia]].&lt;ref name=&quot;johnson 21&quot;/&gt; His reign came to an end with his defeat at [[Dürnkrut]] at the hands of [[Rudolf I of Germany]] in 1278.&lt;ref&gt;Lonnie Johnson 23&lt;/ref&gt; Thereafter, until [[World War I]], Austria's history was largely that of its ruling dynasty, the [[Habsburgs]].
+
+In the 14th and 15th centuries, the [[Habsburg Monarchy|Habsburgs]] began to accumulate other provinces in the vicinity of the Duchy of Austria. In 1438, Duke [[Albert V of Austria]] was chosen as the successor to his father-in-law, [[Emperor Sigismund]]. Although Albert himself only reigned for a year, from then on, every emperor of the Holy Roman Empire was a Habsburg, with only one exception.
+
+The Habsburgs began also to accumulate lands far from the Hereditary Lands. In 1477, [[Maximilian I, Holy Roman Emperor|Archduke Maximilian]], only son of [[Frederick III, Holy Roman Emperor|Emperor Frederick III]], married the heiress Maria of [[County of Burgundy|Burgundy]], thus acquiring most of the [[Netherlands]] for the family.&lt;ref name=&quot;johnson 25&quot;&gt;Lonnie Johnson 25&lt;/ref&gt;&lt;ref name=&quot;brook 11&quot;&gt;Brook-Shepherd 11&lt;/ref&gt; His son [[Philip I of Castile|Philip the Fair]] married the heiress of [[Castile]] and [[Aragon]], and thus acquired [[Spain]] and its Italian, African, and [[New World]] appendages for the Habsburgs.&lt;ref name=&quot;johnson 25&quot;/&gt;&lt;ref name=&quot;brook 11&quot;/&gt; In 1526, following the [[Battle of Mohács]], [[Bohemia]] and the part of [[Hungary]] not occupied by the Ottomans came under Austrian rule.&lt;ref&gt;Lonnie Johnson 26&lt;/ref&gt; [[Ottoman–Hungarian Wars|Ottoman expansion]] into Hungary led to [[Ottoman–Habsburg wars|frequent conflicts]] between the two empires, particularly evident in the so-called [[Long War (Ottoman wars)|Long War]] of 1593 to 1606.
+
+[[File:Vienna Battle 1683.jpg|thumb|[[Battle of Vienna]] in 1683 broke the advance of the [[Ottoman Empire]] into Europe]]
+
+During the long reign of [[Emperor Leopold I|Leopold I]] (1657–1705) and following the successful [[Battle of Vienna|defense of Vienna]] in 1683 (under the command of the King of Poland, [[John III Sobieski]]),&lt;ref&gt;Lonnie Johnson 26–28&lt;/ref&gt; a [[Great Turkish War|series of campaigns]] resulted in bringing all of Hungary to Austrian control by the [[Treaty of Carlowitz]] in 1699. [[Emperor Charles VI]] relinquished many of the fairly impressive gains the empire made in the previous years, largely due to his apprehensions at the imminent extinction of the House of Habsburg. Charles was willing to offer concrete advantages in territory and authority in exchange for other powers' worthless recognitions of the [[Pragmatic Sanction]] that made his daughter [[Maria Theresa of Austria|Maria Theresa]] his heir. With the rise of [[Prussia]] the [[German dualism|Austrian–Prussian dualism]] began in Germany. Austria participated, together with Prussia and Russia, in the first and the third of the three [[Partitions of Poland]] (in 1772 and 1795).
+
+[[File:CongressVienna.jpg|thumb|left|''The Congress of Vienna'' by [[Jean-Baptiste Isabey]], 1819.]]
+
+Austria later became engaged in a war with [[Revolutionary France]]—at the beginning highly unsuccessful—with successive defeats at the hands of [[Napoleon]] meaning the end of the old [[Holy Roman Empire]] in 1806. Two years earlier,&lt;ref&gt;Lonnie Johnson 34&lt;/ref&gt; in 1804, the [[Austrian Empire|Empire of Austria]] was founded. In 1814 Austria was part of the Allied forces that invaded France and brought to an end the [[Napoleonic wars]]. It thus emerged from the [[Congress of Vienna]] in 1815 as one of four of the continent's dominant powers and a recognised [[great power]]. The same year, the [[German Confederation]], ({{lang-de|Deutscher Bund}}) was founded under the presidency of Austria. Because of unsolved social, political and national conflicts the German lands were shaken by the [[1848 revolution]] aiming to create a unified Germany.&lt;ref name=&quot;johnson 36&quot;&gt;Johnson 36&lt;/ref&gt; A unified Germany would have been possible either as a [[Großdeutschland|Greater Germany]], or a Greater Austria or just the [[German Confederation]] without Austria at all. As Austria was not willing to relinquish its German-speaking territories to what would become the [[Unification of Germany|German Empire of 1848]]  the crown of the new formed empire was offered to the Prussian King [[Friedrich Wilhelm IV]]. In 1864 Austria and [[Prussia]] fought together against [[Denmark]], and successfully freed the independent duchies of [[Schleswig]] and [[Holstein]]. Nevertheless as they could not agree on a solution to the administration of the two duchies, they fought in 1866 the [[Austro-Prussian War]]. Defeated by Prussia in the [[Battle of Königgrätz]],&lt;ref name=&quot;johnson 36&quot;/&gt; Austria had to leave the [[German Confederation]] and subsequently no longer took part in German politics.&lt;ref name=&quot;johnson 55&quot;&gt;Lonnie Johnson 55&lt;/ref&gt;&lt;ref&gt;Schulze 233&lt;/ref&gt; 
+
+[[File:franzferdinand.jpg|thumb|upright|[[Archduke Franz Ferdinand]] (right) with his family]]
+
+The [[Austro-Hungarian Compromise of 1867]], the ''Ausgleich'', provided for a dual sovereignty, the [[Austrian Empire]] and the [[Kingdom of Hungary]], under [[Franz Joseph I of Austria|Franz Joseph I]].&lt;ref&gt;Lonnie Johnson 59&lt;/ref&gt; The Austrian-Hungarian rule of this diverse empire included various [[Slav]] groups such as [[Poles]], [[Ukrainians]], [[Czech Republic|Czechs]], [[Slovakia|Slovaks]], [[Slovenes]], [[Serbs]] and [[Croats]], as well as large [[Italian people|Italian]] and [[Romania]]n communities. 
+
+As a result, ruling Austria–Hungary became increasingly difficult in an age of emerging nationalist movements. Yet the government of Austria tried its best to be accommodating in some respects: The ''Reichsgesetzblatt'', publishing the laws and ordinances of [[Cisleithania]], was issued in eight languages, all national groups were entitled to schools in their own language and to the use of their mothertongue at state offices, for example. The government of Hungary to the contrary tried to magyarise other ethnic entities. Thus the wishes of [[ethnic group]]s dwelling in both parts of the dual monarchy hardly could be solved. 
+
+The assassination of [[Archduke Franz Ferdinand of Austria|Archduke Franz Ferdinand]] in [[Sarajevo]] in 1914 by [[Gavrilo Princip]] (a member of the Serbian nationalist group the [[Black Hand]])&lt;ref&gt;Johnson 52–54&lt;/ref&gt;) was used by leading Austrian and Hungarian politicians and generals to persuade the Emperor to declare war on Serbia, thereby risking and prompting the outbreak of World War I which led to the dissolution of the Austro-Hungarian Empire. 
+
+On October 21, 1918, the elected German members of the ''Reichsrat'' (parliament of Imperial Austria) met in Vienna as the Provisional National Assembly for German Austria (''Provisorische Nationalversammlung für Deutschösterreich''). On October 30 the assembly founded the State of German Austria by appointing a government, called ''Staatsrat''. This new government was invited by the Emperor to take part in the decision on the planned armistice with Italy, but refrained from this business, leaving the responsibility for the end of the war on November 3, 1918 solely to the Emperor and his government. On November 11 the Emperor, counseled by ministers of the old and the new government, declared not to take part in state business any more; on November 12 German Austria, by law, declared to be a democratic republic and part of the new German republic. The constitution, renaming ''Staatsrat'' to ''Bundesregierung'' (federal government) and ''Nationalversammlung'' to ''Nationalrat'' (national council) was passed on 10 November 1920.
+    
+[[File:Austria Hungary ethnic.svg|thumb|Ethno-linguistic map of Austria–Hungary, 1910]]
+
+The [[Treaty of Saint-Germain]] of 1919 (for Hungary the [[Treaty of Trianon]] of 1920) confirmed and consolidated the new order of Central Europe which to a great part had been established in November 1918, creating new states and resizing others. However, over 3 million German Austrians found themselves living outside of the newborn Austrian Republic in the respective states of [[Czechoslovakia]], [[Yugoslavia]], [[Hungary]] and [[Italy]].&lt;ref&gt;Brook-Shepherd 246&lt;/ref&gt; Between 1918 and 1919, Austria was officially known as the State of [[German Austria]] ({{lang|de|''Staat Deutschösterreich''}}). Not only did the [[Allies of World War I|Entente powers]] forbid German Austria to unite with Germany, they also ignored the name German Austria in the peace treaty to be signed; it was therefore changed to Republic of Austria in late 1919.&lt;ref&gt;Brook-Shepherd 245&lt;/ref&gt; 
+
+[[File:Austria-Hungary map.svg|thumb|left|Map of [[Austria–Hungary]]]]
+
+After the war, an enormous inflation started to devaluate the ''Krone'', still Austria's currency. In the autumn of 1922, Austria was granted an international loan supervised by the [[League of Nations]].&lt;ref&gt;Brook-Shepherd 257-8&lt;/ref&gt; The purpose of the loan was to avert bankruptcy, stabilise the currency, and improve its general economic condition. With the granting of the loan, Austria passed from an independent state to the control exercised by the League of Nations. In 1925, the ''Schilling'', replacing the ''Krone'' by 10,000 : 1, was introduced. Later it was called the Alpine dollar due to its stability. From 1925 to 1929, economy enjoyed a short high before nearly crashing after Black Friday. 
+
+The [[First Austrian Republic]] lasted until 1933 when Chancellor [[Engelbert Dollfuss]], gladly using what he called &quot;Self-switch-off of Parliament&quot; (''Selbstausschaltung des Parlaments''), established an autocratic regime tending towards [[Italian fascism]].&lt;ref name=&quot;johnson 104&quot;&gt;Lonnie Johnson 104&lt;/ref&gt;&lt;ref name=&quot;brook 269&quot;&gt;Brook-Shepherd 269-70&lt;/ref&gt; The two big parties at this time—the Social Democrats and the Conservatives—had paramilitary armies;&lt;ref name=&quot;Brook-Shepherd 261&quot;&gt;Brook-Shepherd 261&lt;/ref&gt; the Social Democrats' [[Republikanischer Schutzbund|''Schutzbund'']] was now declared illegal but still operative&lt;ref name=&quot;Brook-Shepherd 261&quot;/&gt; as [[Austrian Civil War|civil war]] broke out.&lt;ref name=&quot;johnson 104&quot;/&gt;&lt;ref name=&quot;brook 269&quot;/&gt;&lt;ref name=&quot;johnson 107&quot;&gt;Johnson 107&lt;/ref&gt;
+
+[[File:Orthodox Jews in Leopoldstadt 1915.JPG|thumb|150px|Orthodox Jews in [[Leopoldstadt]]. About 10% of the total population of Vienna were Jews]]
+
+In February 1934, several members of the ''Schutzbund'' were executed,&lt;ref&gt;Brook-Shepherd 283&lt;/ref&gt; the Social Democratic party was outlawed and many of its members were imprisoned or emigrated.&lt;ref name=&quot;johnson 107&quot;/&gt; On 1 May 1934 the [[Austrofascism|Austrofascists]] imposed a new constitution (&quot;[[Maiverfassung]]&quot;) which cemented Dollfuss's power but on 25 July he was assassinated in a [[Nazi]] coup attempt.&lt;ref&gt;Lonnie Johnson 109&lt;/ref&gt;&lt;ref&gt;Brook-Shepherd 292&lt;/ref&gt; His successor [[Kurt Schuschnigg]] struggled to keep Austria independent as &quot;the better German state&quot;, but on 12 March 1938 German troops occupied the country&lt;ref name=&quot;johnson 112&quot;&gt;Lonnie Johnson 112–3&lt;/ref&gt; while Austrian Nazis took over government. On 13 March 1938 the ''[[Anschluss]]'' of Austria was officially declared, and two days later [[Adolf Hitler|Hitler]], a native of Austria, proclaimed the re-unification of his home country with the rest of Germany on Vienna's Heldenplatz. He established a plebiscite confirming union with Germany in April 1938. 
+
+Austria was incorporated into the [[Third Reich]] and ceased to exist as an independent state. The Nazis called Austria &quot;[[Ostmark]]&quot;&lt;ref name=&quot;johnson 112&quot;/&gt; until 1942 when it was again renamed and called &quot;Alpen-Donau-Reichsgaue&quot;. Vienna fell on 13 April 1945 during the Soviet [[Vienna Offensive]] just before the total collapse of the Third Reich. [[Karl Renner]] astutely set up a [[Provisional government|Provisional Government]] in [[Vienna]] in April with the approval of the victorious Soviet forces,&lt;ref name=&quot;johnson 135&quot;&gt;Lonnie Johnson 135–6&lt;/ref&gt; and declared Austria's secession from the Third Reich by the Declaration of Independence on 27 April 1945. Total [[World War II casualties#endnote Austria|military deaths]] from 1939–1945 are estimated at 260,000.&lt;ref&gt;Rűdiger Overmans. ''Deutsche militärische Verluste im Zweiten Weltkrieg.'' Oldenbourg 2000.&lt;/ref&gt; Jewish Holocaust victims totaled 65,000.&lt;ref&gt;[http://www.britannica.com/EBchecked/topic/44183/Austria/33382/Anschluss-and-World-War-II Anschluss and World War II]. Britannica Online Encyclopedia.&lt;/ref&gt;
+
+Much like Germany, Austria, too, was divided into a British, a French, a Soviet and a U.S. Zone and governed by the [[Allied Commission for Austria]].&lt;ref&gt;Lonnie Johnson 137&lt;/ref&gt; As forecast in the [[Moscow Declaration]] in 1943, there was a subtle difference in the treatment of Austria by the Allies.&lt;ref name=&quot;johnson 135&quot;/&gt; The Austrian Government, consisting of Social Democrats, Conservatives and Communists and residing in Vienna, which was surrounded by the Soviet zone, was recognised by the [[Western Allies]] in October 1945 after some doubts that Renner could be Stalin's puppet. Thereby the creation of a separate Western Austrian government and the division of the country could be avoided. Austria, in general, was treated as though it had been originally invaded by Germany and liberated by the Allies.&lt;ref&gt;Manfried Rauchensteiner: Der Sonderfall. Die Besatzungszeit in Österreich 1945 bis 1955 (The Special Case. The Time of Occupation in Austria 1945 to 1955), edited by [[Heeresgeschichtliches Museum]] / Militärwissenschaftliches Institut (Museum of Army History / Institute for Military Science), Vienna 1985&lt;/ref&gt; 
+
+[[File:IMG 9039-Innsbruck.JPG|thumb|150x|Innsbruck hosted the [[1964 Winter Olympics|1964]] and [[1976 Winter Olympics]]]]
+
+After talks which lasted for years and were influenced by the Cold War, on 15 May 1955 Austria regained full independence by concluding the [[Austrian State Treaty]] with the Four Occupying Powers. On 26 October 1955 Austria declared its &quot;permanent neutrality&quot; by an act of Parliament, which remains to this day but has been indirectly changed by constitutional amendments concerning Austria as member of the European Union.&lt;ref name=&quot;johnson 153&quot;&gt;Lonnie Johnson 153&lt;/ref&gt;
+
+The political system of the Second Republic is based on the constitution of 1920 and 1929, which was reintroduced in 1945. The system came to be characterised by ''[[Proporz]]'', meaning that most posts of political importance were split evenly between members of the Social Democrats and the People's Party.&lt;ref&gt;Lonnie Johnson 139&lt;/ref&gt; Interest group &quot;chambers&quot; with mandatory membership (e.g. for workers, business people, farmers) grew to considerable importance and were usually consulted in the legislative process, so that hardly any legislation was passed that did not reflect widespread consensus.&lt;ref&gt;Lonnie Johnson 165&lt;/ref&gt; Since 1945, a single-party government took place only 1966−1970 (conservatives) and 1970−1983 (social democrats). During all other legislative periods, either a &quot;Grand Coalition&quot; (conservatives and social democrats) or a &quot;Small Coalition&quot; (one of these two and a smaller party) ruled the country.
+
+The country became a member of the [[European Union]] in 1995.&lt;ref&gt;Brook-Shepherd 447,449&lt;/ref&gt; The major parties SPÖ and ÖVP have contrary opinions about the future status of Austria's military non-alignment: While the SPÖ in public supports a neutral role, the ÖVP argues for stronger integration into the EU's security policy; even a future NATO membership is not ruled out by some ÖVP politicians. In reality, Austria is taking part in the EU's [[Common Foreign and Security Policy]], participates in the so called Petersburg Agenda (including [[Peacekeeping|peace keeping]] and peace creating tasks) and has become member of [[NATO]]'s &quot;Partnership for Peace&quot;; constitution has been amended accordingly. Since 2008, due to the [[Schengen Agreement]], the only neighbouring country performing border controls towards Austria is [[Liechtenstein]].
+
+==Politics==
+{{Main|Politics of Austria}}&lt;!--Please add new information to relevant articles of the series--&gt;
+===Political system===
+[[File:Austria Parlament Athena.jpg|thumb|upright|Austrian Parliament in [[Vienna]]]]
+
+The [[Parliament of Austria]] is located in [[Vienna]], the country's largest city and capital. Austria became a federal, [[parliamentary democracy|parliamentarian, democratic]] [[republic]] through the [[Federal Constitution (Austria)|Federal Constitution]] of 1920. It was reintroduced in 1945 to the nine [[States of Austria|states]] of the Federal Republic.&lt;ref&gt;Lonnie Johnson 17, 142&lt;/ref&gt;{{Clarify|date=March 2009}} The [[head of state#Parliamentary system|head of state]] is the [[President of Austria|Federal President]] (''Bundespräsident''), who is directly elected by popular vote. The chairman of the [[Government of Austria|Federal Government]] is the [[Chancellor of Austria|Federal Chancellor]], who is appointed by the president. The government can be removed from office by either a presidential decree or by [[vote of no confidence]] in the lower chamber of parliament, the [[National Council of Austria|Nationalrat]]. Voting for the federal president used to be compulsory in Austria, but this was abolished in steps from 1982 to 2004.&lt;ref&gt;{{cite web|url=http://www.bmi.gv.at/wahlen/elections_compulsorey_voting.asp|archiveurl=http://web.archive.org/web/20071103221527/http://www.bmi.gv.at/wahlen/elections_compulsorey_voting.asp|archivedate=2007-11-03|title=Bundesministerium für Inneres - Elections Compulsory voting|publisher=Bmi.gv.at|accessdate=2009-01-03}}&lt;/ref&gt; 
+
+The Parliament of Austria consists of two chambers. The composition of the Nationalrat (183 seats) is determined every five years (or whenever the Nationalrat has been dissolved by the federal president on a motion by the federal chancellor, or by Nationalrat itself) by a general election in which every citizen over 16 years (since 2007) has [[Suffrage|voting rights]]. While there is a general threshold of 4 percent for all parties at federal elections (Nationalratswahlen), there remains the possibility to gain a direct seat, or {{lang|de|''Direktmandat''}}, in one of the 43 regional election districts.
+
+The Nationalrat is the dominant chamber in the formation of legislation in Austria. However, the upper house of parliament, the [[Federal Council of Austria|Bundesrat]], has a limited right of [[veto]] (the Nationalrat can—in almost all cases—ultimately pass the respective bill by voting a second time. This is referred to as '''Beharrungsbeschluss'', lit. &quot;vote of persistence&quot;). A convention, called the {{lang|de|''Österreich -Konvent''}}&lt;ref&gt;{{cite web|url=http://www.konvent.gv.at/ |title=Willkommen beim Österreich Konvent&lt;!-- Bot generated title --&gt; |publisher=Konvent.gv.at |date= |accessdate=2008-11-21}}&lt;/ref&gt; was convened in June 30, 2003 to decide upon suggestions to reform the constitution, but failed to produce a proposal that would receive the two thirds of votes in the Nationalrat necessary for constitutional amendments and/or reform. 
+
+With legislative and executive, the courts are the third column of Austrian state powers. Notably the Constitutional Court (''Verfassungsgerichtshof'') may exert considerable influence on the political system by ruling out laws and ordinances not in compliance with the constitution. Since 1995, the [[European Court of Justice]] may overrule Austrian decisions in all matters defined in laws of the European Union. Concerning [[human rights]], Austria also is implementing the decisions of the [[European Court of Human Rights]], since the [[European Convention on Human Rights]] is part of the Austrian constitution.
+
+===Recent developments===
+
+After general elections held in October 2006, the [[Social Democratic Party of Austria|Social Democrats]] emerged as the largest party, whereas the [[Austrian People's Party|People's Party]] lost about 8% in votes.&lt;ref name=&quot;Election2002&quot;&gt;{{cite web|url=http://electionresources.org/at/nationalrat.php?election=2002|title=November 24, 2002 General Election Results - Austria Totals|date=2006|work=Election Resources on the Internet|accessdate=2009-06-12}}&lt;/ref&gt;&lt;ref name=&quot;Election2006&quot;&gt;{{cite web|url=http://electionresources.org/at/nationalrat.php?election=2006|title=October 1st, 2006 General Election Results - Austria Totals|date=2006|work=Election Resources on the Internet|accessdate=2009-06-12}}&lt;/ref&gt; Political realities prohibited any of the two major parties from forming a coalition with smaller parties. In January 2007 the People's Party and Social Democrats formed a [[Grand Coalition]] with the social democrat [[Alfred Gusenbauer]] as Chancellor. This coalition broke up in June 2008. Elections in September 2008 further weakened both major parties (Social Democrats and People's Party) but together they still held more than 50% of the votes with the Social Democrats holding the majority. They formed a coalition with Werner Faymann from the Social Democrats as Chancellor. The positions of the Freedom Party and the deceased [[Jörg Haider]]'s new party [[Alliance for the Future of Austria]], both right-wing parties, were strengthened during the election.
+
+===Foreign policy===
+{{Main|Foreign relations of Austria}}
+[[File:Austrian embassy in London.JPG|thumb|upright|Embassy of Austria in [[London]]]]
+
+The 1955 [[Austrian State Treaty]] ended the occupation of Austria following World War II and recognised Austria as an independent and sovereign state. On 26 October 1955, the [[Federal Assembly of Austria|Federal Assembly]] passed a constitutional article in which &quot;Austria declares of her own free will her perpetual neutrality&quot;. The second section of this law stated that &quot;in all future times Austria will not join any military alliances and will not permit the establishment of any foreign military bases on her territory&quot;. Since then, Austria has shaped its foreign policy on the basis of neutrality, but rather different from the neutrality of Switzerland.
+
+Austria began to reassess its definition of neutrality following the fall of [[Soviet Union|the Soviet Union]], granting overflight rights for the [[United Nations|UN]]-sanctioned action against [[Iraq]] in 1991, and, since 1995, it has developed participation in the [[European Union|EU's]] Common Foreign and Security Policy (CFSP). Also in 1995, it joined the Partnership for Peace and subsequently participated in peacekeeping missions in Bosnia. Meanwhile, the only part of the Constitutional Law on Neutrality of 1955 still valid fully is not to allow foreign military bases in Austria.{{Citation needed|date=July 2009}}
+
+Austria attaches great importance to participation in the [[Organisation for Economic Co-operation and Development]] and other international economic organisations, and it has played an active role in the [[Organization for Security and Cooperation in Europe]] (OSCE).
+
+===Energy politics===
+{{See also|Wind power in Austria|Renewable energy in the European Union}}
+
+In 1972, the country began construction of a [[nuclear power|nuclear-powered]] electricity-generation station at [[Zwentendorf]] on the River [[Danube]], following a unanimous vote in parliament. However, in 1978, a [[referendum]] voted approximately 50.5% against nuclear power, 49.5% for,&lt;ref&gt;Lonnie Johnson 168–9&lt;/ref&gt; and parliament subsequently unanimously passed a law forbidding the use of nuclear power to generate electricity.
+
+Austria currently produces more than half of its electricity by [[hydropower]].&lt;ref name=&quot;RES&quot;&gt;{{cite web|url=http://www.energy.eu/renewables/factsheets/2008_res_sheet_austria_en.pdf|title=Austria Renewable Energy Fact Sheet|date=2008-01-23|format=PDF|work=Europe's Energy Portal|accessdate=2009-05-20}}&lt;/ref&gt; Together with other [[renewable energy]] sources such as [[Wind power|wind]], [[Solar power|solar]] and [[biomass]] powerplants, the electricity supply from renewable energy amounts to 62.89%&lt;ref name=&quot;Renewables&quot;&gt;{{cite web|url=http://www.energy.eu/renewables/eu-charts/chart4.html|title=Renewable energy in Europe|date=2006|work=Eurobserv'er|publisher=Europe's Energy Portal|accessdate=2009-05-20}}&lt;/ref&gt; of total use in Austria, with the rest being produced by [[Natural gas|gas]] and [[Petroleum|oil]] powerplants.
+
+==Military==
+{{Main|Austrian Armed Forces}}
+[[File:Bataillon de la garde autrichienne.jpg|thumb|right|Austrian Guard Company on parade, July 14, 2007, [[Champs Elysées]], [[Paris]].]]
+
+The manpower of the Austrian Armed Forces ({{lang-de|Bundesheer}}) mainly relies on [[conscription]]. All males who have reached the age of eighteen and are found fit serve a six months [[military service]], followed by an eight year reserve obligation. Both males and females at the age of sixteen are eligible for voluntary service.&lt;ref name=&quot;CIA&quot; /&gt; [[Conscientious objector|Conscientious objection]] is legally acceptable and those who claim this right are obliged to serve an institutionalised nine months [[Zivildienst|civilian service]] instead. Since 1998, women volunteers have been allowed to become professional soldiers.
+
+The main sectors of the Bundesheer are Joint Forces (Streitkräfteführungskommando, SKFüKdo) which consist of Land Forces (Landstreitkräfte), Air Forces (Luftstreitkräfte), International Missions (Internationale Einsätze) and Special Forces (Spezialeinsatzkräfte), next to Mission Support (Kommando Einsatzunterstützung; KdoEU) and Command Support (Kommando Führungsunterstützung; KdoFüU). Being a [[landlocked country]], Austria has no [[navy]].
+
+In 2004, Austria's defence expenditures corresponded to approximately 0.9% of its GDP. The Army currently has about 45,000 soldiers, of whom about half are conscripts. As head of state, [[President of Austria|Austrian President]] (currently [[Heinz Fischer]]) is nominally the Commander-in-Chief of the Bundesheer. In practical reality, however, command of the Austrian Armed Forces is almost exclusively exercised by the Minister of Defense, currently [[Norbert Darabos]].
+
+[[File:Leopard2 a5 front.jpg|thumb|left|[[Austrian Army]] [[Leopard 2]] [[main battle tank]]]]
+
+Since the end of the [[Cold War]], and more importantly the removal of the former heavily guarded &quot;[[Iron Curtain]]&quot; separating Austria and Hungary, the Austrian military has been assisting Austrian border guards in trying to prevent border crossings by [[Illegal immigration|illegal immigrants]]. This assistance came to an end when Hungary joined the EU Schengen area in 2008, for all intents and purposes abolishing &quot;internal&quot; border controls between treaty states. Some politicians have called for a prolongation of this mission, but the legality of this is heavily disputed. In accordance with the Austrian constitution, armed forces may only be deployed in a limited number of cases, mainly to defend the country and aid in cases of national emergency, such as in the wake of [[natural disaster]]s. They may generally not be used as auxiliary police forces.
+
+Within its self-declared status of permanent neutrality, Austria has a long and proud tradition of engaging in UN-led peacekeeping and other humanitarian missions. The [[Austrian Forces Disaster Relief Unit]] (AFDRU), in particular, an all-volunteer unit with close ties to civilian specialists (e.g. rescue dog handlers) enjoys a reputation as a quick (standard deployment time is 10 hours) and efficient [[Search and rescue|SAR]] unit. Currently, larger contingents of Austrian forces are deployed in [[Bosnia and Herzegovina|Bosnia]], [[Kosovo]] and, since 1974, in the [[Golan Heights]].
+
+==States==
+{{Main|States of Austria}}
+
+As a [[federal republic]], Austria is divided into [[States of Austria|nine states]] ({{lang-de|Bundesländer}}).&lt;ref name=&quot;CIA&quot; /&gt; These states are then divided into [[district]]s ({{lang|de|''[[Bezirke]]''}}) and statutory cities ({{lang|de|''[[Statutarstadt|Statutarstädte]]''}}). Districts are subdivided into municipalities ({{lang|de|''Gemeinden''}}). Statutory Cities have the competencies otherwise granted to both districts and municipalities. The states are not mere administrative divisions but have some legislative authority distinct from the federal government, e.g. in matters of culture, social care, youth and nature protection, hunting, building, and zoning ordinances. In recent years, it has been discussed whether today it is appropriate for a small country to maintain ten parliaments.
+
+{{Austria states}}
+
+==Geography==
+{{Main|Geography of Austria}}
+[[File:Oesterreich topo.png|thumb|Topography of Austria]]
+[[File:Schröcken2.JPG|thumb|Countryside of [[Schröcken]]]]
+[[File:STANTON2.jpg|thumb|[[Sankt Anton am Arlberg]]]]
+
+Austria is a largely [[mountain]]ous country due to its location in the [[Alps]].&lt;ref name=&quot;BritannicaAlps&quot;&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/17356/Alps|title=Alps|date=2009-06-11|work=Encyclopædia Britannica|publisher=Encyclopædia Britannica Online|accessdate=2009-06-12}}&lt;/ref&gt; The [[Central Eastern Alps]], [[Northern Limestone Alps]] and [[Southern Limestone Alps]] are all partly in Austria. Of the total area of Austria (84&amp;nbsp;000&amp;nbsp;km² or 32,000&amp;nbsp;sq. mi), only about a quarter can be considered low lying, and only 32% of the country is below {{convert|500|m|ft|abbr=off}}. The Alps of western Austria give way somewhat into low lands and plains in the eastern part of the country.
+
+Austria can be divided into five areas, the biggest being the [[Eastern Alps]], which constitute 62% of nation's total area. The Austrian foothills at the base of the [[Alps]] and the [[Carpathian Mountains|Carpathians]] account for around 12% and the foothills in the east and areas surrounding the periphery of the Pannoni low country amount to about 12% of the total landmass. The second greater mountain area (much lower than the Alps) is situated in the north. Known as the Austrian [[granite]] [[plateau]], it is located in the central area of the Bohemian Mass, and accounts for 10% of Austria. The Austrian portion of the [[Vienna basin]] comprises the remaining 4%.
+
+The six highest mountains in Austria are:
+{| class=&quot;wikitable sortable&quot; border=&quot;1&quot; style=&quot;text-align:right;&quot;
+|- style=&quot;background:#ddd;&quot;
+!width=&quot;150px&quot;| Name !! Height (m) !! Height (ft) !!width=&quot;130px&quot;| Range
+|-
+|align=&quot;left&quot;| [[Großglockner]]  || {{commas|3797}} || {{commas|12457}} ||align=&quot;center&quot;| [[Hohe Tauern]]&lt;/tr&gt;
+|align=&quot;left&quot;| [[Wildspitze]]    || {{commas|3768}} || {{commas|12362}} ||align=&quot;center&quot;| [[Ötztal Alps]]&lt;/tr&gt;
+|align=&quot;left&quot;| [[Weißkugel]]     || {{commas|3739}} || {{commas|12267}} ||align=&quot;center&quot;| [[Ötztal Alps]]&lt;/tr&gt;
+|align=&quot;left&quot;| [[Großvenediger]] || {{commas|3674}} || {{commas|12054}} ||align=&quot;center&quot;| [[Hohe Tauern]]&lt;/tr&gt;
+|align=&quot;left&quot;| [[Similaun]]      || {{commas|3606}} || {{commas|11831}} ||align=&quot;center&quot;| [[Ötztal Alps]]&lt;/tr&gt;
+|align=&quot;left&quot;| [[Großes Wiesbachhorn]] || {{commas|3571}} || {{commas|11715}} ||align=&quot;center&quot;| [[Hohe Tauern]]
+|}
+
+[[Phytogeography|Phytogeographically]], Austria belongs to the Central European province of the [[Circumboreal Region]] within the [[Boreal Kingdom]]. According to the [[World Wide Fund for Nature|WWF]], the territory of Austria can be subdivided into four ecoregions: the Central European mixed forests, Pannonian mixed forests, Alps conifer and mixed forests and Western European broadleaf forests.
+
+==Climate==
+
+The greater part of Austria lies in the cool/temperate [[climate zone]] in which humid westerly winds predominate. With over half of the country dominated by the [[Alps]], the [[alpine climate]] is the predominant one. In the east—in the [[Pannonian Plain]] and along the [[Danube|Danube valley]]—the climate shows continental features with less rain than the alpine areas. Although Austria is cold in the winter, summer temperatures can be relatively warm—reaching temperatures of around 20-40 degrees Celsius.&lt;ref name=&quot;Climate&quot;&gt;{{cite web|url=http://www.bbc.co.uk/weather/world/city_guides/results.shtml?tt=TT003350|title=Average Conditions, Vienna, Austria|date=2006|work=BBC Weather Centre|publisher=British Broadcasting Corporation|accessdate=2009-05-24}}&lt;/ref&gt;
+
+==Economy==
+{{Main|Economy of Austria}}
+{{See also|List of Austrian companies}}
+[[File:T-mobil center wien.jpg|thumb|Modern Vienna]]
+
+Austria is one of the 12 [[List of countries by GDP (nominal) per capita|richest countries in the world]] in terms of GDP ([[Gross domestic product]]) per capita,&lt;ref name=imf2/&gt; has a well-developed [[social market economy]], and a high [[standard of living]]. Until the 1980s, many of Austria's largest industry firms were nationalised; in recent years, however, [[Privatization|privatisation]] has reduced state holdings to a level comparable to other European economies. [[Labour movement]]s are particularly strong in Austria and have large influence on labour politics. Next to a highly-developed industry, international tourism is the most important part of the national economy.
+
+[[Germany]] has historically been the main trading partner of Austria, making it vulnerable to rapid changes in the [[German economy]]. However, since Austria became a member state of the [[European Union]] it has gained closer ties to other [[European Union]] economies, reducing its economic dependence on Germany. In addition, membership in the EU has drawn an influx of foreign investors attracted by Austria's access to the single European market and proximity to the aspiring economies of the European Union. Growth in GDP accelerated in recent years and reached 3.3% in 2006.&lt;ref&gt;[http://www.oenb.at/isaweb/report.do?&amp;lang=EN&amp;report=7.7 Real GDP Growth – Expenditure Side], provided by the [[Oesterreichische Nationalbank|Austrian National Bank]] {{de icon}}&lt;/ref&gt;
+
+===Currency===
+{{Main|Austrian euro coins}}
+{{See also|Euro gold and silver commemorative coins (Austria)}}
+[[File:Euro banknotes.png|thumb|In 1999, Austria introduced the single European currency, the [[euro]]. With 15 other EU member states it forms the [[Eurozone]].]]
+
+In Austria, the [[euro]] was introduced as an accounting currency on 1 January 1999, and euro coins and banknotes entered circulation on 1 January 2002. As a preparation for this date, the minting of the new euro coins started as early as 1999, however all Austrian euro coins introduced in 2002 have this year on it; unlike other countries of the [[Eurozone]] where mint year is minted in the coin. Eight different designs, one per face value, were selected for the Austrian coins. In 2007, in order to adopt the new common map like the rest of the Eurozone countries, Austria changed the common side of its coins.
+
+Before adopting the Euro in 2002 Austria had maintained use of the [[Austrian schilling]] which was first established in December 1924. The Schilling was abolished in the wake of the [[Anschluss]] in 1938 and has been reintroduced after the end of the [[World War II]] in November 1945.
+
+Austria has one of the richest collection of collectors' coins in the Eurozone, with face value ranging from 10 to 100 euro (although a 100,000 euro coin was exceptionally minted in 2004). These coins are a legacy of an old national practice of minting of silver and gold coins. Unlike normal issues, these coins are not [[legal tender]] in all the eurozone. For instance, a €5 Austrian commemorative coin cannot be used in any other country.
+
+==Education==
+{{Main|Education in Austria}}
+
+Responsibility for educational oversight in Austria is entrusted partly to the [[States of Austria|Austrian states]] (Bundesländer), and partly to the federal government. Optional [[kindergarten]] education is provided for all children between the ages of three and six years. School attendance is [[Compulsory education|compulsory]] for nine years, i.e. usually to the age of fifteen. The [[Programme for International Student Assessment]], coordinated by the [[OECD]], currently ranks Austria's education as the 18th best in the world, being significantly higher than the OECD average.&lt;ref&gt;http://www.oecd.org/dataoecd/42/8/39700724.pdf&lt;/ref&gt;
+
+[[Primary education]] lasts for four years. Alongside [[Germany]], [[secondary education]] includes two main types of schools based on a pupil's ability as determined by grades from the primary school: the [[Gymnasium (school)|Gymnasium]] for the more gifted children which normally leads to the [[Matura]] which is a requirement for access to universities and the [[Hauptschule]] which prepares pupils for vocational education but also for further education ([[HTL]] = institution of higher technical education; [[HAK]] = commercial academy; [[HBLA]] = institution of higher education for economic business; etc.), where you also get the [[Matura]]. 
+
+The Austrian university system had been open to any student who passed the [[Matura]] examination until recently. A 2006 bill allowed the introduction of entrance exams for studies such as [[Medicine]]. In 2001, an obligatory tution fee (&quot;''Studienbeitrag''&quot;) of €363.36 per term was introduced for all public universities. Since 2008, for all EU students the studies are free of charge, as long as a certain time-limit is not exceeded (the expected duration of the study plus usually two terms tolerance).&lt;ref name=&quot;Tuition&quot;&gt;{{cite web|url=http://www.help.gv.at/Content.Node/148/Seite.1480000.html#tuition|title=Studying in Austria: Tuition Fee|date=2009-01-01|work=Help.gv.at|accessdate=2009-06-18}}&lt;/ref&gt; When the time-limit is exceeded, the fee of around €363.36 per term is charged. Some further exceptions to the fee apply, e.g. for students with a year's salary of more than about €5000. In all cases, an obligatory fee of €15.50 for the student union is charged.
+
+==Demographics==
+{{Main|Demographics of Austria}}
+[[File:Nibelungenbruecke Sept06.JPG|thumb|[[Linz]]]]
+
+Austria's population estimate in January 2009 was 8,356,707.&lt;ref name=&quot;Population&quot; /&gt; The population of the capital, [[Vienna]], exceeds 1.6 million&lt;ref name=&quot;Vienna pop&quot; /&gt; (2.2 million including the suburbs), representing about a quarter of the country's population and is known for its vast cultural offerings and high standard of living.
+
+In contrast to the capital, other cities do not exceed 1 million inhabitants: the second largest city [[Graz]] is home to 250,099 inhabitants, followed by [[Linz]] (188,968), [[Salzburg]] (150,000), and [[Innsbruck]] (117,346). All other cities have fewer than 100,000 inhabitants.
+
+German, Austria's official language, is spoken by 88.6% of the population—followed by Turkish (2.3%), Serbian (2.2%), Croatian (1.6%), Hungarian (0.5%), and Bosnian (0.4%).&lt;ref name=&quot;Language&quot; /&gt; The Austrian federal states of [[Carinthia (state)|Carinthia]] and [[Styria (state)|Styria]] are home to a significant indigenous [[Carinthian Slovenes|Slovene speaking minority]] with around 14,000 members (Austrian census; unofficial numbers of Slovene groups speak of up to 50,000). In the east-most state, [[Burgenland]] (formerly part of the Hungarian half of [[Austria–Hungary]]), about 20,000 Austrian citizens speak [[Hungarian language|Hungarian]] and 30,000 speak [[Croatian language|Croatian]]. Of the remaining [[number]] of Austria's people that are of non-Austrian descent, many come from surrounding countries, especially from the former [[Eastern Bloc|East Bloc]] nations. So-called [[foreign worker|guest workers]] ''(Gastarbeiter)'' and their descendants, as well as refugees from the [[Yugoslav wars]] and other conflicts, also form an important [[minority group]] in Austria. Since 1994 the [[Romani people|Roma]]-[[Sinti]] (gypsies) are an officially recognised ethnic minority in Austria.
+
+[[File:Canaletto (I) 058.jpg|thumb|A painting by [[Canaletto]] of [[Vienna]] during the first half of the eighteenth century]]
+
+According to [[census]] information published by Statistik Austria for the year 2001&lt;ref&gt;{{PDFlink|[http://www.statistik.at/web_de/static/bevoelkerung_2001_nach_umgangssprache_staatsangehoerigkeit_und_geburtsland_022896.pdf {{lang|de|Statistik Austria, Die Bevölkerung nach Umgangssprache, Staatsangehörigkei und Geburtsland}}]|41.3&amp;nbsp;KB}} {{de icon}}&lt;/ref&gt; there were a total of 710,926 foreign nationals living in Austria. Of these, 124,392 speak German as their [[First language|mother tongue]] (mainly immigrants from Germany, some from Switzerland and [[Province of Bolzano-Bozen|Bolzano-Bozen]], Italy) The next largest populations of linguistic and ethnic groups are 240,863 foreign nationals from the [[Socialist Federal Republic of Yugoslavia|former Yugoslavia]] (Serbian being the largest number of these at 135,376, followed by Croatian at 105,487); 123,417 Turkish nationals; 25,155 whose native tongue is English; 24,446 Albanian; 17,899 Polish; 14,699 Hungarian; 12,216 Romanian; 7,982 Arabs; 6,902 Slovenes (not including the autochthonous minority); 6,891 Slovaks; 6,707 Czech; 5,916 Persian; 5,677 Italian; 5,466 Russian; 5,213 French; 4,938 Chinese; 4,264 Spanish; 3,503 Bulgarian. The populations of the rest fall off sharply below 3,000. Between 200,000 and 300,000 ethnic [[Turkish people|Turks]] (including minority of Turkish [[Kurds]]) currently live in Austria. They are the largest single immigrant group in Austria.&lt;ref&gt;[http://www.unhcr.org/refworld/topic,463af2212,488edfe22,49749d5cc,0.html &quot;World Directory of Minorities and Indigenous Peoples - Austria: Turks&quot;]. Minority Rights Group International, ''World Directory of Minorities and Indigenous Peoples - Austria: Turks, 2008.'' Online. UNHCR Refworld&lt;/ref&gt;
+
+Austria's mountainous terrain led to the development of many distinct [[German dialects]]. All of the dialects in the [[country]], however, belong to [[Austro-Bavarian]] groups of German dialects, with the exception of the dialect spoken in its western-most Bundesland, [[Vorarlberg]], which belongs to the group of [[Alemannic German|Alemannic]] dialects. There is also a distinct grammatical standard for [[Austrian German]] with a few differences to the German spoken in Germany.
+
+As of 2006, some of the Austrian states introduced standardised tests for new citizens, to assure their language ability, cultural knowledge and accordingly their ability to integrate into the Austrian society.&lt;ref&gt;[http://wien.at/verwaltung/personenwesen/staatsbuergerschaft/allgem.html Requirements to become an Austrian citizen], provided by the Viennese state government {{de icon}}&lt;/ref&gt; For the national rules, see [[Austrian nationality law#Naturalisation as an Austrian citizen|Austrian nationality law – Naturalisation]].
+
+===Politics concerning ethnic groups ({{lang|de|''Volksgruppenpolitik''}})===
+
+An estimated 13,000 to 40,000 [[Slovenes]] in the Austrian state of [[Carinthia (state)|Carinthia]] (the [[Carinthian Slovenes]]) as well as [[Croats]] (around 30,000)&lt;ref&gt;{{cite web|url=http://www.croates.at/haupt/gesch_fr.htm |title=HKDC Geschichte - Frame |publisher=Croates.at |date= |accessdate=2008-11-21}}&lt;/ref&gt; and [[Hungarians]] in Burgenland were recognised as a minority and have enjoyed special rights following the Austrian State Treaty ({{lang|de|''Staatsvertrag''}}) of 1955.&lt;ref name=&quot;johnson 153&quot;&gt;Lonnie Johnson 153&lt;/ref&gt; The Slovenes in the Austrian state of [[Styria (state)|Styria]] (estimated at a number between 1,600 and 5,000) are not recognised as a minority and do not enjoy special rights, although the State Treaty of July 27, 1955 states otherwise.
+
+The right for bilingual topographic signs for the regions where Slovene- and Croat-Austrians live alongside the German speaking population (as required by the 1955 State Treaty) is still to be fully implemented. Many Carinthians are afraid of [[Slovenia]]n territorial claims, pointing to the fact that Yugoslav troops entered the state after each of the two [[World war|World Wars]] and considering that some official Slovenian atlases show parts of Carinthia as Slovene cultural territory. The recently deceased governor, [[Jörg Haider]], has made this fact a matter of public argument in autumn 2005 by refusing to increase the number of bilingual topographic signs in Carinthia. A poll by the Kärntner Humaninstitut conducted in January 2006 states that 65% of Carinthians are not in favour of an increase of bilingual topographic signs, since the original requirements set by the State Treaty of 1955 have already been fulfilled according to their point of view. 
+
+Another interesting phenomenon is the so called &quot;Windischen-Theorie&quot;&lt;ref&gt;http://de.wikipedia.org/wiki/Windischen-Theorie&lt;/ref&gt; stating that the Slovenes can be split in two groups: actual Slovenes and ''Windische'' (a traditional German name for Slavs), based on differences in language between Austrian Slovenes, who were taught Slovene standard language in school and those Slovenes who spoke their local Slovene dialect but went to German schools. The term ''Windische'' was applied to the latter group as a means of distinction. This politically influenced theory, dividing Slovene Austrians into the &quot;loyal Windische&quot; and the &quot;national Slovenes&quot;, was never generally accepted and fell out of use some decades ago.
+
+==Religion==
+{{Main|Religion in Austria}}
+[[File:Tizian 066.jpg|thumb|upright|[[Charles V, Holy Roman Emperor]], also ''Charles I of Spain'', [[Austrian Habsburg]] &lt;br/&gt; ruler and one of the major figures of the [[Counter-Reformation]]]]
+
+At the end of the twentieth century, about 74% of Austria's population were registered as Roman Catholic,&lt;ref name=&quot;Volkszählung&quot;&gt;{{cite web | title=Census 2001: Population 2001 according to religious affiliation and nationality|url=http://www.statistik.at/web_de/static/bevoelkerung_2001_nach_religionsbekenntnis_und_staatsangehoerigkeit_022894.pdf|dateformat=mdy|accessdate=December 17, 2007|language=German|publisher=Statistik Austria|format=PDF}}&lt;/ref&gt; while about 5% considered themselves [[Protestant]]s.&lt;ref name=&quot;Volkszählung&quot;/&gt; Austrian Christians are obliged to pay a mandatory membership fee (calculated by income—about 1%) to their church; this payment is called &quot;Kirchensteuer&quot; (&quot;Ecclesiastical/Church tax&quot;).
+
+About 12% of the population declare that they have [[irreligion|no religion]].&lt;ref name=&quot;Volkszählung&quot;/&gt; Of the remaining people, around 340,000 are registered as members of various Muslim communities, mainly due to the influx from [[Turkey]], [[Bosnia-Herzegovina]] and [[Albania]].&lt;ref name=&quot;Volkszählung&quot;/&gt; About 180,000 are members of [[Eastern Orthodox|Eastern Orthodox Church]]es, more than 20,000 are active [[Jehovah's Witnesses]]&lt;ref&gt;[http://www.watchtower.org/statistics/worldwide_report.htm Statistics: 2005 Report of Jehovah's Witnesses Worldwide].&lt;/ref&gt; and about 8,100 are [[Judaism|Jewish]].&lt;ref name=&quot;Volkszählung&quot;/&gt; 
+
+The [[History of the Jews in Austria|Austrian Jewish]] Community of 1938—Vienna alone counted more than 200,000—was reduced to around 4,500 during the [[World War II|Second World War]], with approximately 65,000 Jewish Austrians killed in [[the Holocaust]] and 130,000 emigrating.&lt;ref&gt;[http://www.wien.gv.at/english/culture/jewishvienna/history/nationalsocialism.html Expulsion, Deportation and Murder - History of the Jews in Vienna] Vienna Webservice&lt;/ref&gt; The large majority of the current Jewish population are post-war immigrants, particularly from [[eastern Europe]] and [[central Asia]] (including [[Bukharian Jew]]s).&lt;ref&gt;[http://www.bjews.com/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=212 Bukharian Jews find homes on Long Island], ''Bukharian Reviews'', September 16, 2004&lt;/ref&gt; [[Buddhism in Austria|Buddhism]] was legally recognised as a religion in Austria in 1983.&lt;ref name=&quot;Religion&quot;&gt;{{cite web|url=http://www.aeiou.at/aeiou.encyclop.r/r480968.htm;internal&amp;action=_setlanguage.action?LANGUAGE=en|title=Religionsbekenntnis|work=AEIOU|accessdate=2009-05-22}}&lt;/ref&gt;
+
+According to the most recent [[Eurobarometer|Eurobarometer Poll]] 2005,&lt;ref name=&quot;EUROBAROMETER&quot;&gt;{{cite web |url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_225_report_en.pdf
+|title=Eurobarometer on Social Values, Science and technology 2005 - page 11
+|format=PDF
+|accessdate=2007-05-05}}&lt;/ref&gt;
+
+* '''54%''' of Austrian citizens responded that ''&quot;they believe there is a God&quot;''.
+* '''34%''' answered that ''&quot;they believe there is some sort of spirit or life force&quot;''.
+* '''8%''' answered that ''&quot;they do not believe there is any sort of spirit, God, or life force&quot;''.
+
+[[File:Alter Dom Linz.jpg|thumb|left|upright|Alter Dom, Linz]]
+
+While northern and central Germany was the origin of the [[Protestant Reformation|Reformation]], Austria and Bavaria were the heart of the [[Counter-Reformation]] in the sixteenth and seventeenth centuries, when the absolute monarchy of [[Habsburg]] imposed a strict regime to restore Catholicism's power and influence among Austrians.&lt;ref&gt;Lonnie Johnson 28&lt;/ref&gt;&lt;ref&gt;Brook-Shepherd 16&lt;/ref&gt; The [[Habsburg]]s for a long time viewed themselves as the vanguard of [[Roman Catholic Church|Catholicism]] and all other confessions and religions were repressed. 
+
+In 1781, in the era of Austrian enlightenment, [[Joseph II, Holy Roman Emperor|Emperor Joseph II]] issued a Patent of Tolerance for Austria that allowed other confessions a limited [[freedom of religion|freedom of worship]]. Religious freedom was declared a constitutional right in Cisleithania after the Austro-Hungarian ''[[Ausgleich]]'' in 1867 thus paying tribute to the fact that the monarchy was home of numerous religions beside Roman Catholicism such as Greek, Serbian, Romanian, Russian, and Bulgarian [[Orthodox Christians]] (Austria neighboured the [[Ottoman Empire]] for centuries), [[Calvinism|Calvinist]],  [[Lutheranism|Lutheran]] [[Protestantism|Protestants]] and Jews. In 1912, after the annexation of [[Bosnia Hercegovina]] in 1908, [[Islam]] was officially recognised in Austria.
+
+Austria remained largely influenced by Catholicism. After 1918, First Republic Catholic leaders such as [[Theodor Innitzer]] and [[Ignaz Seipel]] took leading positions within or close to Austria's government and increased their influence during the time of the [[Austrofascism]]; Catholicism was treated much like a [[state religion]] by [[Engelbert Dollfuss]] and [[Kurt Schuschnigg]].{{Citation needed|date=November 2007}} Although Catholic (and Protestant) leaders initially welcomed the Germans{{Citation needed|date=January 2008}} in 1938 during the [[Anschluss]] of Austria into [[Germany]], Austrian Catholicism stopped its support of [[Nazism]] later on and many former religious public figures became involved with the resistance during the [[Third Reich]]. After the end of [[World War II]] in 1945, a stricter [[secularism]] was imposed in Austria, and religious influence on politics declined.{{Citation needed|date=November 2007}}
+
+==Culture==
+{{Main|Culture of Austria}}
+===Music===
+{{Main|Music of Austria}}
+[[File:Wolfgang-amadeus-mozart 1.jpg|thumb|left|[[Wolfgang Amadeus Mozart]] (1756-1791)]]
+
+Austria's past as a European power and its cultural environment have generated a broad contribution to various forms of art, most notably among them music. Austria has been the birthplace of many [[Music of Austria|famous composers]] such as [[Wolfgang Amadeus Mozart]], [[Haydn|Joseph Haydn]], [[Franz Schubert]], [[Anton Bruckner]], [[Johann Strauss, Sr.]], [[Johann Strauss, Jr.]] and [[Gustav Mahler]] as well as members of the [[Second Viennese School]] such as [[Arnold Schoenberg]], [[Anton Webern]] and [[Alban Berg]].
+
+Vienna has long been especially an important centre of musical innovation. Eighteenth and nineteenth century composers were drawn to the city due to the patronage of the Habsburgs, and made Vienna the European capital of [[classical music]]. During the Baroque period, Slavic and Hungarian folk forms influenced Austrian music. Vienna's status began its rise as a cultural center in the early 1500s, and was focused around instruments including the [[lute]]. [[Beethoven|Ludwig van Beethoven]] spent the better part of his life in Vienna. Austria's current [[national anthem]], attributed to Mozart, was chosen after [[World War II]] to replace the traditional Austrian anthem by Joseph Haydn.
+
+Austria has also produced one notable jazz musician, keyboardist [[Josef Zawinul]], who helped pioneer electronic influences in jazz as well as being a notable composer in his own right. The [[Pop music|pop]] and [[Rock music|rock]] musician, [[Falco (musician)|Falco]], was internationally acclaimed during the 1980s.&lt;ref name=&quot;Falco&quot;&gt;{{cite web|url=http://www.vh1.com/artists/az/falco/bio.jhtml|title=Falco|date=2007|work=VH1|accessdate=2009-06-17}}&lt;/ref&gt; The drummer [[Thomas Lang]] was born in Vienna in 1967 and is now world renowned for his technical ability, having played with artists such as [[Geri Halliwell]] and [[Robbie Williams]].
+
+[[File:Upper belvedere.jpg|thumb|300px|The [[Belvedere (palace)|Belvedere Palace]], an example of [[Baroque]] architecture]]
+
+===Art and architecture===
+{{See|List of Austrian artists and architects}}
+
+Among Austrian Artists and architects one can find the painters [[Ferdinand Georg Waldmüller]], [[Rudolf von Alt]], [[Hans Makart]],[[Gustav Klimt]], [[Oskar Kokoschka]], [[Egon Schiele]], [[Carl Moll]], and [[Friedensreich Hundertwasser]], the photographers [[Inge Morath]] and [[Ernst Haas]] and architects like [[Johann Bernhard Fischer von Erlach]], [[Otto Wagner]], [[Adolf Loos]], and [[Hans Hollein]].
+
+===Science, philosophy and economics===
+{{See|Austrian School|List of Austrian scientists}}
+
+Austria was the cradle of numerous scientists with international reputation. Among them are [[Ludwig Boltzmann]], [[Ernst Mach]], [[Victor Franz Hess]] and [[Christian Doppler]], prominent scientists in the nineteenth century. In the twentieth century, contributions by [[Lise Meitner]], [[Erwin Schrödinger]] and [[Wolfgang Pauli]] to nuclear research and [[quantum mechanics]] were key to these areas' development during the 1920s and 1930s. A present-day quantum physicist is [[Anton Zeilinger]], noted as the first scientist to demonstrate [[quantum teleportation]].
+
+In addition to physicists, Austria was the birthplace of two of the most noteworthy philosophers of the twentieth century, [[Ludwig Wittgenstein]] and [[Karl Popper]]. In addition to them biologists [[Gregor Mendel]] and [[Konrad Lorenz]] as well as mathematician [[Kurt Gödel]] and engineers such as [[Ferdinand Porsche]] and [[Siegfried Marcus]] were Austrians.
+
+{{Austrians}}
+A focus of Austrian science has always been medicine and psychology, starting in [[Medieval Times|medieval times]] with [[Paracelsus]]. Eminent physicians like [[Theodore Billroth]], [[Clemens von Pirquet]], and [[Anton Eiselsberg|Anton von Eiselsberg]] have built upon the achievements of the 19th century [[Vienna School|Vienna School of Medicine]]. Austria was home to psychologists [[Sigmund Freud]], [[Alfred Adler]], [[Paul Watzlawick]] and [[Hans Asperger]] and psychiatrist [[Viktor Frankl]].
+
+The [[Austrian School]] of Economics, which is prominent as one of the main competitive directions for economic theory, is related to Austrian economists [[Joseph Schumpeter]], [[Eugen von Böhm-Bawerk]], [[Ludwig von Mises]], and [[Friedrich Hayek]]. Other noteworthy Austrian-born émigrés include the management thinker [[Peter Drucker]], scientist [[Gustav Nossal|Sir Gustav Nossal]], and the 38th Governor of California, [[Arnold Schwarzenegger]].
+
+===Literature===
+{{See also|List of Austrian writers|Austrian literature}}
+
+Complementing its status as a land of artists and scientists, Austria has always been a country of poets, writers, and novelists. It was the home of novelists [[Arthur Schnitzler]], [[Stefan Zweig]], [[Thomas Bernhard]], [[Franz Kafka]], and [[Robert Musil]], of poets [[Georg Trakl]], [[Franz Werfel]], [[Franz Grillparzer]], [[Rainer Maria Rilke]], and [[Adalbert Stifter]], and of writer [[Karl Kraus]].
+
+Famous contemporary playwrights and novelists are [[Nobel Prize|Nobel prize]] winner [[Elfriede Jelinek]], [[Peter Handke]] and [[Daniel Kehlmann]].
+
+===Cuisine===
+{{Main|Austrian cuisine}}
+[[File:Einspaenner.jpg|thumb|left|140px|The Viennoise]]
+
+Austria's cuisine is derived from that of the [[Austro-Hungarian Empire]]. Austrian cuisine is mainly the tradition of Royal-Cuisine (&quot;Hofküche&quot;) delivered over centuries. It is famous for its well-balanced variations of beef and pork and countless variations of vegetables. There is also the &quot;Mehlspeisen&quot; Bakery, which created particular delicacies such as Sachertorte, &quot;Krapfen&quot; which are doughnuts usually filled with apricot marmalade or custard, and &quot;Strudel&quot; such as &quot;[[Apfelstrudel]]&quot; and &quot;Topfenstrudel&quot; filled with sweetened sour cream. In addition to native regional traditions, the cuisine has been influenced by [[Hungary|Hungarian]], Bohemia [[Czech republic|Czech]], [[Jewish]], [[Italy|Italian]], [[Balkan]] and [[France|French]] cuisine, from which both dishes and methods of food preparation have often been borrowed. The Austrian cuisine is therefore one of the most multicultural and transcultural in Europe.
+
+[[File:Wiener-Schnitzel02.jpg|thumb|[[Wiener Schnitzel]]]]
+
+Typical Austrian dishes include [[Wiener Schnitzel]], [[Schweinsbraten]], [[Kaiserschmarren]], [[Knödel]], [[Sachertorte]] and [[Tafelspitz]]. There are also Kärntner Kasnudeln, a cooked filled dough-bag with a type of cottage cheese and spearmint, and [[Cantharellus|Eierschwammerl]] dishes. The &quot;Eierschwammerl&quot;, also known as &quot;Pfifferling&quot;, are native yellow, tan mushrooms. The candy [[PEZ]] was invented in Austria, as well as [[Manner]]schnitten. Austria is also famous for its [[Mozartkugel]]n, and its coffee tradition.
+
+===Sports===
+[[File:Em stadion salzburg.jpg|thumb|right|Salzburg Stadium, Home of the FC RB Salzburg]]
+
+Due to the mountainous terrain, [[alpine skiing]] is a prominent sport in Austria. Similar sports such as [[snowboarding]] or [[ski-jumping]] are also widely popular. A popular [[team sport]] in Austria is [[Association football|football]], which is governed by the [[Austrian Football Association]].&lt;ref name=&quot;Football&quot;&gt;{{cite web|url=http://www.oefb.at/|title=Österreichischer Fußballbund|date=2009|work=ÖFB|language=German|accessdate=2009-06-17}}&lt;/ref&gt; However, Austria rarely has international success in this discipline, going out in the first round of the [[2008 UEFA European Football Championship]] which was co-hosted with Switzerland. Besides football, Austria also has professional national leagues for most major team sports including the [[Austrian Hockey League]] for [[ice hockey]], and the [[Österreichische Basketball Bundesliga]] for [[basketball]]. [[Bobsleigh]], [[luge]], and [[skeleton (sport)|skeleton]] are also popular events with a permanent track located in [[Igls bobsleigh, luge, and skeleton track|Igls]], which hosted bobsleigh and luge competitions for the [[1964 Winter Olympics|1964]] and [[1976 Winter Olympics]] held in [[Innsbruck]]. The [[2012 Winter Youth Olympics|first Winter Youth Olympics]] in 2012 will be held in Innsbruck as well.&lt;ref name=&quot;WYO2012&quot;&gt;{{cite web|title=YOG Innsbruck 2012: Relive the announcement|publisher=International Olympic Committee|url=http://www.olympic.org/uk/news/olympic_news/full_story_uk.asp?id=2890|date=12 December 2008|accessdate=24 December 2008}}&lt;/ref&gt;
+
+==See also==
+{{portal|Austria-Hungary|Wappen Österreich-Ungarn 1916 (Klein).png}}
+{{portal|Austria|Flag of Austria.svg}}
+{{Main|Outline of Austria}}
+{{columns |width=20em
+| col1 =
+*[[Area codes in Austria]]
+*[[Austrian colonial policy]]
+*[[Euro gold and silver commemorative coins (Austria)|Austrian euro commemorative coins]]
+*[[Austrian folk dance]]
+*[[Austrian German]]
+*[[Austrians]]
+*[[Austrian cuisine]]
+| col2 =
+*[[Education in Austria]]
+*[[Federal Investigation Bureau (Austria)]]
+*[[Foreign relations of Austria]]
+*[[Geography of Austria]]
+*[[Habsburg Monarchy]]
+*[[Index of Austria-related articles]]
+*[[List of cities and towns in Austria]]
+| col3 =
+*[[Media in Austria]]
+*[[Military of Austria]]
+*[[Pfadfinder und Pfadfinderinnen Österreichs]]
+*[[Postage stamps and postal history of Austria]]
+*[[Telecommunications in Austria]]
+*[[Tourism in Austria]]
+*[[Transport in Austria]]
+}}
+
+==Notes==
+{{reflist|2}}
+
+==References==
+{{refbegin}}
+*{{Cite book | last=Brook-Shepherd | first=Gordon | title=The Austrians: a thousand-year odyssey | date=1998 | publisher=Carroll &amp; Graf Publishers, Inc | location=New York  | isbn=0786705205}}
+*{{Cite book | last=Johnson | first=Lonnie | title=Introducing Austria: a short history | date=1989 | publisher=Ariadne Press | location=Riverside, Calif.  | isbn=0929497031}}
+*{{Cite book | last=Jelavich | first=Barbara | title=Modern Austria: empire and republic, 1815-1986 | date=1987 | publisher=Cambridge University Press | location=Cambridge  | isbn=0-521-31625-1}}
+*{{Cite book | last=Schulze | first=Hagen | title=States, nations, and nationalism: from the Middle Ages to the present | date=1996 | publisher=Blackwell | location=Cambridge, Mass.  | isbn=0631209336}}
+{{refend}}
+
+==External links==
+{{sisterlinks|Austria}}
+;Government
+*[http://www.bundeskanzleramt.at/DesktopDefault.aspx?alias=english&amp;init&amp;init Federal Chancellery of Austria] ''official government portal''
+*[http://aeiou.iicm.tugraz.at/ AEIOU Austria Albums] (in German, English)
+*[https://www.cia.gov/library/publications/world-leaders-1/world-leaders-a/austria.html Chief of State and Cabinet Members]
+;General information
+*{{CIA World Factbook link|au|Austria}}
+*[http://www.britannica.com/EBchecked/topic/44183/Austria Austria] entry at ''[[Encyclopædia Britannica]]''
+*[http://www.state.gov/p/eur/ci/au/ Austria] information from the [[United States Department of State]]
+*[http://www.loc.gov/rr/international/european/austria/au.html Portals to the World] from the United States [[Library of Congress]]
+*[http://ucblibraries.colorado.edu/govpubs/for/austria.htm Austria] at ''UCB Libraries GovPubs''
+*{{dmoz|Regional/Europe/Austria}}
+{{wikiatlas|Austria}}
+;Travel
+*[http://www.austria.info/ Austria.info] Official homepage of the Austrian National Tourist Office
+*{{wikitravel}}
+*[http://www.austria.mu/ Austria.mu] Homepage of the Austrian Museums
+*[http://www.postrealism.com/austria.htm TourMyCountry.com] Website on Austrian culture, cuisine and tourist attractions
+;Other
+*[http://www.austrianews.co.uk Austria News] News from Austria ({{english}})
+*[http://www.rechtsfreund.at/law-austria.htm Austrian Law] Information on Austrian Law
+*[http://www.wipo.int/about-ip/en/ipworldwide/pdf/at.pdf World Intellectual Property Handbook: Austria]
+*[http://eudocs.lib.byu.edu/index.php/History_of_Austria:_Primary_Documents History of Austria: Primary Documents] from ''EuroDocs''
+*[http://eisenhower.archives.gov/Research/Subject_Guides/PDFs/Austria.pdf Guide to materials pertaining to Austria, Dwight D. Eisenhower Presidential Library]
+; Photos
+*[http://www.citypictures.org/k-europe-148-austria-192.htm Austria Pictures]
+*[http://www.europepictures.gm/europe/austria/photos Europe Pictures - Austria]
+*[http://www.butkaj.com/visit/vienna Photos of Vienna city, the capital of Austria]
+{{Austria topics}}
+{{Template group
+| title = [[File:Gnome-globe.svg|20px]]&amp;nbsp;Geographic locale
+| list  =
+{{States of Austria}}
+{{Countries of Europe}}
+&lt;!-- Template removed per [[Wikipedia:Templates_for_deletion/Log/2008_April_7#Template:Germanic-speaking_regions_of_Europe]] --&gt;
+}}
+{{Template group
+| title = International membership
+| list  =
+{{Members of the European Union (EU) }}
+{{UN Security Council|state=collapsed}}
+{{Council of Europe}}
+{{La Francophonie|state=collapsed}}
+}}
+
+[[Category:Austria| ]]
+[[Category:Republics]]
+[[Category:Federal countries]]
+[[Category:Liberal democracies]]
+[[Category:German-speaking countries]]
+[[Category:Landlocked countries]]
+[[Category:Erasmus Prize winners|Austria, People of]]
+[[Category:States and territories established in 1955]]
+
+{{Link FA|vi}}
+{{Link FA|da}}
+[[af:Oostenryk]]
+[[als:Österreich]]
+[[am:ኦስትሪያ]]
+[[ang:Ēastrīce]]
+[[ar:النمسا]]
+[[an:Austria]]
+[[arc:ܢܡܣܐ]]
+[[roa-rup:Austria]]
+[[frp:Ôtrich·e]]
+[[ast:Austria]]
+[[az:Avstriya]]
+[[bn:অস্ট্রিয়া]]
+[[zh-min-nan:Tang-kok]]
+[[be:Аўстрыя]]
+[[be-x-old:Аўстрыя]]
+[[bcl:Austriya]]
+[[bar:Östareich]]
+[[bo:ཨོ་ཏི་ཀླི]]
+[[bs:Austrija]]
+[[br:Aostria]]
+[[bg:Австрия]]
+[[ca:Àustria]]
+[[cv:Австри]]
+[[ceb:Awstriya]]
+[[cs:Rakousko]]
+[[co:Austria]]
+[[cy:Awstria]]
+[[da:Østrig]]
+[[pdc:Eestereich]]
+[[de:Österreich]]
+[[dv:އޮސްޓުރިއާ]]
+[[dsb:Awstriska]]
+[[dz:ཨས་ཊི་ཡ]]
+[[et:Austria]]
+[[el:Αυστρία]]
+[[es:Austria]]
+[[eo:Aŭstrio]]
+[[ext:Áustria]]
+[[eu:Austria]]
+[[ee:Austria]]
+[[fa:اتریش]]
+[[hif:Austria]]
+[[fo:Eysturríki]]
+[[fr:Autriche]]
+[[fy:Eastenryk]]
+[[fur:Austrie]]
+[[ga:An Ostair]]
+[[gv:Yn Austeyr]]
+[[gd:An Ostair]]
+[[gl:Austria - Österreich]]
+[[gu:ઑસ્ટ્રિયા]]
+[[hak:O-thi-li]]
+[[xal:Өөстрмудн Орн Нутг]]
+[[ko:오스트리아]]
+[[haw:‘Aukekulia]]
+[[hy:Ավստրիա]]
+[[hi:ऑस्ट्रिया]]
+[[hsb:Awstriska]]
+[[hr:Austrija]]
+[[io:Austria]]
+[[ilo:Austria]]
+[[bpy:অস্ট্রিয়া]]
+[[id:Austria]]
+[[ia:Austria]]
+[[ie:Austria]]
+[[os:Австри]]
+[[is:Austurríki]]
+[[it:Austria]]
+[[he:אוסטריה]]
+[[jv:Austria]]
+[[kn:ಆಸ್ಟ್ರಿಯ]]
+[[pam:Austria]]
+[[ka:ავსტრია]]
+[[csb:Aùstrëjackô]]
+[[kk:Аустрия]]
+[[kw:Estrych]]
+[[ky:Австрия]]
+[[sw:Austria]]
+[[kv:Австрия]]
+[[kg:Autriche]]
+[[ht:Otrich]]
+[[ku:Awistriya]]
+[[lad:אאוסטריה]]
+[[la:Austria]]
+[[lv:Austrija]]
+[[lb:Éisträich]]
+[[lt:Austrija]]
+[[lij:Austria]]
+[[li:Oosteriek]]
+[[ln:Otrish]]
+[[jbo:usteraij]]
+[[lmo:Austria]]
+[[hu:Ausztria]]
+[[mk:Австрија]]
+[[mg:Aotrisy]]
+[[ml:ഓസ്ട്രിയ]]
+[[mt:Awstrija]]
+[[mr:ऑस्ट्रिया]]
+[[arz:النمسا]]
+[[ms:Austria]]
+[[mdf:Австрия]]
+[[mn:Австри]]
+[[nah:Austria]]
+[[na:Austria]]
+[[nl:Oostenrijk]]
+[[nds-nl:Oostnriek]]
+[[ne:अष्ट्रीया]]
+[[ja:オーストリア]]
+[[ce:Австри]]
+[[pih:Ostriya]]
+[[no:Østerrike]]
+[[nn:Austerrike]]
+[[nrm:Autriche]]
+[[nov:Austria]]
+[[oc:Àustria]]
+[[uz:Avstria]]
+[[pa:ਆਸਟਰੀਆ]]
+[[pag:Austria]]
+[[ps:اطريش]]
+[[pms:Àustria]]
+[[tpi:Ostria]]
+[[nds:Öösterriek]]
+[[pl:Austria]]
+[[pnt:Αυστρία]]
+[[pt:Áustria]]
+[[crh:Avstriya]]
+[[ksh:Ößtrish]]
+[[ro:Austria]]
+[[rm:Austria]]
+[[qu:Awstiriya]]
+[[ru:Австрия]]
+[[sah:Аустрия]]
+[[se:Nuortariika]]
+[[sa:आस्ट्रिया]]
+[[sco:Austrick]]
+[[stq:Aastriek]]
+[[sq:Austria]]
+[[scn:Austria]]
+[[simple:Austria]]
+[[sk:Rakúsko]]
+[[cu:Аѵстрі́ꙗ]]
+[[sl:Avstrija]]
+[[szl:Austrijo]]
+[[sr:Аустрија]]
+[[sh:Austrija]]
+[[fi:Itävalta]]
+[[sv:Österrike]]
+[[tl:Austria]]
+[[ta:ஆஸ்திரியா]]
+[[tt:Австрия]]
+[[te:ఆస్ట్రియా]]
+[[tet:Áustria]]
+[[th:ประเทศออสเตรีย]]
+[[tg:Австрия]]
+[[tr:Avusturya]]
+[[tk:Awstriýa]]
+[[udm:Австрия]]
+[[uk:Австрія]]
+[[ur:آسٹریا]]
+[[ug:ئاۋستىرىيە]]
+[[vec:Austria]]
+[[vi:Áo]]
+[[vo:Lösterän]]
+[[fiu-vro:Austria]]
+[[zh-classical:奧地利]]
+[[vls:Ôostnryk]]
+[[war:Austrya]]
+[[wo:Otris]]
+[[wuu:奥地利]]
+[[yi:עסטרייך]]
+[[yo:Ostria]]
+[[zh-yue:奧地利]]
+[[diq:Awıstırya]]
+[[bat-smg:Austrėjė]]
+[[zh:奥地利]]

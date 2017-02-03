@@ -1,0 +1,222 @@
+      In [[statistics]], '''analysis of variance (ANOVA)''' is a collection of [[statistical model]]s, and their associated procedures, in which the observed [[variance]] is partitioned into components due to different [[explanatory variable]]s. In its simplest form ANOVA gives a [[statistical test]] of whether the [[mean]]s of several groups are all equal, and therefore generalizes [[Student's t-test#Independent two-sample t-test|Student's two-sample ''t''-test]] to more than two groups.
+
+==Overview==
+There are three conceptual classes of such models:
+#[[Fixed-effects model]]s assume that the data came from [[normal distribution|normal populations]] which may differ only in their means. (Model 1)
+#[[Random effects model]]s assume that the data describe a hierarchy of different populations whose differences are constrained by the hierarchy. (Model 2)
+#Mixed-effect models describe situations where both fixed and random effects are present. (Model 3)
+
+In practice, there are several types of ANOVA depending on the number of treatments and the way they are applied to the subjects in the experiment:
+*[[One-way ANOVA]] is used to test for differences among two or more [[statistical independence|independent]] groups. Typically, however, the one-way ANOVA is used to test for differences among at least three groups, since the two-group case can be covered by a [[T-test]] (Gossett, 1908). When there are only two means to compare, the [[T-test]] and the [[F-test]] are equivalent; the relation between ANOVA and &lt;math&gt;t&lt;/math&gt; is given by &lt;math&gt;F = t^2&lt;/math&gt;.
+*[[One-way ANOVA]] for repeated measures is used when the subjects are subjected to [[repeated measures]]; this means that the same subjects are used for each treatment.  Note that this method can be subject to carryover effects.
+*'''Factorial ANOVA''' is used when the experimenter wants to study the effects of two or more treatment variables. The most commonly used type of factorial ANOVA is the 2×2 (read &quot;two by two&quot;) design, where there are two [[independent variables]] and each variable has two levels or distinct values. Factorial ANOVA can also be multi-level such as 3×3, etc. or higher order such as 2×2×2, etc. but analyses with higher numbers of factors are rarely done by hand because the calculations are lengthy.  However, since the introduction of data analytic software, the utilization of higher order designs and analyses has become quite common.
+*When one wishes to test two or more independent groups subjecting the subjects to repeated measures, one may perform a factorial [[mixed-design ANOVA]], in which one factor is a between-subjects variable and the other is within-subjects variable. This is a type of mixed-effect model.
+*[[Multivariate analysis of variance]] (MANOVA) is used when there is more than one [[dependent variable]].
+
+==Models==
+===Fixed-effects models===
+{{main|fixed effects estimation}}
+The fixed-effects model of analysis of variance applies to situations in which the experimenter applies several treatments to the subjects of the experiment to see if the  [[response variable]] values change. This allows the experimenter to estimate the ranges of response variable values that the treatment would generate in the population as a whole.
+
+===Random-effects models===
+{{main|Random effects model}}
+Random effects models are used when the treatments are not fixed. This occurs when the various treatments (also known as factor levels) are sampled from a larger population. Because the treatments themselves are [[random variables]], some assumptions and the method of contrasting the treatments differ from ANOVA model 1. 
+
+Most random-effects or mixed-effects models are not concerned with making inferences concerning the particular sampled factors. For example, consider a large manufacturing plant in which many machines  produce the same product. The statistician studying this plant would have very little interest in comparing the three particular machines to each other. Rather, inferences that can be made for ''all'' machines are of interest, such as their variability and the overall mean.
+
+==Assumptions==
+* [[Statistical independence|Independence]] of cases - this is a requirement of the design.
+* [[normal distribution|Normality]] - the distributions of the residuals are [[Normal distribution|normal]].
+* Equality (or &quot;homogeneity&quot;) of variances, called [[homoscedasticity]] &amp;mdash; the variance of data in groups should be the same.
+
+[[Levene's test]] for homogeneity of variances is typically used to confirm [[homoscedasticity]]. The [[Kolmogorov-Smirnov test|Kolmogorov-Smirnov]] or the [[Shapiro-Wilk test]] may be used to confirm normality. Some authors claim that the [[F-test]] is unreliable if there are deviations from normality (Lindman, 1974) while others claim that the [[F-test]] is robust (Ferguson &amp; Takane, 2005, pp.261-2). The [[Kruskal-Wallis]] test is a [[nonparametric]] alternative which does not rely on an assumption of normality.
+
+These together form the common assumption that the [[errors and residuals in statistics|errors]] are independently, identically, and normally distributed for fixed effects models, or:
+
+:&lt;math&gt;\varepsilon \thicksim N(0, \sigma^2).\,&lt;/math&gt;
+
+==Logic of ANOVA==
+===Partitioning of the sum of squares===
+The fundamental technique is a partitioning of the total [[sum of squares]] (abbreviated &lt;math&gt;SS&lt;/math&gt;) into components related to the effects used in the model. For example, we show the model for a simplified ANOVA with one type of treatment at different levels.
+
+: &lt;math&gt;SS_{\hbox{Total}} = SS_{\hbox{Error}} + SS_{\hbox{Treatments}}\,\!&lt;/math&gt;
+
+The number of [[Degrees of freedom (statistics)|degrees of freedom]] (abbreviated &lt;math&gt;df&lt;/math&gt;) can be partitioned in a similar way and specifies the [[chi-square distribution]] which describes the associated sums of squares.
+
+: &lt;math&gt;df_{\hbox{Total}} = df_{\hbox{Error}} + df_{\hbox{Treatments}}\,\!&lt;/math&gt;
+
+See also [[Lack-of-fit sum of squares]].
+
+===The F-test===
+{{main|F-test}}
+The [[F-test]] is used for comparisons of the components of the total deviation. For example, in one-way, or single-factor ANOVA, statistical significance is tested for by comparing the F test statistic
+
+:&lt;math&gt;F = \dfrac{\mbox{variance of the group means}}{\mbox{mean of the within-group variances}}&lt;/math&gt;
+
+:&lt;math&gt;F^* = \frac{\mbox{MSTR}}{\mbox{MSE}} \,&lt;/math&gt;
+where:
+:&lt;math&gt;\mbox{MSTR} = \frac{\mbox{SSTR}}{I-1}&lt;/math&gt;, ''I''  = number of treatments
+and
+:&lt;math&gt;\mbox{MSE} = \frac{\mbox{SSE}}{n_T-I}&lt;/math&gt;, ''n&lt;sub&gt;T&lt;/sub&gt;'' = total number of cases
+
+to the [[F-distribution]] with ''I-1'',''n&lt;sub&gt;T&lt;/sub&gt;-I''  degrees of freedom. Using the F-distribution is a natural candidate because the test statistic is the quotient of two mean sums of squares which have a [[chi-square distribution]].
+
+===ANOVA on ranks===
+{{seealso|Kruskal-Wallis one-way analysis of variance}}
+As first suggested by Conover and Iman in 1981, in many cases when the data do not meet the assumptions of ANOVA, one can replace each original data value by its rank from 1 for the smallest to N for the largest, then run a standard ANOVA calculation on the rank-transformed data.  &quot;Where no equivalent nonparametric methods have yet been developed such as for the two-way design, rank transformation results in tests which are more robust to non-normality, and resistant to outliers and non-constant variance, than is ANOVA without the transformation.&quot; (Helsel &amp; Hirsch, 2002, Page 177).
+However Seaman ''et al.'' (1994) noticed that the rank transformation of Conover and Iman (1981) is not appropriate for testing interactions among effects in a factorial design as it can cause an increase in [[Type I error|Type&amp;nbsp;I error (alpha error)]]. Furthermore, if both main factors are significant there is little power to detect interactions.
+
+A variant of rank-transformation is 'quantile normalization' in which a further transformation is applied to the ranks such that the resulting values have some defined distribution (often a normal distribution with a specified mean and variance).  Further analyses of quantile-normalized data may then assume that distribution to compute significance values.
+
+* Conover, W. J. &amp; Iman, R. L. (1981). Rank transformations as a bridge between parametric and nonparametric statistics. ''American Statistician'', ''35'', 124-129. [http://is.ba.ttu.edu/conover/Dr.Conover.htm] [http://citeseer.ist.psu.edu/context/1743341/0]
+
+* Helsel, D. R., &amp; Hirsch, R. M. (2002). ''Statistical Methods in Water Resources: Techniques of Water Resourses Investigations, Book 4, chapter A3''. U.S. Geological Survey. 522 pages.[http://pubs.water.usgs.gov/twri4a3]
+
+* Seaman, J. W., Walls, S. C., Wide, S. E., &amp; Jaeger, R. G. (1994). Caveat emptor: Rank transform methods and interactions. ''Trends Ecol. Evol.'', ''9'', 261-263.
+
+===Effect size measures===
+Several standardized measures of effect are used within the context of ANOVA to describe the degree of relationship between a predictor or set of predictors and the dependent variable.
+
+'''Partial η&lt;sup&gt;2&lt;/sup&gt;''' ( ''Partial eta-squared'' ):
+Partial eta-squared describes the percentage of variance explained in the dependent variable by a predictor controlling for other predictors. Eta squared is a biased estimator of the variance explained by the model in the population. On average it overestimates the variance explained in the population. As the sample size gets larger the amount of bias gets smaller. It is, however, an easily calculated estimator of the proportion of the variance in a population explained by the treatment.
+
+&lt;math&gt;{\eta}^2=\frac{SS_{treatment}}{SS_{total}}&lt;/math&gt;
+
+The following rules of thumb have emerged: small = 0.01; medium = 0.06; large = 0.14
+These rules were taken from: Kittler, J. E., Menard, W.,  &amp; Phillips, K., A. (2007). Weight concerns in individuals with body dysmorphic disorder.  Eating Behaviors, 8, 115-120.
+Since this ranking of effect size has been repeated from Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Hillsdale, NJ: Lawrence Earlbaum Associates with no change or comment over the years their validity is questionable outside of psychological/behavioral studies and questionable even then without a full understanding of the limitations ascribed by Cohen. The use of specific partial eta-square values for large medium or small as a &quot;rule of thumb&quot; should be avoided. 
+
+'''Omega Squared '''
+Omega squared provides a relatively unbiased estimate of the variance explained in the population by a predictor variable. It takes random error into account more so than eta squared, which is incredibly biased to be too large. The calculations for omega squared differ depending on the experimental design. For a fixed experimental design (in which the categories are explicitly set), omega squared is calculated as follows: &lt;ref&gt;[http://web.uccs.edu/lbecker/SPSS/glm_effectsize.htm#Omega%20squared,%20w2]&lt;/ref&gt;
+
+&lt;math&gt;{\hat\omega}^2=\frac{SS_{treat}-df_{treat}MS_{error}}{SS_{total}+MS_{error}}&lt;/math&gt;
+
+
+'''Cohen's ''f'''''
+This measure of effect size is frequently encountered when performing power analysis calculations. Conceptually it represents the square root of variance explained over variance not explained.
+
+===Follow up tests===
+A statistically significant effect in ANOVA is often followed up with one or more different follow-up tests. This can be done in order to assess which groups are different from which other groups or to test various other focused hypotheses.
+Follow up tests are often distinguished in terms of whether they are planned ([[a priori]]) or [[post hoc]]. Planned tests are determined before looking at the data and post hoc tests are performed after looking at the data.
+Post hoc tests such as [[Tukey's test]] most commonly compare every group mean with every other group mean and typically incorporate some method of controlling of Type I errors.
+Comparisons, which are most commonly planned, can be either simple or compound. Simple comparisons compare one group mean with one other group mean. Compound comparisons typically compare two sets of groups means where one set has at two or more groups (e.g., compare average group means of group A, B and C with group D). Comparisons can also look at tests of trend, such as linear and quadratic relationships, when the independent variable involves ordered levels.
+
+===Power analysis===
+[[Statistical power|Power analysis]] is often applied in the context of ANOVA in order to assess the probability of successfully rejecting the null hypothesis if we assume a certain ANOVA design, effect size in the population, sample size and alpha level. Power analysis can assist in study design by determining what sample size would be required in order to have a reasonable chance of rejecting the null hypothesis.
+
+==Examples==
+In a first experiment, Group A is given [[vodka]], Group B is given [[gin]], and Group C is given a [[placebo]]. All groups are then tested with a memory task. A '''one-way ANOVA''' can be used to assess the effect of the various treatments (that is, the vodka, gin, and placebo).
+
+In a second experiment, Group A is given vodka and tested on a memory task. The same group is allowed a rest period of five days and then the experiment is repeated with gin. The procedure is repeated using a placebo. A '''one-way ANOVA with repeated measures''' can be used to assess the effect of the vodka versus the impact of the placebo.
+
+In a third experiment testing the effects of expectations, subjects are randomly assigned to four groups:
+
+# expect vodka—receive vodka
+# expect vodka—receive placebo
+# expect placebo—receive vodka
+# expect placebo—receive placebo (the last group is used as the [[control group]])
+
+Each group is then tested on a memory task. The advantage of this design is that multiple variables can be tested at the same time instead of running two different experiments. Also, the experiment can determine whether one variable affects the other variable (known as [[interaction effects]]). A '''factorial ANOVA (2×2)''' can be used to assess the effect of expecting vodka or the placebo and the actual reception of either.
+
+== History ==
+
+[[Ronald Fisher]] first used [[variance]] in his 1918 paper [[The Correlation Between Relatives on the Supposition of Mendelian Inheritance]]&lt;ref&gt;http://www.library.adelaide.edu.au/digitised/fisher/9.pdf&lt;/ref&gt;.  His first application of the analysis of variance was published in 1921&lt;ref&gt;[Studies in Crop Variation. I. An examination of the yield of dressed grain from Broadbalk Journal of Agricultural Science, 11, 107-135 http://www.library.adelaide.edu.au/digitised/fisher/15.pdf]&lt;/ref&gt;.  Analysis of variance became widely known after being included in Fisher's 1925 book ''[[Statistical Methods for Research Workers]]''.
+
+==See also==
+{{Statistics portal}}
+{{wikiversity}}
+&lt;div style=&quot;-moz-column-count:3; column-count:3;&quot;&gt;
+*[[AMOVA]]
+*[[ANCOVA]]
+*[[ANORVA]]
+*[[Design of Experiments]]
+*[[Duncan's new multiple range test]]
+*[[Explained variance]] and [[unexplained variance]]
+*[[list of publications in statistics#Analysis of variance|Important publications in analysis of variance]]
+*[[Kruskal-Wallis test]]
+*[[Friedman test]]
+*[[MANOVA]]
+*[[Measurement uncertainty]]
+*[[Multiple comparisons]]
+*[[Squared deviations]]
+*[[t-test|''t''-test]]
+&lt;/div&gt;
+
+==Notes==
+&lt;references/&gt;
+
+==References==
+
+* {{cite book |author=[http://www.maths.qmw.ac.uk/~rab/ Bailey, R. A]|title=[http://www.maths.qmul.ac.uk/~rab/DOEbook/ Design of Comparative Experiments]|publisher=[http://www.cambridge.org/uk/catalogue/catalogue.asp?isbn=9780521683579 Cambridge University Press]|year=2008 |isbn=978-0-521-68357-9}} Pre-publication chapters are available on-line. 
+* {{cite book |author=[http://www.isid.ac.in/~rbb/ Bapat, R. B.]|title=[http://books.google.se/books?id=T5dsExIP3aAC Linear Algebra and Linear Models]|edition=Second|publisher=[http://www.springer.com/math/algebra/book/978-0-387-98871-9?cm_mmc=Google-_-Book%20Search-_-Springer-_-0 Springer] |year=2000}}
+*{{cite book
+|author=[[Oscar Kempthorne|Kempthorne, Oscar]]
+|year=1979
+|title=The Design and Analysis of Experiments
+|edition=Corrected reprint of (1952) Wiley
+|publisher=Robert E. Krieger
+|isbn=0-88275-105-0
+}}
+*{{cite book
+|author=Hinkelmann, Klaus and [[Oscar Kempthorne|Kempthorne, Oscar]]
+|year=2008
+|title=Design and Analysis of Experiments
+|volume=I and II
+|edition=Second
+|publisher=Wiley
+|isbn=978-0-470-38551-7}}
+**{{cite book
+|author=Hinkelmann, Klaus and [[Oscar Kempthorne|Kempthorne, Oscar]]
+|year=2008
+|title=Design and Analysis of Experiments, Volume I: Introduction to Experimental Design
+|edition=Second
+|publisher=Wiley
+|isbn=978-0-471-72756-9
+}}
+**{{cite book
+|author=Hinkelmann, Klaus and [[Oscar Kempthorne|Kempthorne, Oscar]]
+|year=2005
+|title=Design and Analysis of Experiments, Volume 2: Advanced Experimental Design
+|edition=First
+|publisher=Wiley
+|isbn=978-0-471-55177-5
+}}
+
+*Ferguson, George A., Takane, Yoshio. (2005). &quot;Statistical Analysis in Psychology and Education&quot;, Sixth Edition. Montréal, Quebec: McGraw-Hill Ryerson Limited.
+*King, Bruce M., Minium, Edward W. (2003). ''Statistical Reasoning in Psychology and Education'', Fourth Edition. Hoboken, New Jersey: John Wiley &amp; Sons, Inc. ISBN 0-471-21187-7
+*Lindman, H. R. (1974). Analysis of variance in complex experimental designs. San Francisco: W. H. Freeman &amp; Co.
+
+== External links ==
+* [[SOCR]] [http://wiki.stat.ucla.edu/socr/index.php/AP_Statistics_Curriculum_2007_ANOVA_1Way ANOVA Activity] and [http://www.socr.ucla.edu/htmls/ana/ANOVA1Way_Analysis.html interactive applet].
+* [http://www.celiagreen.com/charlesmccreery/statistics/anova.pdf  A tutorial on ANOVA devised for Oxford University psychology students]
+* [http://www.southampton.ac.uk/~cpd/anovas/datasets/index.htm  Examples of all ANOVA and ANCOVA models with up to three treatment factors, including randomized block, split plot, repeated measures, and Latin squares]
+* NIST/SEMATECH e-Handbook of Statistical Methods, [http://www.itl.nist.gov/div898/handbook/prc/section4/prc43.htm section 7.4.3: &quot;Are the means equal?&quot;]
+
+{{Statistics}}
+{{Experimental design}}
+[[Category:Analysis of variance]]
+[[Category:Experimental design]]
+[[Category:Statistical tests]]
+[[Category:Parametric statistics]]
+
+[[bg:Дисперсионен анализ]]
+[[cs:Analýza rozptylu]]
+[[de:Varianzanalyse]]
+[[es:Análisis de la varianza]]
+[[eu:Bariantza analisi]]
+[[fr:Analyse de la variance]]
+[[gl:Análise da varianza]]
+[[ko:분산분석]]
+[[id:Analisis varians]]
+[[it:Analisi della varianza]]
+[[lv:Dispersiju analīze]]
+[[hu:Varianciaanalízis]]
+[[nl:Variantie-analyse]]
+[[ja:分散分析]]
+[[pl:Analiza wariancji]]
+[[pt:Análise de variância]]
+[[sl:Analiza variance]]
+[[su:Analisis varian]]
+[[sv:Variansanalys]]
+[[tr:Varyans analizi]]
+[[zh:方差分析]]

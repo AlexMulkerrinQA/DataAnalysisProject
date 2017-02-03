@@ -1,0 +1,130 @@
+      {{for|the software company|Adobe Systems}}
+{{Refimprove|date=October 2008}}
+[[Image:AdobeSurfaceCoatingRenewalOnWall.jpg|frame|right|Renewal of the surface [[coating]] of an adobe wall in [[Chamisal]], [[New Mexico]]]]
+[[Image:Adobe kilns from HABS.jpg|thumb|right|Detail of adobe kilns in [[Arizona]]]]
+'''Adobe''' is a [[natural building]] material made from [[sand]], [[clay]], and water, with some kind of fibrous or [[organic material]] ([[sticks]], [[straw]], [[feces|dung]]), which is shaped into bricks using frames and dried in the sun. It is similar to [[cob (building)|cob]] and [[mudbrick]]. Adobe structures are extremely durable and account for some of the oldest extant buildings on the planet. In hot [[climate]]s, compared to wooden buildings, adobe buildings offer significant advantages due to their greater [[thermal mass]], but they are known to be particularly susceptible to seismic damage in an event such as an earthquake. {{Fact|date=October 2008}}
+
+Buildings made of sun-dried earth are common in the [[Middle East]], [[North Africa]], [[South America]], southwestern [[North America]], and in [[Spain]] (usually in the [[Mudéjar]] style).  Adobe had been in use by indigenous peoples of the Americas in the Southwestern United States, Mesoamerica, and the Andean region of South America for several thousand years, although often substantial amounts of stone are used in the walls of Pueblo buildings.&lt;ref&gt;{{cite book | last = Beck | first = Roger B. | authorlink = | coauthors = Linda Black, Larry S. Krieger, Phillip C. Naylor, Dahia Ibo Shabaka, | title = World History: Patterns of Interaction | publisher = McDougal Littell | date = 1999 | location = Evanston, IL | pages = | url = | doi = | id = | isbn = 0-395-87274-X }}&lt;/ref&gt; (Also, the Pueblo people built their adobe structures with handfuls or basketfuls of adobe, until the Spanish introduced them to the making of bricks.) Adobe brickmaking was used in Spain already in the Late Bronze Age and Iron Age, from the eighth century B.C. on. &lt;ref&gt;{{cite book|last= de Chazelles-Gazzal|first=Claire-Anne|title=Les maisons en terre de la Gaule méridionale|publisher=Éditions Monique Mergoil|date=1997|location=Montagnac, France|pages=49-57}}&lt;/ref&gt; Its wide use can be attributed to its simplicity of design and make, and the cheapness thereby in creating it.&lt;ref&gt;{{cite book|title=Natural hazards in El Salvador|last=Rose|first=William I.|coauthor=Julian J. Bommer|publisher=Geological Society of America|isbn=0813723752|year=2004|page=299}}&lt;/ref&gt;
+
+A distinction is sometimes made between the smaller ''adobes,'' which are about the size of ordinary baked bricks, and the larger ''adobines,'' some of which are as much as from one to two yards (2 m) long.
+
+==Etymology==
+The word ''adobe'' ({{pron-en|əˈdoʊbiː}}) has come to us over some 4000 years with little change in either pronunciation or meaning: the word can be traced from the [[Middle Egyptian]] (c. 2000 BC) word ''dj-b-t'' &quot;mud [''i.e.'', sun-dried] brick.&quot; As Middle Egyptian evolved into [[Late Egyptian]], [[Demotic (Egyptian)|Demotic]], and finally [[Coptic language|Coptic]] (c. 600 BC), ''dj-b-t'' became ''tobe'' &quot;[mud] brick.&quot;  This evolved into Arabic ''al-tub'' (الطّوب ''al'' &quot;the&quot; + ''tub'' &quot;brick&quot;) &quot;[mud] brick,&quot; which was assimilated into [[Old Spanish]] as ''adobe'' {{IPA|[aˈdobe]}}, still with the meaning &quot;mud brick.&quot;  English borrowed the word from Spanish in the early 18th century.
+
+[[Image:Santa Fe adobe.jpg|thumb|right|Adobe style in [[Santa Fe, New Mexico]]]]
+In more modern English usage, the term &quot;adobe&quot; has come to include a style of architecture that is popular in the [[desert]] [[climate]]s of [[North America]], especially in [[New Mexico]].  (Compare with [[stucco]]).
+
+==Composition of adobe==
+An adobe brick is a [[composite material]] made of clay mixed with water and an organic material such as straw or dung. The soil composition typically contains [[clay]] and [[sand]]. Straw is useful in binding the brick together and allowing the brick to dry evenly{{Fact|date=February 2007}}. [[feces|Dung]] offers the same advantage and is also added to repel insects.{{Fact|date=June 2008}}  The mixture is roughly half sand (50%), one-third clay (35%), and one-sixth straw (15%).
+
+==Adobe bricks==
+[[Image:Milyanfan-adobe-bricks-8038.jpg|thumb|Adobe bricks near a construction site in [[Milyanfan]], [[Kyrgyzstan]]]]
+Bricks are made in an open frame, {{convert|25|cm|0|abbr=on}} by {{convert|36|cm|0|abbr=on}} being a reasonable size, but any convenient size is acceptable. The mixture is molded by the frame, and then the frame is removed quickly. After drying a few hours, the bricks are turned on edge to finish drying.  Slow drying in shade reduces cracking.
+
+The same mixture to make bricks, without the straw, is used for mortar and often for plaster on interior and exterior walls. Some ancient cultures used lime-based cement for the plaster to protect against rain damage. {{Fact|date=October 2008}}
+
+The brick’s thickness is preferred partially due to its thermal capabilities, and partially due to the stability of a thicker brick versus a more standard size brick.  Depending on the form that the mixture is pressed into, adobe can encompass nearly any shape or size, provided drying time is even and the mixture includes reinforcement for larger bricks.  Reinforcement can include manure, straw, [[cement]], [[rebar]] or wooden posts.  Experience has shown that straw, cement, or manure added to a standard adobe mixture can all produce a strong brick.{{Fact|date=May 2009}} A general testing is done on the soil content first.  To do so, a sample of the soil is mixed into a clear container with some water, creating an almost completely saturated liquid.  After the jar is sealed the container is shaken vigorously for at least one minute.  It is then allowed to sit on a flat surface until the soil sediment has either collected on the bottom or remained a blended liquid.  If the sediment collects on the bottom, that indicates there is a high clay content and is good for adobe.   If the mixture remains a liquid, then there is little clay in the soil and using it would yield weak bricks. Abode was then used by the Mayans
+
+The largest structure ever made from adobe (bricks) was the [[Bam Citadel]], which suffered serious damage (up to 80%) by an earthquake on [[December 26 2003]]. Other large adobe structures are the [[Huaca del Sol]] in [[Peru]], with 100 million signed bricks, the ciudellas of [[Chan Chan]] and [[Tambo Colorado]], both in Peru.
+
+==Thermal properties==
+An adobe wall can serve as a significant heat reservoir due to the thermal properties inherent in the massive walls typical in adobe construction.  In desert and other climates typified by hot days and cool nights, the high thermal mass of adobe levels out the heat transfer through the wall to the living space.  The massive walls require a large and relatively long input of heat from the sun ([[radiation]]) and from the surrounding air ([[convection]]) before they warm through to the interior and begin to transfer heat to the living space.  After the sun sets and the temperature drops, the warm wall will then continue to transfer heat to the interior for several hours due to the time lag effect.  Thus a well-planned adobe wall of the appropriate thickness is very effective at controlling inside temperature through the wide daily fluctuations typical of desert climates, a factor which has contributed to its longevity as a building material.  In addition, the exterior of an adobe wall can be covered with glass to increase heat collection.  In a [[passive solar heating|passive solar]] home, this is called a [[Trombe wall]].
+
+==Adobe wall construction==
+&lt;center&gt;{{wide image|Ancient Bam, 2002.png|1000px|&lt;center&gt;The [[citadel]] of [[Arg-é Bam]]: The world's largest adobe structure, dating to at least 500 BC.&lt;/center&gt;}}&lt;/center&gt;
+
+When building an adobe structure, the ground should be compressed because the weight of adobe bricks is significantly greater than a frame house and may cause cracking in the wall.  The footing is dug and compressed once again.  Footing depth depends on the region and its ground frost level.  The footing and stem wall are commonly 24&quot; and 14&quot;, much larger than a frame house because  of the weight of the walls.  Adobe bricks are laid by course.  Each [[Course (architecture)|course]] is laid the whole length of the wall, overlapping at the corners on a layer of adobe mortar.  Adobe walls usually never rise above 2 stories because they're load bearing and have low structural strength.  When placing window and door openings, a [[lintel]] is placed on top of the opening to support the bricks above.  Within the last courses of brick, bond beams are laid across the top of the bricks to provide a horizontal bearing plate for the roof to distribute the weight more evenly along the wall.  To protect the interior and exterior adobe wall, finishes can be applied, such as mud plaster, whitewash or stucco.  These finishes protect the adobe wall from water damage, but need to be reapplied periodically, or the walls can be finished with other nontraditional plasters providing longer protection.
+
+==Adobe roof==
+The traditional adobe roof has been generally constructed using a mixture of soil/clay, water, sand, and other available organic materials.  The mixture was then formed and pressed into wood forms producing rows of dried, earth bricks that would then be laid across a support structure of wood and plastered into place with more adobe. For a deeper understanding of adobe, one might examine a cob building.  [[Cob (building)|Cob]], a close cousin to adobe, contains proportioned amounts of soil, clay, water, manure, and straw.  This is blended, but not formed like adobe.  Cob is spread and piled around a frame and allowed to air dry for several months before habitation.  Adobe, then, can be described as dried bricks of cob, stacked and mortared together with more adobe mixture to create a thick wall and/or roof.  
+
+===Roof materials===
+Depending on the materials available, a roof can be assembled using lengths of wood or metal to create a frame work to begin layering adobe bricks. Depending on the thickness of the adobe bricks, the frame work has been performed using a steel framing and a layering of a metal fencing or wiring over the framework to allow an even load as masses of adobe are spread across the metal fencing like cob and allowed to air dry accordingly.  This method was demonstrated with an adobe blend heavily impregnated with cement to allow even drying and prevent major cracking.
+
+===Traditional adobe roof===
+More traditional adobe roofs were often flatter than the familiar steeped roof as the native climate yielded more sun and heat than mass amounts of snow or rain that would find use in precipitous roofs.  Moisture, however, is often foe to a composite of mud and organic matter, so the introduction of cement is often more common to help ward off any undue water damage.  It is at this turn that sense is required before the construction of any adobe is begun; be sure that the location for such a structure is similar to the climate it naturally comes from (that is, a hot, arid climate.)  Cool and moist climates would do well with moisture precautions planned out.
+
+===Raising a traditional adobe roof===
+To raise a flattened adobe roof, beams of wood or metal should be assembled and span the extent of the building.  The ends of the beams should then be fixed to the tops of the walls using the builder’s preferred choice of attachments.  Taking into account the material the beams and walls are made from, choosing the attachments may prove difficult.  In combination to the bricks and adobe mortar that are laid across the beams creates an even load-bearing pressure that can last for many years depending on attrition. 
+
+Once the beams are laid across the building, it is then time to begin the placing of adobe bricks to create the roof.  An adobe roof is often laid with bricks slightly larger in width to ensure a larger expanse is covered when placing the bricks onto the beams.  This wider shape also provides the future homeowner with thermal protection enough to stabilize an even temperature through out the year.  Following each individual brick should be a layer of adobe mortar, recommended to be at least an inch thick to make certain there is ample strength between the brick’s edges and also to provide a relative moisture barrier during the seasons where the arid climate does produce rain. {{Fact|date=October 2008}}
+
+===Attributes===
+Adobe roofs can be inherently fire-proof, an attribute well received when the fireplace is kept lit during the cold nights, depending on the materials used.  This feature leads the homeowner and builders to begin thinking about the installation of a chimney, a feat regarded as a necessity in any adobe building.  The construction of the chimney can also greatly influence the construction of the roof supports, creating an extra need for care in choosing the right materials.  An adobe chimney can be made from simple adobe bricks and stacked in similar fashion as the surrounding walls.  Basically outline the location and perimeter of the hearth, minding the safety elements common to a fireplace, and begin to stack and mortar the walls with pre-made adobe bricks, cut to size.
+
+==Around the world==
+&lt;gallery&gt;
+Image:RomaniaDanubeDelta MakingMaterialForCOnstructing0003jpg.JPG|Still in production today, [[Romania]]'s [[Danube Delta]]
+Image:RomaniaDanubeDelta MakingMaterialForCOnstructing0002jpg.JPG|Mixing mud and straw in brick frames
+Image:RomaniaDanubeDelta MakingMaterialForCOnstructing0001jpg.JPG|Community effort
+Image:RomaniaDanubeDelta MakingMaterialForCOnstructing0004jpg.JPG|Frame removed and drying
+Image:Milyanfan-adobe-brick-house-8039.jpg|Adobe brick house under construction in [[Kyrgyzstan]]
+Image: Sa'dah 02.jpg|House in [[Sa'dah]], [[Yemen]]
+Image:AdobeHouseVrancea.JPG|Adobe brick house under construction in [[Romania]]
+&lt;/gallery&gt;
+
+==See also==
+* [[Cob (building)]]
+* [[Compressed earth block]]
+* [[Great Mosque of Djenné]]
+* [[Hassan Fathy]] 
+* [[Mudbrick]]
+* [[Rammed Earth]]
+* [[Sod house]]
+* [[Super Adobe]]
+* [[Qalat (fortress)]]
+
+==Notes==
+&lt;references/&gt;
+
+==External links==
+{{commonscat|Mud buildings}}
+{{commonscat|Mudbricks}}
+{{Wiktionary|adobe}}
+* [http://www.buildingwithawareness.com/ ''Building With Awareness'' - A detailed how-to DVD video that shows adobe wall construction and their use as thermal mass walls]
+* [http://www.calearth.org &quot;Cal-Earth&quot; (The California Institute of Earth Art and Architecture)] has developed a patented system called Superadobe, in which bags filled with stabilized earth are layered with strands of barbed wire to form a structure strong enough to withstand earthquakes, fire and flood.
+* [http://www.eartharchitecture.org Earth Architecture] - A website whose focus is contemporary issues in earth architecture.
+* [http://www.eartha.org.uk/ &quot;Earth Architecture and Conservation in East Anglia&quot;] - British organisation that focuses on the proper maintenance and conservation of earth buildings in a region of the UK that has a long history of building with mud.
+* [http://www.kerpic.org Kerpic.org] - A website on earthen architecture researches stabilized with gypsum.
+* [http://www.kleiwerks.org '&quot;Kleiwerks'&quot;] - International organization recognized for their unique contribution to modern earthen and natural building techniques throughout the world, their focus is on education through hands on experience. Very experienced experts are contactable and there are regular demonstrations in the area.
+*[http://www.sensaciones.de/ Valle de Sensaciones] - Artistic construction with adobe, Experimental ground and theme park for creative living close to nature
+
+[[Category:Building materials]]
+[[Category:Masonry]]
+[[Category:Appropriate technology]]
+[[Category:Arabic words and phrases]]
+[[Category:Requests for audio pronunciation (English)]]
+[[Category:Requests for audio pronunciation (Spanish)]]
+[[Category:Spanish loanwords]]
+
+[[ar:طوب]]
+[[an:Adoba]]
+[[ay:Tika]]
+[[bg:Кирпич]]
+[[ca:Tova]]
+[[cv:Саман]]
+[[cs:Vepřovice]]
+[[de:Lehmziegel]]
+[[es:Adobe]]
+[[eo:Adobo]]
+[[eu:Adobe]]
+[[fa:خشت]]
+[[fr:Adobe (brique)]]
+[[gl:Adobe]]
+[[hr:Adobe]]
+[[it:Adobe (mattone)]]
+[[hu:Vályog]]
+[[mk:Ќерпич]]
+[[nah:Xamitl]]
+[[nl:Adobe-(bouw)stenen]]
+[[ja:アドベ]]
+[[pl:Cegła suszona]]
+[[pt:Adobe]]
+[[ro:Chirpici]]
+[[qu:Tika]]
+[[ru:Саман]]
+[[fi:Savitiili]]
+[[sv:Adobe (byggmaterial)]]
+[[tl:Adobe (arkitektura)]]
+[[tr:Kerpiç]]
+[[uk:Саман]]

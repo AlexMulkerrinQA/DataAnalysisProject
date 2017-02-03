@@ -1,0 +1,575 @@
+      {{Otheruses}}
+{{Infobox Philosopher
+|region           = Western philosophy
+|era              = [[Ancient philosophy]]
+|color            = #B0C4DE
+|image_name       = Aristotle Altemps Inv8575.jpg
+|image_caption    = Marble bust of Aristotle. Roman copy after a Greek bronze original by [[Lysippus]] c. 330 BC. The alabaster mantle is modern
+|name             ={{polytonic|Ἀριστοτέλης}}, ''Aristotélēs''
+|birth_date       =384 BCE&lt;br /&gt;[[Stageira]], [[Chalcidice]]
+|death_date       =322 BCE&lt;br /&gt;[[Euboea]]
+|school_tradition = [[Peripatetic school]]&lt;br /&gt;[[Aristotelianism]]
+|main_interests   = [[Physics]], [[Metaphysics]], [[Poetry]], [[Theatre]], [[Music]], [[Rhetoric]], [[Politics]], [[Government]], [[Ethics]], [[Biology]], [[Zoology]]
+|notable_ideas    = [[Golden mean (philosophy)|Golden mean]], [[Reason]], [[Logic]], Passion
+|influences       = [[Parmenides]], [[Socrates]], [[Plato]], [[Heraclitus]], [[Democritus]]
+|influenced       = [[Alexander the Great]], [[Avicenna]], [[Averroes]], [[Maimonides]], [[Albertus Magnus]], [[Thomas Aquinas]], [[Duns Scotus]], [[Ptolemy]], [[Copernicus]], [[Galileo]], and most of [[Islamic philosophy]], [[Jewish philosophy]], [[Christian philosophy]], [[Western philosophy]], [[science]] and '''[[List of writers influenced by Aristotle|more...]]'''.
+|box_width        = 26em}}
+
+{{Aristotelianism}}
+'''Aristotle''' ({{lang-el|Ἀριστοτέλης}}, ''Aristotélēs'') (384 BC – 322 BC) was a [[Greeks|Greek]] philosopher, a student of [[Plato]] and teacher of [[Alexander the Great]]. He wrote on many subjects, including physics, [[metaphysics]], [[Poetics (Aristotle)|poetry]], theater, music, logic, rhetoric, politics, government, ethics, biology, and zoology. 
+Together with Plato and [[Socrates]] (Plato's teacher), Aristotle is one of the most important founding figures in [[Western philosophy]]. He was the first to create a comprehensive system of Western philosophy, encompassing morality and aesthetics, logic and science, politics and metaphysics.
+
+Aristotle's views on the [[Aristotelian physics|physical sciences]] profoundly shaped medieval scholarship, and their influence extended well into the [[Renaissance]], although they were ultimately replaced by Newtonian Physics. In the biological sciences, some of his observations were confirmed to be accurate only in the nineteenth century. His works contain the earliest known formal study of logic, which was incorporated in the late nineteenth century into modern [[formal logic]]. In metaphysics, [[Aristotelianism]] had a profound influence on [[Judeo-Islamic philosophies (800 - 1400)|philosophical and theological thinking in the Islamic and Jewish traditions]] in the [[Middle Ages]], and it continues to influence [[Christian theology]], especially [[Eastern Orthodox Christian theology|Eastern Orthodox theology]], and the [[scholasticism|scholastic]] tradition of the [[Catholic Church]]. His ethics, though always influent, gained renewed interest with the modern advent of [[virtue ethics]]. All aspects of Aristotle's philosophy continue to be the object of active academic study today.
+
+Though Aristotle wrote many elegant treatises and dialogues ([[Cicero]] described his literary style as &quot;a river of gold&quot;),&lt;ref&gt;{{cite web
+  | last =Cicero
+  | first =Marcus Tullius
+  | authorlink =
+  | coauthors =
+  | title =&quot;flumen orationis aureum fundens Aristoteles&quot;
+  | work =Acadmeica
+  | publisher =
+  | date =106BC-43BC
+  | url =http://www2.cddc.vt.edu/gutenberg/1/4/9/7/14970/14970-h/14970-h.htm#BkII_119
+  | format =
+  | doi =
+  | accessdate =25-Jan-2007 }}&lt;/ref&gt; it is thought that the majority of his writings are now lost and only about one-third of the original works have survived.&lt;ref&gt;[[Jonathan Barnes]], &quot;Life and Work&quot; in ''The Cambridge Companion to Aristotle'' (1995), p. 9.&lt;/ref&gt;
+
+==Life==
+Aristotle was born in [[Stageira]], [[Chalcidice]], in 384 BC, about {{convert|55|km|0|abbr=on}} east of modern-day [[Thessaloniki]].&lt;ref&gt;{{cite book | title = Aristotle: The Dancing Queen, The Great Philosophers | author = McLeish, Kenneth | publisher = Routledge | year = 1999 | isbn = 0-415-92392-1 | page = 5}}&lt;/ref&gt; His father [[Nicomachus (father of Aristotle)|Nicomachus]] was the personal physician to [[Amyntas III of Macedon|King Amyntas of Macedon]]. Aristotle was trained and educated as a member of the [[aristocracy]]. At about the age of eighteen, he went to [[Athens]] to continue his education at [[Platonic Academy|Plato's Academy]]. Aristotle remained at the academy for nearly twenty years, not leaving until after Plato's death in 347 BC. He then traveled with [[Xenocrates]] to the court of his friend [[Hermias of Atarneus]] in Asia Minor. While in Asia, Aristotle traveled with [[Theophrastus]] to the island of [[Lesbos Island|Lesbos]], where together they researched the [[botany]] and zoology of the island. Aristotle married Hermias's adoptive daughter (or niece) [[Pythias]]. She bore him a daughter, whom they named Pythias. Soon after Hermias' death, Aristotle was invited by [[Philip II of Macedon]] to become the tutor to his son [[Alexander the Great]] in 343 B.C.&lt;ref name=&quot;philosophy1972&quot;&gt;Bertrand Russell, &quot;A History of Western Philosophy&quot;, Simon &amp; Schuster, 1972&lt;/ref&gt;
+[[Image:Arabic aristotle.jpg|thumb|left|upright|Early Islamic portrayal of Aristotle]]
+[[Image:Aristotle in Nuremberg Chronicle.jpg|thumb|upright|Aristotle portrayed in the 1493 ''[[Nuremberg Chronicle]]'' as a 15th-century-A.D. scholar]]
+Aristotle was appointed as the head of the royal academy of [[Macedon]]. During that time he gave lessons not only to Alexander, but also to two other future kings: [[Ptolemy I Soter|Ptolemy]] and [[Cassander]]. In his ''Politics'', Aristotle states that only one thing could justify monarchy, and that was if the virtue of the king and his family were greater than the virtue of the rest of the citizens put together. Tactfully, he included the young prince and his father in that category. Aristotle encouraged Alexander toward eastern conquest, and his attitude towards Persia was unabashedly ethnocentric. In one famous example, he counsels Alexander to be 'a leader to the Greeks and a despot to the barbarians, to look after the former as after friends and relatives, and to deal with the latter as with beasts or plants'.&lt;ref&gt;Peter Green, ''Alexander of Macedon'', 1991 University of California Press, Ltd. Oxford, England. Library of Congress Cataloging-in-Publication Data, p.58-59&lt;/ref&gt; Near the end of Alexander's life he began to suspect plots, and threatened Aristotle in letters. Aristotle had made no secret of his contempt for Alexander's pretense of divinity, and the king had executed Aristotle's grandnephew [[Callisthenes]] as a traitor. A widespread tradition in antiquity suspected Aristotle of playing a role in Alexander's death, but there is little evidence for this.&lt;ref&gt;Peter Green, ''Alexander of Macedon'', 1991 University of California Press, Ltd. Oxford, England. Library of Congress Cataloging-in-Publication Data, p.379,459&lt;/ref&gt;
+
+By 335 BC he had returned to Athens, establishing his own school there known as the [[Lyceum]]. Aristotle conducted courses at the school for the next twelve years. While in Athens, his wife Pythias died and Aristotle became involved with [[Herpyllis]] of [[Stageira]], who bore him a son whom he named after his father, [[Nicomachus (son of Aristotle)|Nicomachus]]. According to the [[Suda]], he also had an [[eromenos]], [[Palaephatus|Palaephatus of Abydus]].&lt;ref&gt;William George Smith,''Dictionary of Greek and Roman Biography and Mythology'', vol. 3, [http://www.ancientlibrary.com/smith-bio/2421.html p. 88]&lt;/ref&gt;
+
+It is during this period in Athens from 335 B.C. to 323 B.C. when Aristotle is believed to have composed many of his works.&lt;ref name=&quot;philosophy1972&quot;/&gt; Aristotle wrote many dialogues, only fragments of which survived. The works that have survived are in [[treatise]] form and were not, for the most part, intended for widespread publication, as they are generally thought to be lecture aids for his students. His most important treatises include ''[[Physics (Aristotle)|Physics]]'', ''[[Metaphysics (Aristotle)|Metaphysics]]'', ''[[Nicomachean Ethics]]'', ''[[Politics (Aristotle)|Politics]]'', ''[[De Anima]] (On the Soul)'' and ''[[Poetics (Aristotle)|Poetics]]''.
+
+Aristotle not only studied almost every subject possible at the time, but made significant contributions to most of them. In physical science, Aristotle studied anatomy, astronomy, economics, [[embryology]], geography, geology, meteorology, physics and zoology. In philosophy, he wrote on aesthetics, ethics, government, metaphysics, politics, psychology, rhetoric and theology. He also studied education, foreign customs, literature and poetry. His combined works constitute a virtual encyclopedia of Greek knowledge. It has been suggested that Aristotle was probably the last person to know everything there was to be known in his own time.&lt;ref&gt;{{cite book
+ | last =Neill
+ | first =Alex
+ | coauthors =Aaron Ridley
+ | title =The Philosophy of Art: Readings Ancient and Modern
+ | publisher =McGraw Hill
+ | year =1995
+ | page =488
+ | url =http://www.amazon.com/dp/0070461929/
+}}&lt;/ref&gt;
+
+Upon Alexander's death, anti-Macedonian sentiment in Athens once again flared. [[Eurymedon the hierophant]] denounced Aristotle for not holding the gods in honor. Aristotle fled the city to his mother's family estate in [[Chalcis]], explaining, &quot;I will not allow the Athenians to sin twice against philosophy,&quot;&lt;ref&gt;{{cite book
+ | last =Jones
+ | first =W.T.
+ | title =The Classical Mind: A History of Western Philosophy
+ | publisher =Harcourt Brace Jovanovich
+ | year =1980
+ | page =216
+ | url =http://www.amazon.com/dp/0155383124/
+}}, cf. ''Vita Marciana'' 41.&lt;/ref&gt; a reference to Athens's prior [[Trial of Socrates|trial and execution of Socrates]]. However, he died in Euboea of natural causes within the year (in 322 BC). Aristotle named chief executor his student [[Antipater]] and left a [[Will (law)|will]] in which he asked to be buried next to his wife.&lt;ref&gt;Aufstieg und Niedergang der römischen Welt by Hildegard Temporini, Wolfgang
+Haase[http://books.google.com/books?id=ifqGuiHo6eQC&amp;pg=PA3862&amp;dq=Antipater+Aristotle+will&amp;sig=sQzQVBdRmk-spNdZnyd1MwzAPTc Aristotle's Will]&lt;/ref&gt;
+
+==Logic==
+{{main|Term logic}}
+{{details|Non-Aristotelian logic}}
+
+With the ''[[Prior Analytics]]'', Aristotle is credited with the earliest study of [[formal logic]], and his conception of it was the dominant form of Western logic until 19th century advances in [[mathematical logic]]. [[Kant]] stated in the ''Critique of Pure Reason'' that Aristotle's theory of logic completely accounted for the core of deductive inference.
+===History===
+Aristotle &quot;says that 'on the subject of reasoning' he 'had nothing else on an earlier date to speak of'&quot;.&lt;ref&gt;{{cite book
+ | last =Bocheński
+ | first =I. M.
+ | title =Ancient Formal Logic
+ | publisher =North-Holland Publishing Company
+ | year =1951
+ | location =Amsterdam
+}}&lt;/ref&gt; However, Plato reports that [[syntax]] was devised before him, by [[Prodicus of Ceos]], who was concerned by the correct use of words. Logic seems to have emerged from [[dialectics]]; the earlier philosophers made frequent use of concepts like ''[[reductio ad absurdum]]'' in their discussions, but never truly understood the logical implications. Even Plato had difficulties with logic; although he had a reasonable conception of a [[deduction]] system, he could never actually construct one and relied instead on his [[dialectic]].&lt;ref name=&quot;Bocheński, 1951&quot;&gt;Bocheński, 1951.&lt;/ref&gt; Plato believed that deduction would simply follow from [[premise]]s, hence he focused on maintaining solid premises so that the [[Logical consequence|conclusion]] would logically follow. Consequently, Plato realized that a method for obtaining conclusions would be most beneficial. He never succeeded in devising such a method, but his best attempt was published in his book ''[[Sophist (dialogue)|Sophist]]'', where he introduced his division method.&lt;ref&gt;{{cite book
+ | last =Rose
+ | first =Lynn E.
+ | title =Aristotle's Syllogistic
+ | publisher =Charles C Thomas Publisher
+ | year =1968
+ | location =Springfield
+}}&lt;/ref&gt;
+
+===Analytics and the ''Organon''===
+{{main|Organon}}
+What we today call ''Aristotelian logic'', Aristotle himself would have labeled &quot;analytics&quot;. The term &quot;logic&quot; he reserved to mean ''dialectics''. Most of Aristotle's work is probably not in its original form, since it was most likely edited by students and later lecturers. The logical works of Aristotle were compiled into six books in about the early 1st century AD:
+#''Categories''
+#''On Interpretation''
+#''Prior Analytics''
+#''Posterior Analytics''
+#''Topics''
+#''On Sophistical Refutations''
+
+The order of the books (or the teachings from which they are composed) is not certain, but this list was derived from analysis of Aristotle's writings. It goes from the basics, the analysis of simple terms in the Categories, the analysis of propositions and their elementary relations in the ''peri hermeneias'', to the study of more complex forms, namely, syllogisms (in the Analytics) and dialectics (in the Topics and Sophistical Refutations). The fisrt three treatises form the core of the logical theory ''stricto sensu'': the grammar of the [[langage of logic]] and the correctness rules of reasonings.  There is one volume of Aristotle's concerning logic not found in the ''Organon'', namely the fourth book of ''Metaphysics.''.&lt;ref name=&quot;Bocheński, 1951&quot;/&gt;
+
+==Aristotle's scientific method==
+[[Image:Sanzio 01 Plato Aristotle.jpg|thumb|Plato (left) and Aristotle (right), a detail of ''[[The School of Athens]]''&lt;!-- this should link to an article about the famous artwork --&gt;, a fresco by [[Raphael]]. Aristotle gestures to the earth, representing his belief in knowledge through empirical observation and experience, while holding a copy of his ''[[Nicomachean Ethics]]'' in his hand, whilst Plato gestures to the heavens, representing his belief in [[The Forms]].]]
+{{details|Aristotle's theory of universals}}
+
+Like his teacher Plato, Aristotle's philosophy aims at the [[Universality (philosophy)|universal]]. Aristotle, however, found the universal in [[particular]] things, which he called the essence of things, while Plato finds that the universal exists apart from particular things, and is related to them as their [[prototype]] or [[exemplar]]. For Aristotle, therefore, philosophic method implies the ascent from the study of particular phenomena to the knowledge of essences, while for Plato philosophic method means the descent from a knowledge of universal [[Theory of Forms|Forms]] (or ideas) to a contemplation of particular imitations of these. For Aristotle, &quot;form&quot; still refers to the unconditional basis of [[phenomena]] but is &quot;instantiated&quot; in a particular substance (see ''[[Aristotle#Universals and particulars|Universals and particulars]]'', below). In a certain sense, Aristotle's method is both [[Inductive reasoning|inductive]] and [[Deductive reasoning|deductive]], while Plato's is essentially deductive from ''[[A priori and a posteriori (philosophy)|a priori]]'' principles.&lt;ref&gt;{{cite book
+ | last =Jori
+ | first =Alberto
+ | title =Aristotele
+ | publisher =Bruno Mondadori Editore
+ | year =2003
+ | location =Milano
+}}&lt;/ref&gt;
+
+In Aristotle's terminology, &quot;natural philosophy&quot; is a branch of philosophy examining the phenomena of the natural world, and includes fields that would be regarded today as physics, biology and other natural sciences. In modern times, the scope of ''philosophy'' has become limited to more generic or abstract inquiries, such as ethics and metaphysics, in which logic plays a major role. Today's philosophy tends to exclude empirical study of the natural world by means of the [[scientific method]]. In contrast, Aristotle's philosophical endeavors encompassed virtually all facets of intellectual inquiry.
+
+In the larger sense of the word, Aristotle makes philosophy coextensive with reasoning, which he also would describe as &quot;science&quot;. Note, however, that his use of the term ''science'' carries a different meaning than that covered by the term &quot;scientific method&quot;. For Aristotle, &quot;all science (''dianoia'') is either practical, poetical or theoretical&quot; (''Metaphysics'' 1025b25). By practical science, he means ethics and politics; by poetical science, he means the study of poetry and the other fine arts; by theoretical science, he means physics, [[mathematics]] and metaphysics.
+
+If logic (or &quot;analytics&quot;) is regarded as a study preliminary to philosophy, the divisions of Aristotelian philosophy would consist of: (1) [[Logic]]; (2) Theoretical Philosophy, including Metaphysics, Physics, Mathematics, (3) Practical Philosophy and (4) Poetical Philosophy.
+
+In the period between his two stays in Athens, between his times at the Academy and the Lyceum, Aristotle conducted most of the scientific thinking and research for which he is renowned today. In fact, most of Aristotle's life was devoted to the study of the objects of natural science. Aristotle's metaphysics contains observations on the nature of numbers but he made no original contributions to mathematics. He did, however, perform [[original research]] in the natural sciences, e.g., botany, zoology, physics, astronomy, chemistry, meteorology, and several other sciences.
+
+Aristotle's writings on science are largely qualitative, as opposed to quantitative. Beginning in the sixteenth century, scientists began applying mathematics to the physical sciences, and Aristotle's work in this area was deemed hopelessly inadequate. His failings were largely due to the absence of concepts like mass, velocity, force and temperature. He had a conception of speed and temperature, but no quantitative understanding of them, which was partly due to the absence of basic experimental devices, like clocks and thermometers.
+[[Image:Perseid Meteor.jpg|thumb|A green and red [[Perseids|Perseid]] meteor is striking the sky.]]
+His writings provide an account of many scientific observations, a mixture of precocious accuracy and curious errors. For example, in his ''[[History of Animals]]'' he claimed that human males have more teeth than females&lt;ref&gt;Aristotle, ''History of Animals'', 2.3.&lt;/ref&gt; and in the ''[[Generation of Animals]]'' he said the female is as it were a deformed male.&lt;ref&gt;{{cite book|author=Aristotle|title=Generation of animals|first=1943|date=1953|publisher=Harvard University Press via Google Books|other=Arthur Leslie Peck}}&lt;/ref&gt;
+
+In a similar vein, [[John Philoponus]], and later [[Galileo Galilei|Galileo]], showed by simple experiments that Aristotle's theory that a heavier object falls faster than a lighter object is incorrect.&lt;ref&gt;{{cite web|url=http://plato.stanford.edu/entries/philoponus/#2.2 |title=Stanford Encyclopedia of Philosophy |publisher=Plato.stanford.edu |date= |accessdate=2009-04-26}}&lt;/ref&gt; On the other hand, Aristotle refuted [[Democritus]]'s claim that the [[Milky Way]] was made up of &quot;those stars which are shaded by the earth from the sun's rays,&quot; pointing out (correctly, even if such reasoning was bound to be dismissed for a long time) that, given &quot;current astronomical demonstrations&quot; that &quot;the size of the sun is greater than that of the earth and the distance of the stars from the earth many times greater than that of the sun, then...the sun shines on all the stars and the earth screens none of them.&quot;&lt;ref&gt;Aristotle, ''Meteorology'' 1.8, trans. E.W. Webster, rev. J. Barnes.&lt;/ref&gt;
+
+In places, Aristotle goes too far in deriving 'laws of the universe' from simple observation and over-stretched [[reason]]. Today's [[scientific method]] assumes that such thinking without sufficient facts is ineffective, and that discerning the validity of one's hypothesis requires far more rigorous experimentation than that which Aristotle used to support his laws.
+
+Aristotle also had some scientific blind spots. He posited a geocentric cosmology that we may discern in selections of the ''Metaphysics'', which was widely accepted up until the 1500s. From the 3rd century to the 1500s, the dominant view held that the Earth was the center of the universe ([[geocentrism]]).
+
+Since he was perhaps the philosopher most respected by European thinkers during and after the Renaissance, these thinkers often took Aristotle's erroneous positions as given, which held back science in this epoch.&lt;ref&gt;[[John Burnet (classicist)|Burent, John.]] 1928. ''Platonism'', Berkeley: University of California Press, pp. 61, 103-104.&lt;/ref&gt; However, Aristotle's scientific shortcomings should not mislead one into forgetting his great advances in the many scientific fields. For instance, he founded logic as a formal science and created foundations to biology that were not superseded for two millennia. Moreover, he introduced the fundamental notion that nature is composed of things that change and that studying such changes can provide useful knowledge of underlying constants.
+
+==Physics==
+{{main|Physics (Aristotle)}}
+===The five elements===
+{{main|Classical element}}
+*[[Fire (classical element)|Fire]], which is hot and dry.
+*[[Earth (classical element)|Earth]], which is cold and dry.
+*[[Air (classical element)|Air]], which is hot and wet.
+*[[Water (classical element)|Water]], which is cold and wet.
+*[[Aether (classical element)|Aether]], which is the divine substance that makes up the heavenly spheres and heavenly bodies (stars and planets).
+
+Each of the four earthly elements has its natural place; the earth at the centre of the universe, then water, then air, then fire. When they are out of their natural place they have natural motion, requiring no external cause, which is towards that place; so bodies sink in water, air bubbles rise up, rain falls, flame rises in air. The heavenly element has perpetual circular motion.
+
+===Causality, The Four Causes===&lt;!-- This section is linked from [[Retrocausality]]. See [[WP:MOS#Section management]] --&gt;
+{{main|Four causes}}
+*[[Material cause]] describes the material out of which something is composed. Thus the material cause of a table is wood, and the material cause of a car is rubber and steel. It is not about action. It does not mean one domino knocks over another domino. 
+*The [[formal cause]] tells us what a thing is, that any thing is determined by the definition, form, pattern, essence, whole, synthesis or archetype. It embraces the account of causes in terms of fundamental principles or general laws, as the whole (i.e., macrostructure) is the cause of its parts, a relationship known as the whole-part causation. Plainly put the formal cause according to which a statue or a domino, is made is the idea existing in the first place as exemplar in the mind of the sculptor, and in the second place as intrinsic, determining cause, embodied in the matter. Formal cause could only refer to the essential quality of causation. A more simple example of the formal cause is the blueprint or plan that one has before making or causing a human made object to exist. 
+
+*The [[efficient cause]] is that from which the change or the ending of the change first starts. It identifies 'what makes of what is made and what causes change of what is changed' and so suggests all sorts of agents, nonliving or living, acting as the sources of change or movement or rest. Representing the current understanding of causality as the relation of cause and effect, this covers the modern definitions of &quot;cause&quot; as either the agent or agency or particular events or states of affairs. More simply again that which immediately sets the thing in motion. So take the two dominos this time of equal weighting, the first is knocked over causing the second also to fall over. This is effectively efficient cause.
+*The [[final cause]] is that for the sake of which a thing exists or is done, including both purposeful and instrumental actions and activities. The final cause or telos is the purpose or end that something is supposed to serve, or it is that from which and that to which the change is. This also covers modern ideas of mental causation involving such psychological causes as volition, need, motivation or motives, rational, irrational, ethical, and all that gives purpose to behavior.
+
+Additionally, things can be causes of one another, causing each other reciprocally, as hard work causes fitness and vice versa, although not in the same way or function, the one is as the beginning of change, the other as the goal. (Thus Aristotle first suggested a reciprocal or circular causality as a relation of mutual dependence or influence of cause upon effect). Moreover, Aristotle indicated that the same thing can be the cause of contrary effects; its presence and absence may result in different outcomes. Simply it is the goal or purpose that brings about an event (not necessarily a mental goal). Taking our two dominos, it requires someone to intentionally knock the dominos over as they cannot fall themselves.
+
+Aristotle marked two modes of causation: proper (prior) causation and accidental (chance) causation. All causes, proper and incidental, can be spoken as potential or as actual, particular or generic. The same language refers to the effects of causes, so that generic effects assigned to generic causes, particular effects to particular causes, operating causes to actual effects. Essentially, causality does not suggest a temporal relation between the cause and the effect.
+
+All further investigations of causality will consist of imposing the favorite hierarchies on the order causes, such as final &gt; efficient &gt; material &gt; formal ([[Thomas Aquinas]]), or of restricting all causality to the material and efficient causes or to the efficient causality (deterministic or chance) or just to regular sequences and correlations of natural phenomena (the natural sciences describing how things happen instead of explaining the whys and wherefores).
+
+===Optics===
+Aristotle held more accurate theories on some optical concepts than other philosophers of his day. The earliest known written evidence of a [[camera obscura]] can be found in Aristotle's documentation of such a device in 350 BC in ''Problemata''. Aristotle's apparatus contained a dark chamber that had a single small hole, or [[aperture]], to allow for sunlight to enter. Aristotle used the device to make observations of the sun and noted that no matter what shape the hole was, the sun would still be correctly displayed as a round object. In modern cameras, this is analogous to the [[diaphragm]]. Aristotle also made the observation that when the distance between the tiny hole and the surface with the image increased, the image was amplified.&lt;ref&gt;{{cite web|author=Michael Lahanas |url=http://www.mlahanas.de/Greeks/Optics.htm |title=Optics and ancient Greeks |publisher=Mlahanas.de |date= |accessdate=2009-04-26}}&lt;/ref&gt;
+
+===Chance and spontaneity===
+Spontaneity and chance are causes of effects. Chance as an incidental cause lies in the realm of [[sumbebekos|accidental things]]. It is &quot;from what is spontaneous&quot; (but note that what is spontaneous does not come from chance). For a better understanding of Aristotle's conception of &quot;chance&quot; it might be better to think of &quot;coincidence&quot;: Something takes place by chance if a person sets out with the intent of having one thing take place, but with the result of another thing (not intended) taking place. For example: A person seeks donations. That person may find another person willing to donate a substantial sum. However, if the person seeking the donations met the person donating, not for the purpose of collecting donations, but for some other purpose, Aristotle would call the collecting of the donation by that particular donator a result of chance. It must be unusual that something happens by chance. In other words, if something happens all or most of the time, we cannot say that it is by chance.
+
+There is also more specific kind of chance, which Aristotle names &quot;luck&quot;, that can only apply to human beings, since it is in the sphere of moral actions. According to Aristotle, luck must involve choice (and thus deliberation), and only humans are capable of deliberation and choice. &quot;What is not capable of action cannot do anything by chance&quot;.&lt;ref&gt;Aristotle, ''Physics'' 2.6&lt;/ref&gt;
+
+==Metaphysics==
+[[Image:Uni Freiburg - Philosophen 4.jpg|thumb|Statue of Aristotle (1915) by Cipri Adolf Bermann at the [[University of Freiburg]] [[Freiburg im Breisgau|im Breisgau]]]]
+{{main|Metaphysics (Aristotle)}}
+Aristotle defines metaphysics as &quot;the knowledge of [[immaterial]] being,&quot; or of &quot;being in the highest degree of abstraction.&quot; He refers to metaphysics as &quot;first philosophy&quot;, as well as &quot;the theologic science.&quot;
+
+===Substance, potentiality and actuality===
+{{seealso|Potentiality and actuality (Aristotle)}}
+Aristotle examines the concept of substance and essence (''[[ousia]]'') in his ''Metaphysics'', Book VII and he concludes that a particular substance is a combination of both matter and form. As he proceeds to the book VIII, he concludes that the matter of the substance is the [[Material substratum|substratum]] or the stuff of which it is composed, ''e.g.'' the matter of the house are the bricks, stones, timbers etc., or whatever constitutes the ''potential'' house. While the form of the substance, is the ''actual'' house, namely 'covering for bodies and chattels' or any other [[Genus-differentia definition|differentia]] (see also [[predicables]]). The formula that gives the components is the account of the matter, and the formula that gives the differentia is the account of the form.&lt;ref&gt;Aristotle, ''Metaphysics'' VIII 1043a 10-30&lt;/ref&gt;
+
+With regard to the change (''[[kinesis]]'') and its causes now, as he defines in his [[Physics (Aristotle)|Physics]] and [[On Generation and Corruption]] 319b-320a, he distinguishes the coming to be from: 1) growth and diminution, which is change in quantity; 2) locomotion, which is change in space; and 3) alteration, which is change in quality.
+
+The coming to be is a change where nothing persists of which the resultant is a property. In that particular change he introduces the concept of potentiality (''[[dynamis]]'') and actuality (''[[entelecheia]]'') in association with the matter and the form.
+
+Referring to potentiality, this is what a thing is capable of doing, or being acted upon, if it is not prevented by something else. For example, the seed of a plant in the soil is potentially (''dynamei'') plant, and if is not prevented by something, it will become a plant. Potentially beings can either 'act' (''[[poiein]]'') or 'be acted upon' (''[[paschein]]''), which can be either innate or learned. For example, the eyes possess the potentiality of sight (innate - being acted upon), while the capability of playing the flute can be possessed by learning (exercise - acting).
+
+Actuality is the fulfillment of the end of the potentiality. Because the end (''telos'') is the principle of every change, and for the sake of the end exists potentiality, therefore actuality is the end. Referring then to our previous example, we could say that actuality is when the seed of the plant becomes a plant.
+
+&quot; For that for the sake of which a thing is, is its principle, and the becoming is for the sake of the end; and the actuality is the end, and it is for the sake of this that the potentiality is acquired. For animals do not see in order that they may have sight, but they have sight that they may see.&quot;&lt;ref&gt;Aristotle, ''Metaphysics'' IX 1050a 5-10&lt;/ref&gt;
+
+In conclusion, the matter of the house is its potentiality and the form is its actuality. The [[formal cause]] (''aitia'') then of that change from potential to actual house, is the [[reason]] (''logos'') of the house builder and the [[final cause]] is the end, namely the house itself. Then Aristotle proceeds and concludes that the actuality is prior to potentiality in formula, in time and in substantiality.
+
+With this [[definition]] of the particular substance (i.e., matter and form), Aristotle tries to solve the problem of the unity of the beings, ''e.g.'', what is that makes the man one? Since, according to Plato there are two Ideas: animal and biped, how then is man a unity? However, according to Aristotle, the potential being (matter) and the actual one (form) are one and the same thing.&lt;ref&gt;Aristotle, ''Metaphysics'' VIII 1045a-b&lt;/ref&gt;
+
+===Universals and particulars===
+{{main|Aristotle's theory of universals}}
+
+Aristotle's predecessor, Plato, argued that all things have a universal form, which could be either a property, or a relation to other things. When we look at an apple, for example, we see an apple, and we can also analyze a form of an apple. In this distinction, there is a particular apple and a universal form of an apple. Moreover, we can place an apple next to a book, so that we can speak of both the book and apple as being next to each other.
+
+Plato argued that there are some universal forms that are not a part of particular things. For example, it is possible that there is no particular good in existence, but &quot;good&quot; is still a proper universal form. [[Bertrand Russell]] is a contemporary philosopher that agreed with Plato on the existence of &quot;uninstantiated universals&quot;.
+
+Aristotle disagreed with Plato on this point, arguing that all universals are instantiated. Aristotle argued that there are no universals that are unattached to existing things. According to Aristotle, if a universal exists, either as a particular or a relation, then there must have been, must be currently, or must be in the future, something on which the universal can be predicated. Consequently, according to Aristotle, if it is not the case that some universal can be predicated to an object that exists at some period of time, then it does not exist.
+
+One way for contemporary philosophers to justify this position is by asserting the [[eleatic]] principle.
+
+In addition, Aristotle disagreed with Plato about the location of universals. As Plato spoke of the world of the forms, a location where all universal forms subsist, Aristotle maintained that universals exist within each thing on which each universal is predicated. So, according to Aristotle, the form of apple exists within each apple, rather than in the world of the forms.
+
+==Biology and medicine==
+In Aristotelian science, most especially in biology, things he saw himself have stood the test of time better than his retelling of the reports of others, which contain error and superstition. He dissected animals, but not humans and his ideas on how the human body works have been almost entirely superseded.
+
+===Empirical research program===
+[[Image:Octo2.jpg|thumb|Octopus swimming]]
+[[Image:Torpedo fuscomaculata2.jpg|thumb|''Torpedo fuscomaculata'']]
+Aristotle is the earliest natural historian whose work has survived in some detail. Aristotle certainly did research on the natural history of [[Lesbos]], and the surrounding seas and neighbouring areas. The works that reflect this research, such as ''[[History of Animals]]'', ''[[Generation of Animals]]'', and ''[[Parts of Animals]]'', contain some observations and interpretations, along with sundry myths and mistakes. The most striking passages are about the sea-life visible from observation on Lesbos and available from the catches of fishermen. His observations on [[catfish]], [[Electric ray|electric fish]] (''[[Torpedo (genus)|Torpedo]]'') and angler-fish are detailed, as is his writing on [[cephalopod]]s, namely, ''[[Octopus]]'', ''Sepia'' ([[cuttlefish]]) and the paper nautilus (''[[Argonauta argo]]''). His description of the [[hectocotylus|hectocotyl arm]] was about two thousand years ahead of its time, and widely disbelieved until its rediscovery in the nineteenth century. He separated the aquatic mammals from fish, and knew that sharks and rays were part of the group he called Selachē ([[selachians]]).&lt;ref name=&quot;Singer, Charles 1931&quot;&gt;Singer, Charles. ''A short history of biology''. Oxford 1931.&lt;/ref&gt;
+
+[[Image:Triakis semifasciata.jpg|thumb|Leopard shark]]
+
+Another good example of his methods comes from the ''Generation of Animals'' in which Aristotle describes breaking open fertilized chicken eggs at intervals to observe when visible organs were generated.
+
+He gave accurate descriptions of [[ruminant]]s' four-chambered fore-stomachs, and of the [[Ovoviviparity|ovoviviparous]] embryological development of the [[hound shark]] ''[[Mustelus mustelus]]''.&lt;ref&gt;Emily Kearns, &quot;Animals, knowledge about,&quot; in ''[[Oxford Classical Dictionary]]'', 3rd ed., 1996, p. 92.&lt;/ref&gt;
+
+===Classification of living things===
+Aristotle's classification of living things contains some elements which still existed in the nineteenth century. What the modern zoologist would call vertebrates and invertebrates, Aristotle called 'animals with blood' and 'animals without blood' (he was not to know that complex invertebrates do make use of [[haemoglobin]], but of a different kind from vertebrates). Animals with blood were divided into live-bearing (humans and mammals), and egg-bearing (birds and fish). Invertebrates ('animals without blood') are insects, crustacea (divided into non-shelled – cephalopods – and shelled) and testacea (molluscs). In some respects, this incomplete classification is better than that of [[Linnaeus]], who crowded the invertebrata together into two groups, Insecta and Vermes (worms).
+
+For [[Charles Singer]], &quot;Nothing is more remarkable than [Aristotle's] efforts to [exhibit] the relationships of living things as a ''scala naturae''&quot;&lt;ref name=&quot;Singer, Charles 1931&quot;/&gt; Aristotle's ''History of Animals'' classified organisms in relation to a hierarchical &quot;[[Great chain of being|Ladder of Life]]&quot; (''scala naturae''), placing them according to complexity of structure and function so that higher organisms showed greater vitality and ability to move.&lt;ref&gt;Aristotle, of course, is not responsible for the later use made of this idea by clerics.&lt;/ref&gt;
+
+Aristotle believed that intellectual purposes, i.e., [[formal cause]]s, guided all natural processes. Such a [[teleological]] view gave Aristotle cause to justify his observed data as an expression of formal design. Noting that &quot;no animal has, at the same time, both tusks and horns,&quot; and &quot;a single-hooved animal with two horns I have never seen,&quot; Aristotle suggested that Nature, giving no animal both horns and tusks, was staving off vanity, and giving creatures faculties only to such a degree as they are necessary. Noting that ruminants had a multiple stomachs and weak teeth, he supposed the first was to compensate for the latter, with Nature trying to preserve a type of balance.&lt;ref&gt;Mason, ''A History of the Sciences'' pp 43-44&lt;/ref&gt;
+
+In a similar fashion, Aristotle believed that creatures were arranged in a graded scale of perfection rising from plants on up to man, the ''scala naturae'' or [[Great Chain of Being]].&lt;ref&gt;Mayr, ''The Growth of Biological Thought'', pp 201-202; see also: Lovejoy, ''The Great Chain of Being''&lt;/ref&gt; His system had eleven grades, arranged according &quot;to the degree to which they are infected with potentiality&quot;, expressed in their form at birth. The highest animals laid warm and wet creatures alive, the lowest bore theirs cold, dry, and in thick eggs.
+
+Aristotle also held that the level of a creature's perfection was reflected in its form, but not preordained by that form. Ideas like this, and his ideas about souls, are not regarded as science at all in modern times.
+
+He placed emphasis on the type(s) of soul an organism possessed, asserting that plants possess a vegetative soul, responsible for reproduction and growth, animals a vegetative and a sensitive soul, responsible for mobility and sensation, and humans a vegetative, a sensitive, and a rational soul, capable of thought and reflection.&lt;ref&gt;Aristotle, ''De Anima'' II 3&lt;/ref&gt;
+
+Aristotle, in contrast to earlier philosophers, but in accordance with the Egyptians, placed the rational soul in the heart, rather than the brain.&lt;ref&gt;Mason, ''A History of the Sciences'' pp 45&lt;/ref&gt; Notable is Aristotle's division of sensation and thought, which generally went against previous philosophers, with the exception of [[Alcmaeon of Croton|Alcmaeon]].&lt;ref&gt;Guthrie, ''A History of Greek Philosophy'' Vol. 1 pp. 348&lt;/ref&gt;
+
+===Successor: Theophrastus===
+[[Image:161Theophrastus 161 frontespizio.jpg|thumb|Frontispiece to a 1644 version of the expanded and illustrated edition of ''[[Historia Plantarum]]'' (ca. 1200), which was originally written around 200 BC]]
+{{main|Theophrastus|Historia Plantarum}}
+Aristotle's successor at the [[Lyceum]], [[Theophrastus]], wrote a series of books on botany—the ''[[Historia Plantarum|History of Plants]]''—which survived as the most important contribution of antiquity to botany, even into the [[Middle Ages]]. Many of Theophrastus' names survive into modern times, such as ''carpos'' for fruit, and ''pericarpion'' for seed vessel.
+
+Rather than focus on formal causes, as Aristotle did, Theophrastus suggested a mechanistic scheme, drawing analogies between natural and artificial processes, and relying on Aristotle's concept of the [[efficient cause]]. Theophrastus also recognized the role of sex in the reproduction of some higher plants, though this last discovery was lost in later ages.&lt;ref&gt;Mayr, ''The Growth of Biological Thought'', pp 90-91; Mason, ''A History of the Sciences'', p 46&lt;/ref&gt;
+
+===Influence on Hellenistic medicine===
+{{details|Medicine in ancient Greece}}
+After Theophrastus, the Lyceum failed to produce any original work. Though interest in Aristotle's ideas survived, they were generally taken unquestioningly.&lt;ref&gt;Annas, ''Classical Greek Philosophy'' pp 252&lt;/ref&gt; It is not until the age of [[Alexandria]] under the [[Ptolemaic dynasty|Ptolemies]] that advances in biology can be again found.
+
+The first medical teacher at Alexandria [[Herophilos|Herophilus of Chalcedon]], corrected Aristotle, placing intelligence in the brain, and connected the nervous system to motion and sensation. Herophilus also distinguished between [[vein]]s and [[artery|arteries]], noting that the latter [[pulse]] while the former do not.&lt;ref&gt;Mason, ''A History of the Sciences'' pp 56&lt;/ref&gt; Though a few ancient [[atomism|atomists]] such as [[Lucretius]] challenged the [[teleology|teleological]] viewpoint of Aristotelian ideas about life, teleology (and after the rise of Christianity, [[natural theology]]) would remain central to biological thought essentially until the 18th and 19th centuries. [[Ernst Mayr]] claimed that there was &quot;nothing of any real consequence in biology after Lucretius and Galen until the Renaissance.&quot;&lt;ref&gt;Mayr, ''The Growth of Biological Thought'', pp 90-94; quotation from p 91&lt;/ref&gt; Aristotle's ideas of natural history and medicine survived, but they were generally taken unquestioningly.&lt;ref&gt;Annas, ''Classical Greek Philosophy'', p 252&lt;/ref&gt;
+
+==Practical philosophy==
+===Ethics===
+{{main|Aristotelian ethics}}
+
+Aristotle considered ethics to be a practical science, i.e., one mastered by doing rather than merely reasoning. Further, Aristotle believed that ethical knowledge is not certain knowledge (such as metaphysics or [[epistemology]]) but is general knowledge. He wrote several treatises on ethics, including most notably, ''[[Nichomachean Ethics]]'', in which he outlines what is commonly called [[virtue ethics]].
+
+Aristotle taught that virtue has to do with the proper function of a thing. An eye is only a good eye in so much as it can see, because the proper function of an eye is sight. Aristotle reasoned that man must have a function uncommon to anything else, and that this function must be an activity of the soul. Aristotle identified the best activity of the soul as [[eudaimonia]]: a happiness or joy that pervades the good life. Aristotle taught that to achieve the good life, one must live a balanced life and avoid excess. This balance, he taught, varies among different persons and situations, and exists as a [[Golden mean (philosophy)|golden mean]] between two vices - one an excess and one a deficiency.
+
+===Politics===
+{{main|Politics (Aristotle)}}
+In addition to his works on ethics, which address the individual, Aristotle addressed the city in his work titled ''[[Politics (Aristotle)|Politics]]''. Aristotle's conception of the city is organic, and he is considered one of the first to conceive of the city in this manner.&lt;ref&gt;{{cite book | last =Ebenstein | first =Alan | coauthors =William Ebenstein | title =Introduction to Political Thinkers | publisher =Wadsworth Group | year =2002 | page =59}}&lt;/ref&gt; Aristotle considered the city to be a natural community. Moreover, he considered the city to be prior to the [[family]] which in turn is prior to the individual, i.e., last in the order of becoming, but first in the order of being &lt;!-- (1253a19-24) --&gt;. He is also famous for his statement that &quot;man is by nature a political animal.&quot; Aristotle conceived of politics as being like an [[organism]] rather than like a [[machine]], and as a collection of parts none of which can exist without the others.
+
+It should be noted that the modern understanding of a political community is that of the state. However, the state was foreign to Aristotle. He referred to political communities as cities. Aristotle understood a city as a political &quot;partnership&quot; &lt;!-- (1252a1) --&gt; and not one of a [[social contract]] (or compact) or a political community as understood by [[Niccolò Machiavelli]]. Subsequently, a city is created not to avoid injustice or for economic stability &lt;!-- (1280b29-31) --&gt;, but rather to live a good life: &quot;The political partnership must be regarded, therefore, as being for the sake of noble actions, not for the sake of living together&quot; &lt;!-- (1281a1-3) --&gt;. This can be distinguished from the social contract theory which individuals leave the [[state of nature]] because of &quot;fear of violent death&quot; or its &quot;inconveniences.&quot;&lt;ref&gt;For a different reading of social and economic processes in the ''Nicomacean Ethics'' and ''Politics'' see Polanyi, K. (1957) &quot;Aristotle Discovers the Economy&quot; in ''Primitive, Archaic and Modern Economies: Essays of Karl Polanyi'' ed. G. Dalton, Boston 1971, 78-115&lt;/ref&gt;
+
+===Rhetoric and poetics===
+{{main|Rhetoric (Aristotle)|Poetics (Aristotle)}}
+Aristotle considered [[epic poetry]], tragedy, comedy, [[Dithyramb|dithyrambic poetry]] and music to be [[Mimesis|imitative]], each varying in imitation by media, object, and manner.&lt;ref&gt;Aristotle, ''Poetics'' I 1447a&lt;/ref&gt; For example, music imitates with the media of rhythm and harmony, whereas dance imitates with rhythm alone, and poetry with language. The forms also differ in their object of imitation. Comedy, for instance, is a dramatic imitation of men worse than average; whereas tragedy imitates men slightly better than average. Lastly, the forms differ in their manner of imitation - through narrative or character, through change or no change, and through drama or no drama.&lt;ref&gt;Aristotle, ''Poetics'' III&lt;/ref&gt; Aristotle believed that imitation is natural to mankind and constitutes one of mankind's advantages over animals.&lt;ref&gt;Aristotle, ''Poetics'' IV&lt;/ref&gt;
+
+While it is believed that Aristotle's ''Poetics'' comprised two books - one on comedy and one on tragedy - only the portion that focuses on tragedy has survived. Aristotle taught that tragedy is composed of six elements: plot-structure, character, style, spectacle, and lyric poetry.&lt;ref&gt;Aristotle, ''Poetics'' VI&lt;/ref&gt; The characters in a tragedy are merely a means of driving the story; and the plot, not the characters, is the chief focus of tragedy. Tragedy is the imitation of action arousing pity and fear, and is meant to effect the [[catharsis]] of those same emotions. Aristotle concludes ''Poetics'' with a discussion on which, if either, is superior: epic or tragic [[mimesis]]. He suggests that because tragedy possesses all the attributes of an epic, possibly possesses additional attributes such as spectacle and music, is more unified, and achieves the aim of its mimesis in shorter scope, it can be considered superior to epic.&lt;ref&gt;Aristotle, ''Poetics'' XXVI&lt;/ref&gt;
+
+Aristotle was a keen systematic collector of riddles, folklore, and proverbs; he and his school had a special interest in the riddles of the [[Pythia|Delphic Oracle]] and studied the fables of [[Aesop]].&lt;ref&gt;Temple, Olivia, and Temple, Robert (translators), [http://books.google.com/books?id=ZB-rVxPvtPEC&amp;pg=PR3&amp;source=gbs_selected_pages&amp;cad=0_0 The Complete Fables By Aesop] Penguin Classics, 1998. ISBN 0140446494 Cf. Introduction, pp. xi-xii.&lt;/ref&gt;
+
+==Loss of his works==
+According to a distinction that originates with Aristotle himself, his writings are divisible into two groups: the &quot;exoteric&quot; and the &quot;esoteric&quot;.&lt;ref&gt;[[Jonathan Barnes]], &quot;Life and Work&quot; in ''The Cambridge Companion to Aristotle'' (1995), p. 12; Aristotle himself: ''Nichomachean Ethics'' 1102a26-27. Aristotle himself never uses the term &quot;esoteric&quot; or &quot;acroamatic&quot;. For other passages where Aristotle speaks of ''exōterikoi logoi'', see [[W. D. Ross]], ''Aristotle's Metaphysics'' (1953), vol. 2, pp. 408-410. Ross defends an interpretation according to which the phrase, at least in Aristotle's own works, usually refers generally to &quot;discussions not peculiar to the [[Peripatetic]] school&quot;, rather than to specific works of Aristotle's own.&lt;/ref&gt; Most scholars have understood this as a distinction between works Aristotle intended for the public (exoteric), and the more technical works (esoteric) intended for the narrower audience of Aristotle's students and other philosophers who were familiar with the jargon and issues typical of the Platonic and Aristotelian schools. Another common assumption is that none of the exoteric works is extant - that all of Aristotle's extant writings are of the esoteric kind. Current knowledge of what exactly the exoteric writings were like is scant and dubious, though many of them may have been in dialogue form. (''Fragments'' of some of Aristotle's dialogues have survived.) Perhaps it is to these that [[Cicero]] refers when he characterized Aristotle's writing style as &quot;a river of gold&quot;;&lt;ref&gt;{{cite web
+ | last =Cicero
+ | first =Marcus Tullius
+ | title =&quot;flumen orationis aureum fundens Aristoteles&quot;
+ | work =Academica
+ | date =106BC-43BC
+ | url =http://www2.cddc.vt.edu/gutenberg/1/4/9/7/14970/14970-h/14970-h.htm#BkII_119
+ | accessdate =25 January 2007 |dateformat=dmy}}&lt;/ref&gt; it is hard for many modern readers to accept that one could seriously so admire the style of those works currently available to us.&lt;ref&gt;Barnes, &quot;Life and Work&quot;, p. 12.&lt;/ref&gt; However, some modern scholars have warned that we cannot know for certain that Cicero's praise was reserved specifically for the exoteric works; a few modern scholars have actually admired the concise writing style found in Aristotle's extant works.&lt;ref&gt;Barnes, &quot;Roman Aristotle&quot;, in Gregory Nagy, ''Greek Literature'', Routledge 2001, vol. 8, p. 174 n. 240.&lt;/ref&gt;
+
+One major question in the history of Aristotle's works, then, is how were the exoteric writings all lost, and how did the ones we now possess come to us?&lt;ref&gt;The definitive, English study of these questions is Barnes, &quot;Roman Aristotle&quot;.&lt;/ref&gt; The story of the original manuscripts of the esoteric treatises is described by [[Strabo]] in his ''Geography'' and [[Plutarch]] in his ''[[Parallel Lives]]''.&lt;ref&gt;&quot;Sulla.&quot;&lt;/ref&gt; The manuscripts were left from Aristotle to his successor [[Theophrastus]], who in turn willed them to [[Neleus of Scepsis]]. Neleus supposedly took the writings from Athens to [[Scepsis]], where his heirs let them languish in a cellar until the first century BC, when [[Apellicon of Teos]] discovered and purchased the manuscripts, bringing them back to Athens. According to the story, Apellicon tried to repair some of the damage that was done during the manuscripts' stay in the basement, introducing a number of errors into the text. When [[Lucius Cornelius Sulla]] occupied Athens in 86 BC, he carried off the library of Apellicon to [[Rome]], where they were first published in 60 BC by the grammarian [[Tyrannion of Amisus]] and then by philosopher [[Andronicus of Rhodes]].
+
+[[Carnes Lord]] attributes the popular belief in this story to the fact that it provides &quot;the most plausible explanation for the rapid eclipse of the Peripatetic school after the middle of the third century, and for the absence of widespread knowledge of the specialized treatises of Aristotle throughout the Hellenistic period, as well as for the sudden reappearance of a flourishing Aristotelianism during the first century B.C.&quot;&lt;ref&gt;{{cite book
+ |last=Lord
+ |first=Carnes
+ |title=Introduction to the Politics, by Aristotle
+ |publisher=[[Chicago University Press]]
+ |year=1984
+ |location=Chicago
+ |page=11
+}}&lt;/ref&gt; Lord voices a number of reservations concerning this story, however. First, the condition of the texts is far too good for them to have suffered considerable damage followed by Apellicon's inexpert attempt at repair. Second, there is &quot;incontrovertible evidence,&quot; Lord says, that the treatises were in circulation during the time in which Strabo and Plutarch suggest they were confined within the cellar in Scepsis. Third, the definitive edition of Aristotle's texts seems to have been made in Athens some fifty years before Andronicus supposedly compiled his. And fourth, ancient library catalogues predating Andronicus' intervention list an Aristotelian corpus quite similar to the one we currently possess. Lord sees a number of post-Aristotelian interpolations in the ''[[Politics (Aristotle)|Politics]]'', for example, but is generally confident that the work has come down to us relatively intact.
+
+As the influence of the ''falsafa'' grew in the West, in part due to [[Gerard of Cremona]]'s translations and the spread of [[Averroism]], the demand for Aristotle's works grew. [[William of Moerbeke]] translated a number of them into Latin. When [[Thomas Aquinas]] wrote his [[theology]], working from Moerbeke's translations, the demand for Aristotle's writings grew and the [[Greek language|Greek]] manuscripts returned to the West, stimulating a revival of Aristotelianism in [[Europe]], and ultimately revitalizing European thought through Muslim influence in Spain to fan the embers of the Renaissance.
+
+==Legacy==
+Twenty-three hundred years after his death, Aristotle remains one of the most influential people who ever lived. He was the founder of [[formal logic]], pioneered the study of [[zoology]], and left every future scientist and philosopher in his debt through his contributions to the scientific method.&lt;ref&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/34560/Aristotle |title=Aristotle (Greek philosopher) - Britannica Online Encyclopedia |publisher=Britannica.com |date= |accessdate=2009-04-26}}&lt;/ref&gt;&lt;ref&gt;{{cite book |last= Durant |first=Will |authorlink=Will Durant |title=[[The Story of Philosophy]] |year=1926 (2006) |publisher=Simon &amp; Schuster, Inc. |location=[[United States]] |isbn=9780671739164 |page= 92}}&lt;/ref&gt; Despite these accolades, many of Aristotle's errors held back science considerably. [[Bertrand Russell]] notes that &quot;almost every serious intellectual advance has had to begin with an attack on some Aristotelian doctrine&quot;. Russell also refers to Aristotle's ethics as &quot;repulsive&quot;, and calls his logic &quot;as definitely antiquated as Ptolemaic astronomy&quot;. Russell notes that these errors make it difficult to do historical justice to Aristotle, until one remembers how large of an advance he made upon all of his predecessors.&lt;ref name=&quot;philosophy1972&quot;/&gt;  Of course, the problem of excessive devotion to Aristotle is more a problem of those later centuries and not of Aristotle himself.
+[[Image:Aristoteles Louvre.jpg|thumb|upright|Portrait of Aristoteles. Pentelic marble, copy of the Imperial Period (1st or 2nd century) of a lost [[bronze sculpture]] made by [[Lysippos]].]]
+The immediate influence of Aristotle's work was felt as the Lyceum grew into the [[Peripatetic school]]. Aristotle's notable students included [[Aristoxenus]], [[Dicaearchus]], [[Demetrius of Phalerum]], [[Eudemos of Rhodes]], [[Harpalus]], [[Hephaestion]], [[Meno]], [[Mnason of Phocis]], [[Nicomachus (son of Aristotle)|Nicomachus]], and [[Theophrastus]]. Aristotle's influence over Alexander the Great is seen in the latter's bringing with him on his expedition a host of zoologists, botanists, and researchers. He had also learned a great deal about Persian customs and traditions from his teacher. Although his respect for Aristotle was diminished as his travels made it clear that much of Aristotle's geography was clearly wrong, when the old philosopher released his works to the public, Alexander complained &quot;Thou hast not done well to publish thy acroamatic doctrines; for in what shall I surpass other men if those doctrines wherein I have been trained are to be all men's common property?&quot;&lt;ref&gt;Plutarch, ''Life of Alexander''&lt;/ref&gt;
+
+Aristotle is referred to as &quot;The Philosopher&quot; by [[Scholasticism|Scholastic]] thinkers such as [[Thomas Aquinas]]. See ''[[Summa Theologica]]'', Part I, Question 3, etc. These thinkers blended Aristotelian philosophy with Christianity, bringing the thought of Ancient Greece into the Middle Ages. It required a repudiation of some Aristotelian principles for the sciences and the arts to free themselves for the discovery of modern scientific laws and empirical methods. The medieval English poet [[Geoffrey Chaucer|Chaucer]] describes his student as being happy by having
+:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;'' at his beddes heed'' 
+:''Twenty bookes, clad in blak or reed,''
+:''Of aristotle and his philosophie,''&lt;ref&gt;Geoffrey Chaucer, ''[[The Canterbury Tales]]'', Prologue, lines 295-295&lt;/ref&gt;
+The Italian poet [[Dante Alighieri|Dante]] says of Aristotle in [[The Divine Comedy|the first circles of hell]],
+:''I saw the Master there of those who know,''
+:''Amid the philosophic family,''
+:''By all admired, and by all reverenced;''
+:''There Plato too I saw, and Socrates,''
+:''Who stood beside him closer than the rest.''&lt;ref&gt;''vidi ’l maestro di color che sanno''
+''seder tra filosofica famiglia.''&lt;/br&gt;
+''Tutti lo miran, tutti onor li fanno'':&lt;/br&gt;
+''quivi vid’ïo Socrate e Platone''&lt;/br&gt;
+''che ’nnanzi a li altri più presso li stanno;''&lt;/br&gt; Dante, ''L’Inferno'' (Hell), Canto IV. Lines  131-135&lt;/ref&gt;
+
+Aristotle believed that women are colder than men and thus a lower form of life.&lt;ref&gt;{{cite book|author=Lovejoy, Arthur|title=The Great Chain of Being: A Study of the History of an Idea|location=Cambridge|publisher=Harvard University Press|date=first|date=1964|isbn=0674361539}}&lt;/ref&gt; His assumption carried forward unexamined to [[Galen]] and others for almost two thousand years until the sixteenth century.&lt;ref name=Tuana&gt;{{cite book|author=Tuana, Nancy|title=The Less Noble Sex: Scientific, Religious and Philosophical Conceptions of Women's Nature|date=1993|pages=21, 169|publisher=Indiana University Press|isbn=0-253-36098-6}}&lt;/ref&gt; He also believed that females could not be fully human.&lt;ref&gt;Tuana, ''The Less Noble Sex'' p. 19, and footnote 8 p. 176&lt;/ref&gt; His analysis of procreation is frequently criticized on the grounds that it presupposes an active, ensouling masculine element bringing life to an inert, passive, lumpen female element; it is on these grounds that Aristotle is considered by some feminist critics to have been a [[Misogyny|misogynist]].&lt;ref&gt;{{cite book
+ | last =Harding
+ | first =Sandra
+ | coauthors =Merrill B. Hintikka
+ | title =Discovering Reality,: Feminist Perspectives on Epistemology, Metaphysics, Methodology, and Philosophy of Science
+ | publisher =Springer
+ | date =31 December 1999
+ | page =372
+ | url =http://www.amazon.com/gp/reader/9027714967/
+}}&lt;/ref&gt;
+On the other hand, Aristotle gave equal weight to women's happiness as he did to men's, and commented in his Rhetoric that a society cannot be happy unless women are happy too. In places like Sparta where the lot of women is bad, there can only be half-happiness in society.(see Rhetoric 1.5.6)
+
+The German philosopher [[Friedrich Nietzsche]] has been said to have taken nearly all of his political philosophy from Aristotle.&lt;ref&gt;Durant, p. 86&lt;/ref&gt; However implausible this is, it is certainly the case that Aristotle's rigid separation of action from production, and his justification of the subservience of slaves and others to the virtue - or ''arete'' - of a few justified the ideal of aristocracy. It is [[Martin Heidegger]], not Nietzsche, who elaborated a new interpretation of Aristotle, intended to warrant his deconstruction of scholastic and philosophical tradition. More recently, [[Alasdair MacIntyre]] has attempted to reform what he calls the Aristotelian tradition in a way that is anti-elitist and capable of disputing the claims of both liberals and Nietzscheans.&lt;ref&gt;Kelvin Knight, ''Aristotelian Philosophy'', Polity Press, 2007, ''passim''.&lt;/ref&gt;
+
+==List of works==
+{{main|Corpus Aristotelicum}}
+
+==See also==
+*[[Aristotelian ethics]]
+*[[Aristotelian physics]]
+*[[Aristotelian view of God]]
+*[[List of writers influenced by Aristotle]]
+*[[List of teachings attributed to Aristotle]]
+*[[Corpus Aristotelicum]]
+*[[Conimbricenses]]
+*[[Hylomorphism]]
+*[[Philia]]
+*[[Phronesis]]
+
+==Notes and references==
+{{reflist|2}}
+
+==Further reading==
+The secondary literature on Aristotle is vast. The following references are only a small selection.
+*[[J. L. Ackrill|Ackrill J. L.]] 2001. Essays on Plato and Aristotle, Oxford University Press, USA
+*{{cite book|last=Adler |first=Mortimer J. | authorlink = Mortimer Adler |title=[[Aristotle for Everybody]] |publisher=Macmillan |location=New York |year=1978}} A popular exposition for the general reader.
+*Bakalis Nikolaos. 2005. Handbook of Greek Philosophy: From Thales to the Stoics Analysis and Fragments, Trafford Publishing ISBN 1-4120-4843-5
+*Barnes J. 1995. The Cambridge Companion to Aristotle, Cambridge University Press
+*{{cite book |last=Bocheński |first=I. M. |title=Ancient Formal Logic |publisher=North-Holland Publishing Company |location=Amsterdam |year=1951}}
+*Bolotin, David (1998). ''An Approach to Aristotle's Physics: With Particular Attention to the Role of His Manner of Writing.'' Albany: SUNY Press. A contribution to our understanding of how to read Aristotle's scientific works.
+*[[Myles Burnyeat|Burnyeat, M. F.]] ''et al.'' 1979. Notes on Book Zeta of Aristotle's Metaphysics. Oxford: Sub-faculty of Philosophy
+*Chappell, V. 1973. Aristotle's Conception of Matter, Journal of Philosophy 70: 679-696
+*Code, Alan. 1995. Potentiality in Aristotle's Science and Metaphysics, Pacific Philosophical Quarterly 76
+*Frede, Michael. 1987. Essays in Ancient Philosophy. Minneapolis: University of Minnesota Press
+*Gill, Mary Louise. 1989. Aristotle on Substance: The Paradox of Unity. Princeton: Princeton University Press
+* {{cite book |last=Guthrie |first=W. K. C. |title=A History of Greek Philosophy, Vol. 6 |publisher=[[Cambridge University Press]] |year=1981}}
+*Halper, Edward C. (2007) ''One and Many in Aristotle's Metaphysics, Volume 1: Books Alpha — Delta'', Parmenides Publishing, ISBN 978-1-930972-21-6
+*Halper, Edward C. (2005) ''One and Many in Aristotle's Metaphysics, Volume 2: The Central Books'', Parmenides Publishing, ISBN 978-1-930972-05-6
+*Irwin, T. H. 1988. Aristotle's First Principles. Oxford: Clarendon Press
+* [[Alberto Jori|Jori, Alberto]]. 2003. ''Aristotele'', Milano: Bruno Mondadori Editore (Prize 2003 of the &quot;International Academy of the History of Science&quot;) ISBN 88-424-9737-1
+*Knight, Kelvin. 2007. ''Aristotelian Philosophy: Ethics and Politics from Aristotle to MacIntyre'', Polity Press.
+*Lewis, Frank A. 1991. ''Substance and Predication in Aristotle''. Cambridge: Cambridge University Press.
+*[[G. E. R. Lloyd|Lloyd, G. E. R.]] 1968. ''Aristotle: The Growth and Structure of his Thought''. Cambridge: Cambridge Univ. Pr., ISBN 0-521-09456-9.
+*Lord, Carnes. 1984. Introduction to ''The Politics'', by Aristotle. Chicago: Chicago University Press.
+*Loux, Michael J. 1991. Primary Ousia: An Essay on Aristotle's Metaphysics Ζ and Η. Ithaca, NY: Cornell University Press
+*Owen, G. E. L. 1965c. The Platonism of Aristotle, Proceedings of the British Academy 50 125-150. Reprinted in J. Barnes, M. Schofield, and R. R. K. Sorabji (eds.), Articles on Aristotle, Vol 1. Science. London: Duckworth (1975). 14-34
+*Pangle, Lorraine Smith (2003). ''Aristotle and the Philosophy of Friendship''. Cambridge: Cambridge University Press. Aristotle's conception of the deepest human relationship viewed in the light of the history of philosophic thought on friendship.
+*Reeve, C. D. C. 2000. Substantial Knowledge: Aristotle's Metaphysics. Indianapolis: Hackett.
+* {{cite book |last=Rose |first=Lynn E. | title=Aristotle's Syllogistic |publisher=Charles C Thomas Publisher |location=Springfield |year=1968}}
+* {{cite book |last=Ross |first=Sir David | authorlink = W. D. Ross |title=Aristotle |publisher=Routledge | edition = 6&lt;sup&gt;th&lt;/sup&gt; |location=London |year=1995}} A classic overview by one of Aristotle's most prominent English translators, in print since 1923.
+*Scaltsas, T. 1994. Substances and Universals in Aristotle's Metaphysics. Ithaca: Cornell University Press.
+*Strauss, Leo. &quot;On Aristotle's ''Politics''&quot; (1964), in ''The City and Man'', Chicago; Rand McNally.
+* {{cite book |last=Swanson |first=Judith |title=The Public and the Private in Aristotle's Political Philosoophy |publisher=Cornell University Press |location=Ithaca |year=1992}} 
+* {{cite book |last=Taylor |first=Henry Osborn |url=http://web.archive.org/web/20060211201625/http://www.ancientlibrary.com/medicine/index.html |title=Greek Biology and Medicine |year=1922 |chapter=Chapter 3: Aristotle's Biology | chapterurl = http://web.archive.org/web/20060327222953/http://www.ancientlibrary.com/medicine/0051.html}}
+* {{cite book |last=Veatch |first=Henry B. | authorlink = Henry Babcock Veatch |title=Aristotle: A Contemporary Appreciation |publisher=Indiana U. Press |location=Bloomington |year=1974}} For the general reader.
+*Woods, M. J. 1991b. &quot;Universals and Particular Forms in Aristotle's Metaphysics.&quot; Oxford Studies in Ancient Philosophy supplement. 41-56
+
+==External links==
+{{sisterlinks}}
+*[http://www.newadvent.org/cathen/01713a.htm The Catholic Encyclopedia] (general article)
+*[http://www.utm.edu/research/iep/a/aristotl.htm The Internet Encyclopedia of Philosophy] (general article)
+*Scholarly surveys of focused topics from the ''[[Stanford Encyclopedia of Philosophy]]'': articles on [http://plato.stanford.edu/entries/aristotle/ Aristotle], [http://plato.stanford.edu/entries/aristotelianism-renaissance/ Aristotle in the Renaissance], [http://plato.stanford.edu/entries/aristotle-biology/ Biology], [http://plato.stanford.edu/entries/aristotle-causality/ Causality], [http://plato.stanford.edu/entries/aristotle-commentators/ Commentators on Aristotle], [http://plato.stanford.edu/entries/aristotle-ethics/ Ethics], [http://plato.stanford.edu/entries/aristotle-logic/ Logic], [http://plato.stanford.edu/entries/aristotle-mathematics/ Mathematics], [http://plato.stanford.edu/entries/aristotle-metaphysics/ Metaphysics], [http://plato.stanford.edu/entries/aristotle-natphil/ Natural philosophy], [http://plato.stanford.edu/entries/aristotle-noncontradiction/ Non-contradiction], [http://plato.stanford.edu/entries/aristotle-politics/ Political theory], [http://plato.stanford.edu/entries/aristotle-psychology/ Psychology], [http://plato.stanford.edu/entries/aristotle-rhetoric/ Rhetoric]
+
+'''Collections of works'''
+*[http://classics.mit.edu/Browse/index-Aristotle.html Massachusetts Institute of Technology] - primarily in English
+*[http://remacle.org/bloodwolf/philosophes/Aristote/table.htm P. Remacle's collection] - primarily [[Greek language|Greek]] texts
+*[http://www.gutenberg.org/browse/authors/a#a2747 Project Gutenberg] - English texts
+*[http://www.perseus.tufts.edu/cgi-bin/perscoll?.submit=Change&amp;collection=Any&amp;type=text&amp;lang=Any&amp;lookup=Aristotle Tufts University] - at the [[Perseus Project]], in both English and Greek
+*[http://etext.library.adelaide.edu.au/a/aristotle/ University of Adelaide] - primarily in English
+
+'''Other'''
+*{{worldcat id|id=lccn-n79-4182}}
+*[http://www.concharto.org/search/eventsearch.htm?_tag=timeline%20of%20aristotle&amp;_maptype=0 Timeline of Aristotle's life]
+{{planetmath|id=5840|title=Aristotle}}
+{{Template group
+|list=
+{{Philosophy topics}}
+{{Logic}}
+{{Ancient Greece topics}}
+{{Peripatetics}}
+{{metaphysics}}
+{{philosophy of science}}
+{{philosophy of language}}
+{{philosophy of mind}}
+}}
+
+{{Persondata
+|NAME=Aristotle
+|ALTERNATIVE NAMES=Ἀριστοτέλης (Greek)
+|SHORT DESCRIPTION=[[Greek philosophy|Greek]] [[philosopher]]
+|DATE OF BIRTH=384 BC
+|PLACE OF BIRTH=[[Stageira]]
+|DATE OF DEATH=322 BC
+|PLACE OF DEATH=[[Chalcis]]
+}}
+{{DEFAULTSORT:Aristotle}}
+[[Category:384 BC births]]
+[[Category:322 BC deaths]]
+[[Category:Aristotle| ]]
+[[Category:Acting theorists]]
+[[Category:Ancient Greek mathematicians]]
+[[Category:Ancient Greek philosophers]]
+[[Category:Ancient Greek physicists]]
+[[Category:Ancient Greeks in Macedon]]
+[[Category:Ancient Stagirites]]
+[[Category:Aristotelian philosophers]]
+[[Category:Beekeepers]]
+[[Category:Classical Greek philosophy]]
+[[Category:Cosmologists]]
+[[Category:Defenders of slavery]]
+[[Category:Empiricists]]
+[[Category:Greek biologists]]
+[[Category:Greek logicians]]
+[[Category:History of logic]]
+[[Category:History of philosophy]]
+[[Category:History of science]]
+[[Category:Humor researchers]]
+[[Category:Meteorologists]]
+[[Category:Metics in Athens]]
+[[Category:Peripatetic philosophers]]
+[[Category:Philosophers of language]]
+[[Category:Philosophers of law]]
+[[Category:Philosophers of mind]]
+[[Category:Political philosophers]]
+[[Category:Rhetoric theorists]]
+[[Category:Philosophers and tutors of Alexander the Great]]
+
+{{Link FA|fi}}
+{{Link FA|de}}
+{{Link FA|hu}}
+
+[[af:Aristoteles]]
+[[als:Aristoteles]]
+[[ar:أرسطو]]
+[[an:Aristótil]]
+[[ast:Aristóteles]]
+[[az:Aristotel]]
+[[bn:এরিস্টটল]]
+[[zh-min-nan:Aristotélēs]]
+[[ba:Аристотель]]
+[[be:Арыстоцель]]
+[[be-x-old:Арыстотэль]]
+[[bs:Aristotel]]
+[[br:Aristoteles]]
+[[bg:Аристотел]]
+[[ca:Aristòtil]]
+[[cv:Аристотель]]
+[[ceb:Aristóteles]]
+[[cs:Aristotelés]]
+[[cy:Aristoteles]]
+[[da:Aristoteles]]
+[[de:Aristoteles]]
+[[et:Aristoteles]]
+[[el:Αριστοτέλης]]
+[[es:Aristóteles]]
+[[eo:Aristotelo]]
+[[ext:Aristóteli]]
+[[eu:Aristoteles]]
+[[fa:ارسطو]]
+[[fo:Aristoteles]]
+[[fr:Aristote]]
+[[fy:Aristoteles]]
+[[ga:Arastotail]]
+[[gd:Aristotle]]
+[[gl:Aristóteles]]
+[[gan:亞里斯多德]]
+[[gu:એરિસ્ટોટલ]]
+[[ko:아리스토텔레스]]
+[[hy:Արիստոտել]]
+[[hi:अरस्तु]]
+[[hr:Aristotel]]
+[[io:Aristoteles]]
+[[id:Aristoteles]]
+[[ia:Aristotele]]
+[[os:Аристотель]]
+[[is:Aristóteles]]
+[[it:Aristotele]]
+[[he:אריסטו]]
+[[jv:Aristoteles]]
+[[ka:არისტოტელე]]
+[[kk:Аристотель]]
+[[sw:Aristoteli]]
+[[ht:Aristotle]]
+[[ku:Arîstoteles]]
+[[lad:Aristoteles]]
+[[la:Aristoteles]]
+[[lv:Aristotelis]]
+[[lb:Aristoteles]]
+[[lt:Aristotelis]]
+[[jbo:aristoteles]]
+[[hu:Arisztotelész]]
+[[mk:Аристотел]]
+[[ml:അരിസ്റ്റോട്ടില്‍]]
+[[mt:Aristotile]]
+[[mr:ऍरिस्टोटल]]
+[[arz:اريسطو]]
+[[ms:Aristotle]]
+[[cdo:Ā-lī-sê̤ṳ-dŏ̤-dáik]]
+[[mn:Аристотель]]
+[[nah:Aristotelēs]]
+[[nl:Aristoteles]]
+[[nds-nl:Aristoteles]]
+[[new:एरिस्टोटल]]
+[[ja:アリストテレス]]
+[[no:Aristoteles]]
+[[nn:Aristoteles]]
+[[nov:Aristotéles]]
+[[oc:Aristòtel]]
+[[uz:Arastu]]
+[[pag:Aristotle]]
+[[ps:ارسطو]]
+[[pms:Aristòtil]]
+[[nds:Aristoteles]]
+[[pl:Arystoteles]]
+[[pt:Aristóteles]]
+[[kaa:Aristotel]]
+[[ro:Aristotel]]
+[[qu:Aristotelis]]
+[[ru:Аристотель]]
+[[sah:Аристотель]]
+[[sa:अरस्तु]]
+[[sc:Aristotele]]
+[[sco:Aristotle]]
+[[sq:Aristoteli]]
+[[scn:Aristòtili]]
+[[simple:Aristotle]]
+[[sk:Aristoteles]]
+[[sl:Aristotel]]
+[[szl:Arystoteles]]
+[[sr:Аристотел]]
+[[sh:Aristotel]]
+[[fi:Aristoteles]]
+[[sv:Aristoteles]]
+[[tl:Aristoteles]]
+[[ta:அரிசுடாட்டில்]]
+[[kab:Aristot]]
+[[te:అరిస్టాటిల్]]
+[[th:อริสโตเติล]]
+[[tg:Арасту]]
+[[tr:Aristoteles]]
+[[uk:Аристотель]]
+[[ur:ارسطو]]
+[[vi:Aristoteles]]
+[[vo:Aristoteles]]
+[[fiu-vro:Aristoteles]]
+[[war:Aristóteles]]
+[[yi:אריסטו]]
+[[yo:Aristotle]]
+[[diq:Aristoteles]]
+[[bat-smg:Aristuotelis]]
+[[zh:亚里士多德]]

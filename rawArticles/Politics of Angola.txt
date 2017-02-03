@@ -1,0 +1,44 @@
+      {{Politics of Angola}}
+'''Politics of Angola''' takes place in a framework of a [[presidential system|presidential]] [[republic]], whereby the [[President of Angola]] is both [[head of state]] and [[head of government]], and of a  [[multi-party system]]. [[Executive power]] is exercised by the government. [[Legislative power]] is vested in both the [[government]] and parliament. [[Angola]] changed from a [[Single-party state|one-party]] [[Marxist]]-[[Leninist]] system ruled by the [[Popular Movement for the Liberation of Angola|MPLA]] to a formal multiparty democracy following the 1992 elections. President [[José Eduardo dos Santos|dos Santos]] won the first round election with more than 49% of the vote to [[Jonas Savimbi]]'s 40%. A runoff never has taken place. The subsequent renewal of civil war and collapse of the [[Lusaka Protocol]] have left much of this process stillborn, but democratic forms exist, notably the [[National Assembly of Angola|National Assembly]].
+
+Currently, political power is concentrated in the Presidency. The executive branch of the government is composed of the President, the Prime Minister (currently [[Paulo Kassoma]]) and Council of Ministers. The Council of Ministers, composed of all government ministers and vice ministers, meets regularly to discuss policy issues. Governors of the 18 provinces are appointed by and serve at the pleasure of the president. The Constitutional Law of 1992 establishes the broad outlines of government structure and delineates the rights and duties of citizens. The legal system is based on Portuguese and customary law but is weak and fragmented. Courts operate in only 12 of more than 140 municipalities. A Supreme Court serves as the appellate tribunal; a Constitutional Court with powers of judicial review has never been constituted despite statutory authorization.
+
+The 26-year long civil war has ravaged the country's political and social institutions. The UN estimates of 1.8 million [[internally displaced person]]s (IDPs), while generally the accepted figure for war-affected people is 4 million. Daily conditions of life throughout the country and specifically [[Luanda]] (population approximately 4 million) mirror the collapse of administrative infrastructure as well as many social institutions. The ongoing grave economic situation largely prevents any government support for social institutions. Hospitals are without medicines or basic equipment, schools are without books, and public employees often lack the basic supplies for their day-to-day work.
+
+==Executive branch==
+{{office-table}}
+|}
+
+==Legislative branch==
+The '''[[National Assembly of Angola|National Assembly]]''' (''Assembleia Nacional'') has 223 members, elected for a four year term, 130 members by [[proportional representation]], 90 members in provincial districts, and 3 members to represent Angolans abroad. The next general elections, due for 1997, have been rescheduled for 5 September 2008.
+
+==Political parties and elections==
+{{elect|List of political parties in Angola|Elections in Angola}}
+Parliamentary elections were held in {{Angolan parliamentary elections 2008|September 2008}}. These elections were the first since 1992. Presidential elections are planned for 2009.
+{{Angolan legislative election, 2008}}
+{{Angola presidential election, 1992}}
+{{Angola parliamentary election, 1992}}
+
+==Judicial branch==
+Supreme Court or Tribunal da Relacao, judges of the Supreme Court are appointed by the president
+
+==Administrative divisions==
+Angola has eighteen provinces (provincias, singular - provincia); Bengo, Benguela, Bie, Cabinda, Cuando Cubango, Cuanza Norte, Cuanza Sul, Cunene, Huambo, Huila, Luanda, Lunda Norte, Lunda Sul, Malanje, Moxico, Namibe, Uige, Zaire
+
+==Political pressure groups and leaders==
+Front for the Liberation of the Enclave of Cabinda or FLEC [N'zita Henriques TIAGO; Antonio Bento BEMBE]
+* ''note:'' FLEC is waging a small-scale, highly factionalized, armed struggle for the independence of Cabinda Province
+
+==International organization participation==
+[[ACP]], [[AfDB]], [[CEEAC]], [[ECA]], [[FAO]], [[Group of 77|G-77]], [[IAEA]], [[IBRD]], [[ICAO]], [[ICCt]] (signatory), [[ICFTU]], [[ICRM]], [[IDA]], [[IFAD]], [[IFC]], [[IFRCS]], [[ILO]], [[IMF]], [[IMO]], [[Interpol]], [[IOC]], [[IOM]], [[ISO]] (correspondent), [[ITU]], [[Non-Aligned dfrfgbfghgCouncil]] (temporary), [[UNCTAD]], [[UNESCO]], [[UNIDO]], [[UPU]], [[WCO]], [[World Federation of Trade Unions|WFTU]], [[WHO]], [[WIPO]], [[WMO]], [[WToO]], [[WTrO]]
+
+{{Africa in topic|Politics of}}
+
+{{Angola topics|state=uncollapsed}}
+
+[[Category:Politics of Angola| ]]
+
+[[bg:Политика на Ангола]]
+[[el:Πολιτικά της Αγκόλας]]
+[[fr:Politique de l'Angola]]
+[[pt:Política de Angola]]

@@ -1,0 +1,340 @@
+      {{otheruses}}
+{{redirect|Alchemist}}
+{{Hermetism}}
+'''Alchemy''' ([[Arabic language|Arabic]]:''al-kimia'') ([[Hebrew language|Hebrew]]:אלכימיה ''al-himia'')  is both a [[philosophy]] and a practice with an aim of achieving ultimate [[wisdom]] as well as [[immortality]], involving the improvement of the alchemist as well as the making of several substances described as possessing unusual properties. The practical aspect of alchemy generated the basics of modern [[inorganic chemistry]], namely concerning procedures, equipment and the identification and use of many current substances.
+
+The fundamental ideas of alchemy are said to have arisen in the ancient [[Persian Empire]].&lt;ref&gt;E. J. Holmyard, ''Alchemical Equipment'' in &quot;A History of Technologyy ed. E. Singer et al.&quot; vol. II (Oxford, 1957), p. 731.&lt;/ref&gt; Alchemy has been practiced in [[Mesopotamia]], [[Ancient Egypt|Egypt]], [[Persia]] (today's [[Iran]]), [[India]], [[Chinese alchemy|China]], [[Japan]], [[Korea]] and in [[Classical Antiquity|Classical]] [[Ancient Greece|Greece]] and [[Ancient Rome|Rome]], in the [[Islamic Golden Age|Muslim civilizations]], and then in [[Europe]] up to the 20th century—in a complex [[Social network|network]] of schools and philosophical systems spanning at least 2500 years.
+
+== Etymology ==
+{{main|Chemistry (etymology)}}
+Alchemy, generally, derives from the [[Old French]] ''alkemie;'' from the [[Arabic language|Arabic]] ''al-kimia:'' &quot;the art of transformation.&quot;  Some scholars{{Who|date=April 2009}} believe the Arabs borrowed the word ''chimia'' (&quot;χημεία&quot;) from [[Greek language|Greek]] for transmutation.&lt;ref&gt;{{cite book | title = Principles of English Etymology | author = Walter W. Skeat | url = http://books.google.com/books?id=M7kCAAAAIAAJ&amp;pg=PA286&amp;dq=arabs+kimia+greeks&amp;lr=&amp;as_brr=3&amp;as_pt=ALLTYPES&amp;ei=Z0dYSdmvD5rqkQSF0dz4Bw#PPA287,M1 | publisher = Oxford: Clarendon Press | year = 1892 }}&lt;/ref&gt; Others, such as Mahdihassan,&lt;ref&gt;[http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=3064584&amp;dopt=Abstract Mahdihassan S. &quot;Alchemy, Chinese versus Greek, an etymological approach: a rejoinder&quot;]&lt;/ref&gt; argue that its origins are [[Chinese language|Chinese]].
+
+During the seventeenth century the change of name from Alchemy to chemistry took place, with the work of [[Robert Boyle]], sometimes known as &quot;The father of Chemistry&quot; {{Fact|reason=please give a reliable source for this assertion. How about [[Antoine Lavoisier]]?|date=April 2009}}, who in his book &quot;The Skeptical Chymist&quot; attacked [[Paracelsus]] and the old [[Aristotle|Aristotelian]] [[Classical element|concepts of the elements]] and laid down the foundations of modern chemistry.
+
+==Alchemy as a philosophical and spiritual discipline==
+[[Image:William Fettes Douglas - The Alchemist.jpg|thumb|left|&quot;Renel the Alchemist&quot;, by Sir William Douglas, 1853]]
+
+Alchemy became known as the ''spagyric art'' after Greek words meaning ''to separate'' and ''to join together'' in the 16th century, the word probably being coined by Paracelsus. Compare this with one of the dictums of Alchemy in Latin: &lt;small&gt;[[SOLVE ET COAGULA]]&lt;/small&gt;&amp;nbsp;— ''Separate, and Join Together'' (or ''dissolve and coagulate'').
+
+The best-known goals of the [[List of alchemists|alchemist]]s were the [[wiktionary:transmutation|transmutation]] of common metals into [[gold]] (called [[chrysopoeia]]) or [[silver]] (less well known is plant alchemy, or &quot;[[spagyric]]&quot;); the creation of a &quot;[[panacea (medicine)|panacea]]&quot;, or the [[elixir of life]], a remedy that supposedly would cure all diseases and prolong life indefinitely; and the discovery of a [[Alkahest|universal solvent]].&lt;ref&gt;[http://dictionary.reference.com/browse/alchemy Alchemy at Dictionary.com]&lt;/ref&gt; Although these were not the only uses for the discipline, they were the ones most documented and well known. Certain Hermetic schools argue that the transmutation of lead into gold is analogical for the transmutation of the physical body (Saturn or lead) into Solar energy (gold) with the goal of attaining immortality.&lt;ref&gt;[http://www.golden-dawn.com/eu/displaycontent.aspx?pageid=102 The True Nature of Hermetic Alchemy] &lt;/ref&gt; This is described as Internal Alchemy. Starting with the [[Middle Ages]], [[Alchemy and chemistry in Islam|Arabic]] and European alchemists invested much effort in the search for the &quot;[[philosopher's stone]]&quot;, a legendary substance that was believed to be an essential ingredient for either or both of those goals.  Alchemists were alternately persecuted or supported through the centuries.   For example in 1317 Pope John 22nd issued a Bull against alchemical counterfeiting, and the Cistercians banned the practice amongst their members.  In 1403 Henry 4th of England banned the practice of Alchemy.  In the late 14th century Piers the Ploughman and [[Chaucer]] both painted unflattering pictures of Alchemists as thieves and liars.  By contrast, [[Rudolf II, Holy Roman Emperor]], in the late 16th century, sponsored various alchemists in their work at his court in Prague.  
+
+Some people{{Who|date=April 2009}} suppose that Alchemists made mundane contributions to the &quot;chemical&quot; industries of the day—ore testing and refining, metalworking, production of gunpowder, ink, dyes, paints, cosmetics, [[Tanning|leather tanning]], ceramics, glass manufacture, preparation of extracts, liquors, and so on (it seems that the preparation of ''[[aqua vitae]]'', the &quot;water of life&quot;, was a fairly popular &quot;experiment&quot; among European alchemists).  In reality, although Alchemists contributed [[distillation]] to Western Europe, they did little for any known industry.  Goldsmiths knew long before Alchemists appeared how to tell what was good gold or fake, and industrial technology grew by the work of the artisans themselves, rather than any Alchemical helpers.  
+
+Several early alchemists, such as [[Zosimos of Panopolis]], are recorded as viewing alchemy as a spiritual discipline, and in the Middle Ages, metaphysical aspects increasingly came to be viewed as the true foundation of the art. Organic and inorganic chemical substances, physical states, and molecular material processes as mere metaphors for spiritual entities, spiritual states and ultimately, transformations. In this sense, the literal meanings of 'Alchemical Formulas' were a blind, hiding their true [[spiritual philosophy]], which being at odds with the Medieval Christian Church was a necessity that could have otherwise led them to the &quot;stake and rack&quot; of the Inquisition under charges of heresy.&lt;ref&gt;{{cite book |last= Blavatsky |first= H.P. |title= [[The Secret Doctrine]] |publisher= Theosophical Publishing Company |year= 1888 |isbn= 978-1557000026 |volume=ii |page=238 |url=http://www.phx-ult-lodge.org/SDVolume2.htm |nopp= true}}&lt;/ref&gt; Thus, both the transmutation of common metals into gold and the universal panacea symbolized evolution from an imperfect, diseased, corruptible and ephemeral state towards a perfect, healthy, incorruptible and everlasting state; and the philosopher's stone then represented a mystic key that would make this evolution possible. Applied to the alchemist himself, the twin goal symbolized his evolution from ignorance to enlightenment, and the stone represented a hidden spiritual truth or power that would lead to that goal. In texts that are written according to this view, the cryptic [[alchemical symbol]]s, diagrams, and textual imagery of late alchemical works typically contain multiple layers of meanings, allegories, and references to other equally cryptic works; and must be laboriously &quot;decoded&quot; in order to discover their true meaning. 
+
+In his ''Alchemical Catechism'', [[Paracelsus]] clearly denotes that his usage of the metals was a symbol:
+
+&lt;blockquote&gt;Q. When the Philosophers speak of gold and silver, from which they extract their matter, are we to suppose that they refer to the vulgar gold and silver?
+A. By no means; vulgar silver and gold are dead, while those of the Philosophers are full of life.&lt;ref&gt;{{cite web |url=http://www.sacred-texts.com/alc/tschoudy.htm |title=Alchemical Catechism |accessdate=2007-04-18 |author=Paracelsus}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+=== Psychology ===
+
+Alchemical symbolism has been occasionally used  by [[psychology|psychologists]] and philosophers. [[Carl Jung]] reexamined alchemical symbolism and theory and began to show the inner meaning of alchemical work as a [[spirituality|spiritual]] path.&lt;ref&gt;Jung, C. G. (1944). Psychology and Alchemy (2nd ed. 1968 Collected Works Vol. 12 ISBN 0-691-01831-6). London: Routledge.&lt;/ref&gt;&lt;ref&gt;Jung, C. G., &amp; Hinkle, B. M. (1912). Psychology of the Unconscious : a study of the transformations and symbolisms of the libido, a contribution to the history of the evolution of thought. London: Kegan Paul Trench Trubner. (revised in 1952 as Symbols of Transformation, Collected Works Vol.5 ISBN 0-691-01815-4)&lt;/ref&gt; Alchemical philosophy, symbols and methods have enjoyed something of a renaissance in [[post-modernism|post-modern]] contexts.{{Fact|date=May 2008}}
+
+Jung saw alchemy as a Western proto-psychology dedicated to the achievement of [[individuation]].&lt;ref&gt;Jung, C. G. (1944). Psychology and Alchemy (2nd ed. 1968 Collected Works Vol. 12 ISBN 0-691-01831-6). London: Routledge.&lt;/ref&gt; In his interpretation, alchemy was the vessel by which [[Gnosticism]] survived its various purges into the [[Renaissance]],&lt;ref&gt;Jung, C. G., &amp; Jaffe A. (1962). Memories, Dreams, Reflections. London: Collins. This is Jung's autobiography, recorded and edited by Aniela Jaffe, ISBN 0-679-72395-1&lt;/ref&gt;, a concept also followed by others such as [[Stephan A. Hoeller]]. In this sense, Jung viewed alchemy as comparable to a [[Yoga]] of the East, and more adequate to the Western mind than Eastern religions and philosophies. The practice of Alchemy seemed to change the mind and spirit of the Alchemist. Conversely, spontaneous changes on the mind of Western people undergoing any important stage in [[individuation]] seems to produce, on occasion, imagery known to Alchemy and relevant to the person's situation.&lt;ref&gt;Jung, C. G. - Psychology and Alchemy; Symbols of Transformation&lt;/ref&gt; 
+
+His interpretation of [[Chinese alchemy|Chinese alchemical texts]] in terms of his [[analytical psychology]] also served the function of comparing Eastern and Western alchemical imagery and core concepts and hence its possible inner sources ([[Jungian archetypes|archetypes]]).&lt;ref&gt;C.-G. Jung Preface to [[Richard Wilhelm]]'s translation of the [[I Ching]]&lt;/ref&gt;&lt;ref&gt;C.-G. Jung Preface to the translation of [[Secret of the Golden Flower|The Secret of The Golden Flower]]&lt;/ref&gt;
+
+=== Magnum opus ===
+{{main|Magnum opus}}
+''The Great Work''; mystic interpretation of its four stages:&lt;ref&gt; [http://www.scribd.com/doc/11441835/The-Four-Stages-of-Alchemical-Work The-Four-Stages-of-Alchemical-Work]&lt;/ref&gt;
+*''[[nigredo]](-putrefactio)'', blackening(-putrefaction): corruption, dissolution, [[individuation]], ''see also [[Suns_in_alchemy#Opus_Magnum|Suns in alchemy - Sol Niger]] 
+*''[[Albedo_(alchemy)|albedo]]'', whitening: purification, burnout of impurity; the moon, female
+*''[[citrinitas]]'', yellowing: spiritualisation, enlightenment; the sun, male;
+*''[[rubedo]]'', reddening: unification of man with god, unification of the limited with the unlimited.
+
+After the 15th century, many writers tended to compress ''[[citrinitas]]'' into ''[[rubedo]]'' and consider only three stages.&lt;ref&gt; [http://www.e-scoala.ro/germana/mihai_stroe26.html Meyrink und das theomorphische Menschenbild]&lt;/ref&gt; 
+
+However, it is in citrinitas that the Chemical Wedding takes place, generating the Philosophical Mercury without which the Philosopher's Stone, triumph of the Work, could never be accomplished.
+
+Within the Magnum Opus, was the creation of the [[Sanctum Moleculae]], that is the 'Sacred Masses' that were derived from the [[Sacrum Particulae]], that is the 'Sacred Particles', needed to complete the process of achieving the Magnum Opus.
+
+== Alchemy as a subject of historical research ==
+
+The history of alchemy has become a vigorous academic field. As the obscure hermetic language of the alchemists is gradually being &quot;deciphered&quot;, historians are becoming more aware of the intellectual connections between that discipline and other facets of Western cultural history, such as the sociology and psychology of the intellectual communities, [[kabbala|kabbalism]], [[spiritualism]], [[Rosicrucianism]], and other mystic movements, [[cryptography]], [[witchcraft]], and the evolution of [[science]] and [[philosophy]].
+
+=== History ===
+
+In an historical sense, Alchemy is the pursuit of transforming common metals into valuable gold.
+
+{{main|Alchemy in history}}
+The origins of Western alchemy are traceable back to [[ancient Egypt]].&lt;ref&gt;[[Erich Neumann (psychologist)|Neumann, Erich]]. ''The origins and history of consciousness'', with a foreword by C.G. Jung. Translated from the German by R.F.C. Hull. New York : Pantheon Books, 1954. Confer p.255, footnote 76: &quot;''Since Alchemy actually originated in Egypt, it is not improbable that esoteric interpretations of the Osiris myth are among the foundations of the art ...''&quot;&lt;/ref&gt; The [[Leyden papyrus X]] and the [[Stockholm papyrus]] along with the [[Greek magical papyri]] comprise the first &quot;book&quot; on alchemy still existent.  [[Greek philosophy|Greek]] and [[Indian philosophy|Indian philosophers]] theorized that there were only four [[classical elements]] (rather than today's 117 [[chemical element]]s, a useful analogy is with the highly similar [[state of matter|states of matter]]); Earth, Fire, Water, and Air. The Greek philosophers, in order to prove their point, burned a log: The log was the earth, the flames burning it was fire, the smoke being released was air, and the smoldering soot at the bottom was bubbling water. Because of this, the belief that these four &quot;elements&quot; were at the heart of everything soon spread, only later being replaced in the [[Middle Ages]] by [[Geber]]'s theory of seven elements, which was then replaced by the modern theory of chemical elements during the [[early modern period]].
+
+[[Image:Alchemy-Digby-RareSecrets.png|thumb|right|Extract and symbol key from a 17th century book on alchemy. The symbols used have a [[Bijection|one-to-one correspondence]] with symbols used in [[astrology]] at the time.]]
+
+Alchemy encompasses several philosophical traditions spanning four millennia and three continents. These traditions' general penchant for cryptic and symbolic language makes it hard to trace their mutual influences and &quot;genetic&quot; relationships. Alchemy starts becoming much clearer in the 8th century with the works of the [[Alchemy and chemistry in Islam|Islamic alchemist]], [[Geber|Jabir ibn Hayyan]] (known as &quot;Geber&quot; in Europe), who introduced a [[Scientific method|methodical]] and [[experiment]]al approach to scientific research based in the [[laboratory]], in contrast to the ancient Greek and Egyptian alchemists whose works were mainly allegorical.&lt;ref name=Kraus&gt;Kraus, Paul, Jâbir ibn Hayyân, ''Contribution à l'histoire des idées scientifiques dans l'Islam. I. Le corpus des écrits jâbiriens. II. Jâbir et la science grecque,''. Cairo (1942-1943).  Repr.  By Fuat Sezgin, (Natural Sciences in Islam. 67-68), Frankfurt. 2002:
+{{quote|“To form an idea of the historical place of Jabir’s alchemy and to tackle the problem of its sources, it is advisable to compare it with what remains to us of the alchemical literature in the [[Greek language]].  One knows in which miserable state this literature reached us.  Collected by [[Byzantine science|Byzantine scientists]] from the tenth century, the corpus of the Greek alchemists is a cluster of incoherent fragments, going back to all the times since the third century until the end of the Middle Ages.”}}
+{{quote|“The efforts of Berthelot and Ruelle to put a little order in this mass of literature led only to poor results, and the later researchers, among them in particular Mrs. Hammer-Jensen,  Tannery, Lagercrantz , von Lippmann, Reitzenstein, Ruska, Bidez, Festugiere and others, could make clear only few points of detail…}}
+{{quote|The study of the Greek alchemists is not very encouraging.  An even surface examination of the Greek texts shows that a very small part only was organized according to true experiments of laboratory:  even the supposedly technical writings, in the state where we find them today, are unintelligible nonsense which refuses any interpretation.}}
+{{quote|It is different with Jabir’s alchemy.  The relatively clear description of the processes and the alchemical apparatuses, the methodical classification of the substances, mark an experimental spirit which is extremely far away from the weird and odd esotericism of the Greek texts.  The theory on which Jabir supports his operations is one of clearness and of an impressive unity. More than with the other Arab authors, one notes with him a balance between theoretical teaching and practical teaching, between the [[Ilm (Arabic)|`ilm]] and the [[Hope|`amal]].  In vain one would seek in the Greek texts a work as systematic as that which is presented for example in the ''Book of Seventy''.”}}
+([[cf.]] {{cite web|author=[[Ahmad Y Hassan]]|title=A Critical Reassessment of the Geber Problem: Part Three|url=http://www.history-science-technology.com/Geber/Geber%203.htm|accessdate=2008-08-09}})&lt;/ref&gt;
+
+Other famous alchemists include [[Wei Boyang]] in [[Chinese alchemy]]; [[Calid]] and [[Rhazes]] in [[Alchemy and chemistry in Islam|Islamic alchemy]]; [[Nagarjuna]] in [[History of metallurgy in the Indian subcontinent|Indian alchemy]]; and [[Albertus Magnus]] and [[pseudo-Geber]] in European alchemy; as well as the anonymous author of the ''[[Mutus Liber]]'', published in France in the late 17th century, and which was a 'wordless book' that claimed to be a guide to making the [[philosopher's stone]], using a series of 15 symbols and illustrations. The philosopher's stone was an object that was thought to be able to amplify one's power in alchemy and, if possible, grant the user ageless immortality, unless he fell victim to burnings or drowning; the common belief was that fire and water were the two greater elements that were implemented into the creation of the stone.
+
+In the case of the Chinese and European alchemists, there was a difference between the two. The European alchemists tried to transmute lead into gold, and, no matter how futile or toxic the element, would continue trying until it was royally outlawed later into the century. The Chinese, however, paid no heed to the philosopher's stone or transmutation of lead to gold; they focused more on medicine for the greater good. During Enlightenment, these &quot;elixirs&quot; were a strong cure for sicknesses, unless it was a test medicine. Most tests were generally fatal, but stabilized elixirs served great purposes. On the other hand, the Islamic alchemists were interested in alchemy for a variety of reasons, whether it was for the transmutation of metals or [[Takwin|artificial creation of life]], or for practical uses such as [[Islamic medicine]] or the [[Inventions in the Islamic world|chemical industries]].
+
+A tentative outline is as follows:
+
+#Egyptian alchemy [5000 BCE&amp;nbsp;– 400 BC], beginning of alchemy
+#[[Rasayana|Indian alchemy]] [1200 BC&amp;nbsp;– Present]&lt;ref&gt;&quot;The oldest Indian writings, the [[Vedas]] ([[Hindu]] sacred scriptures), contain the same hints of alchemy&quot; - Multhauf, Robert P. &amp; Gilbert, Robert Andrew (2008). ''Alchemy''. Encyclopædia Britannica (2008).&lt;/ref&gt;, related to [[History of metallurgy in the Indian subcontinent|Indian metallurgy]]; [[Nagarjuna (metallurgist)|Nagarjuna]] was an important alchemist
+#Greek alchemy [332 BCE&amp;nbsp;– 642 AD], studied at the [[Library of Alexandria]] [[Stockholm papyrus]]
+#[[Chinese alchemy]] [142 AD], [[Wei Boyang]] writes ''[[The Kinship of the Three]]''
+#[[Alchemy and chemistry in Islam|Islamic alchemy]] [700&amp;nbsp;– 1400], [[Muslim]]s were at the forefront of Alchemy and Chemistry in the period of the [[Islamic Golden Age]] or Islamic Renaissance.
+#[[Alchemy and chemistry in Islam|Islamic chemistry]] [800&amp;nbsp;– Present], [[Al-Kindi|Alkindus]] and [[Avicenna]] refute transmutation, [[Rhazes]] refutes four [[classical element]]s, and [[Nasīr al-Dīn al-Tūsī|Tusi]] discovers [[conservation of mass]]
+#European alchemy [1300&amp;nbsp;– Present], Saint [[Albertus Magnus]] builds on Arabic alchemy
+#European chemistry [1661&amp;nbsp;– Present], [[Robert Boyle|Boyle]] writes ''The Sceptical Chymist'', [[Antoine Lavoisier|Lavoisier]] writes ''Elements of Chemistry'', and [[John Dalton|Dalton]] publishes his ''Atomic Theory''
+
+== Modern connections to alchemy ==
+
+[[Alchemy (Islam)|Islamic alchemy]] was a forerunner of modern scientific [[chemistry]]. Alchemists used many of the same laboratory tools that are used today. These tools were not usually sturdy or in good condition, especially during the medieval period of Europe. Many transmutation attempts failed when alchemists unwittingly made unstable chemicals. This was made worse by the unsafe conditions.
+
+Up to the 16th century, alchemy was considered serious science in Europe; for instance, [[Isaac Newton]] devoted considerably more of his writing to the study of alchemy (see [[Isaac Newton's occult studies]]) than he did to either optics or physics, for which he is famous. Other eminent alchemists of the [[Western world]] are [[Roger Bacon]], Saint [[Thomas Aquinas]], [[Tycho Brahe]], [[Thomas Browne]], and [[Parmigianino]]. The decline of alchemy began in the 18th century with the birth of modern chemistry, which provided a more precise and reliable framework for matter transmutations and medicine, within a new grand design of the universe based on rational [[materialism]].
+
+=== Alchemy in traditional medicine ===
+Traditional medicines involve transmutation by alchemy, using pharmacological or a combination of pharmacological and spiritual techniques.  In [[Chinese medicine]] the alchemical traditions of [[pao zhi]] will transform the nature of the temperature, taste, body part accessed or toxicity.  In [[Ayurveda]] the [[Samskara (Ayurvedic)|samskaras]] are used to transform [[heavy metals]] and toxic herbs in a way that removes their toxicity.  These processes are actively used to the present day.&lt;ref&gt;Junius, Manfred M; ''The Practical Handbook of Plant Alchemy: An Herbalist's Guide to Preparing Medicinal Essences, Tinctures, and Elixirs''; Healing Arts Press 1985&lt;/ref&gt;
+
+=== Nuclear transmutation ===
+{{main|Nuclear transmutation}}
+{{main|Synthesis of noble metals}}
+
+In 1919, [[Ernest Rutherford]] used [[artificial disintegration]] to convert [[nitrogen]] into [[oxygen]].&lt;ref&gt;{{cite web |url= http://www.stmary.ws/physics/amsco_review_and_glencoe/chapter05.pdf|format=pdf |title= Reviewing Physics: The Physical Setting |author= Amsco School Publications |authorlink= http://worthyisthelamb.info/amsco/newtitles.html |format= |work= |publisher= Amsco School Publications |language= English |quote= &quot;The first artificial transmutation of one element to another was performed by Rutherford in 1919. Rutherford bombarded nitrogen with energetic alpha particles that were moving fast enough to overcome the electric repulsion between themselves and the target nuclei. The alpha particles collided with, and were absorbed by, the nitrogen nuclei, and protons were ejected. In the process oxygen and hydrogen nuclei were created.}}&lt;/ref&gt; From then on, this sort of ''scientific transmutation'' has been routinely performed in many [[nuclear physics]]-related laboratories and facilities, like [[particle accelerator]]s, [[nuclear power station]]s and [[nuclear weapons]] as a by-product of [[fission]] and other physical processes.
+
+=== In Literature ===
+
+A play by [[Ben Jonson]], [[The Alchemist (play)|The Alchemist]], is a satirical and sceptical take on the subject
+
+Part 2 of [[Goethe]]'s [[Faust]], is full of alchemical symbolism.&lt;ref&gt;see Alice Raphael: Goethe and the Philosopher's Stone, symbolical patterns in 'The Parable' and the second part of 'Faust', London: Routledge and Kegan Paul, 1965&lt;/ref&gt;
+
+According to ''Hermetic Fictions: Alchemy and Irony in the Novel'' ([[Keele University]] Press, 1995), by David Meakin, alchemy is also featured in such novels as those by [[William Godwin]], [[Percy Bysshe Shelley]], [[Emile Zola]], [[Jules Verne]], [[Marcel Proust]], [[Thomas Mann]], [[Hermann Hesse]], [[James Joyce]], [[Gustav Meyrink]], [[Lindsay Clarke]], [[Marguerite Yourcenar]], [[Umberto Eco]], [[Michel Butor]], [[Paulo Coelho]] and [[Amanda Quick]].
+
+=== In popular culture ===
+{{cleanup|date=July 2009}}
+The subject of alchemy is extensively used in many cartoons and comic books, often in the form of superpowers. In ''[[Fullmetal Alchemist]]'', alchemy and transmutation are treated as sciences, mixed with magic but fully understandable and utilizable with proper knowledge. ''Fullmetal Alchemist'' also refers to [[First Law of Thermodynamics|equivalency]] or equivalent exchange for alchemy to work. In ''[[Buso Renkin]]'', alchemy is used primarily as a means for superpowers, however it holds little resemblance to &quot;actual&quot; alchemy.
+
+Alchemy is also used in many video games:
+
+* In [[Might &amp; Magic VII: For Blood and Honour]] [http://en.wikipedia.org/wiki/Might_and_Magic_VII:_For_Blood_and_Honor] Alchemy is a skill which characters can learn, which provides access to potion making, using ingredients with varying potency, using the skill level as a bonus; higher ranking allows access to more complex potions, up to &quot;black&quot; potions, which give characters a permanent boost in statistics, as opposed to a set period of time
+
+* In [[World of Warcraft]], [http://www.wowwiki.com/Alchemy Alchemy] is a profession the player's character can learn in order to create special potions or flasks to be used for adding to the character's statistics for a set period of time, usually in preparation for big battles as in the case of instances/dungeons. 
+
+* In [[Secret of Evermore]], the only video game from Square's North American division, alchemy takes the place of the normal magic system. The main character receives alchemic formulas instead of spells and by combining a wide variety of ingredients (such as wax, oil, limestone, and dry ice) a reaction will take place such as fireballs, healing, or shields. 
+
+* The ''[[Atelier (series)|Atelier]]'' and ''[[Mana Khemia]]'' series from GUST also heavily emphasize on alchemy. The games feature hundreds of ingredient and recipes that players need to find or derive themselves. Additionally, all weapons and certain items must be made, or synthesized, and they are not sold in shops, which therefore makes alchemy essential in character growth. 
+
+* The adventure game [[Zork Nemesis]] features a slightly stylised (to fit the fictional world of [[Zork]]) vision of alchemy, and uses knowledge of the processes as clues to solving puzzles.
+
+* The Plot of the 2003 ''Core Design'' video game ''[[Tomb Raider: The Angel of Darkness]]'' draws heavily from Alchemic lore and legend. 
+
+* ''[[Harry Potter and the Philosopher's Stone]],'' as the name would suggest, has as a central theme a magical stone (called the Philosopher's Stone) that is supposed to grant ever-lasting life and be able to turn anything to gold. For the American publication, the name was changed to &quot;Sorcerer's Stone,&quot; but the parallels between the book's magical stone and the alchemists' philosophers stone are still unmistakable. 
+
+* ''[[The Alchemist (novel)|The Alchemist]],'' by [[Paulo Coelho]], discusses one boy's quest to fulfill his destiny, and on the way he is aided by an alchemist.
+
+* Another novel called ''The Alchemist'' by [[Donna Boyd]] explains the life of an immortal Egyptian going about life from Ancient Egypt to modern civilization.
+
+* ''[[The Alchemyst: The Secrets of the Immortal Nicholas Flamel]]'' by [[Michael Scott]] centers on twins, Sophie and Josh Newman, who are guided through their prophesied quest by [[Nicholas Flamel]], a well-known alchemist in the 14th century.
+
+* Short story by [[H. P. Lovecraft]] [1908] (1986). &quot;The Alchemist&quot;. in [[S. T. Joshi]] (ed.). ''[[Dagon and Other Macabre Tales]]'' (9th corrected printing ed.). Sauk City, WI: [[Arkham House]]. ISBN 0-87054-039-4. 
+
+* Alchemy serves as one of the themes in [[White Wolf]]'s ''[[Promethean: The Created]]'' [[role-playing game]], using the humours, classical metals, and the ideas of refinement and the Magnum Opus as central ideas.
+
+* In [[Star Wars]], the Sith have their own variation called ''[[Wookieepedia:Sith alchemy|Sith alchemy]]'', which calls upon the use of their magic to create hideous, [[Mutant|unnatural]] beasts of the dark side, summon forth [[monster]]s called Sithspawn, strengthen their weapons, and various acts of [[Zombie#Popular culture|corporeal]] [[Necromancy#Video games|necromancy]]. Darth Plagueis used this science to discover a technique similar to the real-world [[Elixir of life]].
+
+* California band [[Thrice]] created a four EP set named the [[Alchemy Index]] which centers around each of the four elements involved in the alchemical process.
+
+* In [[Venture Bros.]] a member of the Order of the Triad is The Alchemist, a character who is seeking the [[philosopher's stone]].
+
+=== In contemporary art ===
+In the twentieth century alchemy was a profoundly important source of inspiration for the Surrealist artist [[Max Ernst]], who used the symbolism of alchemy to inform and guide his work. M.E. Warlick wrote his ''Max Ernst and Alchemy'' describing this relationship in detail.
+
+Contemporary artists use alchemy as inspiring subject matter, like [[Odd Nerdrum]], whose interest has been noted by [[Richard Vine]], and the painter [[Michael Pearce]] &lt;ref&gt;[http://www.callutheran.edu/schools/cas/programs/art/faculty/?profile_id=207 Cal Lutheran | Department of Art - Faculty&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;, whose interest in alchemy dominates his work. His works ''Fama'' &lt;ref&gt;[http://blogs.callutheran.edu/pearce/category/fama/ The Gilded Raven Blog + » fama&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; and ''The Aviator's Dream'' &lt;ref&gt;[http://blogs.callutheran.edu/pearce/category/storm-the-aviators-dream/ The Gilded Raven Blog + » Storm / The Aviator’s Dream&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; particularly express alchemical ideas in a painted allegory.
+
+== See also ==
+
+{{MultiCol|95%}}
+===Other alchemical pages===
+*[[Alchemical symbol]]
+*[[Alchemy in art and entertainment]]
+*[[Alchemy in history]]
+*[[Alembic]]
+*[[Alkahest]]
+*[[Astrology and alchemy]]
+*[[Berith]]
+*[[Jakob Boehme]]
+*[[Circle with a point at its centre]]
+*[[Elixir of life]]
+*[[Emerald Tablet]]
+*[[Robert Fludd]]
+*[[Humorism|Four Humors]]
+*[[Hermeticism]]
+*[[Homunculus]]
+*[[Mastering Alchemy]]
+*[[Michael Maier]]
+*[[Musaeum Hermeticum]]
+*[[Paracelsus]]
+*[[Philosopher's stone]]
+*[[Quintessence]]
+*[[Herbert Silberer]]
+*[[Vulcan of the alchemists]]
+*[[Monas Hieroglyphica]]
+*[[Frater Albertus]]
+
+===Alchemy and psychoanalysis===
+*[[Carl Jung]]
+*[[Analytical psychology]]
+
+===Other resources===
+*[[List of alchemists]]
+*[[List of magical terms and traditions]]
+*[[List of occultists]]
+{{ColBreak}}
+
+===Related and alternative philosophies===
+*[[Western mystery tradition]]
+*[[Internal alchemy]]
+*[[Astrology]]
+*[[Necromancy]], [[magic (paranormal)|magic]], [[Magick (Aleister Crowley)|magick]]
+*[[Esotericism]], [[Rosicrucianism]], [[Illuminati]]
+*[[Taoism]] and the [[Five Elements]]
+*[[Asemic writing]]
+*[[Kayaku-Jutsu]]
+*[[Acupuncture]], [[moxibustion]], [[ayurveda]], [[homeopathy]]
+*[[Anthroposophy]]
+*[[Psychology]] and [[Carl Jung]]
+*[[New Age]]
+*[[Tay al-Ard]]
+
+===Substances of the alchemists===
+*[[lead]] • [[tin]] • [[iron]] • [[copper]] • [[mercury (element)|mercury]] • [[silver]] • [[gold]]
+*[[phosphorus]] • [[sulfur|sulfur (sulphur)]] • [[arsenic]] • [[antimony]]
+*[[vitriol]] • [[quartz]] • [[cinnabar]] • [[pyrites]] • [[orpiment]] • [[galena]]
+*[[magnesium oxide|magnesia]] • [[calcium oxide|lime]] • [[potash]] • [[natron]] • [[saltpetre]] • [[kohl (cosmetics)|kohl]]
+*[[ammonia]] • [[ammonium chloride]] • [[alcohol]] • [[camphor]]
+*[[sulfuric acid|sulfuric acid (sulphuric acid)]] • [[hydrochloric acid]] • [[nitric acid]] • [[acetic acid]] • [[formic acid]] • [[citric acid]] • [[tartaric acid]]
+*[[aqua regia]] • [[gunpowder]]
+*[[carmot]]
+
+===Scientific connections===
+*[[Chemistry]]
+*[[Physics]]
+*[[Synthesis of noble metals]]
+*[[Nuclear transmutation]]
+*[[Scientific method]]
+*[[Protoscience]] and [[Pseudoscience]]
+*[[Obsolete scientific theories]]
+*[[Historicism]]
+
+{{EndMultiCol}}
+
+==Notes==
+{{reflist|2}}
+
+==References==
+{{refbegin}}
+*Cavendish, Richard, The Black Arts, Perigee Books
+*{{cite book | author=Gettgins, Fred | title=Encyclopedia of the Occult | location=London | publisher=Rider | year=1986 | id= }}
+*{{cite book | author=Greenberg, Adele Droblas | title=Chemical History Tour, Picturing Chemistry from Alchemy to Modern Molecular Science | publisher=Wiley-Interscience | year=2000 | isbn=0-471-35408-2 }}
+*{{cite book | author=Hart-Davis, Adam | title=Why does a ball bounce? 101 Questions that you never thought of asking | location=New York | publisher=Firefly Books | year=2003 }}
+*{{cite book | author=Hughes, Jonathan| title=Arthurian Myths and Alcheny, the Kingship of Edward IV | location=Stroud | publisher=Sutton | year=2002 }}
+*{{cite book | author=Marius | title=On the Elements | location=Berkeley | publisher=[[University of California Press]] | year=1976 | isbn=0-520-02856-2 }} Trans. Richard Dales.
+*{{cite book|author=Thorndike, Lynn|title=A History of Magic and Experimental Science|location=New York|authorlink=Lynn Thorndike| publisher=Macmillan|year=1923-1958|format=8 volumes}}
+*{{cite book | author=Weaver, Jefferson Hane | title=The World of Physics | location=New York | publisher=Simon &amp; Schuster | year=1987 | id= }}
+*{{cite book | author=Zumdahl, Steven S. | title=Chemistry | location=Lexington, Maryland | publisher=[[D.C. Heath and Company]] | year=1989 | isbn=0-669-16708-8 | edition=2nd ed. }}
+{{refend}}
+
+==External links==
+{{commons|Alchemy}}
+&lt;!--===========================({{NoMoreLinks}})===============================--&gt;
+&lt;!--| DO NOT ADD MORE LINKS TO THIS ARTICLE. WIKIPEDIA IS NOT A COLLECTION OF |--&gt;
+&lt;!--| LINKS. If you think that your link might be useful, do not add it here, |--&gt;
+&lt;!--| but put it on this article's discussion page first or submit your link  |--&gt;
+&lt;!--| to the appropriate category at the Open Directory Project (www.dmoz.org)|--&gt;
+&lt;!--| and link back to that category using the {{dmoz}} template.             |--&gt;
+&lt;!--|                                                                         |--&gt;
+&lt;!--|           Links that have not been verified WILL BE DELETED.            |--&gt;
+&lt;!--|  See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details    |--&gt;
+&lt;!--===========================({{NoMoreLinks}})===============================--&gt;
+* [http://www.balashon.com/2009/03/alchemy.html Etymology of &quot;alchemy&quot;]
+* [http://www.gutenberg.org/etext/27755 Hidden Symbolism of Alchemy and the Occult Arts] by Herbert Silberer
+* [http://www.levity.com/alchemy/index.html The Alchemy website] - Alchemy from a metaphysical perspective.
+* [http://www.al-kemi.org The al-kemi.org website] - Alchemy from a spiritual/philosophical perspective.
+* [http://www.ambix.org/ Society for the History of Alchemy and Chemistry]
+* [http://www.alchemywebsite.com/emb_apparatus.html Alchemy images]
+* [http://etext.lib.virginia.edu/cgi-local/DHI/dhi.cgi?id=dv1-04 ''Dictionary of the History of Ideas'':] Alchemy
+* [http://antiquity.ac.uk/ProjGall/martinon/index.html ''Antiquity'', Vol. 77 (2003)] - &quot;A 16th century lab in a 21st century lab&quot;.
+* [http://www.gutenberg.org/etext/14218 The Story of Alchemy and the Beginnings of Chemistry], Muir, M. M. Pattison (1913)
+* [http://www.nytimes.com/2006/08/01/science/01alch.html?ex=1312084800&amp;en=4445e5f8f9c7b3c0&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss &quot;Transforming the Alchemists&quot;], [[New York Times]], August 1, 2006. [[Historical revisionism]] and alchemy.
+* [http://www.revistaazogue.com/biblio.htm#N_3_ Electronic library] with hundreds alchemical books (15th- and 20th century) and 65 original manuscripts.
+* [http://www.chymistry.org/ The Chymistry of Isaac Newton] - A scholarly site devoted to the alchemical, or chymical, writings of Isaac Newton.
+
+[[Category:Alchemy|*]]
+[[Category:Arabic words and phrases]]
+[[Category:Defunct occupations]]
+[[Category:Hermeticism]]
+
+{{Link FA|es}}
+{{Link FA|he}}
+{{Link FA|it}}
+{{Link FA|tl}}
+
+[[af:Alchemie]]
+[[ar:خيمياء]]
+[[bn:আলকেমি]]
+[[bs:Alhemija]]
+[[bg:Алхимия]]
+[[ca:Alquímia]]
+[[cs:Alchymie]]
+[[co:Alchimia]]
+[[cy:Alcemi]]
+[[da:Alkymi]]
+[[de:Alchemie]]
+[[et:Alkeemia]]
+[[el:Αλχημεία]]
+[[es:Alquimia]]
+[[eo:Alkemio]]
+[[fa:کیمیاگری]]
+[[fr:Alchimie]]
+[[fy:Algemy]]
+[[ga:Ailceimic]]
+[[gl:Alquimia]]
+[[ko:연금술]]
+[[hy:Մատենադարանի ձեռագրերը քիմիայի մասին]]
+[[hr:Alkemija]]
+[[io:Alkemio]]
+[[id:Alkimia]]
+[[is:Gullgerðarlist]]
+[[it:Alchimia]]
+[[he:אלכימיה]]
+[[ka:ალქიმია]]
+[[la:Alchemia]]
+[[lv:Alķīmija]]
+[[lt:Alchemija]]
+[[hu:Alkímia]]
+[[mk:Алхемија]]
+[[ml:ആല്‍കെമി]]
+[[mr:अल्केमी]]
+[[ms:Alkimia]]
+[[nl:Alchemie]]
+[[ja:錬金術]]
+[[no:Alkymi]]
+[[nn:Alkymi]]
+[[pl:Alchemia]]
+[[pt:Alquimia]]
+[[ro:Alchimie]]
+[[ru:Алхимия]]
+[[sq:Alkimia]]
+[[simple:Alchemy]]
+[[sk:Alchýmia]]
+[[sl:Alkimija]]
+[[sr:Алхемија]]
+[[sh:Alkemija]]
+[[su:Alkémi]]
+[[fi:Alkemia]]
+[[sv:Alkemi]]
+[[tl:Alkimiya]]
+[[th:การเล่นแร่แปรธาตุ]]
+[[tr:Simya]]
+[[uk:Алхімія]]
+[[vi:Giả kim thuật]]
+[[zh-yue:煉金術]]
+[[bat-smg:Alkemėjė]]
+[[zh:炼金术]]

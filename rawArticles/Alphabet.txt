@@ -1,0 +1,286 @@
+      {{pp-move-indef}}{{moresources|date=October 2007}}
+{{otheruses}}
+[[Image:Caslon-schriftmusterblatt.jpeg|thumb|300px|''A Specimen'' of typeset fonts and languages, by [[William Caslon]], letter founder; from the 1728 ''[[Cyclopaedia]]''.]]
+{{Writing systems sidebar}}
+An '''alphabet''' is a standardized set of ''[[letter (alphabet)|letters]]''{{mdash}} basic written symbols or [[graphemes]] {{mdash}} each of which roughly represents a [[phoneme]] in a [[spoken language]], either as it exists now or as it was in the past. There are other [[writing system|systems]], such as [[logograph]]ies, in which each character represents a word, morpheme, or semantic unit, and [[syllabary|syllabaries]], in which each character represents a [[syllable]]. Alphabets are classified according to how they indicate vowels:
+* the same way as consonants, as in [[Greek alphabet|Greek]] (true alphabet)
+* abbreviation of consonants, as in [[Devanagari|Hindi]] ([[abugida]])
+* not at all, as in [[Phoenician alphabet|Phoenician]] ([[abjad]])
+
+The word actually originates from the first two letters in the Hebrew alphabet, Aleph and Bet. However, some believe that word &quot;alphabet' came into [[Middle English]] from the [[Late Latin]] word '''Alphabetum''', which in turn originated in the [[Ancient Greek]] ''Αλφάβητος'' '''Alphabetos''', from ''[[alpha (letter)|alpha]]'' and ''[[beta (letter)|beta]],'' the first two letters of the [[Greek alphabet]].&lt;ref&gt;[http://www.britannica.com/dictionary?book=Dictionary&amp;va=alphabet&amp;query=alphabet/ Encyclopædia Britannica Online{{ndash}} Merriam-Webster's Online Dictionary]&lt;/ref&gt; ''Alpha'' and ''beta'' in turn came from the first two letters of the [[Phoenician alphabet]], and meant ''ox'' and ''house'' respectively. There are dozens of alphabets in use today. Most of them are composed of lines ([[linear writing]]); notable [[non-linear writing|exceptions]] are [[Braille]], [[fingerspelling]], and [[Morse code]].
+
+==Linguistic definition and context==
+{{main|Writing system}}
+The term '''alphabet''' prototypically refers to a [[writing]] system that has characters ([[grapheme]]s) which represent both [[consonant]] and [[vowel]] sounds, even though there may not be a complete one-to-one correspondence between [[symbol]] and [[sound]].
+
+A [[grapheme]] is an [[abstract entity]] which may be physically represented by different styles of [[glyph]]s. There are many written entities which do not form part of the alphabet, including [[numeral]]s, [[mathematical symbol]]s, and [[punctuation]]. Some human languages are commonly written using a combination of [[logograms]] (which represent [[morphemes]] or [[word]]s) and [[syllabaries]] (which represent [[syllables]]) instead of an alphabet. [[Egyptian hieroglyph]]s and [[Chinese character]]s are two of the best-known writing systems with predominantly non-alphabetic representations.
+
+Non-written languages may also be represented alphabetically. For example, linguists researching a non-written language (such as some of the indigenous Amerindian languages) will use the [[International Phonetic Alphabet]] to enable them to write down the sounds they hear.
+
+Most, if not all, linguistic writing systems have some means for phonetic approximation of foreign words, usually using the native character set.&lt;ref&gt;{{cite journal |last=Ohso |first=Mieko |title=A Phonological Study of Some English Loan Words in Japanese. Working Papers in Linguistics, No. 14, Studies in Phonology and Methodology |journal=Studies in Phonology and Methodology |date=April 1973 |issue=14 |pages= |id=ERIC # ED122593 }} 27 pages.&lt;/ref&gt;
+
+==History==
+{{main|History of the alphabet}}
+===Middle Eastern Scripts===
+[[Image:Ba`alat.png|thumb|A specimen of [[Middle Bronze Age alphabets#The Proto-Sinaitic script|Proto-Sinaitic script]], one of the earliest (if not the very first) phonemic scripts]]
+The history of the alphabet started in [[ancient Egypt]]. By [[2700 BC|2700 &lt;small&gt;BC&lt;/small&gt;]] Egyptian writing had a set of some [[Egyptian uniliteral signs|22 hieroglyphs]]&lt;ref&gt;{{cite web |url=http://www.bbc.co.uk/dna/h2g2/A2451890 |title=The Development of the Western Alphabet |accessdate=2008-08-04 |first=Gnomon |coauthors=Lynn, Bernadette |date=2004-04-08 |work=h2g2 |publisher=BBC}}&lt;/ref&gt; to represent syllables that begin with a single [[consonant]] of their language, plus a vowel (or no vowel) to be supplied by the native speaker. These glyphs were used as pronunciation guides for [[logogram]]s, to write grammatical inflections, and, later, to transcribe loan words and foreign names.&lt;ref name=Daniels&gt;Daniels and Bright (1996), pp. 74–75&lt;/ref&gt;
+
+However, although seemingly alphabetic in nature, the original Egyptian uniliterals were not a system and were never used by themselves to encode Egyptian speech.&lt;ref name=Daniels/&gt; In the [[Middle Bronze Age]] an apparently &quot;alphabetic&quot; system known as the [[Middle Bronze Age alphabets#The Proto-Sinaitic script|Proto-Sinaitic script]] is thought by some to have been developed in central [[Egypt]] around 1700 BC for or by [[Semitic]] workers, but only one of these early writings has been deciphered and their exact nature remains open to interpretation.&lt;ref name=&quot;Coulmas 140&quot;&gt;Coulmas (1989), p. 140-141&lt;/ref&gt; Based on letter appearances and names, it is believed to be based on Egyptian hieroglyphs.&lt;ref name=&quot;Coulmas 140&quot; /&gt;
+
+This script eventually developed into the [[Proto-Canaanite alphabet]], which in turn was refined into the Phoenician alphabet.&lt;ref name=&quot;Daniels 9296&quot;/&gt; It also developed into the [[South Arabian alphabet]], from which the [[Ge'ez alphabet]] (an [[abugida]]) is descended. Note that the scripts mentioned above are not considered proper alphabets, as they all lack characters representing vowels. These early vowelless alphabets are called [[abjad]]s, and still exist in scripts such as [[Arabic alphabet|Arabic]], [[Hebrew alphabet|Hebrew]] and [[Syriac alphabet|Syriac]].
+
+Phoenician was the first major phonemic script.&lt;ref name=&quot;Daniels 9296&quot;&gt;Daniels and Bright (1996), pp. 92–96.&lt;/ref&gt;&lt;ref name=&quot;Coulmas 140&quot;/&gt; In contrast to two other widely used writing systems at the time, [[Cuneiform]] and [[Egyptian hieroglyphs]], it contained only about two dozen distinct letters, making it a script simple enough for common traders to learn. Another advantage of Phoenician was that it could be used to write down many different languages, since it recorded words phonemically.
+
+The script was spread by the Phoenicians, whose [[Thalassocracy]] allowed the script to be spread across the Mediterranean.&lt;ref name=&quot;Daniels 9296&quot; /&gt; In Greece, the script was modified to add the vowels, giving rise to the first true alphabet. The Greeks took letters which did not represent sounds that existed in Greek, and changed them to represent the vowels. This marks the creation of a &quot;true&quot; alphabet, with both vowels and consonants as explicit symbols in a single script. In its early years, there were many variants of the Greek alphabet, a situation which caused many different alphabets to evolve from it.
+
+===European alphabets===
+[[Image:ZographensisColour.jpg|thumb|[[Codex Zographensis]] in the Glagolitic alphabet from Medieval [[Bulgaria]]]]
+The [[Cumae alphabet|Cumae form]] of the Greek alphabet was carried over by Greek colonists from [[Euboea]] to the Italian peninsula, where it gave rise to a variety of alphabets used to inscribe the [[Italic languages]]. One of these became the [[Latin alphabet]], which was spread across Europe as the Romans expanded their empire. Even after the fall of the Roman state, the alphabet survived in intellectual and religious works. It eventually became used for the descendant languages of Latin (the [[Romance languages]]) and then for the other languages of Europe.
+
+Another notable script is [[Elder Futhark]], which is believed to have evolved out of one of the [[Old Italic alphabet]]s. Elder Futhark gave rise to a variety of alphabets known collectively as the [[Runic alphabet]]s. The Runic alphabets were used for Germanic languages from AD 100 to the late Middle Ages. Its usage was mostly restricted to engravings on stone and jewelry, although inscriptions have also been found on bone and wood. These alphabets have since been replaced with the Latin alphabet, except for decorative usage for which the runes remained in use until the 20th century.
+
+The [[Glagolitic alphabet]] was the script of the liturgical language [[Old Church Slavonic]], and became the basis of the [[Cyrillic alphabet]]. The Cyrillic alphabet is one of the most widely used modern alphabets, and is notable for its use in Slavic languages and also for other languages within the former Soviet Union. Variants include the [[Serbian Cyrillic alphabet|Serbian]], [[Macedonian alphabet|Macedonian]], [[Bulgarian alphabet|Bulgarian]], and [[Russian alphabet]]s. The Glagolitic alphabet is believed to have been created by [[Saints Cyril and Methodius]], while the Cyrillic alphabet was invented by the Bulgarian scholar [[Clement of Ohrid]], who was their disciple. They feature many letters that appear to have been borrowed from or influenced by the [[Greek alphabet]] and the [[Hebrew alphabet]].
+
+===Asian alphabets===
+Beyond the logographic [[Written Chinese|Chinese writing]], many phonetic scripts are in existence in Asia. The [[Arabic alphabet]], [[Hebrew alphabet]], [[Syriac alphabet]], and other [[abjad]]s of the Middle East are developments of the [[Aramaic alphabet]], but because these writing systems are largely [[consonant]]-based they are often not considered true alphabets.
+
+Most alphabetic scripts of India and Eastern Asia are descended from the [[Brahmi script]], which is often believed to be a descendent of Aramaic.
+
+[[Image:Zhuyin on cell phone detail.jpg|thumb|left|250px|[[Zhuyin]] on a cell phone]]
+
+In [[Korea]], the [[Hangul]] alphabet was created by Korean scholars under King Sejong in 1443. Understanding of the phonetic alphabet of Mongolian [[Phagspa script]] aided the creation of a phonetic script suited to the spoken Korean language.{{Fact|date=March 2009}}  Mongolian Phagspa script was in turn derived from the Brahmi script. Hangul is a unique alphabet in a variety of ways: it is a [[featural alphabet]], where many of the letters are designed from a sound's place of articulation (P to look like widened mouth, L sound to look like tongue pulled in, etc.); its design was planned by the government of the time; and it places individual letters in syllable clusters with equal dimensions, in the same way as [[Chinese characters]], to allow for mixed script writing{{Fact|date=March 2009}} (one syllable always takes up one type-space no matter how many letters get stacked into building that one sound-block).
+
+[[Zhuyin]] (sometimes called ''Bopomofo'') is a [[semi-syllabary]] used to phonetically transcribe [[Mandarin (linguistics)|Mandarin Chinese]] in the [[Republic of China]]. After the later establishment of the [[People's Republic of China]] and its adoption of [[Pinyin|Hanyu Pinyin]], the use of Zhuyin in [[Mainland China]] today is limited, but it's still widely used in [[Taiwan]] where the Republic of China still governs. Zhuyin developed out of a form of Chinese shorthand based on Chinese characters in the early 1900s and has elements of both an alphabet and a syllabary. Like an alphabet the phonemes of [[syllable onset|syllable initials]] are represented by individual symbols, but like a syllabary the phonemes of the [[syllable rime|syllable finals]] are not; rather, each possible final (excluding the [[medial (linguistics)|medial glide]]) is represented by its own symbol. For example, ''luan'' is represented as ㄌㄨㄢ (''l-u-an''), where the last symbol ㄢ represents the entire final ''-an''. While Zhuyin is not used as a mainstream writing system, it is still often used in ways similar to a [[romanization]] system{{mdash}} that is, for aiding in pronunciation and as an input method for Chinese characters on computers and cell phones. 
+
+European alphabets, especially Latin and Cyrillic, have been adapted for many languages of Asia. Arabic is also widely used, sometimes as an abjad (as with [[Urdu alphabet|Urdu]] and [[Persian alphabet|Persian]]) and sometimes as a complete alphabet (as with [[Kurdish alphabet|Kurdish]] and [[Uyghur alphabet|Uyghur]])
+
+==Types==
+[[Image:800px-Writing_systems_worldwide1.png|500px|thumb|'''Alphabets:'''
+&lt;span style=&quot;background-color:#AAAAAA;color:black;&quot;&gt;&amp;nbsp;[[Latin alphabet|Latin]]&amp;nbsp;&lt;/span&gt;,
+&lt;span style=&quot;background-color:#CCFF99;color:black;&quot;&gt;&amp;nbsp;Latin and [[Arabic alphabet|Arabic]]&amp;nbsp;&lt;/span&gt;,  
+&lt;span style=&quot;background-color:#008080;color:white;&quot;&gt;&amp;nbsp;[[Cyrillic alphabet|&lt;font color=&quot;white&quot;&gt;Cyrillic&lt;/font color&gt;]]&amp;nbsp;&lt;/span&gt;, 
+&lt;span style=&quot;background-color:cyan;color:black;&quot;&gt;&amp;nbsp;Latin and Cyrillic&amp;nbsp;&lt;/span&gt;, 
+&lt;span style=&quot;background-color:#0000FF;color:white;&quot;&gt;&amp;nbsp;[[Greek alphabet|&lt;font color=&quot;white&quot;&gt;Greek&lt;/font color&gt;]]&amp;nbsp;&lt;/span&gt;, 
+&lt;span style=&quot;background-color:brown;color:white;&quot;&gt;&amp;nbsp;[[Georgian alphabet|&lt;font color=&quot;white&quot;&gt;Georgian]]&lt;/font&gt;&amp;nbsp;&lt;/span&gt;,
+&lt;span style=&quot;background-color:lightblue;color:white;&quot;&gt;&amp;nbsp;[[Armenian alphabet| Armenian]]&amp;nbsp;&lt;/span&gt;
+&lt;br&gt;
+'''Abjads:''' 
+&lt;span style=&quot;background-color:green;color:white;&quot;&gt;&amp;nbsp;Arabic&amp;nbsp;&lt;/span&gt;, 
+&lt;span style=&quot;background-color:#00ff7f;color:black;&quot;&gt;&amp;nbsp;[[Hebrew alphabet| Hebrew]]&amp;nbsp;&lt;/span&gt;
+&lt;br&gt;
+'''Abugidas:'''
+&lt;span style=&quot;background-color:#FFC000;color:black;&quot;&gt;&amp;nbsp;North Indic&amp;nbsp;&lt;/span&gt;, 
+&lt;span style=&quot;background-color:orange;color:black;&quot;&gt;&amp;nbsp;South Indic&amp;nbsp;&lt;/span&gt;, 
+&lt;span style=&quot;background-color:#66FF00;color:white;&quot;&gt;&amp;nbsp;[[Ethiopic alphabet|Ethiopic]]&amp;nbsp;&lt;/span&gt;, 
+&lt;span style=&quot;background-color:olive;color:white;&quot;&gt;&amp;nbsp;&lt;font color=&quot;white&quot;&gt;[[Thaana]]&lt;/font&gt;&amp;nbsp;&lt;/span&gt;
+&lt;span style=&quot;background-color:#FFFF80;color:black;&quot;&gt;&amp;nbsp;Canadian Syllabic&amp;nbsp;&lt;/span&gt;, 
+&lt;br&gt;
+'''Logographic+syllabic:'''
+&lt;span style=&quot;background-color:red;color:white;&quot;&gt;&amp;nbsp;Pure logographic&amp;nbsp;&lt;/span&gt;, 
+&lt;span style=&quot;background-color:#DC143C;color:white;&quot;&gt;&amp;nbsp;Mixed logographic and syllabaries&amp;nbsp;&lt;/span&gt;, 
+&lt;span style=&quot;background-color:#FF00FF;color:black;&quot;&gt;&amp;nbsp;Featural-alphabetic syllabary + limited logographic&amp;nbsp;&lt;/span&gt;
+&lt;span style=&quot;background-color:#800080;color:white;&quot;&gt;&amp;nbsp;Featural-alphabetic syllabary&amp;nbsp;&lt;/span&gt; ]]
+{{alphabet}}
+
+The term &quot;alphabet&quot; is used by [[Linguistics|linguists]] and [[paleographer]]s in both a wide and a narrow sense. In the wider sense, an alphabet is a script that is ''segmental'' at the [[phoneme]] level {{mdash}} that is, it has separate glyphs for individual sounds and not for larger units such as syllables or words. In the narrower sense, some scholars distinguish &quot;true&quot; alphabets from two other types of segmental script, [[abjad]]s and [[abugida]]s. These three differ from each other in the way they treat vowels: abjads have letters for consonants and leave most vowels unexpressed; abugidas are also consonant-based, but indicate vowels with [[diacritic]]s to or a systematic graphic modification of the consonants. In alphabets in the narrow sense, on the other hand, consonants and vowels are written as independent letters. The earliest known alphabet in the wider sense is the [[Middle Bronze Age alphabets|Wadi el-Hol script]], believed to be an [[abjad]], which through its successor [[Phoenician alphabet|Phoenician]] is the ancestor of modern alphabets, including [[Arabic alphabet|Arabic]], [[Greek alphabet|Greek]], [[Latin alphabet|Latin]] (via the [[Old Italic alphabet]]), [[Cyrillic alphabet|Cyrillic]] (via the Greek alphabet) and [[Hebrew alphabet|Hebrew]] (via [[Aramaic]]).
+
+Examples of present-day abjads are the [[Arabic script|Arabic]] and [[Hebrew script]]s; true alphabets include [[Latin alphabet|Latin]], [[Cyrillic]], and Korean [[hangul]]; and abugidas are used to write [[tigrinya language|Tigrinya]] [[Amharic language|Amharic]], [[Hindi language|Hindi]], and [[Thai language|Thai]]. The [[Canadian Aboriginal syllabics]] are also an abugida rather than a syllabary as their name would imply, since each glyph stands for a consonant which is modified by rotation to represent the following vowel. (In a true syllabary, each consonant-vowel combination would be represented by a separate glyph.)
+
+The boundaries between the three types of segmental scripts are not always clear-cut. For example, [[Sorani]] [[Kurdish language|Kurdish]] is written in the [[Arabic script]], which is normally an abjad. However, in Kurdish, writing the vowels is mandatory, and full letters are used, so the script is a true alphabet. Other languages may use a Semitic abjad with mandatory vowel diacritics, effectively making them abugidas. On the other hand, the [[Phagspa script]] of the [[Mongol Empire]] was based closely on the [[Tibetan script|Tibetan abugida]], but all vowel marks were written after the preceding consonant rather than as diacritic marks. Although short ''a'' was not written, as in the Indic abugidas, one could argue that the linear arrangement made this a true alphabet. Conversely, the vowel marks of the [[Ge'ez alphabet|Tigrinya abugida]] and the [[Ge'ez alphabet|Amharic abugida]] (ironically, the original source of the term &quot;abugida&quot;) have been so completely assimilated into their consonants that the modifications are no longer systematic and have to be learned as a [[syllabary]] rather than as a segmental script. Even more extreme, the Pahlavi abjad eventually became [[logogram|logographic]]. (See below.)
+
+Thus the primary [[Categorisation|classification]] of alphabets reflects how they treat vowels. For [[Tone (linguistics)|tonal languages]], further classification can be based on their treatment of tone, though names do not yet exist to distinguish the various types. Some alphabets disregard tone entirely, especially when it does not carry a heavy functional load, as in [[Somali language|Somali]] and many other languages of Africa and the Americas. Such scripts are to tone what abjads are to vowels. Most commonly, tones are indicated with diacritics, the way vowels are treated in abugidas. This is the case for [[Vietnamese alphabet|Vietnamese]] (a true alphabet) and [[Thai alphabet|Thai]] (an abugida). In Thai, tone is determined primarily by the choice of consonant, with diacritics for disambiguation. In the [[Sam Pollard|Pollard script]], an abugida, vowels are indicated by diacritics, but the placement of the diacritic relative to the consonant is modified to indicate the tone. More rarely, a script may have separate letters for tones, as is the case for [[Hmong pronunciation|Hmong]] and [[Zhuang language|Zhuang]]. For most of these scripts, regardless of whether letters or diacritics are used, the most common tone is not marked, just as the most common vowel is not marked in Indic abugidas; in [[Zhuyin]] not only is one of the tones unmarked, but there is a diacritic to indicate lack of tone, like the [[virama]] of Indic.
+
+The number of letters in an alphabet can be quite small. The Book [[Pahlavi scripts|Pahlavi]] script, an abjad, had only twelve letters at one point, and may have had even fewer later on. Today the [[Rotokas alphabet]] has only twelve letters. (The [[Hawaiian language|Hawaiian]] alphabet is sometimes claimed to be as small, but it actually consists of 18 letters, including the [[Okina|ʻokina]] and five long vowels.) While Rotokas has a small alphabet because it has few phonemes to represent (just eleven), Book Pahlavi was small because many letters had been ''conflated''{{mdash}} that is, the graphic distinctions had been lost over time, and diacritics were not developed to compensate for this as they were in [[Arabic alphabet|Arabic]], another script that lost many of its distinct letter shapes. For example, a comma-shaped letter represented ''g, d, y, k,'' or ''j''. However, such apparent simplifications can perversely make a script more complicated. In later Pahlavi [[papyrus|papyri]], up to half of the remaining graphic distinctions of these twelve letters were lost, and the script could no longer be read as a sequence of letters at all, but instead each word had to be learned as a whole{{mdash}} that is, they had become [[logogram]]s as in Egyptian [[Demotic Egyptian|Demotic]].
+
+The largest segmental script is probably an abugida, [[Devanagari]]. When written in Devanagari, Vedic [[Sanskrit]] has an alphabet of 53 letters, including the ''visarga'' mark for final aspiration and special letters for ''kš'' and ''jñ,'' though one of the letters is theoretical and not actually used. The Hindi alphabet must represent both Sanskrit and modern vocabulary, and so has been expanded to 58 with the ''khutma'' letters (letters with a dot added) to represent sounds from Persian and English.
+
+The largest known abjad is [[Sindhi language|Sindhi]], with 51 letters. The largest alphabets in the narrow sense include [[Kabardian language|Kabardian]] and [[Abkhaz language|Abkhaz]] (for [[Cyrillic]]), with 58 and 56 letters, respectively, and [[Slovak language|Slovak]] (for the [[Latin alphabet]]), with 46. However, these scripts either count [[digraph (orthography)|di- and tri-graphs]] as separate letters, as Spanish did with ''ch'' and ''ll'' until recently, or uses [[diacritic]]s like Slovak ''č''. The largest true alphabet where each letter is graphically independent is probably [[Georgian alphabet|Georgian]], with 41 letters.
+
+Syllabaries typically contain 50 to 400 glyphs (though the [[Múra-Pirahã]] language of [[Brazil]] would require only 24 if it did not denote tone, and Rotokas would require only 30), and the glyphs of logographic systems typically number from the many hundreds into the thousands. Thus a simple count of the number of distinct symbols is an important clue to the nature of an unknown script.
+
+==Alphabetic order==
+It is not always clear what constitutes a distinct alphabet. [[French language|French]] uses the same basic alphabet as English, but many of the letters can carry additional marks, such as é, à, and ô. In French, these combinations are not considered to be additional letters. However, in [[Icelandic language|Icelandic]], the accented letters such as á, í, and ö are considered to be distinct letters of the alphabet. In Spanish, ñ is considered a separate letter, but accented vowels such as á and é are not. The double L and ch were also considered separate letters to a single l and c, respectively, but in [[1994]] the [[Real Academia Española]] changed them so that ll is between lk and lm in the dictionary and ch is between cg and ci.&lt;ref&gt;Real Academia Española. &quot;Spanish Pronto!: Spanish Alphabet.&quot; Spanish Pronto! 22 April 2007. January 2009 [http://www.spanishpronto.com/spanishpronto/spanishalphabet.html#english.]&lt;/ref&gt;
+
+In German, words starting with ''sch-'' (constituting the German phoneme /ʃ/) would be intercalated between words with initial ''sca-'' and ''sci-'' (all incidentally loanwords) instead of this graphic cluster theoretically appearing after the letter '''s''' – a [[Lexicography|lexicographical]] policy which would be de rigueur in a dictionary of [[Albanian alphabet|Albanian]], i.e. ''dh-'', ''gj-'', ''ll-'', ''rr-'', ''th-'', ''xh-'' and ''zh-'' (all representing actual phonemes) would follow the letters '''d''', '''g''', '''l''', '''n''', '''r''', '''t''', '''x''' and '''z''' respectively. Nor is, in a dictionary of English, the lexical section with initial ''th-'' reserved a place after the letter '''t''', but is inserted between ''te-'' and ''ti-''. German words with [[Umlaut|umlaut]] would further be alphabetized as if there were no umlaut at all – contrary to [[Turkish alphabet|Turkish]] which allegedly adopted the [[Swedish alphabet|Swedish]] [[Grapheme|graphemes]] '''ö''' and '''ü''', and where a word like tüfek, “gun”, would come after tuz, “salt”, in the dictionary. 
+
+The [[Danish and Norwegian alphabet]]s end with '''æ''' – '''ø''' – '''å''', whereas the Swedish one conventionally puts '''å''' – '''ä''' – '''ö''' at the end.
+
+Some adaptations of the Latin alphabet are augmented with [[ligature (typography)|ligatures]], such as [[æ]] in [[Old English language|Old English]] and [[Icelandic language|Icelandic]]; and [[Ou (letter)|Ȣ]] in [[Algonquian language|Algonquian]]; by borrowings from other alphabets, such as the [[thorn (letter)|thorn]] þ in [[Old English language|Old English]] and [[Icelandic language|Icelandic]], which came from the [[Runic alphabet|Futhark]] runes; and by modifying existing letters, such as the [[Eth (letter)|eth]] ð of Old English and Icelandic, which is a modified ''d''. Other alphabets only use a subset of the Latin alphabet, such as Hawaiian, and [[Italian language|Italian]], which only uses the letters ''j, k, x, y'' and ''w'' in foreign words.
+
+It is unknown whether the earliest alphabets had a defined sequence. Some alphabets today, such as [[Hanunoo]], are learned one letter at a time, in no particular order, and are not used for [[collation]] where a definite order is required. However, a dozen [[Ugaritic alphabet|Ugaritic]] tablets from the fourteenth century BC preserve the alphabet in two sequences. One, the ''ABGDE'' order later used in Phoenician, has continued with minor changes in [[Hebrew alphabet|Hebrew]], [[Greek alphabet|Greek]], [[Armenian alphabet|Armenian]], [[Gothic alphabet|Gothic]], [[Cyrillic alphabet|Cyrillic]], and [[Latin alphabet|Latin]]; the other, ''HMĦLQ,'' was used in southern Arabia and is preserved today in [[Ge'ez alphabet|Ethiopic]].&lt;ref&gt;Millard, A.R. &quot;The Infancy of the Alphabet&quot;, ''World Archaeology'' 17, No. 3, Early Writing Systems (Feb., 1986): 390–398. page 395.&lt;/ref&gt; Both orders have therefore been stable for at least 3000 years.
+
+The historical order was abandoned in [[Runic alphabet|Runic]] and [[Arabic alphabet|Arabic]], although Arabic retains the traditional &quot;[[abjadi order]]&quot; for numbering.
+
+The [[Brahmic family]] of alphabets used in India use a unique order based on [[phonology]]: The letters are arranged according to how and where they are produced in the mouth. This organization is used in Southeast Asia, Tibet, Korean [[hangul]], and even Japanese [[kana]], which is not an alphabet.
+
+The Phoenician letter names, in which each letter is associated with a word that begins with that sound, continue to be used in [[Samaritan alphabet|Samaritan]], [[Aramaic alphabet|Aramaic]], [[Syriac alphabet|Syriac]], [[Hebrew alphabet|Hebrew]], and [[Greek alphabet|Greek]]. However, they were abandoned in [[Arabic alphabet|Arabic]], [[Cyrillic alphabet|Cyrillic]] and [[Latin alphabet|Latin]].
+
+==Orthography and spelling==
+{{main|Orthography|Spelling}}
+Each language may establish rules that govern the association between letters and phonemes, but, depending on the language, these rules may or may not be consistently followed. In a perfectly [[phonology|phonological]] alphabet, the phonemes and letters would correspond perfectly in two directions: a writer could predict the spelling of a word given its pronunciation, and a speaker could predict the pronunciation of a word given its spelling. However, languages often evolve independently of their writing systems, and writing systems have been borrowed for languages they were not designed for, so the degree to which letters of an alphabet correspond to phonemes of a language varies greatly from one language to another and even within a single language.
+
+Languages may fail to achieve a one-to-one correspondence between letters and sounds in any of several ways:
+* A language may represent a given phoneme with a combination of letters rather than just a single letter. Two-letter combinations are called [[digraph (orthography)|digraph]]s and three-letter groups are called [[trigraph (orthography)|trigraph]]s. [[German language|German]] uses the tesseragraphs (four letters) &quot;tsch&quot; for the phoneme {{IPA2|tʃ}} and &quot;dsch&quot; for {{IPA|[dʒ]}}, although the latter is rare. [[Kabardian language|Kabardian]] also uses a tesseragraph for one of its phonemes.
+* A language may represent the same phoneme with two different letters or combinations of letters. An example is [[modern Greek]] which may write the phoneme {{IPA2|i}} in six different ways: &quot;ι&quot;, &quot;η&quot;, &quot;υ&quot;, &quot;ει&quot;, &quot;οι&quot; and &quot;υι&quot; (although the last is very rare).
+* A language may spell some words with unpronounced letters that exist for historical or other reasons.
+* Pronunciation of individual words may change according to the presence of surrounding words in a sentence ([[sandhi]]).
+* Different dialects of a language may use different phonemes for the same word.
+* A language may use different sets of symbols or different rules for distinct sets of vocabulary items, such as the Japanese [[hiragana]] and [[katakana]] syllabaries, or the various rules in English for spelling words from Latin and Greek, or the original [[Germanic languages|Germanic]] vocabulary.
+
+National languages generally elect to address the problem of dialects by simply associating the alphabet with the national standard. However, with an international language with wide variations in its dialects, such as [[English language|English]], it would be impossible to represent the language in all its variations with a single phonetic alphabet.
+
+Some national languages like [[Finnish language|Finnish]], [[Turkish language|Turkish]] and [[Bulgarian language|Bulgarian]] have a very regular spelling system with a nearly one-to-one correspondence between letters and phonemes. Strictly speaking, there is no word in the Finnish, Turkish and Bulgarian languages corresponding to the verb &quot;to spell&quot; (meaning to split a word into its letters), the closest match being a verb meaning to split a word into its syllables. Similarly, the [[Italian language|Italian]] verb corresponding to 'spell', ''compitare'', is unknown to many Italians because the act of spelling itself is almost never needed: each phoneme of Standard Italian is represented in only one way. However, pronunciation cannot always be predicted from spelling in cases of irregular syllabic stress. In standard [[Spanish language|Spanish]], however, it is possible to tell the pronunciation of a word from its spelling, but not vice versa; this is because certain phonemes can be represented in more than one way, but a given letter is consistently pronounced. [[French language|French]], with its [[silent letter]]s and its heavy use of [[nasal vowel]]s and [[elision]], may seem to lack much correspondence between spelling and pronunciation, but its rules on pronunciation are actually consistent and predictable with a fair degree of accuracy.
+
+At the other extreme, however, are languages such as English, where the spelling of many words simply has to be memorized as they do not correspond to sounds in a consistent way. For English, this is because the [[Great Vowel Shift]] occurred after the orthography was established, and because English has acquired a large number of loanwords at different times, retaining their original spelling at varying levels. However, even English has general, albeit complex, rules that predict pronunciation from spelling, and these rules are successful most of the time. Rules to predict spelling from the pronunciation have a high failure rate for English.
+
+Sometimes, countries have the written language undergo a [[spelling reform]] in order to realign the writing with the contemporary spoken language. These can range from simple spelling changes and word forms to switching the entire writing system itself, as when [[Turkey]] switched from the Arabic alphabet to the Roman alphabet.
+
+The sounds of speech of all languages of the world can be written by a rather small universal phonetic alphabet. A standard for this is the [[International Phonetic Alphabet]].
+
+== See also ==
+{{colbegin|3}}
+* [[ABC-DEF-GHI]]
+* [[Abecedarium]]
+* [[Acrophony]]
+* [[Akshara]]
+* [[Alphabet Effect]]
+* [[Alphabet song]]
+* [[Collation|Alphabetical order]]
+* [[Alphabetize]]
+* [[Character encoding]]
+* [[Constructed script]]
+* [[English alphabet]]
+* [[Lipogram]]
+* [[List of alphabets]]
+* [[NATO phonetic alphabet]]
+* [[Pangram]]
+* [[Transliteration]]
+* [[Unicode]]
+{{colend}}
+
+== References ==
+{{reflist|2}}
+
+== Bibliography ==
+* {{cite book |author=Coulmas, Florian |title=The Writing Systems of the World |publisher=Blackwell Publishers Ltd. |year=1989 |isbn=0-631-18028-1 }}
+* {{cite book |author=Daniels, Peter T.; Bright, William |title=The World's Writing Systems |publisher=[[Oxford University Press]] |year=1996 |isbn=0-19-507993-0 }}&amp;mdash;(Overview of modern and some ancient writing systems).
+* {{cite book |author=Driver, G. R. |authorlink=Godfrey Rolles Driver |title=Semitic Writing ([[Schweich Lectures on Biblical Archaeology]] S.) 3Rev Ed |publisher=Oxford University Press |year=1976 |isbn=0-19-725917-0 }}
+* {{cite book |author=Hoffman, Joel M. |title=In the Beginning: A Short History of the Hebrew Language |url=http://www.newjewishbooks.org/ITB/toc.html |publisher=NYU Press |year=2004 |isbn=0-8147-3654-8 }}&amp;mdash;(Chapter 3 traces and summarizes the invention of alphabetic writing).
+* {{cite book |author=Logan, Robert K. |title=The Alphabet Effect: A Media Ecology Understanding of the Making of Western Civilization |publisher=Hampton Press |year=2004 |isbn=1-57-273523-6 }}
+*McLuhan, Marshall; Logan, Robert K. (1977). Alphabet, Mother of Invention. Etcetera. Vol. 34, pp. 373–383
+*{{cite book |author=Ouaknin, Marc-Alain; Bacon, Josephine |title=Mysteries of the Alphabet: The Origins of Writing |publisher=Abbeville Press |year=1999 |isbn=0-7892-0521-1 }}
+* {{cite book |author=Powell, Barry |title=Homer and the Origin of the Greek Alphabet |publisher=[[Cambridge University Press]] |year=1991 |isbn=0-521-58907-X }}
+* {{cite book |author=Sacks, David |title=Letter Perfect: The Marvelous History of Our Alphabet from A to Z |publisher=Broadway Books |url=http://www.uca.edu.ar/esp/sec-ffilosofia/esp/docs-institutos/s-cehao/boletin/damqatum3_eng2007.pdf |format=PDF |year=2004 |isbn=0-7679-1173-3}}
+*{{cite book|author=Saggs, H.W.F|title=Civilization Before Greece and Rome|publisher=[[Yale University Press]] |year=1991 |isbn=0300050313}}&amp;mdash; Chapter 4 traces the invention of writing
+
+== External links ==
+{{wiktionary|alphabet}}
+* [http://www.uca.edu.ar/esp/sec-ffilosofia/esp/docs-institutos/s-cehao/boletin/damqatum3_eng2007.pdf Language, Writing and Alphabet: An Interview with Christophe Rico] [[Damqatum]] 3 (2007)
+* [http://omniglot.com/writing/alphabetic.htm Alphabetic Writing Systems]
+* [[Michael Everson]]'s [http://www.evertype.com/alphabets/index.html Alphabets of Europe]
+
+* [http://www.wam.umd.edu/~rfradkin/alphapage.html Evolution of alphabets] animation by Prof. Robert Fradkin at the 
+{{Writing systems |expanded=Alphabets}}
+[[Category:Alphabetic writing systems| ]]
+[[Category:Documents]]
+[[Category:Orthography]]
+
+[[af:Alfabet]]
+[[als:Alphabet]]
+[[ar:أبجدية]]
+[[an:Alfabeto]]
+[[arc:ܐܠܦܒܝܬ]]
+[[ast:Alfabetu]]
+[[az:Əlifba]]
+[[be:Алфавіт]]
+[[be-x-old:Альфабэт]]
+[[bs:Abeceda]]
+[[br:Lizherenneg]]
+[[bg:Азбука]]
+[[ca:Alfabet]]
+[[cv:Алфавит]]
+[[ceb:Alpabeto]]
+[[cs:Abeceda]]
+[[cy:Gwyddor (iaith)]]
+[[da:Alfabet]]
+[[de:Alphabet]]
+[[dv:އަލިފުބާ]]
+[[et:Tähestik]]
+[[el:Αλφάβητο]]
+[[es:Alfabeto]]
+[[eo:Alfabeto]]
+[[eu:Alfabeto]]
+[[fa:الفبا]]
+[[fr:Alphabet]]
+[[fur:Alfabet]]
+[[ga:Aibítir]]
+[[gv:Abbyrlhit]]
+[[gd:Aibidil]]
+[[gl:Alfabeto]]
+[[gan:字母]]
+[[ko:알파벳]]
+[[hy:Այբուբեն]]
+[[hi:मूलाक्षर]]
+[[hr:Abeceda]]
+[[io:Alfabeto]]
+[[bpy:মেয়েক]]
+[[id:Alfabet]]
+[[ia:Alphabeto]]
+[[ik:Atchagat]]
+[[is:Stafróf]]
+[[it:Alfabeto]]
+[[he:אלפבית]]
+[[kn:ಅಕ್ಷರಮಾಲೆ]]
+[[ka:ანბანი]]
+[[kw:Lytherennek]]
+[[sw:Alfabeti]]
+[[ht:Alfabèt]]
+[[ku:Alfabe]]
+[[lad:Alefbet]]
+[[la:Abecedarium]]
+[[lv:Alfabēts]]
+[[lb:Alphabet]]
+[[lt:Abėcėlė]]
+[[hu:Ábécé]]
+[[mk:Азбука]]
+[[mg:Abidy]]
+[[ml:അക്ഷരമാല]]
+[[mt:Alfabett]]
+[[ms:Abjad]]
+[[nl:Alfabet]]
+[[ja:アルファベット]]
+[[no:Alfabet]]
+[[nn:Alfabet]]
+[[nrm:Alphabet]]
+[[oc:Alfabet]]
+[[pl:Alfabet]]
+[[pt:Alfabeto]]
+[[ksh:Alfabeet]]
+[[ro:Alfabet]]
+[[qu:Siq'i llumpa]]
+[[ru:Алфавит]]
+[[sco:Alphabet]]
+[[sq:Alfabeti]]
+[[scn:Alfabbetu]]
+[[simple:Alphabet]]
+[[sk:Abeceda]]
+[[sl:Abeceda]]
+[[sr:Алфабет]]
+[[sh:Alfabet]]
+[[su:Alpabét]]
+[[fi:Aakkoset]]
+[[sv:Alfabet]]
+[[tl:Alpabeto]]
+[[ta:அகரவரிசை]]
+[[kab:Agemmay]]
+[[tt:Elifba]]
+[[th:อักษร]]
+[[tr:Alfabe]]
+[[tk:Elipbiý]]
+[[uk:Алфавіт]]
+[[ur:حروف تہجی]]
+[[wa:Alfabet]]
+[[war:Abakadahan]]
+[[yi:אלפאבעט]]
+[[yo:Abidi]]
+[[zh:字母系統]]

@@ -1,0 +1,117 @@
+      {{Infobox National Military
+|country=Angola
+|name=Angolan Armed Forces
+|native_name=
+|image=
+|caption=
+|image2=
+|caption2=
+|founded=
+|current_form=
+|disbanded=
+|branches=Angolan Army&lt;br&gt;[[Angolan Navy]]&lt;br&gt;[[People's Air and Air Defence Force of Angola]]
+|headquarters=
+&lt;!-- Leadership --&gt;
+|commander-in-chief=
+|commander-in-chief_title=
+|minister=[[Kundy Pahiama]]
+|minister_title=
+|commander=
+|commander_title=
+&lt;!-- Manpower --&gt;
+|age=
+|conscription=Universal compulsory service for 24 months plus training
+|manpower_data=
+|manpower_age=17 to 49
+|available=2,548,455
+|available_f=2,462,601
+|fit=1,282,195
+|fit_f=1,256,390
+|reaching=126,694
+|reaching_f=123,586
+|active=110,000
+|ranked=
+|reserve=
+|deployed=Small numbers
+&lt;!-- Financial --&gt;
+|amount=$183.58 million (2004)
+|percent_GDP=8.8% (2005)
+&lt;!-- Industrial --&gt;
+|domestic_suppliers=
+|foreign_suppliers=
+|imports=
+|exports=
+&lt;!-- Related aricles --&gt;
+|history=
+|ranks=
+}}
+The '''Angolan Armed Forces''' ('''FAA''') is headed by a Chief of Staff who reports to the Minister of Defense. 
+
+There are three divisions, the '''Army''', Navy ('''Marinha de Guerra''', MdG), and '''[[National Air Force of Angola|Air and Air Defense Forces]]''' (FAPA). Total manpower is about 110,000. The army is by far the largest of the services with about 100,000 men and women. The Navy numbers about 3,000 and operates several small patrol craft and barges. Air force personnel total about 7,000; its equipment includes [[Russia]]n-manufactured fighters and transport planes. 
+
+A small number of FAA personnel are stationed in the [[Democratic Republic of the Congo]] (Kinshasa) and the [[Republic of the Congo]] (Brazzaville). 
+
+In 2005, FAPLA had a total of 90,000 active personnel of which the Army had 100,000 members, whose major equipment included over 300 main battle
+tanks, 600 reconnaissance vehicles, over 250 armored infantry fighting vehicles, 170 armored personnel carriers and more than 1,396 artillery pieces. 
+
+The Navy had an estimated 2,400 personnel whose major naval units consisted of nine patrol/coastal vessels.
+
+The Air Force /Air Defense Forces had 6,000 personnel and 90 combat capable aircraft , including 22 fighters, 59 fighter ground attack aircraft and 16 attack helicopters. 
+
+The defense budget in 2005 totalled $1.16 billion.
+
+==Equipment==
+''Light equipment''
+*[[AK-74]] - used by commando battalion
+*[[Heckler &amp; Koch G3|G-3]]
+*[[RPK]] - Light Machine Gun
+*[[PK machine gun]]
+
+''Armour''
+*[[T-72]] - 50
+*[[T-62]] - 50
+*[[T-54]]/[[T-55]] - about 200
+*[[BRDM-2]] - 600
+*[[BMP-1]]/[[BMP-2]] - 250 (including 62 ex-[[Poland|Polish]] BMP-2)
+*[[BTR-152]]/[[BTR-60]]/[[BTR-80]] - 170
+
+''Field Artillery''
+*[[122 mm howitzer 2A18 (D-30)|D-30]] 122&amp;nbsp;mm - 500
+*[[130 mm towed field gun M1954 (M-46)|M-46]] 130&amp;nbsp;mm - 48
+*[[152 mm towed gun-howitzer M1955 (D-20)|D-20]] 152&amp;nbsp;mm - 4
+*[[2S1]] 122&amp;nbsp;mm SP - some
+*[[2S3 Akatsiya|2S3]] 152&amp;nbsp;mm SP - 4
+*[[BM-21]] 122&amp;nbsp;mm MRL - 50
+*[[RM-70 Multiple rocket launcher|RM-70]]  122&amp;nbsp;mm MRL - 40
+*82&amp;nbsp;mm Mortar - 250
+*120&amp;nbsp;mm Mortar - 500
+
+''Air Defense Artillery''
+*[[SA-3]] Goa/[[SA-9]] Gremlin/[[SA-16]] Gimlet/[[SA-7]] Grail AA SAMs - 500
+*[[ZPU-4]] 14.5&amp;nbsp;mm 
+*[[M1939|M-1939]] 37&amp;nbsp;mm SP AAA 
+*[[57 mm AZP S-60|S-60]] 57&amp;nbsp;mm SP AAA
+
+''ATGM''
+*[[AT-4 Spigot]] - 100
+
+{{Africa in topic|Military of}}
+{{Angola topics}}
+
+==External links==
+*[http://www.xairforces.net/airforces.asp?id=2 Angola Air Force (Forca Aerea Popular de Angola)]
+*[http://worldnavies.glt.pl/ World Navies]
+*{{CIA World Factbook}} 
+*{{StateDept}}
+
+[[Category:Military of Angola]]
+[[Category:Conscript militaries|Angola]]
+
+
+{{Angola-stub}}
+{{Africa-mil-stub}}
+
+[[bn:অ্যাঙ্গোলার সামরিক বাহিনী]]
+[[bg:Въоръжени сили на Ангола]]
+[[hu:Angola hadereje]]
+[[ja:アンゴラ共和国軍]]

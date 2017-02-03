@@ -1,0 +1,106 @@
+      '''Affirming the consequent''', sometimes called '''converse error''', is a [[formal fallacy]], committed by reasoning in the [[argument form|form]]:
+
+#If ''P'', then ''Q''.
+#''Q''.
+#Therefore, ''P''.
+
+Arguments of this form are [[validity|invalid]], in that the conclusion (3) does not have to follow even when statements 1 and 2 are true.  The simple reason for this is that '''P''' was never asserted as the '''only''' cause of '''Q''', so, in general, any number of other factors could have caused '''Q''' (while '''P''' was false).
+
+The name ''affirming the consequent'' derives from the premise ''Q'', which affirms [[consequent|the &quot;then&quot; clause]] of the [[indicative conditional|conditional]] premise.
+
+==Examples==
+One way to demonstrate the invalidity of this argument form is with a counterexample with true premises but an obviously false conclusion.  For example:
+
+:If [[Bill Gates]] owns [[Fort Knox]], then he is rich.
+:Bill Gates is rich.
+:Therefore, Bill Gates owns Fort Knox.
+
+Owning Fort Knox is not the '''only''' way to be rich.  There are any number of other ways to be rich.
+
+Arguments of the same form can sometimes seem superficially convincing, as in the following example:
+
+:If I have the [[flu]], then I have a [[sore throat]].
+:I have a sore throat.
+:Therefore, I have the flu.
+
+Having the flu is not the '''only''' cause of a sore throat since many illnesses cause sore throat, such as the [[common cold]] or [[strep throat]].
+
+The following is a more subtle version of the fallacy embedded into conversation.
+
+:A: All [[Republican Party (United States)|Republicans]] are [[pro-life]].
+:B: That's not true. My uncle's pro-life and he's not a Republican.
+
+B attempts to disprove A's [[modus ponens]] (&quot;if Republican then pro-life&quot;) by providing evidence he believes would contradict one of its implications.  However, B's example of his uncle does not contradict A's statement, which says nothing about non-Republicans.  What would be needed to disprove A's assertion are examples of Republicans who are not pro-life.
+
+==Cases where affirming the consequent is valid==
+===Tautologies===
+If claims ''P'' and ''Q'' express the same proposition, then the argument would be trivially valid, as it would [[begging the question|beg the question]]. 
+
+:If ''P'', then ''P''.
+:''P''.
+:Therefore, ''P''.
+
+This is also the case for definitions.  For example.
+
+:If ''a man is a bachelor'', then ''he's an unmarried male''
+:''A man is an unmarried male.''
+:Therefore, ''the man is a bachelor.''
+
+In everyday discourse, however, such cases are rare. The validity of such definitions is due to the fact that definitions can be expressed as an [[if and only if]] (see below).
+Clearly if the definition of &quot;bachelor&quot; is &quot;an unmarried male&quot;, then the propositional statement: &quot;A is a bachelor&quot; if and only if &quot;A is an unmarried male&quot;, must be true. 
+In normal speech it is awkward to use the phrase &quot;if and only if&quot;, so we substitute the valid but less complete &quot;if&quot;, giving the conventional form which is similar to the form of the formal fallacy.
+
+===[[If and only if]]===
+The reason the conclusion of an argument that affirms the consequent does not follow is the lack of a '''unique''' cause for '''Q'''.  However, if it is explicitly stated that the consequent could only have one cause (known as an &quot;[[if and only if]]&quot; statement or [[logical biconditional|biconditional]]), the argument becomes valid. For example: 
+
+:If he's not inside, then he's outside.
+:He's outside.
+:Therefore, he's not inside.
+
+The above argument may be valid, but only if the claim &quot;if he's outside, then he's not inside&quot; follows from the first premise.  More to the point, the validity of the argument stems not from affirming the consequent, but [[affirming the antecedent]].
+
+Such if and only if statements often make their way into detective mysteries.
+
+:The only way he could have gotten into the bedroom without leaving marks in the hall is the window.
+:No marks were found in the hall.
+:The cigar ends show he was in the room.
+:Therefore, he used the window.
+
+==Use of the fallacy in science==
+Although affirming the consequent is an invalid inference, it is defended by some as a type of [[inductive reasoning]], sometimes under the name &quot;[[Inference to the Best Explanation|inference to the best explanation]]&quot;.  That is, in some cases, reasoners argue that the antecedent is the best explanation, given the truth of the consequent.  For example, someone considering the results of a scientific experiment may reason in the following way:
+
+:Theory ''P'' predicts that we will observe ''Q''.
+:Experimental observation shows ''Q''.
+:Therefore theory ''P'' is true.
+
+However, such reasoning is still affirming the consequent and still logically weak.  (e.g., Let ''P'' = [[geocentrism]] and ''Q'' = sunrise and sunset.)  The strength of such reasoning as an inductive inference depends on the likelihood of [[Bayesian Inference|alternative hypotheses]], which shows that such reasoning is based on additional premises, not merely on affirming the consequent.
+
+== References ==
+&lt;references /&gt;
+*[http://www.fallacyfiles.org/afthecon.html Affirming the Consequent] in ''The Fallacy Files''
+
+==See also==
+*[[Modus ponens]]
+*[[Modus tollens]]
+*[[Post hoc ergo propter hoc]]
+*[[Denying the antecedent]]
+*[[Fallacy of the undistributed middle]]
+*[[Inference to the best explanation]]
+*[[ELIZA effect]]
+
+{{Formal Fallacy}}
+
+[[Category:Logic]]
+[[Category:Propositional fallacies]]
+
+{{logic-stub|date=November 2008}}
+
+[[ca:Afirmació del conseqüent]]
+[[el:Επιβεβαίωση του επομένου]]
+[[es:Afirmación del consecuente]]
+[[fr:Affirmation du conséquent]]
+[[is:Játun bakliðar]]
+[[it:Affermazione del conseguente]]
+[[he:אישור הסוגר]]
+[[ja:後件肯定]]
+[[tl:Pinapatibayan ang kasunod]]

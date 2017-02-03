@@ -1,0 +1,75 @@
+      {{Unreferenced|date=June 2007}}
+
+[[Image:Galileo.arp.300pix.jpg|right|thumb|180px|[[Galileo]] is often referred to as the Father of Modern Astronomy.]]
+An '''astronomer''' is a [[scientist]] who studies [[Celestial body|celestial bodies]] such as [[planet]]s, [[star]]s, and [[Galaxy|galaxies]].
+
+Historically, [[astronomy]] was more concerned with the classification and description of [[phenomena]] in the sky, while [[astrophysics]] attempted to explain these phenomena and the differences between them using physical laws. Today, that distinction has mostly disappeared. Professional astronomers are highly educated individuals who typically have a [[PhD]] in [[physics]] or astronomy and are employed by research institutions or [[University|universities]].&lt;ref&gt;{{Cite web |url=http://www.noao.edu/education/astfaq.html |title=Frequently Asked Questions About Becoming an Astronomer |accessdate=29 March 2009 |work= |publisher=NOAO}}&lt;/ref&gt; They spend the majority of their time working on research, although they quite often have other duties such as teaching, building instruments, or aiding in the operation of an observatory. The number of professional astronomers in the [[United States]] is actually quite small. The [[American Astronomical Society]], which is the major organization of professional astronomers in [[North America]], has approximately 7,000 members. This number includes scientists from other fields such as physics, [[geology]], and [[engineering]], whose research interests are closely related to astronomy.&lt;ref&gt;{{Cite web |url=http://aas.org/ |title=American Astronomical Society Home |accessdate=29 March 2009 |work= |publisher=AAS}}&lt;/ref&gt; The [[International Astronomical Union]] comprises almost 9,500 members from 87 different countries who are involved in astronomical research at the PhD level and beyond.&lt;ref&gt;{{Cite web |url=http://www.iau.org/about/ |title=About IAU |accessdate=29 March 2009 |work= |publisher=IAU}}&lt;/ref&gt;
+
+While the number of professional astronomers worldwide is not much larger than the population of a small [[town]], there is a huge community of [[amateur]] astronomers. Most cities have [[amateur astronomy]] clubs that meet on a regular basis and often host star parties in their communities. The [[Astronomical Society of the Pacific]] is the largest general astronomical society in the world, comprising both professional and amateur astronomers as well as educators from 70 different nations.&lt;ref&gt;{{Cite web |url=http://www.astrosociety.org/about.html |title=About Us |accessdate=29 March 2009 |work= |publisher=Astronomical Society of the Pacific}}&lt;/ref&gt; Like any [[hobby]], most people who think of themselves as amateur astronomers may devote a few hours a month to [[stargazing]] and reading the latest developments in research. However, amateurs span the range from so-called &quot;armchair astronomers&quot; to the very ambitious, who own science-grade [[telescope]]s and instruments with which they are able to make their own discoveries and assist professional astronomers in research.
+
+==Modern astronomers==
+Contrary to the classical image of an old astronomer peering through a telescope through the dark hours of the night, it is very rare for a modern professional astronomer to use an eyepiece on a larger [[telescope]]. It is far more common to use a [[charge-coupled device]] camera to record a long, deep exposure, allowing a more sensitive image to be created because the [[light]] is added over time. Before CCDs, photographic plates were a common method of observation. Modern astronomers spend relatively little time at telescopes - most spend a few weeks per year observing, and the rest of their time reducing the data (changing it from raw data to processed images) and analyzing it. Many astronomers work entirely from [[Astronomical surveys|astronomical survey]] or [[space observatory]] data. Others work with [[radio telescopes]] like the [[Very Large Array]], which is entirely automated, although it is maintained by telescope operators.
+
+Astronomers who serve as faculty spend much of their time teaching undergraduate and graduate classes. Most universities also have outreach programs including public telescope time and sometime [[planetarium]]s as a public service and to encourage interest in the field.
+
+== See also ==
+{{portal|Astronomy|Crab Nebula.jpg}}
+*[[List of astronomers]]
+*[[List of Muslim astronomers]]
+*[[Cosmologists]]
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://www.sabalansky-english.blogfa.com '''ANASA''']
+* [http://www.aas.org American Astronomical Society]
+* [http://www.iau.org International Astronomical Union]
+* [http://www.astrosociety.org Astronomical Society of the Pacific]
+
+[[Category:Astronomy|*Astronomer]]
+[[Category:Astronomers| ]]
+
+[[als:Astronom]]
+[[ast:Astrónomu]]
+[[bn:জ্যোতির্বিজ্ঞানী]]
+[[bg:Астроном]]
+[[da:Astronom]]
+[[de:Astronom]]
+[[es:Astrónomo]]
+[[eo:Astronomo]]
+[[fr:Astronome]]
+[[fy:Astronoom]]
+[[ga:Réalteolaí]]
+[[gl:Astrónomo]]
+[[ko:천문학자]]
+[[hr:Astronom]]
+[[id:Astronom]]
+[[it:Astronomo]]
+[[he:אסטרונום]]
+[[la:Astronomus]]
+[[lb:Astronom]]
+[[lt:Astronomas]]
+[[hu:Csillagászok listája]]
+[[mk:Астроном]]
+[[nl:Astronoom]]
+[[ja:天文学者]]
+[[no:Astronom]]
+[[nn:Astronom]]
+[[nds:Astronom]]
+[[uz:Astronom]]
+[[pl:Astronom]]
+[[ro:Astronom]]
+[[ru:Астроном]]
+[[scn:Astrònimu]]
+[[si:තාරකා විද්‍යාඥයා]]
+[[simple:Astronomer]]
+[[sk:Astronóm]]
+[[sl:Astronom]]
+[[sr:Астроном]]
+[[fi:Tähtitieteilijä]]
+[[th:นักดาราศาสตร์]]
+[[tr:Gökbilimci]]
+[[uk:Астроном]]
+[[zh-yue:天文學家]]
+[[zh:天文学家]]
